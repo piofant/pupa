@@ -10,7 +10,7 @@
 <meta name="referrer" content="no-referrer">
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
-:root{--fg:#1d1d1f;--muted:#6e6e73;--line:#e8e6e1;--soft:#f5f4f1;--accent:#e8702a;--accent-soft:#fdf0e6;--accent-dark:#b9541a;--lime:#e4ebcf;--lime-soft:#f7f8f1;--lime-ink:#4b5a22;--cyan:#e8702a;--cyan-soft:#f5f4f1;--we:#fbf8f3;--ok:#1d7f55;--ok-soft:#e5f3ec;--err:#b3261e}
+:root{--fg:#1d1d1f;--muted:#6e6e73;--line:#e8e6e1;--soft:#f5f4f1;--accent:#e8702a;--accent-soft:#fdf0e6;--accent-dark:#b9541a;--lime:#c5f02a;--lime-soft:#f6fbe2;--lime-ink:#2f3d00;--cyan:#e8702a;--cyan-soft:#f5f4f1;--we:#fbf8f3;--ok:#1d7f55;--ok-soft:#e5f3ec;--err:#b3261e}
 *{box-sizing:border-box}
 html,body{margin:0;background:#fff;color:var(--fg);color-scheme:light}
 body{font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent}
@@ -105,14 +105,14 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .about-head h2{margin:0}
 .btn.tg{margin:18px 0 6px;min-height:46px;padding:0 20px;font-size:15px}
 .foot .tglink{display:inline-block;margin-bottom:6px;font-weight:600;text-decoration:none}
-.sum{border-radius:14px;padding:12px 14px;margin:10px 0 4px;background:#fdf7ef;box-shadow:inset 0 0 0 1px #f2e2cc}
+.sum{border-radius:14px;padding:12px 14px;margin:10px 0 4px;background:var(--lime-soft);box-shadow:inset 0 0 0 1.5px #dcef9a}
 .sum h2{margin:0 0 8px;font-size:15px}
 .tiles{display:flex;flex-wrap:wrap;gap:6px}
 .tile{background:#fff;border:0;border-radius:10px;padding:4px 10px;min-height:34px;font-size:13px;color:var(--muted);cursor:pointer}
 .tile b{font-size:17px;color:var(--fg);margin-right:3px}
-.tile:hover{box-shadow:inset 0 0 0 1.5px #f1b38a}
-.tile.on{background:var(--accent);color:#fff}
-.tile.on b{color:#fff}
+.tile:hover{box-shadow:inset 0 0 0 1.5px var(--lime)}
+.tile.on{background:var(--lime);color:var(--lime-ink)}
+.tile.on b{color:var(--lime-ink)}
 .catbar{display:flex;align-items:center;gap:8px;margin:12px 0 4px;font-weight:600;scroll-margin-top:110px}
 .catbar button{margin-left:auto}
 .rec{margin-top:10px;font-size:15px;line-height:1.45}
