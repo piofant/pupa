@@ -187,7 +187,12 @@ const catId = s => typeof s === 'string' && /^[a-z0-9_-]{1,32}$/.test(s);
 S.interests = new Set();
 if (PUPA) {
   const hi = HASH.get('i');
-  if (hi != null) { S.interests = new Set(hi.split(',').map(s => s.trim()).filter(catId)); saveInterests(); }
+  if (hi != null) {
+    // 18+ из ссылки — только если на этом устройстве уже подтверждали возраст (ссылку могли переслать)
+    let adultOk = false; try { adultOk = localStorage.getItem('pupa_adult_ok') === '1'; } catch (_) {}
+    S.interests = new Set(hi.split(',').map(s => s.trim()).filter(catId).filter(c => adultOk || c !== 'tantra'));
+    saveInterests();
+  }
   else try { const a = JSON.parse(localStorage.getItem('pupa_interests') || '[]'); if (Array.isArray(a)) S.interests = new Set(a.filter(catId)); } catch (_) {}
   const hc = HASH.get('c');
   if (hc && catId(hc)) { S.city = hc; try { sessionStorage.setItem('pupa_city', hc); } catch (_) {} }
@@ -200,7 +205,7 @@ function isAdultCat(id) {
 // событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё, кроме 18+); 18+ — только если выбрано явно
 function interestOk(e) {
   const cats = Array.isArray(e.cats) ? e.cats : [];
-  if (!cats.length) return true;  // старые данные без категорий
+  if (!cats.length) return false;  // без категорий не знаем, не 18+ ли это, — не показываем
   if (cats.some(c => isAdultCat(c) && !S.interests.has(c))) return false;
   return !S.interests.size || cats.some(c => S.interests.has(c));
 }
@@ -616,7 +621,8 @@ function toggleInterest(c) {
     if (on) S.interests.delete(c.id); else S.interests.add(c.id);
     saveInterests(); setData(S.raw); render('int:' + c.id);
   };
-  if (!on && isAdultCat(c.id)) askConfirm('Это события 18+. Тебе есть 18?', apply); else apply();
+  const adultYes = () => { try { localStorage.setItem('pupa_adult_ok', '1'); } catch (_) {} apply(); };
+  if (!on && isAdultCat(c.id)) askConfirm('Это события 18+. Тебе есть 18?', adultYes); else apply();
 }
 function interestBar() {
   return [h('div', { class: 'ints', role: 'group', 'aria-label': 'Интересы' }, S.data.cats.map(c => {
