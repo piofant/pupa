@@ -387,7 +387,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "40c225b2dda7"
+      "40c225b2dda7",
+      "828785065d2f"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -433,54 +434,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "30e609049ac4"
-     ],
-     "found": "2026-11-15T23:23:11+03:00"
-    },
-    {
-     "key": "da84a06d3efa",
-     "title": "Анти-кафе Playground с практикумом Шибари+",
-     "date": "2026-11-19",
-     "time": "20:00",
-     "place": "лофт в центре Питера",
-     "price": "М 1200 ₽, Ж 800 ₽",
-     "link": "https://t.me/playground_spb/4377",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body",
-      "craft"
-     ],
-     "adult": true,
-     "image": "https://cdn4.telesco.pe/file/EXBBrvGVBVhGbEJMI-Pd5mUPbSaJJij_Mf2vDq3CC0RisfjwNAhMYGdclBk4U74n00DZvqQD1uyOYYgrNcSQl2736MIZOWa55Jg9vKxo-lFnsF3792q9M_edA68IoTVNfRHtcrjpyVM0hLxKpRdFLuGvRlJkdWr2tepyHs0H63dz8KxrHPstyr_S6kzdJRabMpUTIGlJdTaSmrHdPtdBBu7g3EvYgRppMjqIRj23cWYUMNK0FJMBolXxNvmOI3e3kS-JKa0SjZymyVEMVR4vUHRlNg4B2ePek-CSWIKR1qVW-jfaseeRN72IM7k4fFKjaCU0SuoeFdaTs7Jy6wM3lQ.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "30e609049ac4",
       "da84a06d3efa"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "828785065d2f",
-     "title": "Вечер хвастовства в SensCafe",
-     "date": "2026-11-19",
-     "time": null,
-     "place": "SensCafe",
-     "price": "по тарифу тайм-кафе + донат",
-     "link": "https://t.me/sensualcafe/8762",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "circles"
-     ],
-     "adult": false,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "828785065d2f"
-     ],
-     "found": "2026-11-15T23:23:11+03:00"
     },
     {
      "key": "c03da9d5a4cb",
@@ -525,8 +482,8 @@
      "hot_reason": "",
      "keys": [
       "7cd6d4bf3206",
-      "3678d4bc3c1e",
-      "7156b53f2d97"
+      "7156b53f2d97",
+      "3678d4bc3c1e"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -554,28 +511,6 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
-     "key": "1f0e6cfa7a8a",
-     "title": "Ловцы снов в Каледонском Лесу",
-     "date": "2026-11-20",
-     "time": "19:00",
-     "place": "Каледонский Лес, пер. Гривцова, 22",
-     "price": "донейшн от 400 ₽",
-     "link": "https://t.me/kl_les/5423",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "craft"
-     ],
-     "adult": false,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "1f0e6cfa7a8a"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
      "key": "19f02bdf16f1",
      "title": "Мастер-класс по ловцам снов в Каледонском Лесу",
      "date": "2026-11-20",
@@ -593,9 +528,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "19f02bdf16f1"
+      "19f02bdf16f1",
+      "1f0e6cfa7a8a"
      ],
-     "found": "2026-11-15T23:23:11+03:00"
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "93d4097d1281",
@@ -615,7 +551,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "93d4097d1281"
+      "93d4097d1281",
+      "2af7473294ea"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -642,28 +579,6 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
-     "key": "53069d9b8619",
-     "title": "Большая тактильная вечеринка: скандинавская мифология",
-     "date": "2026-11-20",
-     "time": "23:30",
-     "place": "Петербург",
-     "price": "соло 4500 ₽, пара 8000 ₽ (после 13.11 дороже)",
-     "link": "https://t.me/vladoni_massage/458",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "image": "https://cdn4.telesco.pe/file/QaIJ4dohP5uDHmsiNnHMZYgGbI6FJAtCxCjqn6jboTI22HMZCXXKX9XHL_3Zog6HC6C6tIiOoCJ2nVEPxXShc99TzbWm4jVtRDXirskuM3Tyg30ARQtK2LMPv6NGBeyuDdu9E9rTTok6b2w2NRhfoJ4YX0Px5yW1arYyxBL2A8D4Ndxaa51Q3Pfc_o5Q2iW6mQ-4s3i31sLAu0OsO4zCJ2aDLcDd7HTMbEIiAxxVMtKs4jzb6OnewTT0LfN28j0JgWOjXDRj4YwA-Px1C7gxm3rzRpUMZoSSFb6KDkA0g2HzNXZSQQaHwQGDh8un25AkrA7QnE35X0yAYP8KOGaQ0w.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "53069d9b8619"
-     ],
-     "found": "2026-11-15T23:23:11+03:00"
-    },
-    {
      "key": "62e4d50ae452",
      "title": "Рагнарёк: тактильная вечеринка",
      "date": "2026-11-20",
@@ -681,7 +596,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "62e4d50ae452"
+      "62e4d50ae452",
+      "53069d9b8619"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -728,26 +644,6 @@
       "2020bc275de8"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "2af7473294ea",
-     "title": "Экстатик-дэнс в Доме Сердца",
-     "date": "2026-11-20",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/manery_heart/2645",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [],
-     "adult": false,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "2af7473294ea"
-     ],
-     "found": null
     },
     {
      "key": "ceaf84b78260",
@@ -816,28 +712,6 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "45222010fcb6",
-     "title": "Вечер набросков в Каледонском Лесу",
-     "date": "2026-11-21",
-     "time": "19:00",
-     "place": "Каледонский Лес, пер. Гривцова, 22",
-     "price": "вход и донейшн свободные",
-     "link": "https://t.me/kl_les/5423",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "craft"
-     ],
-     "adult": false,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "45222010fcb6"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
      "key": "9ab0d1435ea7",
      "title": "Классические наброски в Каледонском Лесу",
      "date": "2026-11-21",
@@ -855,9 +729,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "9ab0d1435ea7"
+      "9ab0d1435ea7",
+      "45222010fcb6"
      ],
-     "found": "2026-11-15T23:23:11+03:00"
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "5860556f1f0a",
@@ -1104,32 +979,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "d8e14492b017"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "4c6466604b6b",
-     "title": "Ecstatic Dance в Livebody (DJ Понкратов и Амиров)",
-     "date": "2026-11-22",
-     "time": null,
-     "place": "Livebody, СПб",
-     "price": null,
-     "link": "https://t.me/ecstaticdancespb/2355",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "music"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/tZKqqj7xcCgqKfBvGZgfP9EiDbnnytJifoPIZTiKUg-Zfeh8RsqGeTkZuhCIgmILyCrm-TREEDTYibG5Ak7O-jgFGD4sMOO05nUfPc4_Aycc5CHlmvPnsQYyn2EJCwYfAk8wygXw3piMeGzjgjSOgylfO-UN24N4XmO7lkyAMWWFfoRrgEHTDYaClHtWuuFH8jI_W4Lp6Uo3Rp7ssP03Rs8bqijhuYlNnnWbrKCRUYk60REKgIL_39pHdxnu92PrExRbhsAiNt9wkfVmHZUivqU44bpZf4lR1C_L8B_nwzOeWGvsegltSstFtEJM1WulnFUa7YGvnh-mK3-xEONsEA.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "d8e14492b017",
       "4c6466604b6b"
      ],
-     "found": "2026-11-15T20:30:01+03:00"
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "59233e1d0007",
@@ -1783,29 +1636,7 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "72c4faf34f2a"
-     ],
-     "found": "2026-11-15T20:30:01+03:00"
-    },
-    {
-     "key": "b6ed071eabc3",
-     "title": "Школа КИ и перформанса: третий интенсив",
-     "date": "2026-12-12",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/cischoolspb/47",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "theatre"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/cBCYN1MsuI6jUO8gfg8clmVapc2b1SgZWRkSkpXwj5twudj2m2FGGZt2znca3u41HPVeGyuO5-DzlOICFIU4U6tBMvmbwlfEOQCe_KcvO5XV7LilV781wznf_FW5LiPWkepcmgZYfHpZN1J0QE8133aIHBQge4zZ5w_Evp0KNeWJBFypol3dddxoqe3j5C_ZFXL2L-uEUy6TWz3UsR7bhWd90_U3AX_PXcH7l_Zw7sCdcZMBMwc8R1l2lpnfNmp3PLQCkhqsE8pu8mNpLNiHCrBKotQy3u3j6mCMALZGURLdV414B1NgpzH4OOlTNWIVKPj5uDmfstrGUOF2NE7wWQ.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "72c4faf34f2a",
       "b6ed071eabc3"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -1840,7 +1671,7 @@
      "username": "sensualcafe",
      "kind": "folder",
      "last_post": "2026-11-15T23:00:42+03:00",
-     "events": 13
+     "events": 12
     },
     {
      "title": "Таймпад",
@@ -1868,14 +1699,7 @@
      "username": "ecstaticdancespb",
      "kind": "extra",
      "last_post": "2026-11-15T13:18:26+03:00",
-     "events": 4
-    },
-    {
-     "title": "Каледонский Лес",
-     "username": "kl_les",
-     "kind": "folder",
-     "last_post": "2026-11-15T22:31:27+03:00",
-     "events": 4
+     "events": 3
     },
     {
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
@@ -1899,13 +1723,6 @@
      "events": 3
     },
     {
-     "title": "Дом Сердца",
-     "username": "manery_heart",
-     "kind": "folder",
-     "last_post": null,
-     "events": 3
-    },
-    {
      "title": "МЕТАТЕАТР",
      "username": "metatheatre",
      "kind": "extra",
@@ -1920,17 +1737,17 @@
      "events": 3
     },
     {
-     "title": "Playground.SPb 18+",
-     "username": "playground_spb",
+     "title": "Дом Сердца",
+     "username": "manery_heart",
      "kind": "folder",
-     "last_post": "2026-11-15T21:00:53+03:00",
+     "last_post": null,
      "events": 2
     },
     {
-     "title": "Школа КИ и Перфоманса СПБ",
-     "username": "cischoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-15T20:38:01+03:00",
+     "title": "Каледонский Лес",
+     "username": "kl_les",
+     "kind": "folder",
+     "last_post": "2026-11-15T22:31:27+03:00",
      "events": 2
     },
     {
@@ -1938,6 +1755,13 @@
      "username": "play_events",
      "kind": "folder",
      "last_post": null,
+     "events": 1
+    },
+    {
+     "title": "Playground.SPb 18+",
+     "username": "playground_spb",
+     "kind": "folder",
+     "last_post": "2026-11-15T21:00:53+03:00",
      "events": 1
     },
     {
@@ -1990,17 +1814,17 @@
      "events": 1
     },
     {
-     "title": "Хочу к тебе, Vlad Oni",
-     "username": "vladoni_massage",
-     "kind": "folder",
-     "last_post": "2026-11-15T21:03:06+03:00",
-     "events": 1
-    },
-    {
      "title": "Чаща Попроще",
      "username": "chapopro",
      "kind": "folder",
      "last_post": null,
+     "events": 1
+    },
+    {
+     "title": "Школа КИ и Перфоманса СПБ",
+     "username": "cischoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-15T20:38:01+03:00",
      "events": 1
     },
     {
@@ -2130,6 +1954,13 @@
      "events": 0
     },
     {
+     "title": "Хочу к тебе, Vlad Oni",
+     "username": "vladoni_massage",
+     "kind": "folder",
+     "last_post": "2026-11-15T21:03:06+03:00",
+     "events": 0
+    },
+    {
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
@@ -2156,28 +1987,6 @@
    "name": "Москва",
    "events": [
     {
-     "key": "0f752abadc35",
-     "title": "Большой класс КИ, Йогаплатформа",
-     "date": "2026-11-16",
-     "time": "19:00",
-     "place": "Йогаплатформа, Спартаковский пер., 2",
-     "price": "1900 ₽",
-     "link": "https://t.me/cimsk/7300",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/He2lMPSbZOveYZsHXfzztkcO-imsG4YtT70QIAEZTKlF7v-sfQ1KyIMzV9Fy8jEG9ggWLsDZdb6R9m_Q8fAlGDBzqm6ausoSgpgbKqXM9u3DW43n93FXhiF3GyfzR4DgTInM1RplPo9l7H3fhmsWSpAwvygBClHzKdeMIQTXlmiY138X4MeMT-iDoNeSrzZcP6DGB0Els6ZIx7paPQxkktDo2K2JSOOXXqKn-x-p2qum7sNAcyozUle3BWfgFms60yicCQqvj_81t-PfWQyrq5U0xW9z-SzogggrgH2hqvXOw1cCzK7GPB8runtQeFEZ_u_4PoyxpraQ400U4S7kXw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "0f752abadc35"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
      "key": "feb9541e63b8",
      "title": "КИ: большой класс Юры Львова",
      "date": "2026-11-16",
@@ -2195,9 +2004,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "feb9541e63b8"
+      "feb9541e63b8",
+      "0f752abadc35"
      ],
-     "found": "2026-11-15T23:28:44+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "ca529e22da4a",
@@ -2255,36 +2065,15 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "circles"
+      "circles",
+      "body"
      ],
      "adult": false,
      "image": "https://cdn4.telesco.pe/file/HNEOMCE_bE79CJypTEGIHZCTGD8m7EplJI47d4tCmIYcmkM-HU5t5xQFSQfuu-CqvVpAFnWxVN7eFGcrbEkI-bBbfa22waEtX0ux1g-xOnr8hpXZVztvpdtOFk41Hfv3goBfxuWE1BdXvkLxf77P5o26c7UBLUBDvRE6sQyIl6ib1b5U0zkH3QqhJ6a_d19utP8rcV2zS_rPmYBSCauhdgQ4Op5eX_JZ4aBM-xI0_8zcBYvQLG-wKgTvOCOwbphrW0P9plqyBmaFZ1RsOCBppnaCGijtAGSGlpNDlJC6hv6SEUb5apKaVQxi9xLSXUYjvOnZg49vDGi7hI-DmQCK2g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "da9fd3cab79c"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
-    },
-    {
-     "key": "8fdfe522c7f7",
-     "title": "КИ + психология: класс с Дмитрием Усовым",
-     "date": "2026-11-17",
-     "time": "19:00",
-     "place": "Альфа Зет, м. Достоевская",
-     "price": "2100 ₽",
-     "link": "https://t.me/cimsk/7327",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/aNZ1Zj_621rYyg76iqnkAR_HUSabm6pvmCBFZZEXJoIVq1an78HJ2dKk5h3geQvLrRkV0gB7-z6LkLpoodzagg9imYyXSOcmV4tjnFAFDyQXDFmQQNNIZPouv9b7bxds75rasJ86vxnHapMfGD4KSKacANE8vH4Pi6uawEtwMxDr5xKcZlWLNs3BNwI4lqyTHwGGP-72MBLJElrcvuRQwwa9mhk5Gl02F45dkC4vzV1HKFcjFTz4q-9ogRCh4V66tC-Mk27LjxQ45O4iXMPXfKnDDjgJ36DLtcDXPXEb7dSbDtOcEGZSFw6nH6Lm1tyTmB-A1CNXPEtyxQXuSFlbkw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "da9fd3cab79c",
       "8fdfe522c7f7"
      ],
      "found": "2026-11-15T23:19:36+03:00"
@@ -2514,28 +2303,6 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
-     "key": "cfa498a77009",
-     "title": "КИ для начинающих: «Отпуская голову в танце»",
-     "date": "2026-11-19",
-     "time": "19:00",
-     "place": "центр Хронос, м. Павелецкая",
-     "price": null,
-     "link": "https://t.me/cimsk/7390",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "cfa498a77009"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
-    },
-    {
      "key": "c9feccf65264",
      "title": "Класс КИ для начинающих (Хронос)",
      "date": "2026-11-19",
@@ -2553,7 +2320,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "c9feccf65264"
+      "c9feccf65264",
+      "cfa498a77009"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -2713,13 +2481,13 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
-     "key": "8bd44b04e3c7",
-     "title": "Трогательный Практикум на Бауманской",
+     "key": "ffc0d83b3aa7",
+     "title": "Трогательный практикум (LeMoor)",
      "date": "2026-11-20",
      "time": "19:30",
      "place": "м. Бауманская",
-     "price": "2500 ₽",
-     "link": "https://t.me/lemoorcloob/974",
+     "price": "2500 ₽ (пара 4000 ₽)",
+     "link": "https://t.me/lemoorcloob/984",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -2731,31 +2499,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "ffc0d83b3aa7",
       "8bd44b04e3c7"
      ],
      "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "ffc0d83b3aa7",
-     "title": "Трогательный практикум (LeMoor)",
-     "date": "2026-11-20",
-     "time": "19:30",
-     "place": "м. Бауманская",
-     "price": "2500 ₽ (пара 4000 ₽)",
-     "link": "https://t.me/lemoorcloob/984",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": false,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "ffc0d83b3aa7"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
     },
     {
      "key": "04e59ccb35b8",
@@ -2956,7 +2703,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "8e9ef88e8f52"
+      "8e9ef88e8f52",
+      "5606c47d8177"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -2979,28 +2727,6 @@
      "hot_reason": "",
      "keys": [
       "ed4feb092f25"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "5606c47d8177",
-     "title": "Телесный тренинг про агрессию (Obni(me))",
-     "date": "2026-11-22",
-     "time": "14:00",
-     "place": "Obni(me) Москва",
-     "price": "2000 ₽",
-     "link": "https://t.me/cuddle_moscow/4900",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/Jz-zhnrm7bTTJHEUanIu8Aoe3yOx0PkKmHYelIPHH6K_ssAVPgxdzYyhmGS7nRN0A7aoMgx26pbWKSGbAilB_f1Z65Wsf-JUhVcXG_nGpMR9egEElbYZIyYs5mkmhky5fBW0YKaZkpQQUG2o5yQ8g_CvSpfGGh7vHFEDdxRQNCwqaHGmTLv6MwWHCR9NECdH9jS8yHtd9DKjRSnVJ1aD2_spO9rRCcCtZmXpv3tWzvvKBLOAGRHd9k6ZpBsIR-qYdv0DVGe--LPK_JaZZ-ZI4xy0JjwJLmM5V9zz8Lg5JKU7kX2Y9ZqT5xQEiljxM6n9EbvETPdbr2yE8StKQcqE8g",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "5606c47d8177"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -3139,28 +2865,6 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
-     "key": "76a9d2f27086",
-     "title": "Большой класс КИ, Йогаплатформа",
-     "date": "2026-11-23",
-     "time": "19:00",
-     "place": "Йогаплатформа, Спартаковский пер., 2",
-     "price": "1900 ₽",
-     "link": "https://t.me/cimsk/7300",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/He2lMPSbZOveYZsHXfzztkcO-imsG4YtT70QIAEZTKlF7v-sfQ1KyIMzV9Fy8jEG9ggWLsDZdb6R9m_Q8fAlGDBzqm6ausoSgpgbKqXM9u3DW43n93FXhiF3GyfzR4DgTInM1RplPo9l7H3fhmsWSpAwvygBClHzKdeMIQTXlmiY138X4MeMT-iDoNeSrzZcP6DGB0Els6ZIx7paPQxkktDo2K2JSOOXXqKn-x-p2qum7sNAcyozUle3BWfgFms60yicCQqvj_81t-PfWQyrq5U0xW9z-SzogggrgH2hqvXOw1cCzK7GPB8runtQeFEZ_u_4PoyxpraQ400U4S7kXw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "76a9d2f27086"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
      "key": "9c0c83c1a7c1",
      "title": "КИ: большой класс Юры Львова",
      "date": "2026-11-23",
@@ -3178,9 +2882,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "9c0c83c1a7c1"
+      "9c0c83c1a7c1",
+      "76a9d2f27086"
      ],
-     "found": "2026-11-15T23:28:44+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "e32b119ad542",
@@ -3216,36 +2921,15 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "circles"
+      "circles",
+      "body"
      ],
      "adult": false,
      "image": "https://cdn4.telesco.pe/file/HNEOMCE_bE79CJypTEGIHZCTGD8m7EplJI47d4tCmIYcmkM-HU5t5xQFSQfuu-CqvVpAFnWxVN7eFGcrbEkI-bBbfa22waEtX0ux1g-xOnr8hpXZVztvpdtOFk41Hfv3goBfxuWE1BdXvkLxf77P5o26c7UBLUBDvRE6sQyIl6ib1b5U0zkH3QqhJ6a_d19utP8rcV2zS_rPmYBSCauhdgQ4Op5eX_JZ4aBM-xI0_8zcBYvQLG-wKgTvOCOwbphrW0P9plqyBmaFZ1RsOCBppnaCGijtAGSGlpNDlJC6hv6SEUb5apKaVQxi9xLSXUYjvOnZg49vDGi7hI-DmQCK2g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "cb3ceb389f0a"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
-    },
-    {
-     "key": "b58032630602",
-     "title": "КИ + психология: класс с Дмитрием Усовым",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Альфа Зет, м. Достоевская",
-     "price": "2100 ₽",
-     "link": "https://t.me/cimsk/7327",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/aNZ1Zj_621rYyg76iqnkAR_HUSabm6pvmCBFZZEXJoIVq1an78HJ2dKk5h3geQvLrRkV0gB7-z6LkLpoodzagg9imYyXSOcmV4tjnFAFDyQXDFmQQNNIZPouv9b7bxds75rasJ86vxnHapMfGD4KSKacANE8vH4Pi6uawEtwMxDr5xKcZlWLNs3BNwI4lqyTHwGGP-72MBLJElrcvuRQwwa9mhk5Gl02F45dkC4vzV1HKFcjFTz4q-9ogRCh4V66tC-Mk27LjxQ45O4iXMPXfKnDDjgJ36DLtcDXPXEb7dSbDtOcEGZSFw6nH6Lm1tyTmB-A1CNXPEtyxQXuSFlbkw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "cb3ceb389f0a",
       "b58032630602"
      ],
      "found": "2026-11-15T23:19:36+03:00"
@@ -3432,31 +3116,8 @@
      "date": "2026-11-26",
      "time": "19:30",
      "place": "Пространство Нора",
-     "price": null,
-     "link": "https://t.me/LoftNora/1557",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "craft",
-      "calm"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/sNkAIH5PSgoZEbTuqRMayarh1NogUl5lvRh5_Oi4MmEL888xBfkOk8r2DCUeBCQabVWVypMd6cXZ71c5Yt6pSDh5FXjj_MMsWPSM2g4WuAS1lGUqBCeNm6hbHHo5cCZEqpwBCmxDIVBpTNB1lcsN6-R5pjPR8TKvhg9DH53MDhP6TRRMvXhe95GA_Q6bEmTWnjL1-_sa-qod5Uaq7ga2wJF-xRGdvcb74ptXMjpC_c8NL-NSnZ1WKlxYiox0jc0mJarmW2IAmw-YVQuyG01CiSfmIxj8CvWoknxx1JPnezVvQgP0Sw89-A8c4R63LSLlzH19mc94gV26URtZcMWITw",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "114dee62a828"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
-    },
-    {
-     "key": "04dd60dd2161",
-     "title": "Продлёнка: игры, сказки и какао под пледом",
-     "date": "2026-11-26",
-     "time": "19:30",
-     "place": "Нора",
      "price": "2300 ₽",
-     "link": "https://t.me/LoftNora/1487",
+     "link": "https://t.me/LoftNora/1557",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -3465,10 +3126,11 @@
       "body"
      ],
      "adult": false,
-     "image": "https://cdn4.telesco.pe/file/V6xLmXj9ynFMHFb3DkAZfVI32PB3sBT4qsq1pc3F22WlxRgFJhLHJsTQHQnBIk7otbGjphgFCnZtZI_JCvNLUw1d9dax_CqF_390qeOl4DqcD1MD1P--yDWToJV5Ej-20AMFu7ultZfVayXBQwADzpZ43SdtMxrZBE7gJVSF6lY71fVbJ5m5ZCFe620NIKdjC9Dl8w_CeT25d_W1grLP1lwzP93dhtIWoV-i-tkwWh4FrNhrKX6CYko5w-KxWg7tJGd8yjQnxPU2gGCTdL8jCHGDlaYkQ1wEcLeU-5kyuWtCFsDIITAN0uqAyOk0yzlexwYh0hJZAgDyIpLN3FtwKQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/sNkAIH5PSgoZEbTuqRMayarh1NogUl5lvRh5_Oi4MmEL888xBfkOk8r2DCUeBCQabVWVypMd6cXZ71c5Yt6pSDh5FXjj_MMsWPSM2g4WuAS1lGUqBCeNm6hbHHo5cCZEqpwBCmxDIVBpTNB1lcsN6-R5pjPR8TKvhg9DH53MDhP6TRRMvXhe95GA_Q6bEmTWnjL1-_sa-qod5Uaq7ga2wJF-xRGdvcb74ptXMjpC_c8NL-NSnZ1WKlxYiox0jc0mJarmW2IAmw-YVQuyG01CiSfmIxj8CvWoknxx1JPnezVvQgP0Sw89-A8c4R63LSLlzH19mc94gV26URtZcMWITw",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "114dee62a828",
       "04dd60dd2161"
      ],
      "found": "2026-11-15T23:19:36+03:00"
@@ -3602,31 +3264,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "54f0357fa796"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "824edaacda67",
-     "title": "Общий каддл Sense Cuddle",
-     "date": "2026-11-28",
-     "time": "18:30",
-     "place": "Sense Cuddle, Москва",
-     "price": "2000 ₽ (два билета 3500 ₽)",
-     "link": "https://t.me/sensecuddle/1733",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/ONnFVLlL-Jnaf29D95H7LdXgvNBKiJ6q2QKsDbkHFrdnXa1c9n6e0-gs9--OCe3ScanXk-s0KDRrbLB6yKcIQg6x0NCGFq8jTV24UOVT2kFtJAzU4KXfBp6ezD31-KmvXK_DA4vGw8wwZSKtJO9sNOckA3glEUIRU0JVXlwLBvqzsyRRYpAbbjTixRvORE3wcLuswOxNSQTGSqKWDCTvpTAZR4exsz4YgSLWY1P599RmlllLIVxvtERQyDnHw1OYRLepT4tLIKoCS2jUBptXYB6AYPexdFqGL4ymMz1ruYT-V9uIwyXw2QE41Oq8NyOogQHK04FSIfnCzZo9Y9uf-w.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "54f0357fa796",
       "824edaacda67"
      ],
-     "found": "2026-11-15T23:28:44+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "7d03b5606530",
@@ -3785,28 +3426,6 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
-     "key": "f7772fe2f320",
-     "title": "Большой класс КИ, Йогаплатформа",
-     "date": "2026-11-30",
-     "time": "19:00",
-     "place": "Йогаплатформа, Спартаковский пер., 2",
-     "price": "1900 ₽",
-     "link": "https://t.me/cimsk/7300",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/He2lMPSbZOveYZsHXfzztkcO-imsG4YtT70QIAEZTKlF7v-sfQ1KyIMzV9Fy8jEG9ggWLsDZdb6R9m_Q8fAlGDBzqm6ausoSgpgbKqXM9u3DW43n93FXhiF3GyfzR4DgTInM1RplPo9l7H3fhmsWSpAwvygBClHzKdeMIQTXlmiY138X4MeMT-iDoNeSrzZcP6DGB0Els6ZIx7paPQxkktDo2K2JSOOXXqKn-x-p2qum7sNAcyozUle3BWfgFms60yicCQqvj_81t-PfWQyrq5U0xW9z-SzogggrgH2hqvXOw1cCzK7GPB8runtQeFEZ_u_4PoyxpraQ400U4S7kXw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "f7772fe2f320"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
      "key": "875432cb3e66",
      "title": "КИ: большой класс Юры Львова",
      "date": "2026-11-30",
@@ -3824,9 +3443,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "875432cb3e66"
+      "875432cb3e66",
+      "f7772fe2f320"
      ],
-     "found": "2026-11-15T23:28:44+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "e3775a1100f6",
@@ -4339,34 +3959,27 @@
      "username": "cimsk",
      "kind": "folder",
      "last_post": "2026-11-15T20:04:31+03:00",
-     "events": 26
+     "events": 20
     },
     {
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
      "last_post": "2026-11-15T19:32:09+03:00",
-     "events": 8
+     "events": 7
     },
     {
      "title": "LeMoor Cloob инфо",
      "username": "lemoorcloob",
      "kind": "folder",
      "last_post": "2026-11-15T18:35:02+03:00",
-     "events": 6
+     "events": 5
     },
     {
      "title": "Пространство Нора",
      "username": "LoftNora",
      "kind": "folder",
      "last_post": "2026-11-15T18:18:57+03:00",
-     "events": 3
-    },
-    {
-     "title": "Sense Cuddle Канал",
-     "username": "sensecuddle",
-     "kind": "folder",
-     "last_post": "2026-11-15T12:48:00+03:00",
      "events": 2
     },
     {
@@ -4382,6 +3995,13 @@
      "kind": "extra",
      "last_post": "2026-11-15T14:30:01+03:00",
      "events": 2
+    },
+    {
+     "title": "Sense Cuddle Канал",
+     "username": "sensecuddle",
+     "kind": "folder",
+     "last_post": "2026-11-15T12:48:00+03:00",
+     "events": 1
     },
     {
      "title": "Тактильный Дом (пространство чувственного опыта)",
