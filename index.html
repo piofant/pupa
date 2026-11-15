@@ -96,7 +96,9 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .zoom{position:fixed;inset:0;z-index:20;background:rgba(20,20,20,.82);display:flex;align-items:center;justify-content:center;padding:24px;cursor:zoom-out}
 .zoom img{max-width:min(92vw,900px);max-height:86vh;border-radius:12px;box-shadow:0 10px 40px rgba(0,0,0,.4)}
 .zoom-x{position:fixed;top:14px;right:16px;width:40px;height:40px;border-radius:20px;border:0;background:#fff;color:var(--fg);font-size:18px}
+.weekrow{display:block}
 .say{display:flex;gap:10px;align-items:flex-start;margin:10px 0 4px;max-width:760px}
+.why-say{color:var(--fg)}
 .say .ava{width:36px;height:36px;margin-top:2px}
 .bubble{position:relative;background:#fff;border:1.5px solid #dcef9a;border-radius:4px 16px 16px 16px;padding:8px 12px;flex:1}
 .say-head{border:0;background:none;padding:0;font:inherit;font-size:15px;text-align:left;cursor:pointer;min-height:28px}
@@ -154,7 +156,12 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
   .btn.pri:hover{background:var(--accent-dark)}
   .feed{max-width:760px;margin:0 auto}
   .day.past{min-height:52px}  /* прошедшие дни — низкой строкой */
-  .sum{max-width:760px}  /* сводка — компактной карточкой, а не на всю ширину */
+  .sum{max-width:760px}
+}
+@media (min-width:1000px){
+  .weekrow{display:flex;gap:16px;align-items:flex-start}
+  .weekrow .sum{flex:0 1 760px;margin-bottom:10px}
+  .weekrow .say{flex:1 1 320px;margin-top:10px}  /* сводка — компактной карточкой, а не на всю ширину */
 }
 @media (min-width:1000px){
   .calwrap{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:28px;align-items:start}
@@ -663,7 +670,8 @@ function summary() {
     picks = [first, second].filter(Boolean);
   } else if (PUPA) {  // ближайшие не сегодня, с разными датами; сначала те, где указано время
     const later = list.filter(e => e.date > S.data.today);
-    for (const pass of [e => !!e.time, () => true])
+    const cat0 = e => (e.cats || [])[0];
+    for (const pass of [e => !!e.time && !picks.some(p => cat0(p) === cat0(e)), e => !!e.time, () => true])
       for (const e of later) if (picks.length < 2 && pass(e) && !picks.some(p => p.date === e.date)) picks.push(e);
   } else {
     const byDay = {};
@@ -674,7 +682,7 @@ function summary() {
   const d1 = pd(from), d2 = pd(to);
   const range = d1.getMonth() === d2.getMonth() ? `${d1.getDate()}–${d2.getDate()} ${MG[d2.getMonth()]}`
     : `${d1.getDate()} ${MG[d1.getMonth()]} – ${d2.getDate()} ${MG[d2.getMonth()]}`;
-  return [h('section', { class: 'sum' },
+  const card = h('section', { class: 'sum' },
     h('h2', null, `На неделе, ${range}: ${list.length} ${plural(list.length, 'событие', 'события', 'событий')}`),
     PUPA ? pupaTiles(from, to) : null,
     PUPA && !list.length ? h('div', { class: 'rec' }, PUPA_EMPTY) : null,
@@ -682,7 +690,22 @@ function summary() {
       h('button', { class: 'tile' + (S.cat === key ? ' on' : ''), type: 'button', 'aria-pressed': String(S.cat === key),
         'data-f': 'cat:' + key, onclick: () => pickCat(key) }, h('b', null, n), `${ic} ${name}`))) : null,
     going.length ? h('div', { class: 'rec' }, 'Уже идёшь: ', going.map((e, i) => [i ? ', ' : '', h('button', { type: 'button', onclick: () => jump(e) }, `«${e.title}»`)])) : null,
-    rec), pupaSays(picks.sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || ''))))];
+    rec);
+  const say = pupaSays(picks.sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || ''))));
+  return h('div', { class: 'weekrow' }, card, say);
+}
+
+// аргумент «за» — по категории события (первой из интересов человека, если выбраны), как будто уговаривает лично
+const WHY = { body: 'если хочешь тепла и прикосновений', dance: 'если хочешь подвигаться и выдохнуть',
+  theatre: 'если хочешь поиграть и посмеяться', music: 'если хочешь живого звука', craft: 'если хочешь сделать что-то руками',
+  calm: 'если хочешь тишины', circles: 'если хочешь поговорить по-настоящему' };
+function argue(e) {
+  const cats = e.cats || [];
+  const c = cats.find(x => S.interests && S.interests.has(x) && WHY[x]) || cats.find(x => WHY[x]);
+  const bits = [];
+  if (c) bits.push(WHY[c]);
+  if (e.hot && e.hot_reason) bits.push(e.hot_reason);
+  return bits.join(' — ');
 }
 
 // совет недели — отдельной репликой Пупы с аватаркой, под катом
@@ -694,9 +717,10 @@ function pupaSays(picks) {
     h('div', { class: 'bubble' },
       h('button', { class: 'say-head', type: 'button', 'aria-expanded': String(open), 'data-f': 'say',
         onclick: () => { S.recOpen = !S.recOpen; render('say'); } }, intro, h('span', { class: 'chev' }, open ? ' ▴' : ' ▾')),
-      open ? h('ul', null, picks.map(e => h('li', null,
+      open ? h('ul', null, picks.map(e => { const why = argue(e); return h('li', null,
         h('button', { type: 'button', class: 'pick', onclick: () => jump(e) }, e.title),
-        h('span', { class: 'sub' }, ` — ${when(e)}${e.place ? ', ' + e.place : ''}`)))) : null));
+        h('span', { class: 'sub' }, ` — ${when(e)}${e.place ? ', ' + e.place : ''}`),
+        why ? h('span', { class: 'why-say' }, `, ${why}`) : null); })) : null));
 }
 
 // ---------- интересы (открытое мини-приложение) ----------
