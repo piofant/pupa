@@ -125,8 +125,11 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .promo{margin:18px 0 10px;padding:14px 16px 16px;border-radius:16px;background:var(--lime-soft);box-shadow:inset 0 0 0 1.5px #dcef9a}
 .promo-head{display:flex;align-items:center;gap:10px}
 .promo-head h3{margin:0;font-size:17px}
-.promo ul{margin:10px 0 14px;padding-left:20px}
+.promo ol{margin:10px 0 14px;padding-left:22px}
 .promo li{margin:6px 0}
+.btn.lime{background:var(--lime);border-color:#a9d40f;color:var(--lime-ink);font-weight:700}
+.btn.lime:hover{background:#b6e21c}
+.promo-note{margin-top:8px;font-size:13px;color:var(--muted);text-align:center}
 .btn.wide{width:100%;min-height:48px;font-size:16px}
 .about-author{font-size:14px;color:var(--muted);margin:6px 0}
 .btn.tg{min-height:44px;padding:0 18px;font-size:15px}
@@ -778,13 +781,12 @@ function renderAbout() {
       + 'мастера, маленькие театры, пространства. С Таймпада — только творческое.'),
     p('Ничего не выдумываю и никого не записываю. Сходишь куда-нибудь — расскажи, как было: сама я там не бываю.'),
     h('section', { class: 'promo' },
-      h('div', { class: 'promo-head' }, h('img', { class: 'ava', src: 'pupa.jpg', alt: '' }), h('h3', null, 'В Telegram я живее')),
-      h('ul', null,
-        h('li', null, 'Отметь, что откликается, — и я начну писать сама: когда найду что-то редкое ',
-          '(ретрит, интенсив, вечер на двадцать человек) и по четвергам — выходные.'),
-        h('li', null, 'Можно просто поговорить: «куда сходить в субботу?», «что есть бесплатного?» — отвечу из своих адресов.'),
-        h('li', null, 'Пишу не чаще раза в день. Надоест — одна кнопка «Реже».')),
-      link(BOT_URL, 'pri tg wide', 'Открыть Пупу в Telegram')),
+      h('div', { class: 'promo-head' }, h('img', { class: 'ava', src: 'pupa.jpg', alt: '' }), h('h3', null, 'Пупа в Telegram')),
+      h('ol', null,
+        h('li', null, h('b', null, 'Выбери, что интересно'), ' — тело, танец, театр, музыка…'),
+        h('li', null, h('b', null, 'Получай находки'), ' — редкое пишу сразу, выходные приношу по четвергам')),
+      link(BOT_URL, 'lime tg wide', 'Открыть в Telegram'),
+      h('div', { class: 'promo-note' }, 'А ещё со мной можно просто поболтать — я живая.')),
     h('div', { class: 'about-author' }, 'Идеи и вопросы — ',
       h('a', { href: AUTHOR_URL, onclick: ev => { ev.preventDefault(); openUrl(AUTHOR_URL); } }, 'написать автору'), '.'));
 }
