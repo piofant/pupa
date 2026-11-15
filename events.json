@@ -112,7 +112,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "79542fc488a5"
+      "79542fc488a5",
+      "512f2bc4b1b3"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -159,28 +160,6 @@
       "bb452ccfbfcb"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "512f2bc4b1b3",
-     "title": "Вечер флирта, дуэлей и галантности",
-     "date": "2026-11-16",
-     "time": null,
-     "place": "SensCafe",
-     "price": "по тарифу тайм-кафе + донат",
-     "link": "https://t.me/sensualcafe/8762",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "512f2bc4b1b3"
-     ],
-     "found": "2026-11-15T23:23:11+03:00"
     },
     {
      "key": "ca6052cd7743",
@@ -1061,28 +1040,6 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "8b56bf4eeb08",
-     "title": "Shadow Ecstatic Dance",
-     "date": "2026-11-22",
-     "time": "17:30",
-     "place": "Кадетская линия, 5 к2Д",
-     "price": "1900–2500 ₽",
-     "link": "https://t.me/shadow_ecstatic/414",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/D4BeXYouS7SSScShH3gJg5bmulyCjHJvhAURpRMsmEFQsRjDiZehJ7Rx9rypeVS8jnBshGrM2FgLFk888Dcd6QwVszu3Ev_57ln3Ri6pnojyGT-omyphzWNPXjlN8BmAodbOHuSlVfrJkA5hMfzWaxEdCSsLGyXUKeSNQ4FtcUZHgJ-bGAAH9xdEKRJh20hNpbMDMrjQnIYJ5wW20Epj_MJAiLxDubq0tW7S-XK_4__bbx5Sd8FWo6GnpjWTUhbkrgDp7wnue98z-biAiVKnXcD7bwDlm6JdJwxqwS4VUn6xWX3IYbcdDTOQreOsKxWdU7pZBuKdBFtDjR4_3RXuBA.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "8b56bf4eeb08"
-     ],
-     "found": "2026-11-15T20:30:01+03:00"
-    },
-    {
      "key": "944db557e4f6",
      "title": "Shadow Ecstatic Dance: себе нежно",
      "date": "2026-11-22",
@@ -1100,7 +1057,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "944db557e4f6"
+      "944db557e4f6",
+      "8b56bf4eeb08"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1882,7 +1840,7 @@
      "username": "sensualcafe",
      "kind": "folder",
      "last_post": "2026-11-15T23:00:42+03:00",
-     "events": 14
+     "events": 13
     },
     {
      "title": "Таймпад",
@@ -1969,13 +1927,6 @@
      "events": 2
     },
     {
-     "title": "SHADOW ECSTATIC DANCE SPB",
-     "username": "shadow_ecstatic",
-     "kind": "extra",
-     "last_post": null,
-     "events": 2
-    },
-    {
      "title": "Школа КИ и Перфоманса СПБ",
      "username": "cischoolspb",
      "kind": "extra",
@@ -1993,6 +1944,13 @@
      "title": "Sensual Party 5 декабря",
      "username": "sensualparty",
      "kind": "folder",
+     "last_post": null,
+     "events": 1
+    },
+    {
+     "title": "SHADOW ECSTATIC DANCE SPB",
+     "username": "shadow_ecstatic",
+     "kind": "extra",
      "last_post": null,
      "events": 1
     },
@@ -2439,31 +2397,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "9476226abb62"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "0aefe43ecfd9",
-     "title": "Поэтический вечер в Норе",
-     "date": "2026-11-18",
-     "time": "19:00",
-     "place": "Пространство Нора",
-     "price": null,
-     "link": "https://t.me/LoftNora/1550",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "circles"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/msA97JyHNBhcFB8o0xYhR2wKLfCPEJTr8wAdLYJGwaiu2iBS2Kp-pmOZ9MLwjQ_t4FgFOrw_MxtMs-BosiNM33pB03LHYuu8AWWcXlNbw1cLgtQmToFN8QAnNBtPBRWOecVCKqa_t1p1AJQa7txL-YVVo9wrcN6mF8Xx16m2r5PhMi4DqPc6_Ct6sS-_K6DYZ-OpZZsqnQMGXa27fOnaxbtuEs12UHpxu1zCJ1kg59K7TFAo4Gk9_jrUFEeWR_iHY_twQF7yOZtrzmEuPyNeiTjLCCUR2MTA6XQkzB15GLSkwmsO94OVOd6wTpp9x7d51d04MYZz9b74eNp2SDtRrQ.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "9476226abb62",
       "0aefe43ecfd9"
      ],
-     "found": "2026-11-15T23:28:44+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "d1ea55df7c00",
@@ -4134,7 +4071,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "fbb9da079acd"
+      "fbb9da079acd",
+      "26cf51cb68ae"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -4158,29 +4096,6 @@
      "hot_reason": "",
      "keys": [
       "ad52293afcb7"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
-    },
-    {
-     "key": "26cf51cb68ae",
-     "title": "Тренинг «От соматики к акробатике»",
-     "date": "2026-12-12",
-     "time": null,
-     "place": "Москва (Школа КИ)",
-     "price": "6900–7900 ₽",
-     "link": "https://t.me/cimsk/7359",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "image": "https://cdn4.telesco.pe/file/MriGDzTUjJrV3OZS40973FPr3zMkDd4gMIqT3EJp4InrUkCF6v5R86YgrtrBPJyzu1S5RatcGSzkg63C38dxXnBRiqcRg5wax6gsEHOZauPde2wHSYcYunxIf9EfXMYbeTGN0fkefwZtMWuN5MnCrxwEOpX5qOIgjIqn9nf9sr0YI5wlNvKNZJVgRrzVNS2SV0RpcUpqYzs65xWcx_gpFXLs8eJ4rXR4ooCPLnHAIvNVBO-9Hc43L_yhDPFgJ6Ma1-7mQ41JF0Ei9g0AdtrzJaCePmiP2yLwFSwGPXHzSa_WsKCLQqWdVn2Ds-XlI83T2ecVDpvGz1EqF9CJ37JtLw",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "26cf51cb68ae"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -4424,7 +4339,7 @@
      "username": "cimsk",
      "kind": "folder",
      "last_post": "2026-11-15T20:04:31+03:00",
-     "events": 27
+     "events": 26
     },
     {
      "title": "Obni(me) Москва",
@@ -4445,7 +4360,7 @@
      "username": "LoftNora",
      "kind": "folder",
      "last_post": "2026-11-15T18:18:57+03:00",
-     "events": 4
+     "events": 3
     },
     {
      "title": "Sense Cuddle Канал",
