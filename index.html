@@ -765,8 +765,8 @@ function footer(about) {
   return h('footer', { class: 'foot' },
     about ? null : h('a', { class: 'tglink', href: BOT_URL, onclick: ev => { ev.preventDefault(); openUrl(BOT_URL); } }, 'Телеграм-бот пупы'),
     h('div', null, 'Сделал Вова — ',
-      h('a', { href: MAKER, onclick: ev => { ev.preventDefault(); openUrl(MAKER); } }, 'piofant'),
-      '. Некоммерческая штука: без рекламы и платных размещений.'));
+      h('a', { href: AUTHOR_URL, onclick: ev => { ev.preventDefault(); openUrl(AUTHOR_URL); } }, 'piofant'),
+      ', пиши идеи и вопросы. Некоммерческая штука: без рекламы и платных размещений.'));
 }
 function renderAbout() {
   const cities = (S.raw && S.raw.cities) || {};
@@ -786,9 +786,7 @@ function renderAbout() {
         h('li', null, h('b', null, 'Выбери, что интересно'), ' — тело, танец, театр, музыка…'),
         h('li', null, h('b', null, 'Получай находки'), ' — редкое пишу сразу, выходные приношу по четвергам')),
       link(BOT_URL, 'lime tg wide', 'Открыть в Telegram'),
-      h('div', { class: 'promo-note' }, 'А ещё со мной можно просто поболтать — я живая.')),
-    h('div', { class: 'about-author' }, 'Идеи и вопросы — ',
-      h('a', { href: AUTHOR_URL, onclick: ev => { ev.preventDefault(); openUrl(AUTHOR_URL); } }, 'написать автору'), '.'));
+      h('div', { class: 'promo-note' }, 'А ещё со мной можно просто поболтать — я живая.')));
 }
 
 function renderSources() {
