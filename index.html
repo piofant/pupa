@@ -113,6 +113,8 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .foot{margin:28px 4px 8px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
 .foot a,.about a{color:var(--accent-dark)}
 .about{max-width:640px;margin:8px auto;line-height:1.5}
+.feed.col-about{max-width:640px}
+.feed .foot{margin:28px 0 8px}
 .about h3{margin:18px 0 6px;font-size:16px}
 .about-head{display:flex;align-items:center;gap:12px}
 .ava.big{width:64px;height:64px}
@@ -742,9 +744,9 @@ function ago(s) {
 const MAKER = 'https://piofant.github.io/';
 const BOT_URL = 'https://t.me/puppa_luppa_bot';
 const AUTHOR_URL = 'https://t.me/piofant';
-function footer() {
+function footer(about) {
   return h('footer', { class: 'foot' },
-    h('a', { class: 'tglink', href: BOT_URL, onclick: ev => { ev.preventDefault(); openUrl(BOT_URL); } }, 'Телеграм-бот пупы'),
+    about ? null : h('a', { class: 'tglink', href: BOT_URL, onclick: ev => { ev.preventDefault(); openUrl(BOT_URL); } }, 'Телеграм-бот пупы'),
     h('div', null, 'Сделал Вова — ',
       h('a', { href: MAKER, onclick: ev => { ev.preventDefault(); openUrl(MAKER); } }, 'piofant'),
       '. Некоммерческая штука: без рекламы и платных размещений.'));
@@ -821,7 +823,11 @@ function render(focusKey) {
     : S.tab === 'cal' ? [summary(), renderCal()]
     : h('div', { class: 'feed' }, summary(), renderFeed());  // в ленте сводка — в той же колонке, что и карточки
   const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
-  if (PUPA && S.data) kids = [kids, footer()];
+  if (PUPA && S.data) {  // подвал — в той же колонке, что и содержимое вкладки
+    const about = S.tab === 'src' || S.tab === 'about';
+    if (S.tab === 'cal') kids = [kids, footer(false)];
+    else kids = h('div', { class: about ? 'feed col-about' : 'feed' }, kids, footer(about));
+  }
   $main.replaceChildren(...[kids].flat(Infinity).filter(x => x != null && x !== false));
   if (fk) { const el = $main.querySelector(`[data-f="${CSS.escape(fk)}"]`); if (el) el.focus({ preventScroll: true }); }
 }
