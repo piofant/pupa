@@ -1,0 +1,758 @@
+<!doctype html>
+<html lang="ru" data-public="1">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<title>Пупа — живая афиша: тело, танец, театр, музыка</title>
+<meta name="description" content="Творческие события Петербурга и Москвы из источников, отобранных по рекомендации: телесные практики, танец, импро, квартирники, круги.">
+<meta name="robots" content="noindex">
+<meta name="referrer" content="no-referrer">
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+:root{--fg:#1b1d16;--muted:#6b6f63;--line:#e4e8da;--soft:#f4f6ef;--accent:#e4007c;--accent-soft:#fde4f2;--accent-dark:#a3005a;--lime:#c5f02a;--lime-soft:#f1fbcf;--lime-ink:#3a4d00;--cyan:#16b9cc;--cyan-soft:#e0f7fa;--we:#f7fbe9;--ok:#1d7f55;--ok-soft:#e5f3ec;--err:#b3261e}
+*{box-sizing:border-box}
+html,body{margin:0;background:#fff;color:var(--fg);color-scheme:light}
+body{font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit;cursor:pointer;-webkit-appearance:none;appearance:none;margin:0}
+.top{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line);padding:10px 16px 0}
+.brand{display:flex;align-items:center;gap:8px;max-width:480px;margin:0 auto}
+.ava{width:34px;height:34px;border-radius:50%;flex:none;box-shadow:0 0 0 2px var(--lime)}
+.cities{display:inline-flex;gap:2px;padding:2px;border-radius:999px;background:var(--soft)}
+.cities button{border:0;background:none;border-radius:999px;padding:3px 10px;font-size:13px;color:var(--muted);min-height:28px}
+.cities button.on{background:var(--lime);color:var(--lime-ink);font-weight:700}
+.src{display:flex;gap:10px;align-items:baseline;justify-content:space-between;border-bottom:1px solid var(--line);padding:10px 4px}
+.src a{color:var(--fg);font-weight:600;text-decoration:none}
+.src a:hover{color:var(--accent-dark)}
+.src .k{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--cyan-soft);color:#0b6b77;margin-left:6px;white-space:nowrap}
+.src .n{flex:none;text-align:right;font-size:13px;color:var(--muted)}
+.src .n b{font-size:16px;color:var(--fg)}
+.src.err a{color:var(--err)}
+.brand b{font-size:20px;letter-spacing:-.2px}
+.brand span{font-size:13px;color:var(--muted)}
+.tabs{display:flex;max-width:480px;margin:6px auto 0}
+.tab{flex:1;min-height:44px;border:0;background:none;border-bottom:2px solid transparent;font-weight:600;color:var(--muted)}
+.tab.on{color:var(--fg);border-bottom-color:var(--accent)}
+main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;margin:0 auto}
+.month h2{font-size:16px;font-weight:700;margin:14px 4px 6px}
+.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px}
+.wd{font-size:12px;color:var(--muted);text-align:center;padding:2px 0 4px}
+.wd.we{color:var(--accent-dark)}
+.day,.blank{min-height:48px;border-radius:10px}
+.day{border:0;background:none;display:flex;flex-direction:column;align-items:center;padding:6px 0 0;font-size:15px}
+.we{background:var(--we)}
+.wd.we{background:none}
+.day.past{color:#b5b5bb}
+.day.today{box-shadow:inset 0 0 0 1.5px var(--fg);font-weight:700}
+.day.sel{background:var(--accent-soft);box-shadow:inset 0 0 0 2px var(--accent);font-weight:700}
+.mk{margin-top:4px;height:16px;min-width:16px;padding:0 4px;border-radius:8px;font-size:11px;line-height:16px;font-weight:700;color:var(--lime-ink);background:var(--lime);border:1px solid #a9d40f}
+.mk.dot{min-width:8px;width:8px;height:8px;padding:0;margin-top:8px;background:#a9d40f;border-color:#a9d40f}
+.mk.go{background:var(--accent);border-color:var(--accent);color:#fff}
+.day.past .mk{opacity:.55}
+.dh{font-size:17px;margin:16px 4px 4px}
+.card{border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:10px 0;background:#fff}
+.card.past{opacity:.7}
+.ch{display:flex;gap:10px;align-items:flex-start;justify-content:space-between}
+.card h3{font-size:16px;margin:0 0 4px;line-height:1.3;word-break:break-word}
+.meta{font-size:14px}
+.sub{font-size:14px;color:var(--muted);word-break:break-word}
+.why{font-size:14px;color:var(--muted);margin-top:6px}
+.fit{display:inline-flex;gap:3px;padding-top:7px;flex:none}
+.fit i{width:6px;height:6px;border-radius:50%;background:var(--line)}
+.fit i.on{background:var(--accent)}
+.details{font-size:14px;margin-top:8px;padding:10px 12px;background:var(--soft);border-radius:10px;white-space:pre-line;word-break:break-word}
+.pv{display:block;max-width:100%;height:auto;border-radius:10px;background:#fff}
+.pv + div{margin-top:8px}
+.ints{display:flex;gap:6px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
+.ints::-webkit-scrollbar{display:none}
+.int{flex:none;min-height:36px;padding:0 12px;border-radius:18px;border:1px solid var(--line);background:#fff;white-space:nowrap;font-size:13px}
+.int.on{background:var(--lime);border-color:#a9d40f;color:var(--lime-ink);font-weight:600}
+.int-hint{font-size:13px;color:var(--muted);padding:2px 4px 0}
+.link{border:0;background:none;padding:0;min-height:40px;color:var(--accent-dark);font-size:14px;font-weight:600}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.badges:empty{display:none}
+.badge{font-size:12px;padding:3px 9px;border-radius:999px;background:var(--soft);color:var(--muted)}
+.badge.go{background:var(--ok-soft);color:var(--ok);font-weight:600}
+.badge.new{background:var(--cyan);color:#fff;font-weight:600}
+.acts{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:0 12px;border-radius:10px;border:1px solid var(--line);background:#fff;font-size:14px;font-weight:500}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+.btn.done{background:var(--ok-soft);border-color:var(--ok-soft);color:var(--ok);font-weight:600}
+.btn.ic{min-width:44px;padding:0}
+.btn.on{background:var(--accent-soft);border-color:var(--accent)}
+.btn:disabled{opacity:.5}
+.chips{display:flex;gap:6px;overflow-x:auto;padding:6px 0;scrollbar-width:none}
+.chip{min-height:40px;padding:0 14px;border-radius:20px;border:1px solid var(--line);background:#fff;white-space:nowrap;font-size:14px}
+.chip.on{background:var(--fg);border-color:var(--fg);color:#fff}
+.state{text-align:center;color:var(--muted);padding:48px 16px}
+.lock{max-width:340px;margin:56px auto;display:flex;flex-direction:column;gap:10px;text-align:center}
+.lock input{min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:10px;font-size:16px}
+.mine{margin-left:auto;font-size:13px;color:var(--muted);text-decoration:none}
+.sum{border-radius:14px;padding:12px 14px;margin:10px 0 4px;background:var(--lime-soft);box-shadow:inset 0 0 0 1.5px #dcf38a}
+.sum h2{margin:0 0 8px;font-size:15px}
+.tiles{display:flex;flex-wrap:wrap;gap:6px}
+.tile{background:#fff;border:0;border-radius:10px;padding:4px 10px;min-height:34px;font-size:13px;color:var(--muted);cursor:pointer}
+.tile b{font-size:17px;color:var(--fg);margin-right:3px}
+.tile:hover{box-shadow:inset 0 0 0 1.5px var(--lime)}
+.tile.on{background:var(--accent);color:#fff}
+.tile.on b{color:#fff}
+.catbar{display:flex;align-items:center;gap:8px;margin:12px 0 4px;font-weight:600;scroll-margin-top:110px}
+.catbar button{margin-left:auto}
+.rec{margin-top:10px;font-size:15px;line-height:1.45}
+.rec button{display:inline;text-align:left;border:0;background:none;padding:0;font:inherit;font-weight:600;color:var(--accent-dark);text-decoration:underline;text-underline-offset:2px;cursor:pointer}
+.state .btn{margin-top:12px}
+.note{color:var(--muted);font-size:14px;padding:6px 4px}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translate(-50%,16px);opacity:0;transition:opacity .2s,transform .2s;background:var(--fg);color:#fff;padding:10px 14px;border-radius:12px;font-size:14px;width:max-content;max-width:calc(100% - 32px);z-index:10;pointer-events:none}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+.toast.err{background:var(--err)}
+.ev,.more{display:none}
+@media (min-width:700px){
+  .top{padding:12px 24px 0}
+  .brand,.tabs{max-width:1312px}
+  .tab{flex:0 0 auto;padding:0 4px;margin-right:24px}
+  main{max-width:1360px;padding:8px 24px 60px}
+  .day,.blank{min-height:108px}
+  .day{align-items:stretch;padding:6px;gap:3px;text-align:left;font-size:14px;overflow:hidden}
+  .day:hover:not(.sel):not(.today){box-shadow:inset 0 0 0 1px var(--lime)}
+  .day .mk{display:none}
+  .ev{display:block;font-size:12px;line-height:17px;padding:1px 6px;border-radius:5px;background:var(--lime-soft);color:var(--lime-ink);overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;word-break:break-word;flex:none}
+  .ev.go{background:var(--accent);color:#fff}
+  .day.past .ev{opacity:.55}
+  .more{display:block;font-size:12px;color:var(--muted);padding-left:6px}
+  .btn:hover,.chip:hover,.int:hover:not(.on){border-color:#cfcfd5}
+  .ints{flex-wrap:wrap;overflow:visible}
+  .btn.pri:hover{background:var(--accent-dark)}
+  .feed{max-width:760px;margin:0 auto}
+}
+@media (min-width:1000px){
+  .calwrap{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:28px;align-items:start}
+  .side{position:sticky;top:112px;max-height:calc(100vh - 124px);overflow:auto;padding:0 4px 12px}
+}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="brand"><img class="ava" src="pupa.jpg" alt=""><b>пупа</b><span id="city"></span></div>
+  <nav class="tabs">
+    <button class="tab on" type="button" data-tab="cal">Календарь</button>
+    <button class="tab" type="button" data-tab="feed">Лента</button>
+    <button class="tab" type="button" data-tab="src">Источники</button>
+  </nav>
+</header>
+<main id="main"></main>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>
+'use strict';
+const tg = window.Telegram && window.Telegram.WebApp;
+const inTg = !!(tg && tg.initData);
+const DEMO = new URLSearchParams(location.search).get('demo') === '1';
+// публичная копия (piofant.github.io/afisha): данные из events.json, без кнопок и личных отметок
+const PUBLIC = document.documentElement.dataset.public === '1';
+const LOCKED = PUBLIC && document.documentElement.dataset.locked === '1';  // events.enc.json + пароль
+const OWNER_URL = document.documentElement.dataset.owner || '';
+const WD = ['вс', 'пн', 'вт', 'ср', 'чт', 'пт', 'сб'];
+const WD_MON = ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс'];
+const MG = ['января', 'февраля', 'марта', 'апреля', 'мая', 'июня', 'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря'];
+const MN = ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'];
+const FILTERS = [['all', 'Все'], ['fit', 'Точно моё'], ['going', 'Мои планы']];
+const EMPTY = {
+  all: 'Пока ничего впереди не нашла. Загляни попозже',
+  fit: 'Пока нет того, что точно твоё',
+  going: 'Планов пока нет. Нажми «Иду» на том, что нравится'
+};
+const S = { data: null, error: '', tab: 'cal', sel: null, filter: 'all', busy: new Set(), open: new Set(), badImg: new Set(), pw: '', locked: false, cat: null };
+try { S.pw = localStorage.getItem('afisha_pw') || ''; } catch (_) {}
+// мини-приложение в боте: ссылка с #k=<ключ> — личная версия (me.enc.json), действия уходят сообщением в чат с ботом
+const HASH = new URLSearchParams(location.hash.slice(1));
+const APP_KEY = PUBLIC ? HASH.get('k') : null;
+const BOT = document.documentElement.dataset.bot || 'puppa_luppa_bot';
+const CAN_ACT = !PUBLIC || !!APP_KEY;
+if (APP_KEY) document.querySelectorAll('.mine').forEach(a => a.remove());
+// открытое мини-приложение «Пупа» (piofant.github.io/pupa): events.json без шифра, интересы из #i=…&c=…, без действий
+const PUPA = PUBLIC && !LOCKED && !APP_KEY;
+const PUPA_EMPTY = 'В моих адресах на эти дни тихо. Загляну ещё — новые анонсы появляются каждый день.';
+// запасной список, если в данных события с cats, а самого списка категорий нет
+const DEFAULT_CATS = [
+  { id: 'body', emoji: '🫂', title: 'Телесное и тактильное' },
+  { id: 'dance', emoji: '💃', title: 'Танец' },
+  { id: 'theatre', emoji: '🎭', title: 'Театр и импро' },
+  { id: 'music', emoji: '🎶', title: 'Музыка' },
+  { id: 'craft', emoji: '🎨', title: 'Творчество' },
+  { id: 'calm', emoji: '🧘', title: 'Тишина и медитации' },
+  { id: 'circles', emoji: '🗣', title: 'Круги и встречи' },
+  { id: 'tantra', emoji: '🔥', title: 'Тантра и чувственность', adult: true }
+];
+const catId = s => typeof s === 'string' && /^[a-z0-9_-]{1,32}$/.test(s);
+S.interests = new Set();
+if (PUPA) {
+  const hi = HASH.get('i');
+  if (hi != null) { S.interests = new Set(hi.split(',').map(s => s.trim()).filter(catId)); saveInterests(); }
+  else try { const a = JSON.parse(localStorage.getItem('pupa_interests') || '[]'); if (Array.isArray(a)) S.interests = new Set(a.filter(catId)); } catch (_) {}
+  const hc = HASH.get('c');
+  if (hc && catId(hc)) { S.city = hc; try { sessionStorage.setItem('pupa_city', hc); } catch (_) {} }
+}
+function saveInterests() { try { localStorage.setItem('pupa_interests', JSON.stringify([...S.interests])); } catch (_) {} }
+function isAdultCat(id) {
+  const c = (S.catsMeta || DEFAULT_CATS).find(x => x.id === id);
+  return c && c.adult != null ? !!c.adult : id === 'tantra';
+}
+// событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё, кроме 18+); 18+ — только если выбрано явно
+function interestOk(e) {
+  const cats = Array.isArray(e.cats) ? e.cats : [];
+  if (!cats.length) return true;  // старые данные без категорий
+  if (cats.some(c => isAdultCat(c) && !S.interests.has(c))) return false;
+  return !S.interests.size || cats.some(c => S.interests.has(c));
+}
+// мини-приложение читает данные, выложенные раз в час: свои нажатия держим поверх них 3 часа
+const LOCAL_TTL = 3 * 3600e3;
+function localMarks() { try { return JSON.parse(localStorage.getItem('afisha_local') || '{}'); } catch (_) { return {}; } }
+function markLocal(key, field, value) {
+  const m = localMarks();
+  m[key] = Object.assign(m[key] || {}, { [field]: value, at: Date.now() });
+  try { localStorage.setItem('afisha_local', JSON.stringify(m)); } catch (_) {}
+}
+const $main = document.getElementById('main');
+const mqWide = matchMedia('(min-width: 700px)');  // titles inside day cells
+const mqSide = matchMedia('(min-width: 1000px)'); // day list in a side panel
+for (const q of [mqWide, mqSide]) q.addEventListener ? q.addEventListener('change', () => render()) : q.addListener(() => render());
+
+// Safe DOM builder: all text goes through text nodes, never innerHTML.
+function h(tag, props, ...kids) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(props || {})) {
+    if (v == null || v === false) continue;
+    if (k === 'class') el.className = v;
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v === true ? '' : String(v));
+  }
+  for (const c of kids.flat(Infinity)) if (c != null && c !== false) el.append(c instanceof Node ? c : String(c));
+  return el;
+}
+
+const pad = n => String(n).padStart(2, '0');
+const iso = d => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+const pd = s => { const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d); };
+const dayLabel = s => { const d = pd(s); return `${WD[d.getDay()]} ${d.getDate()} ${MG[d.getMonth()]}`; };
+const ts = s => { const t = Date.parse(s || ''); return isNaN(t) ? 0 : t; };
+const isDate = s => typeof s === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(s);
+
+// ---------- Telegram helpers ----------
+if (tg) {
+  try { tg.ready(); tg.expand(); } catch (_) {}
+  try { tg.setHeaderColor('#ffffff'); tg.setBackgroundColor('#ffffff'); } catch (_) {}
+}
+function haptic(kind) {
+  try { tg && tg.HapticFeedback && tg.HapticFeedback.notificationOccurred(kind); } catch (_) {}
+}
+function openUrl(u) {
+  if (!/^https?:\/\//i.test(u || '')) return toast('Ссылка какая-то странная', true);
+  if (inTg) {
+    try {
+      if (/^https?:\/\/t\.me\//i.test(u)) tg.openTelegramLink(u.replace(/^http:/i, 'https:'));
+      else tg.openLink(u);
+      return;
+    } catch (_) {}
+  }
+  const w = window.open(u, '_blank');
+  if (w) try { w.opener = null; } catch (_) {}
+}
+function askConfirm(text, cb) {
+  if (inTg && tg.showConfirm && tg.isVersionAtLeast && tg.isVersionAtLeast('6.2')) {
+    try { tg.showConfirm(text, ok => ok && cb()); return; } catch (_) {}
+  }
+  if (window.confirm(text)) cb();
+}
+
+let toastTimer = 0;
+function toast(text, err) {
+  const t = document.getElementById('toast');
+  t.textContent = text;
+  t.className = 'toast show' + (err ? ' err' : '');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { t.className = 'toast' + (err ? ' err' : ''); }, 3000);
+}
+
+// ---------- API ----------
+async function api(path, body) {
+  let r;
+  try {
+    const headers = { 'X-Init-Data': (tg && tg.initData) || '' };
+    if (body) headers['Content-Type'] = 'application/json';
+    r = await fetch(path, { method: body ? 'POST' : 'GET', headers, body: body ? JSON.stringify(body) : undefined, cache: 'no-store' });
+  } catch (_) {
+    throw new Error('Нет связи с пупой, попробуй ещё раз');
+  }
+  let j = null;
+  try { j = await r.json(); } catch (_) {}
+  if (!r.ok || !j || j.ok === false) throw new Error((j && j.error) || 'Что-то пошло не так, попробуй ещё раз');
+  return j;
+}
+
+async function pubState() {
+  let r;
+  const file = APP_KEY ? 'me.enc.json' : LOCKED ? 'events.enc.json' : 'events.json';
+  try { r = await fetch(file, { cache: 'no-store' }); } catch (_) { throw new Error('Нет связи, попробуй ещё раз'); }
+  if (!r.ok) throw new Error('Не получилось загрузить афишу');
+  const j = await r.json();
+  if (APP_KEY) return decryptKey(j, APP_KEY);
+  return LOCKED ? decrypt(j, S.pw) : j;
+}
+
+// AES-GCM, ключ из пароля через PBKDF2-SHA256 — так же шифрует publish.py
+const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+async function decrypt(box, pw) {
+  if (!pw) throw new Error('LOCKED');
+  try {
+    const base = await crypto.subtle.importKey('raw', new TextEncoder().encode(pw), 'PBKDF2', false, ['deriveKey']);
+    const key = await crypto.subtle.deriveKey({ name: 'PBKDF2', salt: b64(box.salt), iterations: box.iter, hash: 'SHA-256' },
+      base, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+    const plain = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(box.iv) }, key, b64(box.ct));
+    return JSON.parse(new TextDecoder().decode(plain));
+  } catch (_) {
+    throw new Error('LOCKED');
+  }
+}
+async function decryptKey(box, k) {
+  try {
+    const raw = b64(k.replace(/-/g, '+').replace(/_/g, '/'));
+    const key = await crypto.subtle.importKey('raw', raw, 'AES-GCM', false, ['decrypt']);
+    const plain = await crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(box.iv) }, key, b64(box.ct));
+    return JSON.parse(new TextDecoder().decode(plain));
+  } catch (_) {
+    throw new Error('Ссылка устарела — открой афишу заново из бота');
+  }
+}
+async function sign(msg) {  // HMAC тем же ключом, что и данные: бот проверит, что ссылка из этой афиши
+  const raw = b64(APP_KEY.replace(/-/g, '+').replace(/_/g, '/'));
+  const key = await crypto.subtle.importKey('raw', raw, { name: 'HMAC', hash: 'SHA-256' }, false, ['sign']);
+  const mac = new Uint8Array(await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(msg)));
+  return btoa(String.fromCharCode(...mac)).replace(/\+/g, '-').replace(/\//g, '_').slice(0, 10);
+}
+async function viaChat(path, body) {  // «Иду», «Пас», оценки из мини-приложения — командой боту
+  const cmd = path === 'api/vote' ? body.vote : path.slice(4);
+  const tag = await sign(`${cmd}_${body.key}`);
+  if (path === 'api/vote') markLocal(body.key, 'vote', body.vote);
+  else markLocal(body.key, 'plan', path === 'api/go' ? 'going' : 'skipped');
+  openUrl(`https://t.me/${BOT}?start=${cmd}_${body.key}_${tag}`);
+  return { message: 'Отправила в чат с пупой' };
+}
+function lockForm(wrong) {
+  const inp = h('input', { type: 'password', placeholder: 'Пароль', autocomplete: 'current-password', 'aria-label': 'Пароль' });
+  const submit = ev => {
+    ev.preventDefault();
+    S.pw = inp.value.trim();
+    try { localStorage.setItem('afisha_pw', S.pw); } catch (_) {}
+    S.locked = false; load();
+  };
+  setTimeout(() => inp.focus(), 0);
+  return h('form', { class: 'lock', onsubmit: submit },
+    h('div', null, wrong ? 'Пароль не подошёл, попробуй ещё раз' : 'Афиша по паролю'),
+    inp, h('button', { class: 'btn pri', type: 'submit' }, 'Открыть'));
+}
+
+let loadSeq = 0;
+async function load(silent) {
+  const seq = ++loadSeq;
+  if (!silent || !S.data) { S.error = ''; if (!S.data) render(); }
+  try {
+    const d = DEMO ? demoState() : PUBLIC ? await pubState() : await api('api/state');
+    if (seq !== loadSeq) return;
+    setData(d);
+  } catch (e) {
+    if (seq !== loadSeq) return;
+    if (e.message === 'LOCKED') {  // нет пароля или он сменился
+      S.locked = true; S.wrong = !!S.pw; S.data = null;
+      try { localStorage.removeItem('afisha_pw'); } catch (_) {}
+    } else if (S.data) toast(e.message, true); else S.error = e.message;
+  }
+  render();
+}
+
+function setData(d) {
+  S.raw = d;
+  const today = isDate(d && d.today) ? d.today : iso(new Date());
+  // оба города (cities) — или старый формат с одним
+  const cities = (d && d.cities && typeof d.cities === 'object') ? d.cities
+    : { [(d && d.city) || 'spb']: { name: (d && d.city_name) || '', events: (d && d.events) || [] } };
+  if (!S.city) { try { S.city = sessionStorage.getItem('pupa_city') || ''; } catch (_) {} }  // на сессию: /city в боте главнее
+  if (!cities[S.city]) S.city = cities[d && d.city] ? d.city : Object.keys(cities)[0];
+  S.cities = Object.entries(cities).map(([code, c]) => [code, (c && c.name) || code]);
+  const cur = cities[S.city] || {};
+  const events = (Array.isArray(cur.events) ? cur.events : [])
+    .filter(e => e && e.key && isDate(e.date))
+    .sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')));
+  if (APP_KEY) {  // свои нажатия — поверх данных, пока их не выложили (published_at) и не дольше LOCAL_TTL
+    const m = localMarks(), pub = Number(d && d.published_at) || 0;
+    for (const [k, x] of Object.entries(m)) if (!x || x.at < pub || Date.now() - x.at > LOCAL_TTL) delete m[k];
+    try { localStorage.setItem('afisha_local', JSON.stringify(m)); } catch (_) {}
+    for (const e of events) {
+      const x = m[e.key];
+      if (x) { if (x.plan) e.plan = x.plan; if (x.vote) e.vote = x.vote; }
+    }
+  }
+  S.catsMeta = (d && Array.isArray(d.cats) && d.cats.length ? d.cats : DEFAULT_CATS).filter(c => c && catId(c.id));
+  S.data = { city_name: cur.name || '', today, events: PUPA ? events.filter(interestOk) : events, cats: S.catsMeta,
+    sources: Array.isArray(cur.sources) ? cur.sources : null };
+  if (!S.sel || !isDate(S.sel) || S.sel.slice(0, 7) < today.slice(0, 7)) S.sel = defaultDay();
+}
+function defaultDay() {
+  const { today, events } = S.data;
+  const next = events.find(e => e.date >= today);
+  return next ? next.date : today;
+}
+
+// ---------- actions ----------
+async function act(e, path, body, apply, fallbackMsg) {
+  if (S.busy.has(e.key)) return;
+  const a = document.activeElement, fk = a && a.dataset && a.dataset.f;
+  S.busy.add(e.key); render();
+  try {
+    const r = DEMO ? await demoReply(path) : APP_KEY ? await viaChat(path, body) : await api(path, body);
+    const cur = S.data.events.find(x => x.key === e.key) || e;
+    apply(cur, r);
+    toast(r.message || fallbackMsg);
+    haptic('success');
+  } catch (err) {
+    toast(err.message, true);
+    haptic('error');
+  } finally {
+    S.busy.delete(e.key); render(fk);
+  }
+}
+const go = e => act(e, 'api/go', { key: e.key }, (cur, r) => { if (r.status !== 'past') cur.plan = 'going'; }, 'Отметила');
+const skip = e => askConfirm('Убрать из планов?', () =>
+  act(e, 'api/skip', { key: e.key }, cur => { cur.plan = 'skipped'; }, 'Убрала из планов'));
+const vote = (e, v) => act(e, 'api/vote', { key: e.key, vote: v }, cur => { cur.vote = v; },
+  v === 'up' ? 'Запомнила: такое нравится' : 'Запомнила: такое не надо');
+
+// ---------- rendering ----------
+function card(e, inFeed) {
+  const past = e.date < S.data.today;
+  const busy = S.busy.has(e.key);
+  const going = e.plan === 'going';
+  const fit = Math.max(0, Math.min(5, Number(e.fit) || 0));
+  const isNew = inFeed && ts(e.found) > 0 && Date.now() - ts(e.found) < 864e5;
+  const img = typeof e.image === 'string' && /^https:\/\/\S+$/i.test(e.image) && !S.badImg.has(e.image) ? e.image : null;
+  const more = !!(e.details || img), open = more && S.open.has(e.key);
+  const acts = [];
+  if (!past && CAN_ACT) {
+    if (going) acts.push(h('span', { class: 'btn done' }, 'Иду ✓'),
+      h('button', { class: 'btn', type: 'button', disabled: busy, 'data-f': 'skip:' + e.key, onclick: () => skip(e) }, 'Пас'));
+    else acts.push(h('button', { class: 'btn pri', type: 'button', disabled: busy, 'data-f': 'go:' + e.key, onclick: () => go(e) }, '✅ Иду'));
+  }
+  if (CAN_ACT) acts.push(
+    h('button', { class: 'btn ic' + (e.vote === 'up' ? ' on' : ''), type: 'button', 'aria-label': 'Нравится',
+      'aria-pressed': String(e.vote === 'up'), disabled: busy, 'data-f': 'up:' + e.key, onclick: () => vote(e, 'up') }, '👍'),
+    h('button', { class: 'btn ic' + (e.vote === 'down' ? ' on' : ''), type: 'button', 'aria-label': 'Не моё',
+      'aria-pressed': String(e.vote === 'down'), disabled: busy, 'data-f': 'down:' + e.key, onclick: () => vote(e, 'down') }, '👎'));
+  if (e.link) acts.push(h('button', { class: 'btn', type: 'button', title: e.source || '', onclick: () => openUrl(e.link) }, 'Источник'));
+  if (e.signup_url) acts.push(h('button', { class: 'btn', type: 'button', onclick: () => openUrl(e.signup_url) }, 'Записаться'));
+  return h('article', { class: 'card' + (past ? ' past' : '') },
+    h('div', { class: 'ch' },
+      h('h3', null, e.title || 'Без названия'),
+      fit ? h('span', { class: 'fit', title: `подходит на ${fit} из 5`, 'aria-label': `подходит на ${fit} из 5` },
+        [1, 2, 3, 4, 5].map(i => h('i', { class: i <= fit ? 'on' : '' }))) : null),
+    h('div', { class: 'meta' }, dayLabel(e.date) + (e.time ? `, ${e.time}` : '')),
+    e.place ? h('div', { class: 'sub' }, e.place) : null,
+    e.price ? h('div', { class: 'sub' }, e.price) : null,
+    e.why ? h('div', { class: 'why' }, e.why) : null,
+    more && open ? h('div', { class: 'details' },
+      img ? h('img', { class: 'pv', loading: 'lazy', referrerpolicy: 'no-referrer', alt: '', onerror: ev => {  // битую картинку прячем и больше не грузим
+        S.badImg.add(img); const box = ev.target.parentNode; ev.target.remove(); if (box && !box.childNodes.length) box.remove();
+      }, src: img }) : null,
+      e.details ? h('div', null, e.details) : null) : null,
+    more ? h('button', { class: 'link', type: 'button', 'aria-expanded': String(open), 'data-f': 'more:' + e.key,
+      onclick: () => { S.open.has(e.key) ? S.open.delete(e.key) : S.open.add(e.key); render(); } }, open ? 'Свернуть' : 'Подробнее') : null,
+    h('div', { class: 'badges' },
+      isNew ? h('span', { class: 'badge new' }, 'новое') : null,
+      going ? h('span', { class: 'badge go' }, '✓ Иду') : null,
+      going && e.in_calendar ? h('span', { class: 'badge go' }, 'в календаре') : null,
+      e.sent ? h('span', { class: 'badge' }, 'пришло в чат') : null),
+    h('div', { class: 'acts' }, acts));
+}
+
+function monthGrid(y, m, by, today) {
+  const g = h('div', { class: 'grid' }, WD_MON.map((w, i) => h('div', { class: 'wd' + (i > 4 ? ' we' : '') }, w)));
+  const off = (new Date(y, m, 1).getDay() + 6) % 7;
+  const n = new Date(y, m + 1, 0).getDate();
+  for (let i = 0; i < off; i++) g.append(h('div', { class: 'blank' + (i > 4 ? ' we' : '') }));
+  for (let d = 1; d <= n; d++) {
+    const ds = `${y}-${pad(m + 1)}-${pad(d)}`;
+    const evs = by[ds] || [];
+    const going = evs.some(e => e.plan === 'going');
+    const cls = ['day'];
+    if ((off + d - 1) % 7 > 4) cls.push('we');
+    if (ds < today) cls.push('past');
+    if (ds === today) cls.push('today');
+    if (ds === S.sel) cls.push('sel');
+    const label = `${dayLabel(ds)}${evs.length ? `, событий: ${evs.length}` : ''}${going ? ', ты идёшь' : ''}`;
+    const line = e => (e.time ? e.time + ' ' : '') + (e.title || '');
+    const shown = evs.length > 3 ? 2 : 3;
+    g.append(h('button', { class: cls.join(' '), type: 'button', 'aria-label': label, 'data-f': 'day:' + ds,
+      title: evs.length ? evs.map(line).join('\n') : null, onclick: () => { S.sel = ds; render(); } },
+      h('span', null, d),
+      evs.length ? h('span', { class: 'mk' + (going ? ' go' : '') + (evs.length === 1 ? ' dot' : '') }, evs.length > 1 ? evs.length : '') : null,
+      mqWide.matches ? evs.slice(0, shown).map(e => h('span', { class: 'ev' + (e.plan === 'going' ? ' go' : '') }, line(e))) : null,
+      mqWide.matches && evs.length > shown ? h('span', { class: 'more' }, `+${evs.length - shown}`) : null));
+  }
+  return h('section', { class: 'month' }, h('h2', null, `${MN[m]} ${y}`), g);
+}
+
+// First and last selectable day: from the 1st of the current month to the end of the latest event's month.
+function calRange() {
+  const { today, events } = S.data;
+  const last = pd(events.reduce((mx, e) => (e.date > mx ? e.date : mx), today));
+  return [today.slice(0, 8) + '01', iso(new Date(last.getFullYear(), last.getMonth() + 1, 0))];
+}
+
+function renderCal() {
+  const { today, events } = S.data;
+  const by = {};
+  for (const e of events) (by[e.date] = by[e.date] || []).push(e);
+  const side = mqSide.matches;
+  const evs = by[S.sel] || [];
+  const panel = h('section', { class: side ? 'side' : null }, h('h3', { class: 'dh' }, dayLabel(S.sel)),
+    evs.length ? evs.map(e => card(e, false)) : h('p', { class: 'note' }, 'В этот день ничего не нашла'));
+  const months = [];
+  if (!events.length) months.push(h('p', { class: 'note' }, PUPA ? PUPA_EMPTY : 'Пока ничего не нашла — загляни попозже'));
+  const last = pd(calRange()[1]);
+  let y = pd(today).getFullYear(), m = pd(today).getMonth();
+  while (y < last.getFullYear() || (y === last.getFullYear() && m <= last.getMonth())) {
+    months.push(monthGrid(y, m, by, today));
+    if (!side && S.sel.slice(0, 7) === `${y}-${pad(m + 1)}`) months.push(panel);
+    if (++m > 11) { m = 0; y++; }
+  }
+  return side ? h('div', { class: 'calwrap' }, h('div', null, months), panel) : months;
+}
+
+// ---------- сводка недели ----------
+const CATS = [
+  ['💆', 'массажки', /массаж/i],
+  ['💋', 'поцелуйки', /поцел|kiss/i],
+  ['🫂', 'обнимашки', /обни|каддл|кадл|cuddle|тактил/i],
+  ['🔥', 'тантра', /тантр/i],
+  ['💃', 'экстатик', /экстат|ecstatic/i],
+  ['🤸', 'контактная импра', /контактн|(^|[^а-яёa-z])ки([^а-яёa-z]|$)/i],
+  ['🎭', 'импро и театр', /импро|импров|театр|плейб|клоун|спектак|перформанс|этюд|стендап/i],
+  ['🧘', 'медитации', /медитац|випассан|чаш/i],
+  ['🧖', 'бани', /бан[яиюе]|банн|парен/i],
+  ['🍵', 'чайные', /(^|[^а-яёa-z])(чайн|чаепит)|какао/i],
+  ['🌀', 'телесное', /телесн|чувствен|даос|шибари|оргазм|(^|[^а-яёa-z])сенс(?!ор)/i],
+  ['🎉', 'вечеринки', /вечеринк|night|ночь|party|(^|[^а-яёa-z])пати/i],
+  ['🎶', 'музыка и творчество', /концерт|квартирник|караоке|мантр|киртан|наброс/i],
+  ['🎓', 'лекции', /лекци|выставк/i],
+];
+function plural(n, one, few, many) {
+  const a = n % 10, b = n % 100;
+  return a === 1 && b !== 11 ? one : a >= 2 && a <= 4 && (b < 12 || b > 14) ? few : many;
+}
+function weekEvents() {
+  const { today, events } = S.data;
+  const end = pd(today); end.setDate(end.getDate() + 6);
+  return { from: today, to: iso(end), list: events.filter(e => e.date >= today && e.date <= iso(end)) };
+}
+// категории сводки: по полю cats у событий (список из данных), а для старых данных — по словам в названии
+function catDefs() {
+  if (S.data.events.some(e => Array.isArray(e.cats) && e.cats.length))
+    return S.data.cats.map(c => ({ key: c.id, ic: c.emoji || '', name: c.title || c.id,
+      test: e => Array.isArray(e.cats) && e.cats.includes(c.id) }));
+  return CATS.map(([ic, name, re]) => ({ key: name, ic, name, test: e => re.test(e.title || '') }));
+}
+function pickCat(name) {  // плитка сводки → список этой недели по категории; второй клик — сброс
+  S.cat = S.cat === name ? null : name;
+  S.tab = S.cat ? 'feed' : S.tab;
+  render();
+  const el = $main.querySelector('.catbar') || $main.querySelector('.feed');
+  if (el) el.scrollIntoView({ block: 'start', behavior: 'smooth' });
+}
+function jump(e) { S.tab = 'cal'; S.sel = e.date; render(); const el = $main.querySelector('.dh'); if (el) el.scrollIntoView({ block: 'start' }); }
+function when(e) { return dayLabel(e.date) + (e.time ? `, ${e.time}` : ''); }
+function summary() {
+  const { from, to, list } = weekEvents();
+  if (!list.length) return null;
+  const tiles = catDefs().map(c => [c.ic, c.name, list.filter(c.test).length, c.key])
+    .filter(t => t[2]).sort((a, b) => b[2] - a[2]);
+  const going = list.filter(e => e.plan === 'going');
+  const hasFit = list.some(e => Number(e.fit) > 0);
+  let rec = null;
+  if (hasFit) {
+    const pool = list.filter(e => !e.plan && e.vote !== 'down' && (Number(e.fit) || 0) >= 4)
+      .sort((a, b) => (b.fit - a.fit) || (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')));
+    const first = pool[0], second = first && pool.find(e => e.date !== first.date);
+    const pickBtn = e => h('button', { type: 'button', onclick: () => jump(e) }, `«${e.title}»`);
+    if (first) rec = h('div', { class: 'rec' }, 'Го? Рекомендую ', pickBtn(first), ` (${when(first)})`,
+      second ? [' + ', pickBtn(second), ` (${when(second)})`] : null, '.');
+  } else if (PUPA) {  // ближайшие не сегодня, с разными датами; сначала те, где указано время
+    const later = list.filter(e => e.date > S.data.today);
+    const picks = [];
+    for (const pass of [e => !!e.time, () => true])
+      for (const e of later) if (picks.length < 2 && pass(e) && !picks.some(p => p.date === e.date)) picks.push(e);
+    picks.sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')));
+    const pickBtn = e => h('button', { type: 'button', onclick: () => jump(e) }, `«${e.title}»`);
+    if (picks.length) rec = h('div', { class: 'rec' }, 'Пупа советует ', picks.map((e, i) => [i ? ' и ' : '', pickBtn(e), ` (${when(e)})`]), '.');
+  } else {
+    const byDay = {};
+    for (const e of list) byDay[e.date] = (byDay[e.date] || 0) + 1;
+    const top = Object.entries(byDay).sort((a, b) => b[1] - a[1])[0];
+    rec = h('div', { class: 'rec' }, `Самый насыщенный день — ${dayLabel(top[0])}: ${top[1]} ${plural(top[1], 'событие', 'события', 'событий')}.`);
+  }
+  const d1 = pd(from), d2 = pd(to);
+  const range = d1.getMonth() === d2.getMonth() ? `${d1.getDate()}–${d2.getDate()} ${MG[d2.getMonth()]}`
+    : `${d1.getDate()} ${MG[d1.getMonth()]} – ${d2.getDate()} ${MG[d2.getMonth()]}`;
+  return h('section', { class: 'sum' },
+    h('h2', null, `На неделе, ${range}: ${list.length} ${plural(list.length, 'событие', 'события', 'событий')}`),
+    tiles.length ? h('div', { class: 'tiles' }, tiles.map(([ic, name, n, key]) =>
+      h('button', { class: 'tile' + (S.cat === key ? ' on' : ''), type: 'button', 'aria-pressed': String(S.cat === key),
+        'data-f': 'cat:' + key, onclick: () => pickCat(key) }, h('b', null, n), `${ic} ${name}`))) : null,
+    going.length ? h('div', { class: 'rec' }, 'Уже идёшь: ', going.map((e, i) => [i ? ', ' : '', h('button', { type: 'button', onclick: () => jump(e) }, `«${e.title}»`)])) : null,
+    rec);
+}
+
+// ---------- интересы (открытое мини-приложение) ----------
+function toggleInterest(c) {
+  const on = S.interests.has(c.id);
+  const apply = () => {
+    if (on) S.interests.delete(c.id); else S.interests.add(c.id);
+    saveInterests(); setData(S.raw); render('int:' + c.id);
+  };
+  if (!on && isAdultCat(c.id)) askConfirm('Это события 18+. Тебе есть 18?', apply); else apply();
+}
+function interestBar() {
+  return [h('div', { class: 'ints', role: 'group', 'aria-label': 'Интересы' }, S.data.cats.map(c => {
+    const on = S.interests.has(c.id);
+    return h('button', { class: 'int' + (on ? ' on' : ''), type: 'button', 'aria-pressed': String(on), title: c.hint || null,
+      'data-f': 'int:' + c.id, onclick: () => toggleInterest(c) }, `${c.emoji || ''} ${c.title || c.id}`.trim());
+  })), h('div', { class: 'int-hint' }, 'Отметь, что откликается, — покажу только это.')];
+}
+
+function switchCity(code) {
+  S.city = code; S.cat = null; S.sel = null;
+  try { sessionStorage.setItem('pupa_city', code); } catch (_) {}
+  setData(S.raw); render();
+}
+
+// ---------- единая база источников ----------
+const KINDS = { folder: 'папка', extra: 'без подписки', chat: 'чат', timepad: 'сайт' };
+function ago(s) {
+  const t = ts(s); if (!t) return 'постов пока не было';
+  const d = Math.floor((Date.now() - t) / 864e5);
+  return d <= 0 ? 'пост сегодня' : d === 1 ? 'пост вчера' : `пост ${d} ${plural(d, 'день', 'дня', 'дней')} назад`;
+}
+function renderSources() {
+  const list = S.data.sources;
+  if (!list || !list.length) return h('div', { class: 'state' }, 'Список источников появится после ближайшего сбора');
+  const found = list.filter(x => x.events).length;
+  return [h('p', { class: 'note' },
+    (PUPA ? 'Адреса, которые мне посоветовали свои: мастера, пространства, сообщества. Не вся афиша подряд — только проверенное. ' : '')
+    + `${list.length} ${plural(list.length, 'источник', 'источника', 'источников')}, `
+    + `из ${found} сейчас есть события в календаре.`
+    + (PUBLIC ? '' : ' «Папка» — каналы в папке, «без подписки» — читаю по имени, «чат» — беру только длинные сообщения-анонсы.')),
+    list.map(x => h('div', { class: 'src' + (x.error ? ' err' : '') },
+      h('div', null,
+        x.username ? h('a', { href: `https://t.me/${x.username}`, onclick: ev => { ev.preventDefault(); openUrl(`https://t.me/${x.username}`); } }, x.title)
+          : x.kind === 'timepad' ? h('a', { href: 'https://afisha.timepad.ru', onclick: ev => { ev.preventDefault(); openUrl('https://afisha.timepad.ru'); } }, x.title)
+          : h('span', null, x.title),
+        PUPA && (x.kind === 'folder' || x.kind === 'extra') ? null : h('span', { class: 'k' }, KINDS[x.kind] || x.kind || ''),
+        h('div', { class: 'sub' }, x.error ? 'в прошлый раз не прочиталось' : ago(x.last_post))),
+      h('div', { class: 'n' }, h('b', null, x.events || 0), h('br'), plural(x.events || 0, 'событие', 'события', 'событий'))))];
+}
+
+function renderFeed() {
+  const { today, events } = S.data;
+  const cat = S.cat && catDefs().find(c => c.key === S.cat);
+  if (cat) {
+    const list = weekEvents().list.filter(cat.test);
+    return [h('div', { class: 'catbar' }, `${cat.ic} ${cat.name} на неделе: ${list.length}`,
+      h('button', { class: 'btn', type: 'button', onclick: () => { S.cat = null; render(); } }, 'Показать всё')),
+      list.length ? list.map(e => card(e, false)) : h('div', { class: 'state' }, 'На этой неделе такого нет')];
+  }
+  let list = events.filter(e => e.date >= today);
+  if (S.filter === 'fit') list = list.filter(e => (Number(e.fit) || 0) >= 4);
+  if (S.filter === 'going') list = list.filter(e => e.plan === 'going');
+  list = list.slice().sort((a, b) => ts(b.found) - ts(a.found));
+  const chips = !CAN_ACT ? null : h('div', { class: 'chips' }, FILTERS.map(([k, t]) =>
+    h('button', { class: 'chip' + (S.filter === k ? ' on' : ''), type: 'button', 'aria-pressed': String(S.filter === k), 'data-f': 'chip:' + k,
+      onclick: () => { S.filter = k; render(); } }, t)));
+  return [chips, list.length ? list.map(e => card(e, true)) : h('div', { class: 'state' }, PUPA ? PUPA_EMPTY : EMPTY[S.filter])];
+}
+
+function render(focusKey) {
+  const $city = document.getElementById('city');
+  if (S.cities && S.cities.length > 1) {
+    $city.className = 'cities';
+    $city.replaceChildren(...S.cities.map(([code, name]) => h('button', { type: 'button', class: S.city === code ? 'on' : '',
+      'aria-pressed': String(S.city === code), onclick: () => switchCity(code) }, name)));
+  } else $city.textContent = (S.data && S.data.city_name) || '';
+  document.querySelectorAll('.tab').forEach(b => b.classList.toggle('on', b.dataset.tab === S.tab));
+  let kids;
+  if (S.locked) kids = lockForm(S.wrong);
+  else if (!S.data) {
+    kids = S.error
+      ? h('div', { class: 'state' }, h('div', null, S.error), h('button', { class: 'btn pri', type: 'button', onclick: () => load() }, 'Повторить'))
+      : h('div', { class: 'state' }, 'Загружаю…');
+  } else kids = S.tab === 'src' ? h('div', { class: 'feed' }, renderSources())
+    : [PUPA ? interestBar() : null, summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
+  const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
+  $main.replaceChildren(...[kids].flat(Infinity).filter(x => x != null && x !== false));
+  if (fk) { const el = $main.querySelector(`[data-f="${CSS.escape(fk)}"]`); if (el) el.focus({ preventScroll: true }); }
+}
+
+document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
+  S.tab = b.dataset.tab; S.cat = null; render(); window.scrollTo(0, 0);
+}));
+document.addEventListener('keydown', ev => {
+  if (S.tab !== 'cal' || !S.data || ev.altKey || ev.ctrlKey || ev.metaKey || ev.shiftKey) return;
+  if (ev.key !== 'ArrowLeft' && ev.key !== 'ArrowRight') return;
+  if (ev.target && /^(INPUT|TEXTAREA|SELECT)$/.test(ev.target.tagName)) return;
+  const d = pd(S.sel);
+  d.setDate(d.getDate() + (ev.key === 'ArrowRight' ? 1 : -1));
+  const ds = iso(d), [lo, hi] = calRange();
+  if (ds < lo || ds > hi) return;
+  ev.preventDefault();
+  S.sel = ds; render();
+  const el = $main.querySelector(`[data-f="${CSS.escape('day:' + ds)}"]`);
+  if (el) el.focus({ preventScroll: true }), el.scrollIntoView({ block: 'nearest' });
+});
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible' && !DEMO) load(true);
+});
+
+// ---------- demo mode (?demo=1) ----------
+function demoState() {
+  const now = new Date();
+  const day = n => iso(new Date(now.getFullYear(), now.getMonth(), now.getDate() + n));
+  const ago = hrs => new Date(now.getTime() - hrs * 3600e3).toISOString();
+  const ev = (key, n, title, o) => Object.assign({ key, date: day(n), title, time: null, place: null, price: null, why: '', fit: 3,
+    link: 'https://t.me/spb_events/100', source: 'Пост в канале', signup_url: null, found: ago(48), sent: false,
+    plan: null, in_calendar: false, vote: null }, o);
+  const tp = { link: 'https://spb.timepad.ru/event/3123456/', source: 'Страница на Таймпаде' };
+  return { city: 'spb', city_name: 'Петербург', today: day(0), events: [
+    ev('d0', -3, 'Мужской круг: про злость', { time: '19:30', place: 'Пространство «Точка», Лиговский 50', plan: 'going', sent: true, fit: 4, found: ago(120) }),
+    ev('d1', 0, 'Контактная импровизация: открытый джем', Object.assign({ time: '20:00', place: 'Студия «Дом танца», ул. Рубинштейна 8', price: '700 ₽',
+      why: 'Ты любишь джемы без жёсткой программы — тут как раз свободный формат.', fit: 4, found: ago(3), signup_url: 'https://spb.timepad.ru/event/3123456/' }, tp)),
+    ev('d2', 2, 'Ecstatic Dance с Dj Ivan Suvorov', { time: '17:30', place: 'Лофт «Кирпич», наб. Обводного канала 74', price: '1500 ₽',
+      why: 'Экстатик с живым диджеем, которого ты уже отмечал.',
+      details: 'Три часа свободного танца без алкоголя и разговоров.\nНачало с короткой разминки и настройки.\nПотом волна: от медленного к пиковому и обратно.\nВ конце — шавасана и чай.\nВзять удобную одежду и воду.', fit: 5, plan: 'going', in_calendar: true, sent: true, vote: 'up',
+      link: 'https://t.me/ecstaticspb/412', found: ago(30), signup_url: 'https://t.me/ivan_suvorov_dj' }),
+    ev('d3', 2, 'Чайная церемония и разговор о тишине', { time: '12:00', price: 'донейшн', fit: 2, found: ago(70) }),
+    ev('d4', 5, 'Тантра-практикум для начинающих', { place: 'Центр «Прана», Невский 102', price: 'по донейшн',
+      why: 'Мягкий вход в тантру, без эзотерики, с телесными практиками.',
+      details: 'Ведущая — Анна, 10 лет практики.\nРабота в парах по желанию, можно прийти одному.\nОдежда закрытая, практики без раздевания.', fit: 4, sent: true, found: ago(10) }),
+    ev('d5', 8, 'Спектакль «Сны Ивана» в иммерсивном театре', Object.assign({ time: '19:00', place: 'Театр «Сфера», Гороховая 33', price: 'от 2200 ₽',
+      why: 'Иммерсивный театр с участием зрителя.', fit: 3, vote: 'down', found: ago(52) }, tp)),
+    ev('d6', 12, 'Звуковая медитация с гонгами', { time: '11:00', place: 'Йога-студия «Луч»', price: '900 ₽', fit: 2, found: ago(90) }),
+    ev('d7', 16, 'Ecstatic Dance: зимний сезон открыт', { time: '18:00', place: 'Лофт «Кирпич»', price: '1500 ₽', fit: 5, plan: 'going', sent: true,
+      why: 'Тот же лофт и та же команда, что тебе понравились.', found: ago(1) }),
+    ev('d8', 20, 'Дыхательная практика и чай после', { time: '11:00', place: 'Пространство «Тихо», Васильевский остров', price: '1000 ₽', fit: 3, found: ago(6) })
+  ] };
+}
+function demoReply(path) {
+  const msg = { 'api/go': 'Отметила. Подробности и «В календарь» — в чате с ботом', 'api/skip': 'Убрала из планов' };
+  return new Promise(res => setTimeout(() => res({ ok: true, status: 'new', message: msg[path] }), 350));
+}
+
+load();
+</script>
+</body>
+</html>
