@@ -88,6 +88,8 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .lock{max-width:340px;margin:56px auto;display:flex;flex-direction:column;gap:10px;text-align:center}
 .lock input{min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:10px;font-size:16px}
 .mine{margin-left:auto;font-size:13px;color:var(--muted);text-decoration:none}
+.brand .home{cursor:pointer}
+.brand .home:hover{opacity:.8}
 .badge.a18{background:none;border:1px solid var(--line);color:#a1a1a6;font-size:11px;padding:1px 7px}
 .ints .n{margin-left:6px;font-size:12px;color:var(--muted);font-weight:700}
 .int.on .n{color:inherit}
@@ -756,7 +758,8 @@ function render(focusKey) {
     kids = S.error
       ? h('div', { class: 'state' }, h('div', null, S.error), h('button', { class: 'btn pri', type: 'button', onclick: () => load() }, 'Повторить'))
       : h('div', { class: 'state' }, 'Загружаю…');
-  } else kids = S.tab === 'src' ? h('div', { class: 'feed' }, PUPA ? renderAbout() : renderSources())
+  } else kids = S.tab === 'about' ? h('div', { class: 'feed' }, renderAbout())
+    : S.tab === 'src' ? h('div', { class: 'feed' }, PUPA ? renderAbout() : renderSources())
     : [PUPA ? interestBar() : null, summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
   const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
   if (PUPA && S.data) kids = [kids, footer()];
@@ -764,6 +767,13 @@ function render(focusKey) {
   if (fk) { const el = $main.querySelector(`[data-f="${CSS.escape(fk)}"]`); if (el) el.focus({ preventScroll: true }); }
 }
 
+// аватар и «пупа» в шапке — открывают «О пупе»
+document.querySelectorAll('.brand .ava, .brand b').forEach(el => {
+  el.classList.add('home'); el.setAttribute('role', 'button'); el.setAttribute('tabindex', '0'); el.setAttribute('title', 'О пупе');
+  const open = () => { S.tab = PUPA ? 'src' : 'about'; S.cat = null; render(); window.scrollTo(0, 0); };
+  el.addEventListener('click', open);
+  el.addEventListener('keydown', ev => { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); open(); } });
+});
 document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
   S.tab = b.dataset.tab; S.cat = null; render(); window.scrollTo(0, 0);
 }));
