@@ -108,6 +108,8 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .bubble .pick{border:0;background:none;padding:0;font:inherit;font-weight:600;color:var(--accent-dark);text-decoration:underline;text-underline-offset:2px;cursor:pointer;text-align:left}
 .author a{color:var(--muted);text-decoration:none}
 .author a:hover{color:var(--accent-dark);text-decoration:underline;text-underline-offset:2px}
+.ch-right{display:inline-flex;align-items:center;gap:8px;flex:none}
+.ch-right .fit{padding-top:0}
 .badge.a18{background:none;border:1px solid var(--line);color:#a1a1a6;font-size:11px;padding:1px 7px}
 .ints .n{margin-left:6px;font-size:12px;color:var(--muted);font-weight:700}
 .int.on .n{color:inherit}
@@ -526,8 +528,10 @@ function card(e, inFeed) {
   return h('article', { class: 'card' + (past ? ' past' : '') }, thumb,
     h('div', { class: 'ch' },
       h('h3', null, e.title || 'Без названия'),
-      fit ? h('span', { class: 'fit', title: `подходит на ${fit} из 5`, 'aria-label': `подходит на ${fit} из 5` },
-        [1, 2, 3, 4, 5].map(i => h('i', { class: i <= fit ? 'on' : '' }))) : null),
+      fit || e.adult ? h('span', { class: 'ch-right' },
+        e.adult ? h('span', { class: 'badge a18', title: 'для взрослых' }, '18+') : null,
+        fit ? h('span', { class: 'fit', title: `подходит на ${fit} из 5`, 'aria-label': `подходит на ${fit} из 5` },
+          [1, 2, 3, 4, 5].map(i => h('i', { class: i <= fit ? 'on' : '' }))) : null) : null),
     h('div', { class: 'meta' }, dayLabel(e.date) + (e.time ? `, ${e.time}` : '')),
     e.place ? h('div', { class: 'sub' }, e.place) : null,
     e.price ? h('div', { class: 'sub' }, e.price) : null,
@@ -538,7 +542,6 @@ function card(e, inFeed) {
     e.why ? h('div', { class: 'why' }, e.why) : null,
     h('div', { class: 'badges' },
       isNew ? h('span', { class: 'badge new' }, 'новое') : null,
-      e.adult ? h('span', { class: 'badge a18', title: 'для взрослых' }, '18+') : null,
       going ? h('span', { class: 'badge go' }, '✓ Иду') : null,
       going && e.in_calendar ? h('span', { class: 'badge go' }, 'в календаре') : null,
       e.sent ? h('span', { class: 'badge' }, 'пришло в чат') : null),
