@@ -40,9 +40,9 @@
   },
   {
    "id": "circles",
-   "emoji": "🫶",
-   "title": "Круги и сообщества",
-   "hint": "круги, Диалог Бома, Death Cafe, коммуны"
+   "emoji": "💬",
+   "title": "Разговоры и круги",
+   "hint": "круги, Диалог Бома, Death Cafe, клубы историй, поэтические вечера"
   }
  ],
  "cities": {
@@ -171,8 +171,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "circles"
+      "body"
      ],
      "adult": true,
      "image": null,
@@ -674,8 +673,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "circles"
+      "body"
      ],
      "adult": true,
      "image": null,
@@ -697,8 +695,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "circles"
+      "body"
      ],
      "adult": true,
      "image": null,
@@ -1297,8 +1294,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre",
-      "circles"
+      "theatre"
      ],
      "adult": false,
      "image": null,
@@ -1345,7 +1341,6 @@
      "signup_url": null,
      "cats": [
       "body",
-      "circles",
       "music"
      ],
      "adult": false,
@@ -1665,8 +1660,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance",
-      "circles"
+      "dance"
      ],
      "adult": false,
      "image": null,
@@ -1688,8 +1682,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "circles"
+      "body"
      ],
      "adult": true,
      "image": null,
@@ -1802,8 +1795,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "circles"
+      "body"
      ],
      "adult": true,
      "image": null,
@@ -2328,7 +2320,7 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "circles"
+      "body"
      ],
      "adult": false,
      "image": null,
@@ -2462,8 +2454,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "circles",
-      "music"
+      "circles"
      ],
      "adult": false,
      "image": null,
@@ -2796,7 +2787,7 @@
      "signup_url": null,
      "cats": [
       "body",
-      "circles"
+      "theatre"
      ],
      "adult": false,
      "image": null,
@@ -2863,7 +2854,7 @@
      "signup_url": null,
      "cats": [
       "body",
-      "circles"
+      "dance"
      ],
      "adult": true,
      "image": null,
@@ -3311,7 +3302,7 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "circles"
+      "body"
      ],
      "adult": false,
      "image": null,
@@ -3689,8 +3680,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "circles"
+      "body"
      ],
      "adult": false,
      "image": null,
