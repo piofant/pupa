@@ -407,6 +407,9 @@ function setData(d) {
   S.catsMeta = (d && Array.isArray(d.cats) && d.cats.length ? d.cats : DEFAULT_CATS).filter(c => c && catId(c.id));
   S.data = { city_name: cur.name || '', today, events: PUPA ? events.filter(e => interestOk(e) && (!S.free || isFree(e))) : events, all: events, cats: S.catsMeta,
     sources: Array.isArray(cur.sources) ? cur.sources : null };
+  if (!S.sel && PUPA && isDate(HASH.get('d')) && HASH.get('d') >= today) {  // «Подробнее» из наджа
+    S.sel = HASH.get('d'); S.free = false;  // событие из наджа не прячем фильтром «Бесплатно»
+  }
   if (!S.sel || !isDate(S.sel) || S.sel.slice(0, 7) < today.slice(0, 7)) S.sel = defaultDay();
 }
 function defaultDay() {
@@ -533,7 +536,7 @@ function renderCal() {
   let y = pd(today).getFullYear(), m = pd(today).getMonth(), first = true;
   while (y < last.getFullYear() || (y === last.getFullYear() && m <= last.getMonth())) {
     const ym = `${y}-${pad(m + 1)}`;
-    if (first || S.openMonths.has(ym) || S.sel.slice(0, 7) === ym) {  // следующие месяцы — под катом
+    if (!PUPA || first || S.openMonths.has(ym) || S.sel.slice(0, 7) === ym) {  // в открытой пупе — следующие месяцы под катом
       months.push(monthGrid(y, m, by, today));
       if (!side && S.sel.slice(0, 7) === ym) months.push(panel);
     } else {
@@ -755,7 +758,7 @@ function render(focusKey) {
   } else kids = S.tab === 'src' ? h('div', { class: 'feed' }, PUPA ? renderAbout() : renderSources())
     : [PUPA ? interestBar() : null, summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
   const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
-  if (PUBLIC && S.data) kids = [kids, footer()];
+  if (PUPA && S.data) kids = [kids, footer()];
   $main.replaceChildren(...[kids].flat(Infinity).filter(x => x != null && x !== false));
   if (fk) { const el = $main.querySelector(`[data-f="${CSS.escape(fk)}"]`); if (el) el.focus({ preventScroll: true }); }
 }

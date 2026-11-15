@@ -431,6 +431,28 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "30e609049ac4",
+     "title": "Анти-кафе Playground и практикум «Шибари+»",
+     "date": "2026-11-19",
+     "time": "20:00",
+     "place": "Анти-кафе Playground",
+     "price": "М 1200 ₽, Ж 800 ₽ (в день встречи +200 ₽)",
+     "link": "https://t.me/playground_spb/4379",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft",
+      "tantra"
+     ],
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "30e609049ac4"
+     ],
+     "found": "2026-11-15T23:23:11+03:00"
+    },
+    {
      "key": "da84a06d3efa",
      "title": "Анти-кафе Playground с практикумом Шибари+",
      "date": "2026-11-19",
@@ -448,8 +470,7 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "da84a06d3efa",
-      "30e609049ac4"
+      "da84a06d3efa"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1015,6 +1036,27 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "8b56bf4eeb08",
+     "title": "Shadow Ecstatic Dance",
+     "date": "2026-11-22",
+     "time": "17:30",
+     "place": "Кадетская линия, 5 к2Д",
+     "price": "1900–2500 ₽",
+     "link": "https://t.me/shadow_ecstatic/414",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8b56bf4eeb08"
+     ],
+     "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
      "key": "944db557e4f6",
      "title": "Shadow Ecstatic Dance: себе нежно",
      "date": "2026-11-22",
@@ -1031,8 +1073,7 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "944db557e4f6",
-      "8b56bf4eeb08"
+      "944db557e4f6"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1867,6 +1908,20 @@
      "events": 3
     },
     {
+     "title": "Playground.SPb 18+",
+     "username": "playground_spb",
+     "kind": "folder",
+     "last_post": "2026-11-15T21:00:53+03:00",
+     "events": 2
+    },
+    {
+     "title": "SHADOW ECSTATIC DANCE SPB",
+     "username": "shadow_ecstatic",
+     "kind": "extra",
+     "last_post": null,
+     "events": 2
+    },
+    {
      "title": "Школа КИ и Перфоманса СПБ",
      "username": "cischoolspb",
      "kind": "extra",
@@ -1881,23 +1936,9 @@
      "events": 1
     },
     {
-     "title": "Playground.SPb 18+",
-     "username": "playground_spb",
-     "kind": "folder",
-     "last_post": "2026-11-15T21:00:53+03:00",
-     "events": 1
-    },
-    {
      "title": "Sensual Party 5 декабря",
      "username": "sensualparty",
      "kind": "folder",
-     "last_post": null,
-     "events": 1
-    },
-    {
-     "title": "SHADOW ECSTATIC DANCE SPB",
-     "username": "shadow_ecstatic",
-     "kind": "extra",
      "last_post": null,
      "events": 1
     },
@@ -2333,10 +2374,31 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "9476226abb62",
-      "0aefe43ecfd9"
+      "9476226abb62"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "0aefe43ecfd9",
+     "title": "Поэтический вечер в Норе",
+     "date": "2026-11-18",
+     "time": "19:00",
+     "place": "Пространство Нора",
+     "price": null,
+     "link": "https://t.me/LoftNora/1550",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles",
+      "music"
+     ],
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0aefe43ecfd9"
+     ],
+     "found": "2026-11-15T23:28:44+03:00"
     },
     {
      "key": "d1ea55df7c00",
@@ -4235,7 +4297,7 @@
      "username": "LoftNora",
      "kind": "folder",
      "last_post": "2026-11-15T18:18:57+03:00",
-     "events": 3
+     "events": 4
     },
     {
      "title": "Sense Cuddle Канал",
