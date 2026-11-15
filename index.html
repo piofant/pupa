@@ -803,10 +803,10 @@ function render(focusKey) {
   if (fk) { const el = $main.querySelector(`[data-f="${CSS.escape(fk)}"]`); if (el) el.focus({ preventScroll: true }); }
 }
 
-// аватар и «пупа» в шапке — открывают «О пупе»
+// аватар и «пупа» в шапке — домой, на календарь
 document.querySelectorAll('.brand .ava, .brand b').forEach(el => {
-  el.classList.add('home'); el.setAttribute('role', 'button'); el.setAttribute('tabindex', '0'); el.setAttribute('title', 'О пупе');
-  const open = () => { S.tab = PUPA ? 'src' : 'about'; S.cat = null; render(); window.scrollTo(0, 0); };
+  el.classList.add('home'); el.setAttribute('role', 'button'); el.setAttribute('tabindex', '0'); el.setAttribute('title', 'Календарь');
+  const open = () => { S.tab = 'cal'; S.cat = null; render(); window.scrollTo(0, 0); };
   el.addEventListener('click', open);
   el.addEventListener('keydown', ev => { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); open(); } });
 });
