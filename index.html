@@ -664,24 +664,6 @@ function toggleInterest(c) {
   };
   apply();
 }
-function interestBar() {
-  // один ряд: интересы со счётчиком событий недели (вместо отдельных плиток в сводке) + «Бесплатно»
-  const { from, to } = weekEvents();
-  const week = (S.data.all || []).filter(e => e.date >= from && e.date <= to);
-  const count = id => week.filter(e => (e.cats || []).includes(id)).length;
-  const chips = S.data.cats.map(c => {
-    const on = S.interests.has(c.id), n = count(c.id);
-    return h('button', { class: 'int' + (on ? ' on' : ''), type: 'button', 'aria-pressed': String(on), title: c.hint || null,
-      'data-f': 'int:' + c.id, onclick: () => toggleInterest(c) }, `${c.emoji || ''} ${c.title || c.id}`.trim(),
-      n ? h('b', { class: 'n' }, n) : null);
-  });
-  chips.push(h('button', { class: 'int free' + (S.free ? ' on' : ''), type: 'button', 'aria-pressed': String(S.free),
-    'data-f': 'free', onclick: () => { S.free = !S.free; try { localStorage.setItem('pupa_free', S.free ? '1' : '0'); } catch (_) {}
-      setData(S.raw); render('free'); } }, '🎁 Бесплатно'));
-  return [h('div', { class: 'ints', role: 'group', 'aria-label': 'Интересы' }, chips),
-    h('div', { class: 'int-hint' }, 'Отметь, что откликается, — покажу только это. Цифры — сколько событий на неделе.')];
-}
-
 function switchCity(code) {
   S.city = code; S.cat = null; S.sel = null;
   try { sessionStorage.setItem('pupa_city', code); } catch (_) {}
