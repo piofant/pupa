@@ -148,6 +148,7 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
   .ints{flex-wrap:wrap;overflow:visible}
   .btn.pri:hover{background:var(--accent-dark)}
   .feed{max-width:760px;margin:0 auto}
+  .day.past{min-height:52px}  /* прошедшие дни — низкой строкой */
   .sum{max-width:760px}  /* сводка — компактной карточкой, а не на всю ширину */
 }
 @media (min-width:1000px){
@@ -514,8 +515,12 @@ function monthGrid(y, m, by, today) {
   const g = h('div', { class: 'grid' }, WD_MON.map((w, i) => h('div', { class: 'wd' + (i > 4 ? ' we' : '') }, w)));
   const off = (new Date(y, m, 1).getDay() + 6) % 7;
   const n = new Date(y, m + 1, 0).getDate();
-  for (let i = 0; i < off; i++) g.append(h('div', { class: 'blank' + (i > 4 ? ' we' : '') }));
+  // прошлое — не больше одной строки: сетка начинается с прошлой недели (с понедельника неделю назад)
+  const t = pd(today), from = new Date(t.getFullYear(), t.getMonth(), t.getDate() - ((t.getDay() + 6) % 7) - 7);
+  const skipRows = from.getFullYear() === y && from.getMonth() === m ? Math.floor((off + from.getDate() - 1) / 7) : 0;
+  for (let i = 0; i < off; i++) if (skipRows === 0) g.append(h('div', { class: 'blank' + (i > 4 ? ' we' : '') }));
   for (let d = 1; d <= n; d++) {
+    if (Math.floor((off + d - 1) / 7) < skipRows) continue;
     const ds = `${y}-${pad(m + 1)}-${pad(d)}`;
     const evs = by[ds] || [];
     const going = evs.some(e => e.plan === 'going');
