@@ -67,7 +67,10 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .ints::-webkit-scrollbar{display:none}
 .int{flex:none;min-height:36px;padding:0 12px;border-radius:18px;border:1px solid var(--line);background:#fff;white-space:nowrap;font-size:13px}
 .int.on{background:var(--lime);border-color:#a9d40f;color:var(--lime-ink);font-weight:600}
-.int-hint{font-size:13px;color:var(--muted);padding:2px 4px 0}
+.int-hint{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--muted);padding:2px 4px 0}
+.adult{border:1px solid var(--line);background:#fff;border-radius:14px;padding:2px 10px;min-height:28px;font-size:12px;color:var(--fg)}
+.adult.off{color:var(--muted);text-decoration:line-through}
+.badge.a18{background:#fde4f2;color:var(--accent-dark);font-weight:700}
 .link{border:0;background:none;padding:0;min-height:40px;color:var(--accent-dark);font-size:14px;font-weight:600}
 .badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .badges:empty{display:none}
@@ -188,9 +191,7 @@ S.interests = new Set();
 if (PUPA) {
   const hi = HASH.get('i');
   if (hi != null) {
-    // 18+ из ссылки — только если на этом устройстве уже подтверждали возраст (ссылку могли переслать)
-    let adultOk = false; try { adultOk = localStorage.getItem('pupa_adult_ok') === '1'; } catch (_) {}
-    S.interests = new Set(hi.split(',').map(s => s.trim()).filter(catId).filter(c => adultOk || c !== 'tantra'));
+    S.interests = new Set(hi.split(',').map(s => s.trim()).filter(catId));
     saveInterests();
   }
   else try { const a = JSON.parse(localStorage.getItem('pupa_interests') || '[]'); if (Array.isArray(a)) S.interests = new Set(a.filter(catId)); } catch (_) {}
@@ -203,11 +204,19 @@ function isAdultCat(id) {
   return c && c.adult != null ? !!c.adult : id === 'tantra';
 }
 // событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё, кроме 18+); 18+ — только если выбрано явно
+// 18+ видно по умолчанию; скрыть — переключателем «🔞 18+» (запоминается на устройстве)
+S.hideAdult = (() => { try { return localStorage.getItem('pupa_hide_adult') === '1'; } catch (_) { return false; } })();
+const isAdult = e => Array.isArray(e.cats) && e.cats.some(isAdultCat);
 function interestOk(e) {
   const cats = Array.isArray(e.cats) ? e.cats : [];
-  if (!cats.length) return false;  // без категорий не знаем, не 18+ ли это, — не показываем
-  if (cats.some(c => isAdultCat(c) && !S.interests.has(c))) return false;
+  if (!cats.length) return false;  // без категорий не знаем, что это, — не показываем
+  if (S.hideAdult && isAdult(e)) return false;
   return !S.interests.size || cats.some(c => S.interests.has(c));
+}
+function toggleAdult() {
+  S.hideAdult = !S.hideAdult;
+  try { localStorage.setItem('pupa_hide_adult', S.hideAdult ? '1' : '0'); } catch (_) {}
+  setData(S.raw); render('adult');
 }
 // мини-приложение читает данные, выложенные раз в час: свои нажатия держим поверх них 3 часа
 const LOCAL_TTL = 3 * 3600e3;
@@ -471,6 +480,7 @@ function card(e, inFeed) {
       onclick: () => { S.open.has(e.key) ? S.open.delete(e.key) : S.open.add(e.key); render(); } }, open ? 'Свернуть' : 'Подробнее') : null,
     h('div', { class: 'badges' },
       isNew ? h('span', { class: 'badge new' }, 'новое') : null,
+      PUPA && isAdult(e) ? h('span', { class: 'badge a18' }, '18+') : null,
       going ? h('span', { class: 'badge go' }, '✓ Иду') : null,
       going && e.in_calendar ? h('span', { class: 'badge go' }, 'в календаре') : null,
       e.sent ? h('span', { class: 'badge' }, 'пришло в чат') : null),
@@ -621,15 +631,16 @@ function toggleInterest(c) {
     if (on) S.interests.delete(c.id); else S.interests.add(c.id);
     saveInterests(); setData(S.raw); render('int:' + c.id);
   };
-  const adultYes = () => { try { localStorage.setItem('pupa_adult_ok', '1'); } catch (_) {} apply(); };
-  if (!on && isAdultCat(c.id)) askConfirm('Это события 18+. Тебе есть 18?', adultYes); else apply();
+  apply();
 }
 function interestBar() {
   return [h('div', { class: 'ints', role: 'group', 'aria-label': 'Интересы' }, S.data.cats.map(c => {
     const on = S.interests.has(c.id);
     return h('button', { class: 'int' + (on ? ' on' : ''), type: 'button', 'aria-pressed': String(on), title: c.hint || null,
       'data-f': 'int:' + c.id, onclick: () => toggleInterest(c) }, `${c.emoji || ''} ${c.title || c.id}`.trim());
-  })), h('div', { class: 'int-hint' }, 'Отметь, что откликается, — покажу только это.')];
+  })), h('div', { class: 'int-hint' }, 'Отметь, что откликается, — покажу только это.',
+    h('button', { class: 'adult' + (S.hideAdult ? ' off' : ''), type: 'button', 'aria-pressed': String(!S.hideAdult),
+      'data-f': 'adult', onclick: toggleAdult }, S.hideAdult ? '🔞 18+ скрыто' : '🔞 18+ показываю'))];
 }
 
 function switchCity(code) {
