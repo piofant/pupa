@@ -88,6 +88,7 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .lock{max-width:340px;margin:56px auto;display:flex;flex-direction:column;gap:10px;text-align:center}
 .lock input{min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:10px;font-size:16px}
 .mine{margin-left:auto;font-size:13px;color:var(--muted);text-decoration:none}
+.badge.a18{background:none;border:1px solid var(--line);color:#a1a1a6;font-size:11px;padding:1px 7px}
 .ints .n{margin-left:6px;font-size:12px;color:var(--muted);font-weight:700}
 .int.on .n{color:inherit}
 .monthcut{display:block;width:100%;margin:14px 0 4px;padding:12px;border:1px dashed #f1c9a6;border-radius:12px;background:var(--accent-soft);color:var(--accent-dark);font-weight:600;font-size:14px}
@@ -132,6 +133,7 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
   .ints{flex-wrap:wrap;overflow:visible}
   .btn.pri:hover{background:var(--accent-dark)}
   .feed{max-width:760px;margin:0 auto}
+  .sum{max-width:760px}  /* сводка — компактной карточкой, а не на всю ширину */
 }
 @media (min-width:1000px){
   .calwrap{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:28px;align-items:start}
@@ -190,8 +192,7 @@ const DEFAULT_CATS = [
   { id: 'music', emoji: '🎶', title: 'Музыка' },
   { id: 'craft', emoji: '🎨', title: 'Творчество' },
   { id: 'calm', emoji: '🧘', title: 'Тишина и медитации' },
-  { id: 'circles', emoji: '🗣', title: 'Круги и встречи' },
-  { id: 'tantra', emoji: '🔥', title: 'Тантра и чувственность' }
+  { id: 'circles', emoji: '🗣', title: 'Круги и встречи' }
 ];
 const catId = s => typeof s === 'string' && /^[a-z0-9_-]{1,32}$/.test(s);
 S.interests = new Set();
@@ -210,7 +211,7 @@ function saveInterests() { try { localStorage.setItem('pupa_interests', JSON.str
 const isFree = e => /бесплат|free|свободн\S* вход|вход свободн|донат|donat|по желанию|^\s*0\s*(₽|руб)/i.test(e.price || '');
 S.free = (() => { try { return localStorage.getItem('pupa_free') === '1'; } catch (_) { return false; } })();
 S.openMonths = new Set();
-// событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё); тантра — как все категории
+// событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё); тантрическое — в «Телесном», с тихой меткой 18+
 function interestOk(e) {
   const cats = Array.isArray(e.cats) ? e.cats : [];
   if (!cats.length) return false;  // без категорий не знаем, что это, — не показываем
@@ -482,6 +483,7 @@ function card(e, inFeed) {
       onclick: () => { S.open.has(e.key) ? S.open.delete(e.key) : S.open.add(e.key); render(); } }, open ? 'Свернуть' : 'Подробнее') : null,
     h('div', { class: 'badges' },
       isNew ? h('span', { class: 'badge new' }, 'новое') : null,
+      e.adult ? h('span', { class: 'badge a18', title: 'для взрослых' }, '18+') : null,
       going ? h('span', { class: 'badge go' }, '✓ Иду') : null,
       going && e.in_calendar ? h('span', { class: 'badge go' }, 'в календаре') : null,
       e.sent ? h('span', { class: 'badge' }, 'пришло в чат') : null),
@@ -556,7 +558,6 @@ const CATS = [
   ['💆', 'массажки', /массаж/i],
   ['💋', 'поцелуйки', /поцел|kiss/i],
   ['🫂', 'обнимашки', /обни|каддл|кадл|cuddle|тактил/i],
-  ['🔥', 'тантра', /тантр/i],
   ['💃', 'экстатик', /экстат|ecstatic/i],
   ['🤸', 'контактная импра', /контактн|(^|[^а-яёa-z])ки([^а-яёa-z]|$)/i],
   ['🎭', 'импро и театр', /импро|импров|театр|плейб|клоун|спектак|перформанс|этюд|стендап/i],
