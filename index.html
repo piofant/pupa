@@ -818,7 +818,8 @@ function render(focusKey) {
       : h('div', { class: 'state' }, 'Загружаю…');
   } else kids = S.tab === 'about' ? h('div', { class: 'feed' }, renderAbout())
     : S.tab === 'src' ? h('div', { class: 'feed' }, PUPA ? renderAbout() : renderSources())
-    : [summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
+    : S.tab === 'cal' ? [summary(), renderCal()]
+    : h('div', { class: 'feed' }, summary(), renderFeed());  // в ленте сводка — в той же колонке, что и карточки
   const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
   if (PUPA && S.data) kids = [kids, footer()];
   $main.replaceChildren(...[kids].flat(Infinity).filter(x => x != null && x !== false));
