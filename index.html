@@ -90,6 +90,8 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .mine{margin-left:auto;font-size:13px;color:var(--muted);text-decoration:none}
 .brand .home{cursor:pointer}
 .brand .home:hover{opacity:.8}
+.card .thumb{float:right;width:88px;height:88px;object-fit:cover;border-radius:10px;margin:0 0 8px 12px;background:var(--soft)}
+.card .acts{clear:both}
 .badge.a18{background:none;border:1px solid var(--line);color:#a1a1a6;font-size:11px;padding:1px 7px}
 .ints .n{margin-left:6px;font-size:12px;color:var(--muted);font-weight:700}
 .int.on .n{color:inherit}
@@ -216,6 +218,7 @@ function saveInterests() { try { localStorage.setItem('pupa_interests', JSON.str
 const isFree = e => /бесплат|free|свободн\S* вход|вход свободн|донат|donat|по желанию|^\s*0\s*(₽|руб)/i.test(e.price || '');
 S.free = (() => { try { return localStorage.getItem('pupa_free') === '1'; } catch (_) { return false; } })();
 S.openMonths = new Set();
+S.badImg = new Set();  // картинки, которые не загрузились, — больше не пробуем
 // событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё); тантрическое — в «Телесном», с тихой меткой 18+
 function interestOk(e) {
   const cats = Array.isArray(e.cats) ? e.cats : [];
@@ -470,7 +473,11 @@ function card(e, inFeed) {
       'aria-pressed': String(e.vote === 'down'), disabled: busy, 'data-f': 'down:' + e.key, onclick: () => vote(e, 'down') }, '👎'));
   if (e.link) acts.push(h('button', { class: 'btn', type: 'button', title: e.source || '', onclick: () => openUrl(e.link) }, 'Источник'));
   if (e.signup_url) acts.push(h('button', { class: 'btn', type: 'button', onclick: () => openUrl(e.signup_url) }, 'Записаться'));
-  return h('article', { class: 'card' + (past ? ' past' : '') },
+  // превью — сразу в карточке, ссылкой (картинка с CDN Telegram/Таймпада); у 18+ — только под катом
+  const thumb = e.image && /^https:\/\//.test(e.image) && !e.adult && !S.badImg.has(e.image)
+    ? h('img', { class: 'thumb', src: e.image, alt: '', loading: 'lazy', referrerpolicy: 'no-referrer',
+        onerror: ev => { S.badImg.add(e.image); ev.target.remove(); } }) : null;
+  return h('article', { class: 'card' + (past ? ' past' : '') }, thumb,
     h('div', { class: 'ch' },
       h('h3', null, e.title || 'Без названия'),
       fit ? h('span', { class: 'fit', title: `подходит на ${fit} из 5`, 'aria-label': `подходит на ${fit} из 5` },
