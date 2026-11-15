@@ -68,9 +68,6 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .int{flex:none;min-height:36px;padding:0 12px;border-radius:18px;border:1px solid var(--line);background:#fff;white-space:nowrap;font-size:13px}
 .int.on{background:var(--lime);border-color:#a9d40f;color:var(--lime-ink);font-weight:600}
 .int-hint{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--muted);padding:2px 4px 0}
-.adult{border:1px solid var(--line);background:#fff;border-radius:14px;padding:2px 10px;min-height:28px;font-size:12px;color:var(--fg)}
-.adult.off{color:var(--muted);text-decoration:line-through}
-.badge.a18{background:#fde4f2;color:var(--accent-dark);font-weight:700}
 .link{border:0;background:none;padding:0;min-height:40px;color:var(--accent-dark);font-size:14px;font-weight:600}
 .badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .badges:empty{display:none}
@@ -91,6 +88,15 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .lock{max-width:340px;margin:56px auto;display:flex;flex-direction:column;gap:10px;text-align:center}
 .lock input{min-height:44px;padding:0 12px;border:1px solid var(--line);border-radius:10px;font-size:16px}
 .mine{margin-left:auto;font-size:13px;color:var(--muted);text-decoration:none}
+.ints .n{margin-left:6px;font-size:12px;color:var(--muted);font-weight:700}
+.int.on .n{color:inherit}
+.monthcut{display:block;width:100%;margin:14px 0 4px;padding:12px;border:1px dashed #cfe58a;border-radius:12px;background:var(--lime-soft);color:var(--lime-ink);font-weight:600;font-size:14px}
+.foot{margin:28px 4px 8px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
+.foot a,.about a{color:var(--accent-dark)}
+.about{max-width:640px;margin:8px auto;line-height:1.5}
+.about h3{margin:18px 0 6px;font-size:16px}
+.about-head{display:flex;align-items:center;gap:12px}
+.ava.big{width:64px;height:64px}
 .sum{border-radius:14px;padding:12px 14px;margin:10px 0 4px;background:var(--lime-soft);box-shadow:inset 0 0 0 1.5px #dcf38a}
 .sum h2{margin:0 0 8px;font-size:15px}
 .tiles{display:flex;flex-wrap:wrap;gap:6px}
@@ -172,6 +178,7 @@ const APP_KEY = PUBLIC ? HASH.get('k') : null;
 const BOT = document.documentElement.dataset.bot || 'puppa_luppa_bot';
 const CAN_ACT = !PUBLIC || !!APP_KEY;
 if (APP_KEY) document.querySelectorAll('.mine').forEach(a => a.remove());
+if (PUBLIC && !LOCKED && !APP_KEY) { const t = document.querySelector('.tab[data-tab="src"]'); if (t) t.textContent = 'О пупе'; }
 // открытое мини-приложение «Пупа» (piofant.github.io/pupa): events.json без шифра, интересы из #i=…&c=…, без действий
 const PUPA = PUBLIC && !LOCKED && !APP_KEY;
 const PUPA_EMPTY = 'В моих адресах на эти дни тихо. Загляну ещё — новые анонсы появляются каждый день.';
@@ -184,7 +191,7 @@ const DEFAULT_CATS = [
   { id: 'craft', emoji: '🎨', title: 'Творчество' },
   { id: 'calm', emoji: '🧘', title: 'Тишина и медитации' },
   { id: 'circles', emoji: '🗣', title: 'Круги и встречи' },
-  { id: 'tantra', emoji: '🔥', title: 'Тантра и чувственность', adult: true }
+  { id: 'tantra', emoji: '🔥', title: 'Тантра и чувственность' }
 ];
 const catId = s => typeof s === 'string' && /^[a-z0-9_-]{1,32}$/.test(s);
 S.interests = new Set();
@@ -199,25 +206,17 @@ if (PUPA) {
   if (hc && catId(hc)) { S.city = hc; try { sessionStorage.setItem('pupa_city', hc); } catch (_) {} }
 }
 function saveInterests() { try { localStorage.setItem('pupa_interests', JSON.stringify([...S.interests])); } catch (_) {} }
-function isAdultCat(id) {
-  const c = (S.catsMeta || DEFAULT_CATS).find(x => x.id === id);
-  return c && c.adult != null ? !!c.adult : id === 'tantra';
-}
-// событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё, кроме 18+); 18+ — только если выбрано явно
-// 18+ видно по умолчанию; скрыть — переключателем «🔞 18+» (запоминается на устройстве)
-S.hideAdult = (() => { try { return localStorage.getItem('pupa_hide_adult') === '1'; } catch (_) { return false; } })();
-const isAdult = e => Array.isArray(e.cats) && e.cats.some(isAdultCat);
+// «Бесплатно»: по строке цены (свободный вход, донат, 0 ₽); цены нет — не знаем, не показываем как бесплатное
+const isFree = e => /бесплат|free|свободн\S* вход|вход свободн|донат|donat|по желанию|^\s*0\s*(₽|руб)/i.test(e.price || '');
+S.free = (() => { try { return localStorage.getItem('pupa_free') === '1'; } catch (_) { return false; } })();
+S.openMonths = new Set();
+// событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё); тантра — как все категории
 function interestOk(e) {
   const cats = Array.isArray(e.cats) ? e.cats : [];
   if (!cats.length) return false;  // без категорий не знаем, что это, — не показываем
-  if (S.hideAdult && isAdult(e)) return false;
   return !S.interests.size || cats.some(c => S.interests.has(c));
 }
-function toggleAdult() {
-  S.hideAdult = !S.hideAdult;
-  try { localStorage.setItem('pupa_hide_adult', S.hideAdult ? '1' : '0'); } catch (_) {}
-  setData(S.raw); render('adult');
-}
+
 // мини-приложение читает данные, выложенные раз в час: свои нажатия держим поверх них 3 часа
 const LOCAL_TTL = 3 * 3600e3;
 function localMarks() { try { return JSON.parse(localStorage.getItem('afisha_local') || '{}'); } catch (_) { return {}; } }
@@ -406,7 +405,7 @@ function setData(d) {
     }
   }
   S.catsMeta = (d && Array.isArray(d.cats) && d.cats.length ? d.cats : DEFAULT_CATS).filter(c => c && catId(c.id));
-  S.data = { city_name: cur.name || '', today, events: PUPA ? events.filter(interestOk) : events, cats: S.catsMeta,
+  S.data = { city_name: cur.name || '', today, events: PUPA ? events.filter(e => interestOk(e) && (!S.free || isFree(e))) : events, all: events, cats: S.catsMeta,
     sources: Array.isArray(cur.sources) ? cur.sources : null };
   if (!S.sel || !isDate(S.sel) || S.sel.slice(0, 7) < today.slice(0, 7)) S.sel = defaultDay();
 }
@@ -480,7 +479,6 @@ function card(e, inFeed) {
       onclick: () => { S.open.has(e.key) ? S.open.delete(e.key) : S.open.add(e.key); render(); } }, open ? 'Свернуть' : 'Подробнее') : null,
     h('div', { class: 'badges' },
       isNew ? h('span', { class: 'badge new' }, 'новое') : null,
-      PUPA && isAdult(e) ? h('span', { class: 'badge a18' }, '18+') : null,
       going ? h('span', { class: 'badge go' }, '✓ Иду') : null,
       going && e.in_calendar ? h('span', { class: 'badge go' }, 'в календаре') : null,
       e.sent ? h('span', { class: 'badge' }, 'пришло в чат') : null),
@@ -532,10 +530,19 @@ function renderCal() {
   const months = [];
   if (!events.length) months.push(h('p', { class: 'note' }, PUPA ? PUPA_EMPTY : 'Пока ничего не нашла — загляни попозже'));
   const last = pd(calRange()[1]);
-  let y = pd(today).getFullYear(), m = pd(today).getMonth();
+  let y = pd(today).getFullYear(), m = pd(today).getMonth(), first = true;
   while (y < last.getFullYear() || (y === last.getFullYear() && m <= last.getMonth())) {
-    months.push(monthGrid(y, m, by, today));
-    if (!side && S.sel.slice(0, 7) === `${y}-${pad(m + 1)}`) months.push(panel);
+    const ym = `${y}-${pad(m + 1)}`;
+    if (first || S.openMonths.has(ym) || S.sel.slice(0, 7) === ym) {  // следующие месяцы — под катом
+      months.push(monthGrid(y, m, by, today));
+      if (!side && S.sel.slice(0, 7) === ym) months.push(panel);
+    } else {
+      const n = events.filter(e => e.date.slice(0, 7) === ym).length;
+      months.push(h('button', { class: 'monthcut', type: 'button', 'data-f': 'month:' + ym,
+        onclick: () => { S.openMonths.add(ym); render('month:' + ym); } },
+        `Показать ${MN[m].toLowerCase()}` + (n ? ` · ${n} ${plural(n, 'событие', 'события', 'событий')}` : '')));
+    }
+    first = false;
     if (++m > 11) { m = 0; y++; }
   }
   return side ? h('div', { class: 'calwrap' }, h('div', null, months), panel) : months;
@@ -617,7 +624,7 @@ function summary() {
     : `${d1.getDate()} ${MG[d1.getMonth()]} – ${d2.getDate()} ${MG[d2.getMonth()]}`;
   return h('section', { class: 'sum' },
     h('h2', null, `На неделе, ${range}: ${list.length} ${plural(list.length, 'событие', 'события', 'событий')}`),
-    tiles.length ? h('div', { class: 'tiles' }, tiles.map(([ic, name, n, key]) =>
+    tiles.length && !PUPA ? h('div', { class: 'tiles' }, tiles.map(([ic, name, n, key]) =>
       h('button', { class: 'tile' + (S.cat === key ? ' on' : ''), type: 'button', 'aria-pressed': String(S.cat === key),
         'data-f': 'cat:' + key, onclick: () => pickCat(key) }, h('b', null, n), `${ic} ${name}`))) : null,
     going.length ? h('div', { class: 'rec' }, 'Уже идёшь: ', going.map((e, i) => [i ? ', ' : '', h('button', { type: 'button', onclick: () => jump(e) }, `«${e.title}»`)])) : null,
@@ -634,13 +641,21 @@ function toggleInterest(c) {
   apply();
 }
 function interestBar() {
-  return [h('div', { class: 'ints', role: 'group', 'aria-label': 'Интересы' }, S.data.cats.map(c => {
-    const on = S.interests.has(c.id);
+  // один ряд: интересы со счётчиком событий недели (вместо отдельных плиток в сводке) + «Бесплатно»
+  const { from, to } = weekEvents();
+  const week = (S.data.all || []).filter(e => e.date >= from && e.date <= to);
+  const count = id => week.filter(e => (e.cats || []).includes(id)).length;
+  const chips = S.data.cats.map(c => {
+    const on = S.interests.has(c.id), n = count(c.id);
     return h('button', { class: 'int' + (on ? ' on' : ''), type: 'button', 'aria-pressed': String(on), title: c.hint || null,
-      'data-f': 'int:' + c.id, onclick: () => toggleInterest(c) }, `${c.emoji || ''} ${c.title || c.id}`.trim());
-  })), h('div', { class: 'int-hint' }, 'Отметь, что откликается, — покажу только это.',
-    h('button', { class: 'adult' + (S.hideAdult ? ' off' : ''), type: 'button', 'aria-pressed': String(!S.hideAdult),
-      'data-f': 'adult', onclick: toggleAdult }, S.hideAdult ? '🔞 18+ скрыто' : '🔞 18+ показываю'))];
+      'data-f': 'int:' + c.id, onclick: () => toggleInterest(c) }, `${c.emoji || ''} ${c.title || c.id}`.trim(),
+      n ? h('b', { class: 'n' }, n) : null);
+  });
+  chips.push(h('button', { class: 'int free' + (S.free ? ' on' : ''), type: 'button', 'aria-pressed': String(S.free),
+    'data-f': 'free', onclick: () => { S.free = !S.free; try { localStorage.setItem('pupa_free', S.free ? '1' : '0'); } catch (_) {}
+      setData(S.raw); render('free'); } }, '🎁 Бесплатно'));
+  return [h('div', { class: 'ints', role: 'group', 'aria-label': 'Интересы' }, chips),
+    h('div', { class: 'int-hint' }, 'Отметь, что откликается, — покажу только это. Цифры — сколько событий на неделе.')];
 }
 
 function switchCity(code) {
@@ -656,6 +671,35 @@ function ago(s) {
   const d = Math.floor((Date.now() - t) / 864e5);
   return d <= 0 ? 'пост сегодня' : d === 1 ? 'пост вчера' : `пост ${d} ${plural(d, 'день', 'дня', 'дней')} назад`;
 }
+// ---------- открытая пупа: «О пупе» и подвал ----------
+const MAKER = 'https://piofant.github.io/';
+function footer() {
+  return h('footer', { class: 'foot' }, 'Сделал Вова — ',
+    h('a', { href: MAKER, onclick: ev => { ev.preventDefault(); openUrl(MAKER); } }, 'piofant'),
+    '. Некоммерческая штука: без рекламы и платных размещений.');
+}
+function renderAbout() {
+  const cities = (S.raw && S.raw.cities) || {};
+  const n = Object.values(cities).reduce((a, c) => a + ((c && c.sources) || []).length, 0);
+  const p = (...x) => h('p', null, ...x);
+  return h('div', { class: 'about' },
+    h('div', { class: 'about-head' }, h('img', { class: 'ava big', src: 'pupa.jpg', alt: '' }), h('h2', null, 'Пупа')),
+    p('Я Пупа — живу на краю кулисы, смотрю в бинокль на город и знаю, где сегодня вечером будет живо. Цифровая, но вкус у меня свой.'),
+    h('h3', null, 'Не вся афиша подряд'),
+    p(`Я читаю только адреса, которые мне посоветовали свои: каналы мастеров, пространства, сообщества${n ? ` — сейчас их ${n}` : ''}. `
+      + 'Не всё подряд: если адрес не порекомендовали, его здесь нет. С Таймпада беру только творческое — без лекций, бизнеса и детского.'),
+    h('h3', null, 'Как это устроено'),
+    h('ul', null,
+      h('li', null, 'Четыре раза в день перечитываю свои адреса и Таймпад — только творческое офлайн: тело, танец, театр и импро, музыка, мастерские, практики, круги.'),
+      h('li', null, 'Раскладываю по категориям, чтобы ты видел только то, что откликается.'),
+      h('li', null, 'По четвергам приношу выходные, а когда нахожу что-то редкое — пишу сама. Это в боте.'),
+      h('li', null, 'Ничего не выдумываю и никого не записываю: где и как записаться — в анонсе.')),
+    h('h3', null, 'Посоветовать адрес'),
+    p('Знаешь хорошее место или мастера? Напиши мне в боте ',
+      h('a', { href: 'https://t.me/puppa_luppa_bot', onclick: ev => { ev.preventDefault(); openUrl('https://t.me/puppa_luppa_bot'); } }, '@puppa_luppa_bot'),
+      ' — проверю и добавлю.'));
+}
+
 function renderSources() {
   const list = S.data.sources;
   if (!list || !list.length) return h('div', { class: 'state' }, 'Список источников появится после ближайшего сбора');
@@ -708,9 +752,10 @@ function render(focusKey) {
     kids = S.error
       ? h('div', { class: 'state' }, h('div', null, S.error), h('button', { class: 'btn pri', type: 'button', onclick: () => load() }, 'Повторить'))
       : h('div', { class: 'state' }, 'Загружаю…');
-  } else kids = S.tab === 'src' ? h('div', { class: 'feed' }, renderSources())
+  } else kids = S.tab === 'src' ? h('div', { class: 'feed' }, PUPA ? renderAbout() : renderSources())
     : [PUPA ? interestBar() : null, summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
   const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
+  if (PUBLIC && S.data) kids = [kids, footer()];
   $main.replaceChildren(...[kids].flat(Infinity).filter(x => x != null && x !== false));
   if (fk) { const el = $main.querySelector(`[data-f="${CSS.escape(fk)}"]`); if (el) el.focus({ preventScroll: true }); }
 }
