@@ -701,8 +701,9 @@ function argue(e) {
 }
 
 // совет недели — отдельной репликой Пупы с аватаркой, под катом
+const SHOW_SAYS = false;  // реплика с советами недели пока скрыта (Вова, 16.11: «как будто лишнее»)
 function pupaSays(picks) {
-  if (!picks.length) return null;
+  if (!SHOW_SAYS || !picks.length) return null;
   const open = !!S.recOpen;
   const intro = picks.length > 1 ? 'Навела бинокль на неделю — есть пара советов' : 'Навела бинокль на неделю — есть совет';
   return h('div', { class: 'say' }, h('img', { class: 'ava', src: 'pupa.jpg', alt: '' }),
