@@ -92,6 +92,10 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .brand .home:hover{opacity:.8}
 .card .thumb{float:right;width:88px;height:88px;object-fit:cover;border-radius:10px;margin:0 0 8px 12px;background:var(--soft)}
 .card .acts{clear:both}
+.card .thumb{cursor:zoom-in}
+.zoom{position:fixed;inset:0;z-index:20;background:rgba(20,20,20,.82);display:flex;align-items:center;justify-content:center;padding:24px;cursor:zoom-out}
+.zoom img{max-width:min(92vw,900px);max-height:86vh;border-radius:12px;box-shadow:0 10px 40px rgba(0,0,0,.4)}
+.zoom-x{position:fixed;top:14px;right:16px;width:40px;height:40px;border-radius:20px;border:0;background:#fff;color:var(--fg);font-size:18px}
 .say{display:flex;gap:10px;align-items:flex-start;margin:10px 0 4px;max-width:760px}
 .say .ava{width:36px;height:36px;margin-top:2px}
 .bubble{position:relative;background:#fff;border:1.5px solid #dcef9a;border-radius:4px 16px 16px 16px;padding:8px 12px;flex:1}
@@ -228,7 +232,17 @@ function saveInterests() { try { localStorage.setItem('pupa_interests', JSON.str
 const isFree = e => /бесплат|free|свободн\S* вход|вход свободн|донат|donat|по желанию|^\s*0\s*(₽|руб)/i.test(e.price || '');
 S.free = (() => { try { return localStorage.getItem('pupa_free') === '1'; } catch (_) { return false; } })();
 S.openMonths = new Set();
-S.badImg = new Set();  // картинки, которые не загрузились, — больше не пробуем
+S.badImg = new Set();
+// попап с картинкой: клик по превью; закрыть — клик, крестик или Esc
+function zoom(url, title) {
+  const close = () => { box.remove(); document.removeEventListener('keydown', esc); };
+  const esc = ev => { if (ev.key === 'Escape') close(); };
+  const box = h('div', { class: 'zoom', role: 'dialog', 'aria-label': title || 'Картинка', onclick: close },
+    h('img', { src: url, alt: title || '', referrerpolicy: 'no-referrer' }),
+    h('button', { class: 'zoom-x', type: 'button', 'aria-label': 'Закрыть' }, '✕'));
+  document.body.append(box);
+  document.addEventListener('keydown', esc);
+}  // картинки, которые не загрузились, — больше не пробуем
 // событие видно, если хоть одна его категория выбрана (ничего не выбрано — всё); тантрическое — в «Телесном», с тихой меткой 18+
 function interestOk(e) {
   const cats = Array.isArray(e.cats) ? e.cats : [];
@@ -486,6 +500,7 @@ function card(e, inFeed) {
   // превью — сразу в карточке, ссылкой (картинка с CDN Telegram/Таймпада); у 18+ — только под катом
   const thumb = e.image && /^https:\/\//.test(e.image) && !e.adult && !S.badImg.has(e.image)
     ? h('img', { class: 'thumb', src: e.image, alt: '', loading: 'lazy', referrerpolicy: 'no-referrer',
+        title: 'Открыть картинку', onclick: () => zoom(e.image, e.title),
         onerror: ev => { S.badImg.add(e.image); ev.target.remove(); } }) : null;
   return h('article', { class: 'card' + (past ? ' past' : '') }, thumb,
     h('div', { class: 'ch' },
