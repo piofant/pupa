@@ -106,8 +106,8 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .bubble ul{margin:6px 0 2px;padding-left:18px}
 .bubble li{margin:4px 0}
 .bubble .pick{border:0;background:none;padding:0;font:inherit;font-weight:600;color:var(--accent-dark);text-decoration:underline;text-underline-offset:2px;cursor:pointer;text-align:left}
-.author a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}
-.author a:hover{color:var(--accent-dark)}
+.author a{color:var(--muted);text-decoration:none}
+.author a:hover{color:var(--accent-dark);text-decoration:underline;text-underline-offset:2px}
 .badge.a18{background:none;border:1px solid var(--line);color:#a1a1a6;font-size:11px;padding:1px 7px}
 .ints .n{margin-left:6px;font-size:12px;color:var(--muted);font-weight:700}
 .int.on .n{color:inherit}
@@ -531,7 +531,7 @@ function card(e, inFeed) {
     h('div', { class: 'meta' }, dayLabel(e.date) + (e.time ? `, ${e.time}` : '')),
     e.place ? h('div', { class: 'sub' }, e.place) : null,
     e.price ? h('div', { class: 'sub' }, e.price) : null,
-    e.author ? h('div', { class: 'sub author' }, 'Автор: ',
+    e.author ? h('div', { class: 'sub author' },
       e.author_url && /^https:\/\//.test(e.author_url)
         ? h('a', { href: e.author_url, onclick: ev => { ev.preventDefault(); openUrl(e.author_url); } }, e.author)
         : e.author) : null,
