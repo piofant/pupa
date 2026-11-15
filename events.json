@@ -18,7 +18,7 @@
    "id": "theatre",
    "emoji": "🎭",
    "title": "Театр и импро",
-   "hint": "импро, плейбэк, этюды, клоунада, перформанс"
+   "hint": "импро, плейбэк, этюды, клоунада — играешь сам"
   },
   {
    "id": "music",
@@ -43,6 +43,12 @@
    "emoji": "💬",
    "title": "Разговоры и круги",
    "hint": "круги, Диалог Бома, Death Cafe, клубы историй, поэтические вечера"
+  },
+  {
+   "id": "watch",
+   "emoji": "🎓",
+   "title": "Лекции и показы",
+   "hint": "лекции, спектакли, перформансы, концерты, кинопоказы"
   }
  ],
  "cities": {
@@ -60,8 +66,9 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "body",
       "dance",
-      "body"
+      "calm"
      ],
      "adult": true,
      "author": "TANTRA🤍TIME | Санкт-Петербург",
@@ -109,9 +116,10 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body"
+      "body",
+      "circles"
      ],
-     "adult": true,
+     "adult": false,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
      "image": "https://cdn4.telesco.pe/file/kYO477KDw_oqoHSSVo4seTw4YAfWdOa3hF--68DT5ZWNMd0oJ8mBrQdDgYJTXTF_7FUHgIiSQiBcKeeuSckAlz9HQF-zT950kSNoJxwcFop80QpjLlaQLx5G9NWUhzZbCVeamc9_lUC7sUv9On3z8VDWYLoHz-64dcKMKmst5V_ie3ciwb4i6oJcxfm0K2FTFjDwj09Zu4Fmvj29ZnCe-Z8w-S2g3TjYbOaF2mTgwKMze4CG9IxxZLjO6iJR5pzWDhtUihZWjpOOLIDI5Lv3WHK2AQwYhm82tail6eEXFw5YVveUxP_zshongG_H4zkgRX0M95Uwq00gvRzYb4c9sg.jpg",
@@ -183,7 +191,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
@@ -283,9 +292,9 @@
      "signup_url": null,
      "cats": [
       "body",
-      "theatre"
+      "calm"
      ],
-     "adult": true,
+     "adult": false,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
      "image": "https://cdn4.telesco.pe/file/gdd1qyP5LgahFzShC-fyZkkp1Kw_1dR6LY44aMbFxgeTX2sI4wR0CTFcq5PL7rTZd2GXUztJtdKls3mdfUepHiSWdsWUMpfpX46LyMNOBYfCECFPIopqGLTmYDoOK_kRBYhgki5k0dLRZg0qEglxvn_uYWBuJ1C3eYW5LiLWu7PE645kkEWYZwUEYA7krS91E_rFYK3l6334w7GEjfFMGKsOFSTu82_yzvIjoAOZoH1ujQRA2nhsaptX9-Bq_GSUaDzNaWLEeTsEWdEuAnkC-zCgCtXCjQDdfYtjX0zugD3mFIJc_-TkjgxnsTF6Jb0jL-Mrm_-hWJAjTSw4Zo1Vug.jpg",
@@ -331,7 +340,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
@@ -356,7 +366,7 @@
      "signup_url": null,
      "cats": [
       "music",
-      "dance"
+      "watch"
      ],
      "adult": false,
      "author": "TANTRA🤍TIME | Санкт-Петербург",
@@ -380,8 +390,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "music",
-      "craft"
+      "watch"
      ],
      "adult": false,
      "author": "Дом Радио",
@@ -430,8 +439,8 @@
      "signup_url": "https://triglinki.timepad.ru/event/4271097/",
      "cats": [
       "body",
-      "dance",
-      "calm"
+      "calm",
+      "dance"
      ],
      "adult": false,
      "author": "triglinki",
@@ -455,9 +464,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "circles",
-      "music",
-      "craft"
+      "watch",
+      "circles"
      ],
      "adult": false,
      "author": "SensCafe 18+",
@@ -483,7 +491,7 @@
      "signup_url": null,
      "cats": [
       "theatre",
-      "music"
+      "watch"
      ],
      "adult": false,
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
@@ -660,9 +668,11 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body"
+      "body",
+      "craft",
+      "watch"
      ],
-     "adult": true,
+     "adult": false,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
      "image": "https://cdn4.telesco.pe/file/HOXyXjMqhFzBi0coVmBk07sHA-Nzpx4G_AqvqwfLn_29vtTla5h98PnzfOA0e-reK3f4Ehd0ANTIincqXhjptjNcoSqpVZ97W_i3k2umsQsuO4L9mcHi_DLUdz24y5To2-Q5XfCMK1lGdNsJBO-eUBj8SC00yCFhTFatVHxSNz-5JlYpOdXFJujvPi9XCf7RR1Yg2IDFgwBwxyn9mFMLVVA9XLq8BVAfEwQQp2q0EO-WLGrSAdpfNWscpS64qob54nQHxPC4TBiZC2NgUhfsqs_KBBw6xZaO9rgbL_zJdXugIp7Ak8pT66luMz8ULorzdbQJsugEklklv_v68ReXbQ.jpg",
@@ -686,7 +696,7 @@
      "cats": [
       "body"
      ],
-     "adult": true,
+     "adult": false,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
      "image": "https://cdn4.telesco.pe/file/QufkxWS_rGGr0akCdtnGlE4GEKmnKeuppgMTMhGQGQ0e3F4feaUkjRk-_0MotbNcgNOLQldxRI63Qs1zUH-jEDZrm-qfAgaVwtNTUzEs8e1I_sxtjW2sr2LNFri1F0LBI4dvm0VIvGA-sR1-8B7-WsSDSiZQyacl3PNA-mZL3IielnOw5CVoCax2DzYDUu95Wm1Yt47XcnhgLSNG31GYTKcAB8t55YTlD10nTbZ8zr2JBGLW4ya2-Gt8oHUvjpk-gC11AhCwriTWtfGbSUua6yLGnL6PgowgTm9HaST57jxh4EfSm6SDpcMxPVHYIakG3kv_w29e6U2qe0mdepIoQQ.jpg",
@@ -733,7 +743,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "music"
+      "watch"
      ],
      "adult": false,
      "author": "Дом Радио",
@@ -757,7 +767,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "music"
+      "watch"
      ],
      "adult": false,
      "author": "Гостиная: открыто",
@@ -829,7 +839,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "circles"
+      "circles",
+      "theatre"
      ],
      "adult": false,
      "author": "@tochkabest",
@@ -903,7 +914,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://parohod.timepad.ru/event/4267593/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "parohod",
@@ -927,7 +939,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://teatr-noosfera.timepad.ru/event/4255889/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "teatr-noosfera",
@@ -1001,7 +1014,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body"
+      "body",
+      "calm"
      ],
      "adult": true,
      "author": "TANTRA🤍TIME | Санкт-Петербург",
@@ -1074,7 +1088,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "circles"
      ],
      "adult": false,
      "author": "SHADOW ECSTATIC DANCE SPB",
@@ -1099,8 +1114,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://mandalastudio.timepad.ru/event/4282091/",
      "cats": [
-      "music",
-      "calm"
+      "calm",
+      "music"
      ],
      "adult": false,
      "author": "mandalastudio",
@@ -1247,7 +1262,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "music"
+      "watch"
      ],
      "adult": false,
      "author": "Гостиная: открыто",
@@ -1295,7 +1310,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "watch",
+      "circles"
      ],
      "adult": false,
      "author": "Дом Радио",
@@ -1319,7 +1335,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "circles"
      ],
      "adult": false,
      "author": "Чаща Попроще",
@@ -1344,8 +1361,7 @@
      "signup_url": null,
      "cats": [
       "calm",
-      "body",
-      "dance"
+      "body"
      ],
      "adult": false,
      "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
@@ -1370,7 +1386,8 @@
      "signup_url": null,
      "cats": [
       "body",
-      "music"
+      "music",
+      "circles"
      ],
      "adult": false,
      "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
@@ -1471,7 +1488,9 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "circles"
+      "watch",
+      "circles",
+      "body"
      ],
      "adult": false,
      "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
@@ -1495,7 +1514,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://pleybek-teatr-gradient.timepad.ru/event/4293833/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "pleybek-teatr-gradient",
@@ -1519,9 +1539,9 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://point-2026.timepad.ru/event/4296071/",
      "cats": [
+      "watch",
       "theatre",
-      "body",
-      "music"
+      "body"
      ],
      "adult": false,
      "author": "point-2026",
@@ -1545,7 +1565,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "@tochkabest",
@@ -1593,7 +1614,9 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "music",
+      "watch"
      ],
      "adult": false,
      "author": "@meerschool",
@@ -1666,7 +1689,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "Путь театра | Андрей Черепанов",
@@ -1764,8 +1788,7 @@
      "source": "Пост в канале",
      "signup_url": "https://tantrapolice.ru/ecstaticdance",
      "cats": [
-      "dance",
-      "music"
+      "dance"
      ],
      "adult": false,
      "author": "TANTRA🤍TIME | Санкт-Петербург",
@@ -1814,7 +1837,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "@tochkabest",
@@ -2009,6 +2033,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://libkarpovka.timepad.ru/event/4251166/",
      "cats": [
+      "watch",
       "music",
       "calm"
      ],
@@ -2034,7 +2059,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body"
+      "body",
+      "watch"
      ],
      "adult": true,
      "author": "SensCafe 18+",
@@ -2059,7 +2085,8 @@
      "signup_url": null,
      "cats": [
       "theatre",
-      "circles"
+      "watch",
+      "music"
      ],
      "adult": false,
      "author": "@playback_notabene",
@@ -2109,8 +2136,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://boris-riger-market.timepad.ru/event/4292489/",
      "cats": [
-      "body",
-      "craft"
+      "craft",
+      "body"
      ],
      "adult": false,
      "author": "boris-riger-market",
@@ -2530,8 +2557,7 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "circles",
-      "body"
+      "circles"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
@@ -2580,8 +2606,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://storytelling-club.timepad.ru/event/4303825/",
      "cats": [
-      "circles",
-      "theatre"
+      "circles"
      ],
      "adult": false,
      "author": "storytelling-club",
@@ -2653,8 +2678,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "circles",
-      "music"
+      "circles"
      ],
      "adult": false,
      "author": "Пространство Нора",
@@ -2776,7 +2800,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://migip.timepad.ru/event/4275150/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "migip",
@@ -2849,6 +2874,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://dekult.timepad.ru/event/4292521/",
      "cats": [
+      "watch",
       "calm"
      ],
      "adult": false,
@@ -2897,7 +2923,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://playback-teatr-novyy-jazz.timepad.ru/event/4294407/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "playback-teatr-novyy-jazz",
@@ -2921,7 +2948,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://stendap-tsekh.timepad.ru/event/4307200/",
      "cats": [
-      "theatre"
+      "watch"
      ],
      "adult": false,
      "author": "stendap-tsekh",
@@ -2969,8 +2996,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance",
-      "body"
+      "dance"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
@@ -2994,8 +3020,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "theatre"
+      "body"
      ],
      "adult": false,
      "author": "LeMoor Cloob инфо",
@@ -3020,8 +3045,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "circles",
-      "theatre"
+      "watch",
+      "circles"
      ],
      "adult": false,
      "author": "@shamina_sharit",
@@ -3045,7 +3070,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://d-scene.timepad.ru/event/4261482/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "d-scene",
@@ -3072,7 +3098,7 @@
       "body",
       "dance"
      ],
-     "adult": true,
+     "adult": false,
      "author": "Срамота 18+",
      "author_url": "https://t.me/sram_sram18",
      "image": "https://cdn4.telesco.pe/file/tcVB2YoCBKLakl-Zd76oinJne1YMeiy2jhfI2UXt0flhWiXq3wqTmQKzORiK4oSwfHjuLphqowwCZnwSetuuzKzpWBtFVzVuPjrGP_wxxSYodzv6WhiHLQOD20VSp1Ep7g9CWHPz_AHW-bQO7q-4lO-BEaPpyrnBg3gnsfgxHYXQRIIo_z7JS64svIFn99QKsgwOaO-_0uIhh6pgVvz_CA0aQMsySIEMAepuZfcIjrsFBebM10CcGxrL1ayjlLfKHQBrvUAAmOH3Hc8L756NlKDApei6v4lwtkcnrQDuyY8o_P7LnpiehCNgDfBBJYjl0C-W7odjk0xBjgGOAahktw",
@@ -3242,6 +3268,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -3389,6 +3416,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://lisse-art.timepad.ru/event/4294142/",
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -3461,6 +3489,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -3535,8 +3564,7 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "circles",
-      "body"
+      "circles"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
@@ -3585,7 +3613,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://e-x-p-e-r-i-e-n-c-e.timepad.ru/event/4236122/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "e-x-p-e-r-i-e-n-c-e",
@@ -3657,7 +3686,8 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://sozvezdieplay.timepad.ru/event/4272400/",
      "cats": [
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
      "author": "sozvezdieplay",
@@ -3681,7 +3711,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://stendap-tsekh.timepad.ru/event/4307196/",
      "cats": [
-      "theatre"
+      "watch"
      ],
      "adult": false,
      "author": "stendap-tsekh",
@@ -3753,9 +3783,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "craft",
-      "calm",
-      "body"
+      "craft"
      ],
      "adult": false,
      "author": "Пространство Нора",
@@ -3804,6 +3832,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://nitkatea.timepad.ru/event/4266913/",
      "cats": [
+      "watch",
       "calm"
      ],
      "adult": false,
@@ -3926,6 +3955,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://parohod.timepad.ru/event/4265931/",
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -3950,6 +3980,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -4096,6 +4127,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://parohod.timepad.ru/event/4266305/",
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -4194,6 +4226,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -4218,6 +4251,7 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "watch",
       "theatre"
      ],
      "adult": false,
@@ -4387,8 +4421,7 @@
      "source": "Страница на Таймпаде",
      "signup_url": "https://improvhome.timepad.ru/event/2597941/",
      "cats": [
-      "theatre",
-      "circles"
+      "theatre"
      ],
      "adult": false,
      "author": "improvhome",
@@ -4512,8 +4545,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
