@@ -489,8 +489,6 @@ function card(e, inFeed) {
   const going = e.plan === 'going';
   const fit = Math.max(0, Math.min(5, Number(e.fit) || 0));
   const isNew = inFeed && ts(e.found) > 0 && Date.now() - ts(e.found) < 864e5;
-  const img = typeof e.image === 'string' && /^https:\/\/\S+$/i.test(e.image) && !S.badImg.has(e.image) ? e.image : null;
-  const more = !!(e.details || img), open = more && S.open.has(e.key);
   const acts = [];
   if (!past && CAN_ACT) {
     if (going) acts.push(h('span', { class: 'btn done' }, 'Иду ✓'),
@@ -504,8 +502,9 @@ function card(e, inFeed) {
       'aria-pressed': String(e.vote === 'down'), disabled: busy, 'data-f': 'down:' + e.key, onclick: () => vote(e, 'down') }, '👎'));
   if (e.link) acts.push(h('button', { class: 'btn', type: 'button', title: e.source || '', onclick: () => openUrl(e.link) }, 'Источник'));
   if (e.signup_url) acts.push(h('button', { class: 'btn', type: 'button', onclick: () => openUrl(e.signup_url) }, 'Записаться'));
-  // превью — сразу в карточке, ссылкой (картинка с CDN Telegram/Таймпада); у 18+ — только под катом
-  const thumb = e.image && /^https:\/\//.test(e.image) && !e.adult && !S.badImg.has(e.image)
+  // превью — сразу в карточке, ссылкой (картинка с CDN Telegram/Таймпада); нажатие — попап. «Подробнее» нет:
+  // подробности — в источнике
+  const thumb = e.image && /^https:\/\//.test(e.image) && !S.badImg.has(e.image)
     ? h('img', { class: 'thumb', src: e.image, alt: '', loading: 'lazy', referrerpolicy: 'no-referrer',
         title: 'Открыть картинку', onclick: () => zoom(e.image, e.title),
         onerror: ev => { S.badImg.add(e.image); ev.target.remove(); } }) : null;
@@ -518,13 +517,6 @@ function card(e, inFeed) {
     e.place ? h('div', { class: 'sub' }, e.place) : null,
     e.price ? h('div', { class: 'sub' }, e.price) : null,
     e.why ? h('div', { class: 'why' }, e.why) : null,
-    more && open ? h('div', { class: 'details' },
-      img ? h('img', { class: 'pv', loading: 'lazy', referrerpolicy: 'no-referrer', alt: '', onerror: ev => {  // битую картинку прячем и больше не грузим
-        S.badImg.add(img); const box = ev.target.parentNode; ev.target.remove(); if (box && !box.childNodes.length) box.remove();
-      }, src: img }) : null,
-      e.details ? h('div', null, e.details) : null) : null,
-    more ? h('button', { class: 'link', type: 'button', 'aria-expanded': String(open), 'data-f': 'more:' + e.key,
-      onclick: () => { S.open.has(e.key) ? S.open.delete(e.key) : S.open.add(e.key); render(); } }, open ? 'Свернуть' : 'Подробнее') : null,
     h('div', { class: 'badges' },
       isNew ? h('span', { class: 'badge new' }, 'новое') : null,
       e.adult ? h('span', { class: 'badge a18', title: 'для взрослых' }, '18+') : null,
