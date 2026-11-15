@@ -596,9 +596,22 @@ function pickCat(name) {  // плитка сводки → список этой
 }
 function jump(e) { S.tab = 'cal'; S.sel = e.date; render(); const el = $main.querySelector('.dh'); if (el) el.scrollIntoView({ block: 'start' }); }
 function when(e) { return dayLabel(e.date) + (e.time ? `, ${e.time}` : ''); }
+function pupaTiles(from, to) {
+  // плитки недели = выбор интересов: число — сколько событий этой категории на неделе (без учёта фильтров)
+  const week = (S.data.all || []).filter(e => e.date >= from && e.date <= to);
+  const tiles = S.data.cats.map(c => {
+    const n = week.filter(e => (e.cats || []).includes(c.id)).length, on = S.interests.has(c.id);
+    return [n, h('button', { class: 'tile' + (on ? ' on' : ''), type: 'button', 'aria-pressed': String(on), title: c.hint || null,
+      'data-f': 'int:' + c.id, onclick: () => toggleInterest(c) }, h('b', null, n), `${c.emoji || ''} ${c.title || c.id}`.trim())];
+  }).filter(t => t[0] || S.interests.has(t[1].dataset.f.slice(4))).sort((a, b) => b[0] - a[0]).map(t => t[1]);
+  tiles.push(h('button', { class: 'tile' + (S.free ? ' on' : ''), type: 'button', 'aria-pressed': String(S.free), 'data-f': 'free',
+    onclick: () => { S.free = !S.free; try { localStorage.setItem('pupa_free', S.free ? '1' : '0'); } catch (_) {}
+      setData(S.raw); render('free'); } }, '🎁 Бесплатно'));
+  return h('div', { class: 'tiles' }, tiles);
+}
 function summary() {
   const { from, to, list } = weekEvents();
-  if (!list.length) return null;
+  if (!list.length && !PUPA) return null;
   const tiles = catDefs().map(c => [c.ic, c.name, list.filter(c.test).length, c.key])
     .filter(t => t[2]).sort((a, b) => b[2] - a[2]);
   const going = list.filter(e => e.plan === 'going');
@@ -630,6 +643,8 @@ function summary() {
     : `${d1.getDate()} ${MG[d1.getMonth()]} – ${d2.getDate()} ${MG[d2.getMonth()]}`;
   return h('section', { class: 'sum' },
     h('h2', null, `На неделе, ${range}: ${list.length} ${plural(list.length, 'событие', 'события', 'событий')}`),
+    PUPA ? pupaTiles(from, to) : null,
+    PUPA && !list.length ? h('div', { class: 'rec' }, PUPA_EMPTY) : null,
     tiles.length && !PUPA ? h('div', { class: 'tiles' }, tiles.map(([ic, name, n, key]) =>
       h('button', { class: 'tile' + (S.cat === key ? ' on' : ''), type: 'button', 'aria-pressed': String(S.cat === key),
         'data-f': 'cat:' + key, onclick: () => pickCat(key) }, h('b', null, n), `${ic} ${name}`))) : null,
@@ -760,7 +775,7 @@ function render(focusKey) {
       : h('div', { class: 'state' }, 'Загружаю…');
   } else kids = S.tab === 'about' ? h('div', { class: 'feed' }, renderAbout())
     : S.tab === 'src' ? h('div', { class: 'feed' }, PUPA ? renderAbout() : renderSources())
-    : [PUPA ? interestBar() : null, summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
+    : [summary(), S.tab === 'cal' ? renderCal() : h('div', { class: 'feed' }, renderFeed())];
   const a = document.activeElement, fk = focusKey || (a && a.dataset && a.dataset.f); // keep keyboard focus across re-renders
   if (PUPA && S.data) kids = [kids, footer()];
   $main.replaceChildren(...[kids].flat(Infinity).filter(x => x != null && x !== false));
