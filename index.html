@@ -111,7 +111,8 @@ main{padding:8px 12px calc(80px + env(safe-area-inset-bottom));max-width:480px;m
 .about-head{display:flex;align-items:center;gap:12px}
 .ava.big{width:64px;height:64px}
 .about-head h2{margin:0}
-.btn.tg{margin:18px 0 6px;min-height:46px;padding:0 20px;font-size:15px}
+.about-acts{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px}
+.btn.tg{min-height:44px;padding:0 18px;font-size:15px}
 .foot .tglink{display:inline-block;margin-bottom:6px;font-weight:600;text-decoration:none}
 .sum{border-radius:14px;padding:12px 14px;margin:10px 0 4px;background:var(--lime-soft);box-shadow:inset 0 0 0 1.5px #dcef9a}
 .sum h2{margin:0 0 8px;font-size:15px}
@@ -708,9 +709,10 @@ function ago(s) {
 // ---------- открытая пупа: «О пупе» и подвал ----------
 const MAKER = 'https://piofant.github.io/';
 const BOT_URL = 'https://t.me/puppa_luppa_bot';
+const AUTHOR_URL = 'https://t.me/piofant';
 function footer() {
   return h('footer', { class: 'foot' },
-    h('a', { class: 'tglink', href: BOT_URL, onclick: ev => { ev.preventDefault(); openUrl(BOT_URL); } }, 'Пупа в Telegram — подборки и находки сами придут'),
+    h('a', { class: 'tglink', href: BOT_URL, onclick: ev => { ev.preventDefault(); openUrl(BOT_URL); } }, 'Телеграм-бот пупы'),
     h('div', null, 'Сделал Вова — ',
       h('a', { href: MAKER, onclick: ev => { ev.preventDefault(); openUrl(MAKER); } }, 'piofant'),
       '. Некоммерческая штука: без рекламы и платных размещений.'));
@@ -719,32 +721,15 @@ function renderAbout() {
   const cities = (S.raw && S.raw.cities) || {};
   const n = Object.values(cities).reduce((a, c) => a + ((c && c.sources) || []).length, 0);
   const p = (...x) => h('p', null, ...x);
-  const sec = (title, ...x) => [h('h3', null, title), ...x];
+  const link = (url, cls, text) => h('button', { class: 'btn ' + cls, type: 'button', onclick: () => openUrl(url) }, text);
   return h('div', { class: 'about' },
     h('div', { class: 'about-head' }, h('img', { class: 'ava big', src: 'pupa.jpg', alt: '' }),
       h('div', null, h('h2', null, 'Пупа'), h('div', { class: 'sub' }, 'разведчица городской афиши'))),
-    p('Привет, я Пупа. Меня собрали из данных и ворсинки бархата от занавеса маленького театра — поэтому я пушистая и салатовая. '
-      + 'Живу на краю кулисы: город вижу целиком, а в зал войти не могу. Зато смотрю в бинокль и знаю, где сегодня вечером будет живо.'),
-    sec('Откуда я всё беру',
-      p('Не из всей афиши подряд. Я хожу только по адресам, которые мне посоветовали свои: мастера контактной импровизации, '
-        + `маленькие театры, пространства, где обнимаются, танцуют и разговаривают${n > 20 ? '. Таких адресов уже больше двадцати' : ''}. `
-        + 'С Таймпада беру только творческое — без лекций про успех, бизнеса и детских ёлок.')),
-    sec('Что я люблю',
-      p('Камерное больше громкого: мастерская на двадцать человек лучше стадиона. Джемы, круги, квартирники, '
-        + 'вечера, куда можно прийти одному. Нетворкинг-вечеринки, честно, скучные.')),
-    sec('Как я живу',
-      p('Утром протираю бинокль и читаю свежие анонсы. Вечером смотрю, где зажигается свет. По четвергам раскладываю выходные — '
-        + 'это мой любимый день. Ночью сижу тихо: в залах темно.')),
-    sec('Чего я не делаю',
-      p('Не выдумываю события и цены. Никого не записываю — где и как записаться, написано в анонсе. '
-        + 'Пишу первой только когда нашла что-то правда редкое, и «не присылай» понимаю с первого раза.')),
-    sec('Мой первый билет',
-      p('В лапе у меня билет со звёздами — первое событие, которое я нашла, 14 ноября 2026. Меня сделал Пио: '
-        + 'он устал искать джемы по сотне каналов. С 16 ноября я ищу для всех. '
-        + 'Сходишь куда-нибудь — расскажи, как было. Мне правда интересно: сама я там не бываю.')),
-    sec('Посоветовать адрес',
-      p('Знаешь хорошее место или мастера? Напиши мне — проверю и добавлю в свои адреса.')),
-    h('button', { class: 'btn pri tg', type: 'button', onclick: () => openUrl(BOT_URL) }, 'Написать Пупе в Telegram'));
+    p('Я из данных и ворсинки бархата от театрального занавеса. Смотрю в бинокль на город и знаю, где сегодня вечером будет живо.'),
+    p(`Читаю не всю афишу подряд, а только адреса, которые посоветовали свои${n > 20 ? ' — их уже больше двадцати' : ''}: `
+      + 'мастера, маленькие театры, пространства. С Таймпада — только творческое.'),
+    p('Ничего не выдумываю и никого не записываю. Сходишь куда-нибудь — расскажи, как было: сама я там не бываю.'),
+    h('div', { class: 'about-acts' }, link(BOT_URL, 'pri tg', 'Телеграм-бот'), link(AUTHOR_URL, 'tg', 'Написать автору')));
 }
 
 function renderSources() {
