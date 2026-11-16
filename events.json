@@ -3745,6 +3745,30 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "d8329b4e8c53",
+     "title": "Капоте в СССР: презентация книги и встреча",
+     "date": "2026-11-17",
+     "time": "17:00",
+     "place": "Театр Ермоловой, Новая сцена, Тверская 5/6",
+     "price": "бесплатно",
+     "link": "https://teatr-im-mn-ermolovoy.timepad.ru/event/4301684/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatr-im-mn-ermolovoy.timepad.ru/event/4301684/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Театр Ермоловой",
+     "author_url": "https://teatr-im-mn-ermolovoy.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3d6d5942-dcf4-4e59-8d1f-a14d4e3f691e/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d8329b4e8c53"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
      "key": "5178ea7f118d",
      "title": "Актёрское мастерство для жизни: тренинг",
      "date": "2026-11-17",
@@ -4338,6 +4362,31 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "ff9db6e96505",
+     "title": "Спектакль «Зыковы» по Горькому",
+     "date": "2026-11-20",
+     "time": "18:00",
+     "place": "Камерный театр «Диалог», Смоленская набережная 5/13",
+     "price": "бесплатно",
+     "link": "https://kamernyy-teatr-dialog.timepad.ru/event/4310302/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kamernyy-teatr-dialog.timepad.ru/event/4310302/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Камерный театр \"Диалог\"",
+     "author_url": "https://kamernyy-teatr-dialog.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7c2a2f3a-a7c6-439f-b9e9-1cd814de51b9/-/crop/2912x1638/0,1002/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ff9db6e96505"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
      "key": "74cb5f5458dc",
      "title": "КИ: анатомические поезда в движении",
      "date": "2026-11-20",
@@ -4612,6 +4661,55 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "d36dea0b0787",
+     "title": "Вечер винила: DJ-сет и магазин пластинок",
+     "date": "2026-11-21",
+     "time": "18:00",
+     "place": "Фудхолл «Дружба Парк», 2 этаж Technopark Plaza, просп. Андропова 10",
+     "price": "бесплатно",
+     "link": "https://fudkholl-druzhba-park.timepad.ru/event/4308766/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://fudkholl-druzhba-park.timepad.ru/event/4308766/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Фудхолл \"Дружба-Парк\"",
+     "author_url": "https://fudkholl-druzhba-park.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3d45de97-49de-4f5f-8b7d-9ab5506c7ef2/-/crop/1920x1080/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d36dea0b0787"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
+     "key": "927e6297e79f",
+     "title": "Роспись виниловых пластинок",
+     "date": "2026-11-21",
+     "time": "18:00",
+     "place": "Фудхолл «Дружба Парк», 2 этаж Technopark Plaza, просп. Андропова 10",
+     "price": "бесплатно",
+     "link": "https://fudkholl-druzhba-park.timepad.ru/event/4309910/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://fudkholl-druzhba-park.timepad.ru/event/4309910/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Фудхолл \"Дружба-Парк\"",
+     "author_url": "https://fudkholl-druzhba-park.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6e53f4b7-cfec-42d3-86db-9f2faa3c4cf6/-/crop/1920x1080/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "927e6297e79f"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
      "key": "3f1c26e01790",
      "title": "ИмпроКультура: антикринж и импровизация",
      "date": "2026-11-21",
@@ -4710,6 +4808,31 @@
      "found": "2026-11-16T02:50:09+03:00"
     },
     {
+     "key": "38a7f9087d1c",
+     "title": "Арт-терапия «Женское счастье»",
+     "date": "2026-11-22",
+     "time": "12:00",
+     "place": "Москва, Бауманская ул., 33/2с1",
+     "price": "2900–6000 ₽",
+     "link": "https://yulia-panova.timepad.ru/event/4167719/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://yulia-panova.timepad.ru/event/4167719/",
+     "cats": [
+      "craft",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Юлия Панова | Психолог",
+     "author_url": "https://yulia-panova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/30617f00-b0e7-4859-9749-460c23397208/-/crop/1280x720/0,67/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "38a7f9087d1c"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
      "key": "8e9ef88e8f52",
      "title": "Класс по агрессии от питерского Обни (Лера Викторовна)",
      "date": "2026-11-22",
@@ -4757,6 +4880,30 @@
       "ed4feb092f25"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "3ae7dbe3ff09",
+     "title": "Арт-терапия «Достижение цели»",
+     "date": "2026-11-22",
+     "time": "16:00",
+     "place": "Москва, Бауманская ул., 33/2с1",
+     "price": "2900–6000 ₽",
+     "link": "https://yulia-panova.timepad.ru/event/3785804/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://yulia-panova.timepad.ru/event/3785804/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Юлия Панова | Психолог",
+     "author_url": "https://yulia-panova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/50a20c4c-5e88-4ed3-988d-da6d006c898c/-/crop/1536x864/0,43/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3ae7dbe3ff09"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
     },
     {
      "key": "df54f08efbe8",
@@ -4832,6 +4979,31 @@
       "acafea1bc66b"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "902ca82a78a8",
+     "title": "Мастер-класс с метафорическими картами «Погружение»",
+     "date": "2026-11-22",
+     "time": "18:30",
+     "place": "ПКБ №1 им. Алексеева, 1-й Боткинский проезд 7, стр. 1",
+     "price": "бесплатно",
+     "link": "https://pkb1alekseeva.timepad.ru/event/4310400/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://pkb1alekseeva.timepad.ru/event/4310400/",
+     "cats": [
+      "circles",
+      "craft"
+     ],
+     "adult": false,
+     "author": "ГБУЗ \"Психиатрическая клиническая больница № 1 им. Н.А. Алексеева ДЗМ\"",
+     "author_url": "https://pkb1alekseeva.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e817f29d-cdff-4c69-9709-465b954c58bd/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "902ca82a78a8"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
     },
     {
      "key": "ed91e36e73db",
@@ -5104,6 +5276,30 @@
       "7f6ead692e71"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "91be5e7369be",
+     "title": "Презентация книги «Мне 40. Что дальше?»",
+     "date": "2026-11-25",
+     "time": "19:00",
+     "place": "Книжный магазин «Достоевский», Кузнецкий мост 18/7",
+     "price": "бесплатно",
+     "link": "https://bombora-event.timepad.ru/event/4310032/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://bombora-event.timepad.ru/event/4310032/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "БОМБОРА",
+     "author_url": "https://bombora-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6679d946-830c-4510-9f76-865848cfa752/-/preview/308x600/-/format/jpeg/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "91be5e7369be"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
     },
     {
      "key": "51b3aec6c7de",
@@ -5964,6 +6160,30 @@
       "2908801ddde9"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "e810986bd54c",
+     "title": "Лекция «Одиссей 2.0: Кончаловский, Нолан, Пазолини»",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "Библиотека им. Светлова, Большая Садовая 1",
+     "price": "бесплатно",
+     "link": "https://svetlovka.timepad.ru/event/4310044/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://svetlovka.timepad.ru/event/4310044/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Центральная городская молодежная библиотека им. М.А. Светлова",
+     "author_url": "https://svetlovka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b5c508d3-bc12-425f-b93f-bc70f63a96e0/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e810986bd54c"
+     ],
+     "found": "2026-11-16T20:45:00+03:00"
     },
     {
      "key": "ef2fbc7c2cab",
@@ -7178,8 +7398,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-16T16:45:02+03:00",
-     "events": 88
+     "last_post": "2026-11-16T20:45:00+03:00",
+     "events": 97
     },
     {
      "title": "Контактная Импровизация в Москве",
@@ -7262,7 +7482,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-16T13:44:48+03:00",
+     "last_post": "2026-11-16T18:45:55+03:00",
      "events": 1
     },
     {
