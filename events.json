@@ -3299,6 +3299,31 @@
    "name": "Москва",
    "events": [
     {
+     "key": "8055d5085bb4",
+     "title": "«Разлуки нет...» — гастроли театра из Уфы",
+     "date": "2026-11-16",
+     "time": "19:00",
+     "place": "Центральный Дом Актера, ул. Арбат, 35, Большой зал",
+     "price": "бесплатно",
+     "link": "https://tsentralnyy-dom-akt.timepad.ru/event/4307291/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tsentralnyy-dom-akt.timepad.ru/event/4307291/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Центральный Дом Актера им.А.А.Яблочкиной",
+     "author_url": "https://tsentralnyy-dom-akt.timepad.ru/",
+     "image": "https://ucare.timepad.ru/5a29498c-3830-4af7-a2b3-f36b5b8cf8b5/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8055d5085bb4"
+     ],
+     "found": "2026-11-16T16:45:02+03:00"
+    },
+    {
      "key": "feb9541e63b8",
      "title": "КИ: большой класс Юры Львова",
      "date": "2026-11-16",
@@ -3475,6 +3500,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "e2be97ad738c",
+     "title": "Школа театра «Postдрама»: занятия",
+     "date": "2026-11-17",
+     "time": "19:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/postdrama/709",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Postдрама — театр-школа",
+     "author_url": "https://t.me/postdrama",
+     "image": "https://cdn4.telesco.pe/file/jlCj-cD3B_X3ijB4JLYviBVolsWUD1zzgZzurLy4E6N79AlMKhJ1g4aqqhY-WGPCWyAWkCgFhdHjWNlgykR5Gu9qUrhxBXK9mF64YA-RGOquy4zPanUVOwXnLFurZqBaCn1CuYe3Yxhj8ZceRxowmX6N3Q1RA4Y3eRJb8PKcTSN4pnkl7nRpeBCLWcIbpxV5yUQlZWWsWpiWmeL_biYQLsdOaWaeLAyDJLmCo4_Vr2D000enJ4kZEDOFQBXCKwUlgfIb81oRwyQx3SEqgtVQ0BaHYhyxB37PLkEVsxTogXdQC30bhWBlhOVFuYIm-GHBt3KSu-cpzSfXVVQ6-5U6bQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e2be97ad738c"
+     ],
+     "found": "2026-11-16T16:45:02+03:00"
+    },
+    {
      "key": "1d2680cc18d1",
      "title": "«Мотылёк»: клуб живых историй",
      "date": "2026-11-18",
@@ -3574,13 +3623,13 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
-     "key": "d1ea55df7c00",
-     "title": "КИ: «Лаборатория падения наверх» и джем",
+     "key": "9c434181660e",
+     "title": "КИ-лаборатория и джем в Рипе",
      "date": "2026-11-18",
      "time": "19:30",
-     "place": "центр Рипа, Аптекарский пер. 9",
+     "place": "Рипа",
      "price": null,
-     "link": "https://t.me/cimsk/7390",
+     "link": "https://t.me/cimsk/7393",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -3589,10 +3638,11 @@
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/cMHc4ZnkCFyqnqA2hvebA4MJjv0F0GSxDbNBDz7sZJ7mTkxG3J2HMy8dbX_0j8h2BYm7Nu3iTeeIiiQ5hn5FbYJXlDRVXBGNk_zd3By_ipjgnXSipNnB7F-kjjFUH1LGdZpwaszKJUlwP9NXbVOiPw-DhboaXjw6o5iSWlhLRqm4yvZ2ZlrOFdqgGbbOaIh3J-bPHr7zjLkr4iBW5e2FbsI_eC-P7f86ewvk1WBF--ZDlGg6d4lUA8hJ0Pttu7iHp5Qzgrkomwm7mXccIiu1qZgfwdfGjxhaHy8s6eeobRd6hBvzvVB4JGuDsIubGZffFqC5OKObeL5zCgVTstxYvw",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "9c434181660e",
       "d1ea55df7c00"
      ],
      "found": "2026-11-15T23:28:44+03:00"
@@ -3770,6 +3820,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "3f328651b909",
+     "title": "Школа театра «Postдрама»: занятия",
+     "date": "2026-11-19",
+     "time": "19:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/postdrama/709",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Postдрама — театр-школа",
+     "author_url": "https://t.me/postdrama",
+     "image": "https://cdn4.telesco.pe/file/jlCj-cD3B_X3ijB4JLYviBVolsWUD1zzgZzurLy4E6N79AlMKhJ1g4aqqhY-WGPCWyAWkCgFhdHjWNlgykR5Gu9qUrhxBXK9mF64YA-RGOquy4zPanUVOwXnLFurZqBaCn1CuYe3Yxhj8ZceRxowmX6N3Q1RA4Y3eRJb8PKcTSN4pnkl7nRpeBCLWcIbpxV5yUQlZWWsWpiWmeL_biYQLsdOaWaeLAyDJLmCo4_Vr2D000enJ4kZEDOFQBXCKwUlgfIb81oRwyQx3SEqgtVQ0BaHYhyxB37PLkEVsxTogXdQC30bhWBlhOVFuYIm-GHBt3KSu-cpzSfXVVQ6-5U6bQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3f328651b909"
+     ],
+     "found": "2026-11-16T16:45:02+03:00"
+    },
+    {
      "key": "898edd1c7d2a",
      "title": "«Взрыв эмоций»: тренинг по актёрскому мастерству",
      "date": "2026-11-19",
@@ -3865,6 +3939,31 @@
       "16c6f4066ba1"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "bc22491efaea",
+     "title": "«Сказка на ночь»: группа с метафорическими картами",
+     "date": "2026-11-20",
+     "time": "18:00",
+     "place": "Москва, ул. Дмитрия Ульянова 35 с.1",
+     "price": "3500–7000 ₽",
+     "link": "https://artdevino.timepad.ru/event/4305922/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://artdevino.timepad.ru/event/4305922/",
+     "cats": [
+      "circles",
+      "craft"
+     ],
+     "adult": false,
+     "author": "Art D'Vino",
+     "author_url": "https://artdevino.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d145e57f-d660-4aeb-908e-2380ca01b0e0/-/crop/1350x760/0,1138/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bc22491efaea"
+     ],
+     "found": "2026-11-16T16:45:02+03:00"
     },
     {
      "key": "720171c2594f",
@@ -4326,14 +4425,15 @@
       "body",
       "calm"
      ],
-     "adult": false,
+     "adult": true,
      "author": "Уютное пространство",
      "author_url": "https://t.me/uyutnoeprostranstvoo",
      "image": "https://cdn4.telesco.pe/file/qfCtAPO4z1CtrheVrsWL9jw9ioVrLzUPH_3tzfxEqjRqcmnzlopklBtNV5nH3dKbPv56p9nHj7UvsW09Znds1PW4pv-sKsIGQZaKo1RcVwe3KZx8ZEbc0MAPswqF55zRKKyU6lIN8DwhQzWR6wwYT9Efs7yTzfT2EDnhWpihIi2Q8sWI0qScic1nZ_UFRYRhXOdM_qvcdwsQ_qhfzFNGCBJjR95qes_Ur3MW5T32nGD1kgHx5PfdyWOsvw9kywzR4dztZTgQwwSwvbNk_1a_5SXUfbM0quCK6abV9nHyjb8F2_s8rVuzi3SPJ4VHp4VUFzRjyEslMzFXYXkjeKSs2Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "df54f08efbe8"
+      "df54f08efbe8",
+      "cc516a8437aa"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -4584,26 +4684,27 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
-     "key": "c28cae3c09a5",
-     "title": "День рождения «Шибаришной»",
+     "key": "01bdfbfdbf97",
+     "title": "7-летие Шибаришной",
      "date": "2026-11-24",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/shibarish/4927",
+     "time": "20:00",
+     "place": "Москва, Шибаришная",
+     "price": "от 2000 ₽",
+     "link": "https://t.me/sram_sram18/3010",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "watch"
+      "watch",
+      "body"
      ],
      "adult": true,
-     "author": "18+ Канал Шибаришной",
-     "author_url": "https://t.me/shibarish",
-     "image": "https://cdn4.telesco.pe/file/fI_RQpQnfARsQ6fceaNFM01k2WIvdKybSucTlDVj2PqGEYOOVgntgJuMqDgh1_IXcoL09jVjCJWQVpkIn2h2y3ZFBZDJD6SYGA-LvrnR-4gyCH4lpqoLPmZ_idRM4GUdcQuSq97C5SRxrk2O0uN8YsPFUpN-fZTBP8epFbEtWL6cFEJyuAGjXq_UpO8aV0KT9GOkf1Nk6JtUBp_CnZK9BrVbD_afIYKC3hRLTmhTdYLN_jpZWi4aTWTPrOyd1unbQUCJvzgAPqXrP3aJzC4SYJDawRRaPIpRRKaBsla6evV6rGzx1hAWXA8S9Vcrf4XXiVeRJ5iw3ZlTZ8ythreCcg.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/P9TF8kKuZgNkDhlrbOyZQlvzwuF-GQiZfMGadtSnHI3vHJ1WNzTSHXVKyZ3jd2TTyqNVZdB9DblmarfAA7jhLBfZWI0dlhUQlRGwN3gtB5p7Sr2k0Gbw9li8BcV-DkEBbqbv0jVqCnNJOo1HyQAWJr3SvtPUpnHrQLQV1ECZLeQOEs61eL8IbFhF41RLKcelSAzxokICCzDtLXOtJXBn1buLO7LkCY1EeA3xIxfuLXkpVMEG-g43qWyS4Q-6lSc-f3kC4FR5GfOetUiaDOpyUOo4IXPS08lddA5fFLobAQgM5XDPrTzLeKictaM3TRtDrXYHr5-VPVyXv0l4T7eXkw.jpg",
+     "hot": true,
+     "hot_reason": "юбилей проекта, раз в год",
      "keys": [
+      "01bdfbfdbf97",
       "c28cae3c09a5"
      ],
      "found": "2026-11-16T12:45:07+03:00"
@@ -6730,14 +6831,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-16T12:45:07+03:00",
-     "events": 86
+     "last_post": "2026-11-16T16:45:02+03:00",
+     "events": 88
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-16T12:03:03+03:00",
+     "last_post": "2026-11-16T14:10:11+03:00",
      "events": 20
     },
     {
@@ -6748,6 +6849,13 @@
      "events": 7
     },
     {
+     "title": "Срамота 18+",
+     "username": "sram_sram18",
+     "kind": "folder",
+     "last_post": "2026-11-16T16:20:13+03:00",
+     "events": 6
+    },
+    {
      "title": "LeMoor Cloob инфо",
      "username": "lemoorcloob",
      "kind": "folder",
@@ -6755,11 +6863,11 @@
      "events": 5
     },
     {
-     "title": "Срамота 18+",
-     "username": "sram_sram18",
-     "kind": "folder",
-     "last_post": "2026-11-16T10:03:45+03:00",
-     "events": 5
+     "title": "Postдрама — театр-школа",
+     "username": "postdrama",
+     "kind": "extra",
+     "last_post": "2026-11-16T15:31:12+03:00",
+     "events": 4
     },
     {
      "title": "FoShoo — любительский театр",
@@ -6776,13 +6884,6 @@
      "events": 3
     },
     {
-     "title": "Postдрама — театр-школа",
-     "username": "postdrama",
-     "kind": "extra",
-     "last_post": "2026-11-15T23:12:16+03:00",
-     "events": 2
-    },
-    {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
@@ -6793,15 +6894,8 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-15T14:30:01+03:00",
+     "last_post": "2026-11-16T15:02:02+03:00",
      "events": 2
-    },
-    {
-     "title": "18+ Канал Шибаришной",
-     "username": "shibarish",
-     "kind": "folder",
-     "last_post": "2026-11-16T12:01:24+03:00",
-     "events": 1
     },
     {
      "title": "Sense Cuddle Канал",
@@ -6821,8 +6915,15 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-16T09:28:58+03:00",
+     "last_post": "2026-11-16T13:44:48+03:00",
      "events": 1
+    },
+    {
+     "title": "18+ Канал Шибаришной",
+     "username": "shibarish",
+     "kind": "folder",
+     "last_post": "2026-11-16T12:01:24+03:00",
+     "events": 0
     },
     {
      "title": "FLUR",
@@ -6884,7 +6985,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-15T01:01:01+03:00",
+     "last_post": "2026-11-16T15:36:29+03:00",
      "events": 0
     },
     {
