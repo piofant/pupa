@@ -227,7 +227,8 @@
      "hot_reason": "",
      "keys": [
       "ca6052cd7743",
-      "177b479df4e0"
+      "177b479df4e0",
+      "4bf82aa5f9b0"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -257,6 +258,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "0acad97e3f8f",
+     "title": "Пробный урок по импровизации (Точка Импро)",
+     "date": "2026-11-17",
+     "time": "19:30",
+     "place": "Большая Посадская, 24/2",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0acad97e3f8f"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
      "key": "a6b8c6c50f73",
      "title": "Старт курса импровизации в школе Меерсона",
      "date": "2026-11-17",
@@ -279,6 +304,79 @@
       "a6b8c6c50f73"
      ],
      "found": "2026-11-16T02:48:51+03:00"
+    },
+    {
+     "key": "3dded571fe6d",
+     "title": "Юлия Гаури: тантрический и чувственный массаж",
+     "date": "2026-11-17",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/tantratime_spb/1828",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "TANTRA🤍TIME | Санкт-Петербург",
+     "author_url": "https://t.me/tantratime_spb",
+     "image": "https://cdn4.telesco.pe/file/fr-NV8_UVSZercOQ02Vmk8N-bHNDelMYXo2vPApOz3zOVHgJRoBWgNGdrMgs3prOOmoNHUQGqPYjn7NpdMHD_E1cc447yEcNe8EtRoSI5Zz_8AVovv6akz3cmhfvQEaPmdZigBtQLYdFwRGSD3CsTP181q3f6SfxEimiLR3U6dtAUyg7Kur8J3eJb7h77o2KV4xEoAmhknJUjBbrPlv9BeWMSdIU2jI5w5o_lIQeKAA4TAna5gm3FGA88nnFzY3LsceArPAfklA9nzONRLGMxzhBRz362JkmReZLS0-vFsoI8rmm35Rq76XTtVs1VGNsFn58LlLd8FXfbTUvNeuFdA",
+     "hot": true,
+     "hot_reason": "приезд мастера на 5 дней",
+     "keys": [
+      "3dded571fe6d"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "31a6b68db252",
+     "title": "Групповая медитация Випассаны для старых студентов",
+     "date": "2026-11-18",
+     "time": "18:55",
+     "place": "ул. Радищева, 30",
+     "price": "бесплатно, донейшн",
+     "link": "https://t.me/spb_vipassana/1345",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Випассана СПб",
+     "author_url": "https://t.me/spb_vipassana",
+     "image": "https://cdn4.telesco.pe/file/en6luFNrxcnUaLtrCHnVJo5wv0BDNNvsPnDlqtdIvDuMsdeB2eMom5lJ-M_dtOgjaASWatnc0CJGpeWp0z_rQKCCVJxtTnm8YlAgwFnOJFU4JNTBSGSSPy14wjdeb3ImDVp7vQj7hBXpu5EsZWwXFzQsx5Chilis0xpEf0pFR2bMWnF24Ozp49LVN5rdB9V7hisa2fEbuQ2QoGuYXm7lcJgPlbIJpxX17kpSIFO76zGHppDK3vT9T0lNPq6lDghjYk06PGRqBZxaff4MqYEqUv8mqWXw7lU-Om83_jqVZuI1Ru5Cu8wckbsb_t-wNs4WDgTyXjZWeb3lL59gLTUYng.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "31a6b68db252"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "effd74b6bacd",
+     "title": "Встреча с актёром Олегом Алмазовым",
+     "date": "2026-11-18",
+     "time": "19:00",
+     "place": "Библиотека № 4 им. Прокофьева, ул. Димитрова, 9 к. 1",
+     "price": "бесплатно",
+     "link": "https://biblioteka-4-prokofeva.timepad.ru/event/4302683/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-4-prokofeva.timepad.ru/event/4302683/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Библиотека № 4 им. А. А. Прокофьева",
+     "author_url": "https://biblioteka-4-prokofeva.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2f3a5874-c04f-44bf-950f-a7e407dac2ed/-/crop/1280x720/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "effd74b6bacd"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "a07aacbfb34b",
@@ -428,6 +526,30 @@
      "found": "2026-11-16T08:30:02+03:00"
     },
     {
+     "key": "c1896de6d601",
+     "title": "Мастер-класс «Пижемская роспись»",
+     "date": "2026-11-19",
+     "time": "19:00",
+     "place": "Библиотека «Музей книги блокадного города», пр. Юрия Гагарина, 17",
+     "price": "бесплатно",
+     "link": "https://knigigoroda.timepad.ru/event/4271175/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://knigigoroda.timepad.ru/event/4271175/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Музей книги блокадного города\"",
+     "author_url": "https://knigigoroda.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d0dea8ab-38c2-4fc5-9c91-3e2df50c68e0/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c1896de6d601"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
      "key": "f9e5cdb136ed",
      "title": "МетаТеатр: интенсив «Страхи и желания»",
      "date": "2026-11-19",
@@ -528,6 +650,30 @@
       "2d09258a05be"
      ],
      "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
+     "key": "da80b050d58d",
+     "title": "Старт курса импровизации, 1 этап (Валентина Самохвалова)",
+     "date": "2026-11-19",
+     "time": "19:30",
+     "place": "Большая Посадская, 24/2",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "da80b050d58d"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "30e609049ac4",
@@ -684,6 +830,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "f9fe4d47ce4d",
+     "title": "Пробный урок по стендапу (Тимур Альмяшев)",
+     "date": "2026-11-20",
+     "time": "19:30",
+     "place": "Большая Посадская, 24/2",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f9fe4d47ce4d"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
      "key": "501b054a062a",
      "title": "Pinky Night в SensCafe",
      "date": "2026-11-20",
@@ -783,6 +953,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "e1e1009532b0",
+     "title": "Пробный урок по импровизации (Точка Импро)",
+     "date": "2026-11-21",
+     "time": "12:00",
+     "place": "Большая Посадская, 24/2",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e1e1009532b0"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
      "key": "ceaf84b78260",
      "title": "Лекция «Генеративная музыка»",
      "date": "2026-11-21",
@@ -878,6 +1072,31 @@
       "a11a4b048483"
      ],
      "found": "2026-11-16T02:48:51+03:00"
+    },
+    {
+     "key": "5c44f8657e45",
+     "title": "Шоу «Фулл Хаос»",
+     "date": "2026-11-21",
+     "time": "18:30",
+     "place": "La Phare, Каменноостровский пр., 10-Б",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5c44f8657e45"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "9ab0d1435ea7",
@@ -979,6 +1198,30 @@
       "d162a345e551"
      ],
      "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "79acf18070aa",
+     "title": "Стендап-шоу с Галиной Подкопаевой",
+     "date": "2026-11-21",
+     "time": "19:30",
+     "place": "Black Box, ул. Мира, 3",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "79acf18070aa"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "f13c6d517c67",
@@ -1182,6 +1425,56 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "b2bead6f703d",
+     "title": "Импро-шоу «То да Се»",
+     "date": "2026-11-22",
+     "time": "19:00",
+     "place": "Black Box, ул. Мира, 3",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b2bead6f703d"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "952de1a1a4bf",
+     "title": "Открытый микрофон с Галей Подкопаевой",
+     "date": "2026-11-22",
+     "time": "19:00",
+     "place": "Бар «В душе», ул. Куйбышева, 33/8",
+     "price": null,
+     "link": "https://t.me/tochkabest/5371",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "952de1a1a4bf"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
      "key": "110251e602a8",
      "title": "Sound Healing и йога-нидра в ТОТ",
      "date": "2026-11-22",
@@ -1198,7 +1491,7 @@
      "adult": false,
      "author": "ТОТ ЙОГА ЦЕНТР",
      "author_url": "https://t.me/totyoga",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/qcfI2cDOuj57OnE5XCMJr9R0YMkFl-Lg85LsMltKt-RD2CqMt1NsPSWk1Q5HFDWfYn0XF_Ccofl7zDursx0fnRG_66YOfVQe4v2BXBmOu38uA2WurrgY01riqCjrKKGWTHzJUGy6OsE-J06TNadb-U43parxhfhaAOleI91Ok2wCjeWhgbzK7JoEWVR4xCLlk7BCfRUs3C9nXmfpqpkm253AvzlUNVlef4bY3GnHWt85fK3mC6FKzR24vfQSFtYmP37mx2-f6l9JKMoWK4q2NIB6zgSZQHZf3zGAfTK7Q_U3kzBxo7cb1yy-etuQqqS09zR2XTW1KvA7u-uX6cXDmw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
@@ -1280,13 +1573,13 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "e199ff65dfc8",
+     "key": "64eb94c2fc69",
      "title": "Старт курса импровизации, 1 этап (Павел Калмыков)",
      "date": "2026-11-23",
      "time": "19:30",
-     "place": "Точка Импро, Большая Посадская, 24/2",
+     "place": "Большая Посадская, 24/2",
      "price": null,
-     "link": "https://t.me/tochkabest/5321",
+     "link": "https://t.me/tochkabest/5371",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1295,10 +1588,11 @@
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/kyvQCEFNXRpAuI9Ei9jn-pyQS0hNbLgkOx9YT3XronR_aiBiyyeB0gkTRpA1EoHLnXMWEbFh6erF-DQOQLo9OhrXKBi9M3HjkNnHLXaFw-I4vcCR-Tp76HxQc9Rk5FFFDcSfUINEoNNxatQyBiUKJy-Ni3Aqr4jIZlDTK1D9cLz4mGPvbYc1ZlHlHNzveHtxLVLJuxTwM4qLyQBEakz7HfKwC6WAatq3NXQfGVOCDMSmh9GOvdGQe0NTVOMgcfGEPwxnPvbGiSnNLzsxke_FHfo1TWScCEll3JQggs1VZiSvnOQbhVdkS4xJerlkcTz8uR-kSRV0WVvOl3rG4AJcrQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "64eb94c2fc69",
       "e199ff65dfc8"
      ],
      "found": "2026-11-16T02:48:51+03:00"
@@ -1350,6 +1644,30 @@
       "fa13613704a7"
      ],
      "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
+     "key": "a95ad3f0c8ec",
+     "title": "Правополушарное рисование «Мистический лес с колокольчиками»",
+     "date": "2026-11-26",
+     "time": "13:00",
+     "place": "Библиотека им. К.А. Тимирязева, Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4265680/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4265680/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/73461cb5-da09-443f-b464-f2890a4c192e/-/crop/6720x3783/0,350/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a95ad3f0c8ec"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "cdc8b2f4e041",
@@ -1476,6 +1794,31 @@
       "b7d4da88c1e6"
      ],
      "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "7e26ba50d7c3",
+     "title": "Лекция-концерт Дмитрия Шубина: импровизационный оркестр",
+     "date": "2026-11-27",
+     "time": "20:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/domradio_online/2197",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/thlJB-1eACYpV2B-OoDM0qHTCDa_lSoe3oVVQRkxagGVYvHwI2M9JrEkauKMyGeGk4rNdHtfLGa0_lRiYopuAkEbQo49f_98Pkxy85FR_-QcE2dTd5oc9uKi7ggjkquwjudckAr_LlRgEVZM4ylRESA-vIlmjd8OaDUo5pUlW3KVaPle_G7iTqAUZbmsP2ZIj7V6tdKsSDoy-qUVIIxHKKjO8Vx7Vbnmrq5jr_uGhxx-WBt2ybbEUo793qx13O5R0JVqz_r76gTr0d30-jqs9N2ISxqS2Qq4-yI41fJBr-SHVViUOh0_DRpqFfFlveyN9oX9DrAPLsGbDKn_tiXy6A.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7e26ba50d7c3"
+     ],
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "93a064470a25",
@@ -1607,26 +1950,27 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
-     "key": "366b16c320ad",
-     "title": "Шоу ДК Импро на Скороходе",
+     "key": "cb04a26691f7",
+     "title": "Новое шоу «Другой Команды»",
      "date": "2026-11-29",
      "time": "19:30",
-     "place": "Скороход, Московский пр., 107к5",
+     "place": "Площадка «Скороход», Московский пр., 107к5",
      "price": null,
-     "link": "https://t.me/tochkabest/5331",
+     "link": "https://t.me/tochkabest/5371",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre",
-      "watch"
+      "watch",
+      "theatre"
      ],
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/PpfgZJOkhRxkGyWwkzcBLAxh4PPPXvGw87EmjTUXsM3KG6s_vOZ8JEOMtVO6ldI1nZOEMEpWov5Ldq7AANgpIlocV67orgafMX86FaDNE_eEk45vcQGSKHYbmgOgKFkNxRjS57ZBo6ZfOInG-xPOi7vThoL7At03Z6lfOtFq5WOkAJGSmrm5Uug2TYfbhODobvAmLn7tJ4AOgWMc_9h7vEEGTVQXu-2FBTqMpOtWmnrmNGOh-2JafrMj5p8d7mwRKzJYQBNyja0EPvpVplP_0vkaqvcUaO45QF0Msv_bmsLFgEN-NGl09VBOCjqk738Cf1pXcsfdkizYxoulfWNIpQ",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "cb04a26691f7",
       "366b16c320ad"
      ],
      "found": "2026-11-16T02:48:51+03:00"
@@ -1743,18 +2087,45 @@
      "signup_url": null,
      "cats": [
       "theatre",
-      "watch"
+      "watch",
+      "music"
      ],
      "adult": false,
      "author": "Путь театра | Андрей Черепанов",
      "author_url": "https://t.me/rabbitholelab",
      "image": "https://cdn4.telesco.pe/file/r8jS4h-qq0oTlb4yS_RlH0yPCU_NkRH0HJiE6MmdqbGCcTX8I4_YAIkfxKoPnw37et9rdp1wzFCW41jcZiQgKCdbv72oZ8mlNDVMAHRqTGlRdADvjxcibH78LWZtEzopIhKkGlEH9H15Uwt2g24WuQ20RUcVV4jkzTkeX0qtoP1DsaANilmWkPbUYw4FUl4LxYBFh7ESNN2m3UoBom-RqdKKYM0_aVlVjXkLtDUhfxiJ3Hewip3ZH9y6sevEysa2WqrSvY2Kl8XRILxf1cS2CwXRFdsQqM5saBEeHhimIFPNrmLE2AGiviOVApwR9rFTMuwnyZLgOuoJWh020g8y_A.jpg",
+     "hot": true,
+     "hot_reason": "эскиз, разовый показ",
+     "keys": [
+      "f8db91e98bc5",
+      "c3bf67b10009"
+     ],
+     "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "35b74d48113d",
+     "title": "«Смешно устроены»: психологический стендап Олеси Клевер",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "К35, Cosmos Прибалтийская, ул. Кораблестроителей, 14",
+     "price": "700 ₽",
+     "link": "https://k35.timepad.ru/event/4303137/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://k35.timepad.ru/event/4303137/",
+     "cats": [
+      "watch",
+      "circles"
+     ],
+     "adult": false,
+     "author": "К35",
+     "author_url": "https://k35.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7efcdeab-6cbd-4e3f-8d7e-181e75282968/-/crop/1920x1079/0,0/-/resize/1920x1080/",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "f8db91e98bc5"
+      "35b74d48113d"
      ],
-     "found": "2026-11-15T19:53:57+03:00"
+     "found": "2026-11-16T12:30:00+03:00"
     },
     {
      "key": "5edae989f3c3",
@@ -1978,13 +2349,13 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "c8a3b7f3196d",
-     "title": "Старт курса импровизации, 1 этап (Наталья Талейко)",
+     "key": "0c3fcff7b848",
+     "title": "Старт курса импровизации, 1 этап (Наталия Талейко)",
      "date": "2026-12-06",
      "time": "12:00",
-     "place": "Точка Импро, Большая Посадская, 24/2",
+     "place": "Большая Посадская, 24/2",
      "price": null,
-     "link": "https://t.me/tochkabest/5321",
+     "link": "https://t.me/tochkabest/5371",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1993,10 +2364,11 @@
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/kyvQCEFNXRpAuI9Ei9jn-pyQS0hNbLgkOx9YT3XronR_aiBiyyeB0gkTRpA1EoHLnXMWEbFh6erF-DQOQLo9OhrXKBi9M3HjkNnHLXaFw-I4vcCR-Tp76HxQc9Rk5FFFDcSfUINEoNNxatQyBiUKJy-Ni3Aqr4jIZlDTK1D9cLz4mGPvbYc1ZlHlHNzveHtxLVLJuxTwM4qLyQBEakz7HfKwC6WAatq3NXQfGVOCDMSmh9GOvdGQe0NTVOMgcfGEPwxnPvbGiSnNLzsxke_FHfo1TWScCEll3JQggs1VZiSvnOQbhVdkS4xJerlkcTz8uR-kSRV0WVvOl3rG4AJcrQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "0c3fcff7b848",
       "c8a3b7f3196d"
      ],
      "found": "2026-11-16T02:48:51+03:00"
@@ -2052,13 +2424,13 @@
      "found": "2026-11-16T02:48:51+03:00"
     },
     {
-     "key": "094a745c99a8",
+     "key": "07424511a382",
      "title": "Старт курса импровизации, 1 этап (Виталий Козловский)",
      "date": "2026-12-08",
      "time": "19:30",
-     "place": "Точка Импро, Большая Посадская, 24/2",
+     "place": "Большая Посадская, 24/2",
      "price": null,
-     "link": "https://t.me/tochkabest/5321",
+     "link": "https://t.me/tochkabest/5371",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -2067,10 +2439,11 @@
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/kyvQCEFNXRpAuI9Ei9jn-pyQS0hNbLgkOx9YT3XronR_aiBiyyeB0gkTRpA1EoHLnXMWEbFh6erF-DQOQLo9OhrXKBi9M3HjkNnHLXaFw-I4vcCR-Tp76HxQc9Rk5FFFDcSfUINEoNNxatQyBiUKJy-Ni3Aqr4jIZlDTK1D9cLz4mGPvbYc1ZlHlHNzveHtxLVLJuxTwM4qLyQBEakz7HfKwC6WAatq3NXQfGVOCDMSmh9GOvdGQe0NTVOMgcfGEPwxnPvbGiSnNLzsxke_FHfo1TWScCEll3JQggs1VZiSvnOQbhVdkS4xJerlkcTz8uR-kSRV0WVvOl3rG4AJcrQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "07424511a382",
       "094a745c99a8"
      ],
      "found": "2026-11-16T02:48:51+03:00"
@@ -2209,14 +2582,21 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-16T08:30:02+03:00",
-     "events": 13
+     "last_post": "2026-11-16T12:30:00+03:00",
+     "events": 17
+    },
+    {
+     "title": "Точка Импро",
+     "username": "tochkaBest",
+     "kind": "extra",
+     "last_post": "2026-11-16T11:16:11+03:00",
+     "events": 14
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-15T23:00:42+03:00",
+     "last_post": "2026-11-16T09:28:48+03:00",
      "events": 12
     },
     {
@@ -2230,21 +2610,21 @@
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
-     "last_post": "2026-11-14T17:59:58+03:00",
-     "events": 7
-    },
-    {
-     "title": "Точка Импро",
-     "username": "tochkaBest",
-     "kind": "extra",
-     "last_post": "2026-11-14T17:08:03+03:00",
-     "events": 6
+     "last_post": "2026-11-16T09:49:15+03:00",
+     "events": 8
     },
     {
      "title": "Improv Life",
      "username": "ImprovLifeblog",
      "kind": "extra",
      "last_post": null,
+     "events": 4
+    },
+    {
+     "title": "Дом Радио",
+     "username": "domradio_online",
+     "kind": "folder",
+     "last_post": "2026-11-16T11:27:53+03:00",
      "events": 4
     },
     {
@@ -2259,13 +2639,6 @@
      "username": "open_living",
      "kind": "folder",
      "last_post": "2026-11-15T17:58:25+03:00",
-     "events": 3
-    },
-    {
-     "title": "Дом Радио",
-     "username": "domradio_online",
-     "kind": "folder",
-     "last_post": "2026-11-15T18:00:40+03:00",
      "events": 3
     },
     {
@@ -2287,6 +2660,13 @@
      "username": "ecstaticdancespb",
      "kind": "extra",
      "last_post": "2026-11-15T13:18:26+03:00",
+     "events": 2
+    },
+    {
+     "title": "Випассана СПб",
+     "username": "spb_vipassana",
+     "kind": "folder",
+     "last_post": "2026-11-16T12:20:37+03:00",
      "events": 2
     },
     {
@@ -2346,13 +2726,6 @@
      "events": 1
     },
     {
-     "title": "Випассана СПб",
-     "username": "spb_vipassana",
-     "kind": "folder",
-     "last_post": "2026-11-14T15:48:06+03:00",
-     "events": 1
-    },
-    {
      "title": "ГОВОРИ",
      "username": "dialogboma",
      "kind": "extra",
@@ -2377,7 +2750,7 @@
      "title": "Путь театра | Андрей Черепанов",
      "username": "rabbitholelab",
      "kind": "folder",
-     "last_post": "2026-11-16T01:42:13+03:00",
+     "last_post": "2026-11-16T09:24:29+03:00",
      "events": 1
     },
     {
@@ -2440,14 +2813,14 @@
      "title": "Kris | Тантра | Психотерапия",
      "username": "AradhanaPrema",
      "kind": "extra",
-     "last_post": "2026-11-14T13:10:15+03:00",
+     "last_post": "2026-11-16T11:01:09+03:00",
      "events": 0
     },
     {
      "title": "Massage Band",
      "username": "sensmassagemasters",
      "kind": "folder",
-     "last_post": "2026-11-15T19:02:44+03:00",
+     "last_post": "2026-11-16T12:25:28+03:00",
      "events": 0
     },
     {
@@ -2545,14 +2918,14 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-15T17:35:38+03:00",
+     "last_post": "2026-11-16T12:04:47+03:00",
      "events": 0
     },
     {
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-16T03:15:11+03:00",
+     "last_post": "2026-11-16T09:28:58+03:00",
      "events": 0
     },
     {
