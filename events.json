@@ -495,7 +495,8 @@
      "hot_reason": "",
      "keys": [
       "47f096a69391",
-      "9d6f4fb2d19b"
+      "9d6f4fb2d19b",
+      "dc19b253dbf5"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1943,6 +1944,31 @@
      "found": "2026-11-16T09:00:02+03:00"
     },
     {
+     "key": "f386879adb07",
+     "title": "Лекция «Клубничка на берёзке»: секс в древнерусских источниках",
+     "date": "2026-11-23",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "по тарифу тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8773",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/fYP6EDtjv8Q3gMtL98k2VHiRewjZrLAjwD2QKuhpfmTy1gpu9xRtCRsnVbXMpFHWghNWmYaUmZ1muQVE1p1x-H6s3MTD-DLtwwmAqES96LIBEPX-00aIgmzTJOpa7dvWLqwptlEtYx7BCK1CeINgWHkTdZsLvPQh1zoN_8MUJZhV_FnL04ircehBJhINJU8EYNt-u5s-PFqJrf31xM4NuUyP-naqXlM6cOwJCdk7R0eb1lwo4nkq82QR-AwykE1jQRXQLGREku8f3uSgpFUuokHaXvEY_tyLEQ17Fmm7uu9adXe3pAQOeIxyn-SANIjKGc8eufsOemjM5OnLublBzQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f386879adb07"
+     ],
+     "found": "2026-11-17T16:30:07+03:00"
+    },
+    {
      "key": "cff71323fc28",
      "title": "Магия тупрова: курс парной импровизации",
      "date": "2026-11-23",
@@ -2235,7 +2261,8 @@
      "keys": [
       "ddb665e4e5fa",
       "e5d6a2778c54",
-      "4dcc3eb91172"
+      "4dcc3eb91172",
+      "e1eb83a7c38a"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -2701,6 +2728,31 @@
      "found": "2026-11-15T20:36:43+03:00"
     },
     {
+     "key": "21798ca42c82",
+     "title": "Концерт Кирилла Архипова в Доме Радио",
+     "date": "2026-12-04",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2200",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/Dodb2hG7bOhnNqo_7WPAlg3bFBrgfkKtCIT4h7_mGvmFkRQKMmiK9-uW-4TlqB5aFh60drP49nQ0V7-T5mzrdKETA5qyNijfYV61i9NH1qTEEyeHsba54vpgAhxr30sBpAC8b-c_7MqGnRa_AB9Ro4-bDE6VGsvd35FHdpv2atekuf4bAQ8phP4EyWV-33HXtjpFqEJ1-HoxAWUYgZfO2kVIPZobk4hN3DK7WLBfjSSnZzzHCHAAYma-YCLcc30dp7PoVcU_6tVgGXyeJ_cOt3ZuS--sTNSR7CJ1AAHk4n5NUcDONIF7k6o6xy81gsCT2Bne3ZyN_GUU4B3KubFusg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "21798ca42c82"
+     ],
+     "found": "2026-11-17T16:30:07+03:00"
+    },
+    {
      "key": "e6cc0990f972",
      "title": "Мастер-класс по стендапу (Точка Импро)",
      "date": "2026-12-05",
@@ -3048,27 +3100,28 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "b0355ac9644b",
-     "title": "Плейбэк-перформанс НОТАБЕНЕ",
+     "key": "73580f6939e7",
+     "title": "Плейбэк-перформанс «Моя стая»",
      "date": "2026-12-12",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/playback_notabene/573",
+     "time": "19:30",
+     "place": "Театральная гостиная Винчи, Большая Пушкарская, 29",
+     "price": "1500–3500 ₽",
+     "link": "https://t.me/playback_notabene/576",
      "source": "Пост в канале",
-     "signup_url": null,
+     "signup_url": "https://playback-teatr-nota-bene.timepad.ru/event/4309588/",
      "cats": [
       "theatre",
       "watch",
-      "music"
+      "circles"
      ],
      "adult": false,
      "author": "НОТАБЕНЕ — плейбэк-театр",
      "author_url": "https://t.me/playback_notabene",
-     "image": "https://cdn4.telesco.pe/file/Qjy42bAyRz9-b-qokLdeB4V4gk5p6C9o122CSq2HwBkeyxJA7pepn3HtnIU_XP-121UdBkHkb1D0pmoyIvlDuK4h30_rVoEVSN5nurMu37sK8elBXkeaGJ8fhOq4B2OPvWMwDLH0pH-R9XTRhLMFchkoo9HquQVGmEeHiwTYJLIhacFV8hRLxO6g7wifI1KrG5h0CGHp2nVJeOeHVjCGHDTWpF9AZ6kSZQSrlcWQbQLQ4oHVMwieGZD1-KG82XFd4KJTkplDMiiWPyxHpv_kLysTJ-9MMnRciJOGfm3aMlcVhhCSQh1epS65XT09VtmPyBmWH1FGL0whjp8tC--MGw.jpg",
+     "image": "https://ucare.timepad.ru/d49e0436-05e8-44e4-8261-3d431a93cb05/-/crop/1600x899/0,0/-/resize/1920x1080/",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "73580f6939e7",
       "b0355ac9644b"
      ],
      "found": "2026-11-16T02:48:51+03:00"
@@ -3179,7 +3232,7 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-17T12:30:01+03:00",
+     "last_post": "2026-11-17T16:30:07+03:00",
      "events": 31
     },
     {
@@ -3193,14 +3246,14 @@
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-17T08:05:51+03:00",
-     "events": 12
+     "last_post": "2026-11-17T14:03:34+03:00",
+     "events": 13
     },
     {
      "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "username": "improschoolspb",
      "kind": "extra",
-     "last_post": "2026-11-17T10:35:14+03:00",
+     "last_post": "2026-11-17T16:30:09+03:00",
      "events": 9
     },
     {
@@ -3221,8 +3274,8 @@
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-16T15:55:16+03:00",
-     "events": 4
+     "last_post": "2026-11-17T14:15:06+03:00",
+     "events": 5
     },
     {
      "title": "Каледонский Лес",
@@ -3242,7 +3295,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-16T17:40:06+03:00",
+     "last_post": "2026-11-17T14:49:15+03:00",
      "events": 3
     },
     {
@@ -3361,7 +3414,7 @@
      "title": "НОТАБЕНЕ — плейбэк-театр",
      "username": "playback_notabene",
      "kind": "extra",
-     "last_post": null,
+     "last_post": "2026-11-17T15:49:51+03:00",
      "events": 1
     },
     {
