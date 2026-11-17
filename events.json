@@ -401,29 +401,55 @@
      "found": "2026-11-16T12:30:00+03:00"
     },
     {
-     "key": "a07aacbfb34b",
-     "title": "Девичник: тактильная ролевая сказка",
+     "key": "692babfda6c5",
+     "title": "Девичник: тактильная ролевая игра",
      "date": "2026-11-18",
      "time": "19:00",
      "place": "SensCafe",
      "price": "по тарифу + донат от 500 ₽",
-     "link": "https://t.me/sensualcafe/8735",
+     "link": "https://t.me/sensualcafe/8775",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
       "body",
+      "dance",
       "calm"
      ],
      "adult": false,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
-     "image": "https://cdn4.telesco.pe/file/gdd1qyP5LgahFzShC-fyZkkp1Kw_1dR6LY44aMbFxgeTX2sI4wR0CTFcq5PL7rTZd2GXUztJtdKls3mdfUepHiSWdsWUMpfpX46LyMNOBYfCECFPIopqGLTmYDoOK_kRBYhgki5k0dLRZg0qEglxvn_uYWBuJ1C3eYW5LiLWu7PE645kkEWYZwUEYA7krS91E_rFYK3l6334w7GEjfFMGKsOFSTu82_yzvIjoAOZoH1ujQRA2nhsaptX9-Bq_GSUaDzNaWLEeTsEWdEuAnkC-zCgCtXCjQDdfYtjX0zugD3mFIJc_-TkjgxnsTF6Jb0jL-Mrm_-hWJAjTSw4Zo1Vug.jpg",
+     "image": "https://cdn4.telesco.pe/file/c9Y4ielgs90tB_D2pRkDRnisNjUhrItJ334dfqWtAFnQBU4PouNJKSOUxiq1AZ0PtwswiiWfu3hy_UqQctXIoWxOMqEKTZ9eO9FGmdgH7rFxB8OFCJMSuIhf8BplsS4K-mXflvv0S29UhdAThIfkGG2sol71ixOslY6QzoPwST3GKOanBklgOn20NAyDN0Agi9WfLbMcVqLzqQDnC4uZsiJHCmqFJm28mG60ZYuE59sthPRh5EnpPuIE0qx0hEWpJ3tliw0MbSbfu-W7UtHXUTeH_a0gpUV4WOgmzRLivzC7f-JdGPLOHKqq8rEt28_TQ7ahzIlPJIuJ_fb5D9SDSw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "692babfda6c5",
       "a07aacbfb34b"
      ],
      "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "2bd372099d9f",
+     "title": "Игра «Выпей меня» в Каледонском Лесу",
+     "date": "2026-11-18",
+     "time": "19:00",
+     "place": "Каледонский Лес",
+     "price": "донейшн",
+     "link": "https://t.me/kl_les/5436",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Каледонский Лес",
+     "author_url": "https://t.me/kl_les",
+     "image": "https://cdn4.telesco.pe/file/PlRjFqkP-ovfmRZbuMWSjviRa8jPRERQ5UJjHub_3IBbq6yqH0JT13wdWmA0AvfVpKEvW9sNsrzMqpQGX3xBdGg5jCmB98uHe6zZ6vazBdEU3gTSAgpcO1bs5JyKoFf_-TcxgSDEW6Nhf2DWY5KuNycqTpMBabd5XVw_QsY9yU0xFa_HqsVfoe3ABzv_S_po3lb8BjBjHEQiRfzOom8chBRTtiu3LWRm3xyZ_C7rIS1SiG5xEIwM1gpQRUEQ95c6vjS_BP5fOAvMdO02TmASVVUc44z_jlcyla1qwOxm5UNeE5uP0lImEonOELnNuaMxIfewuSE51YH0MvOINflPXA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2bd372099d9f"
+     ],
+     "found": "2026-11-17T20:30:01+03:00"
     },
     {
      "key": "0faecc980d83",
@@ -475,10 +501,10 @@
     },
     {
      "key": "47f096a69391",
-     "title": "Финал баттла импров-дуэтов «СРАЗУ»",
+     "title": "Финал баттла дуэтов школы «Сразу»",
      "date": "2026-11-18",
      "time": "20:00",
-     "place": "«Антресоль и Перец», ул. Марата, 1/71",
+     "place": "«Антресоль и Перец», Марата, 1/71",
      "price": "600 ₽",
      "link": "https://t.me/improschoolspb/7680",
      "source": "Пост в канале",
@@ -1425,7 +1451,7 @@
      "date": "2026-11-21",
      "time": "19:00",
      "place": "ТОТ Сенная",
-     "price": null,
+     "price": "2000 ₽ до 20 ноября, 2500 ₽ в день",
      "link": "https://t.me/totyoga/3029",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1440,7 +1466,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "5860556f1f0a"
+      "5860556f1f0a",
+      "715bf6ead00a"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1760,7 +1787,8 @@
      "hot": true,
      "hot_reason": "первая встреча только для постоянных",
      "keys": [
-      "7734f679591b"
+      "7734f679591b",
+      "1e49584c9a38"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1864,7 +1892,8 @@
      "hot_reason": "",
      "keys": [
       "d8e14492b017",
-      "4c6466604b6b"
+      "4c6466604b6b",
+      "383b65a32842"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -2038,7 +2067,8 @@
      "hot_reason": "",
      "keys": [
       "64eb94c2fc69",
-      "e199ff65dfc8"
+      "e199ff65dfc8",
+      "17a13eadbe13"
      ],
      "found": "2026-11-16T02:48:51+03:00"
     },
@@ -2319,6 +2349,30 @@
      "found": "2026-11-16T12:30:00+03:00"
     },
     {
+     "key": "ebc114c7f459",
+     "title": "Ночь кнута и пряника при свечах",
+     "date": "2026-11-27",
+     "time": "23:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sensualcafe/8774",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/O2yn4I-I5wzyPD8D5NXd_CZmDnEyRwyrsNX-ZjsHtTmYsJ97HdyJQ5LgWOgaZ8-wk7Sf3U4amUhjBAZu5EzxFNRX-vQWjSEDoEqvWJihC2O1p1365QxNyCvu7Q6aVDhypvF8ZCLcVxa1sIC5kjfgQjpMqbEYQWt9lbcLDWb-F8z2HU4Xs90nbfPojSnkeen3ERD_us_fQoZJ5UJO7kjgE4OrbET09Kj7VmbxE8VYFqRhu1xAngV5fJAu3gQwKLXhEs3C0ktP6hgfw5TwYkQT-jegcqhiohbZS6lJ8m1D6vqbEKytfY9zVgigjk4aq9HbgCK7FnHZhpRdxVIKUbXW8g.jpg",
+     "hot": true,
+     "hot_reason": "разовая ночь, до 30 гостей",
+     "keys": [
+      "ebc114c7f459"
+     ],
+     "found": "2026-11-17T20:30:01+03:00"
+    },
+    {
      "key": "93a064470a25",
      "title": "Лесной ретрит Ecstatic Dance в Глубоком",
      "date": "2026-11-27",
@@ -2337,11 +2391,12 @@
      "author": "Ecstatic Dance Spb",
      "author_url": "https://t.me/ecstaticdancespb",
      "image": "https://cdn4.telesco.pe/file/Jm46G5OijnGr_hHgwcQg0zvqsaxB2BA39nlB15rDStmnNQqXIU8g5HUbJpD8bph3Qz3ZoRUmyDLVzPWqdQT57HTgJTi6YS25J-nbLOQtGy9mXZrorPDK6fDY6pdatDqrvWXtjOiZ2-bNQVqR5GdJTgcghT90-MTDdfRgrCd9T26UILFn9oYEIQiyo-QTOaQoBEV0lJF5jwY74td-aqQLjjW9IwpFZvwnetWgMsrWsEX4I7zuhkngGme7Lf7uoYxQJxMKsZ8-xHNi2O3uQxySReck80ZrseCQM3IvD7c1Ua7Hjqx4qeYTzMPONDR9vxqcX9_py9VqjwkC1EEqoSAnJA.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "ретрит, осталось 6 мест",
      "keys": [
       "93a064470a25",
-      "548e77010e73"
+      "548e77010e73",
+      "c7ec8a68895a"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -2418,6 +2473,33 @@
       "64a57cb4d076"
      ],
      "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
+     "key": "f7b005785a4a",
+     "title": "Dark Ecstatic Dance",
+     "date": "2026-11-29",
+     "time": "17:00",
+     "place": "МУТОКУКАЙ, наб. Обводного канала, 134-136-138Б",
+     "price": "1800–2200 ₽",
+     "link": "https://t.me/lifeisecstatic/5662",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
+     "author_url": "https://t.me/lifeisecstatic",
+     "image": "https://cdn4.telesco.pe/file/CeUpAqasFfUEmVoHHJToe5lmd6vFdjWIuEZWEedWmkT2RXQCIJH4xVmS-eHVYkPhWGabipIkB3GYOaM0vuAOZFyqMBKk2yMEkuRVB-oMYLH-WM02StqzHneWf8rXC1gHiJnQOiGt17m-XfD7Id1bpo7xppaHD-4knGPbfKsdz4senlnN6GxqFhqV6-puqUFiZEr0bvCRa8M5LGllCQHilnmDiZofU9mXuYv_SYg17iRdzIPQaQeHZd2A6FMllwn43nLSkaEAiU0MhaayAj1UrCZH_hhRShL9Z2qkqGxH3ckqARBUQx36XzvBl3TheeOPfCYOwnaME4nPDagv1r353Q.jpg",
+     "hot": true,
+     "hot_reason": "разовый тематический экстатик с гостевым DJ",
+     "keys": [
+      "f7b005785a4a",
+      "21b13facbfe1",
+      "260df2872b10",
+      "7003ce9c3382"
+     ],
+     "found": "2026-11-15T20:36:43+03:00"
     },
     {
      "key": "e611026c6631",
@@ -2497,32 +2579,6 @@
       "366b16c320ad"
      ],
      "found": "2026-11-16T02:48:51+03:00"
-    },
-    {
-     "key": "21b13facbfe1",
-     "title": "Dark Ecstatic Dance в Мутокуккай",
-     "date": "2026-11-29",
-     "time": null,
-     "place": "Мутокуккай",
-     "price": null,
-     "link": "https://t.me/lifeisecstatic/5609",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "author": "LIFE IS ECSTATIC — чат",
-     "author_url": "https://t.me/lifeisecstatic",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "21b13facbfe1",
-      "260df2872b10",
-      "7003ce9c3382"
-     ],
-     "found": "2026-11-15T20:36:43+03:00"
     },
     {
      "key": "ac2d5f4d9310",
@@ -2974,6 +3030,30 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "8a2c52ab5000",
+     "title": "Открытый Диалог «Говори»",
+     "date": "2026-12-06",
+     "time": "18:00",
+     "place": "Лиговский пр-т, 83Г",
+     "price": "500 ₽",
+     "link": "https://t.me/dialogboma/103",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "ГОВОРИ",
+     "author_url": "https://t.me/dialogboma",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8a2c52ab5000"
+     ],
+     "found": "2026-11-17T20:30:01+03:00"
+    },
+    {
      "key": "5f49fc8f57c2",
      "title": "Магия тупрова: курс парной импровизации",
      "date": "2026-12-07",
@@ -3225,6 +3305,30 @@
       "f9decf2117f2"
      ],
      "found": "2026-11-16T20:30:04+03:00"
+    },
+    {
+     "key": "363c7d73e198",
+     "title": "Ecstatic New Year",
+     "date": "2026-12-31",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/ecstaticdancespb/2376",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Ecstatic Dance Spb",
+     "author_url": "https://t.me/ecstaticdancespb",
+     "image": "https://cdn4.telesco.pe/file/l5AuGTVRwfrdMInhLdIheoZIugocIsjpP8yzpiDHGM38V4fTZaqgUay-MOfQcGpogGu-u9hoPbEiaZmM1nqTRDfk6wpFrT48CoNVLi1PWx98CKbMYO3xNz4wJd6349am0j1CgHgTZ9hhgZ6swQJTjlWnLgUiHi0kS-Z-u9ohnU9jeEM06n6tXjrQ7DjCBXxn7TG2gd9tFJcvbLdKg9tapRWf0VIbghuPAO5ZWKGBE6jjycIZSfxWp7fVsPkFz9U7q25dFeu_rB8mGkitqQX48ZPzQ52FZqlpAgrpSIwTzv_Owke23LoCVkgMTmhLluPxbHqSORWY1YY4frBIcih-Fw.jpg",
+     "hot": true,
+     "hot_reason": "раз в год, новогодняя ночь",
+     "keys": [
+      "363c7d73e198"
+     ],
+     "found": "2026-11-17T20:30:01+03:00"
     }
    ],
    "sources": [
@@ -3232,22 +3336,22 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-17T16:30:07+03:00",
+     "last_post": "2026-11-17T20:30:01+03:00",
      "events": 31
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-17T12:22:46+03:00",
+     "last_post": "2026-11-17T16:55:45+03:00",
      "events": 15
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-17T14:03:34+03:00",
-     "events": 13
+     "last_post": "2026-11-17T19:01:12+03:00",
+     "events": 14
     },
     {
      "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
@@ -3260,7 +3364,7 @@
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
-     "last_post": "2026-11-14T21:38:32+03:00",
+     "last_post": "2026-11-17T17:32:23+03:00",
      "events": 8
     },
     {
@@ -3274,15 +3378,22 @@
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-17T14:15:06+03:00",
+     "last_post": "2026-11-17T20:17:10+03:00",
      "events": 5
     },
     {
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-16T18:59:58+03:00",
-     "events": 4
+     "last_post": "2026-11-17T19:10:58+03:00",
+     "events": 5
+    },
+    {
+     "title": "Ecstatic Dance Spb",
+     "username": "ecstaticdancespb",
+     "kind": "extra",
+     "last_post": "2026-11-17T19:56:16+03:00",
+     "events": 3
     },
     {
      "title": "Improv Life",
@@ -3295,21 +3406,21 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-17T14:49:15+03:00",
+     "last_post": "2026-11-17T17:03:06+03:00",
      "events": 3
-    },
-    {
-     "title": "Ecstatic Dance Spb",
-     "username": "ecstaticdancespb",
-     "kind": "extra",
-     "last_post": "2026-11-15T13:18:26+03:00",
-     "events": 2
     },
     {
      "title": "Випассана СПб",
      "username": "spb_vipassana",
      "kind": "folder",
      "last_post": "2026-11-16T12:20:37+03:00",
+     "events": 2
+    },
+    {
+     "title": "ГОВОРИ",
+     "username": "dialogboma",
+     "kind": "extra",
+     "last_post": "2026-11-17T16:41:47+03:00",
      "events": 2
     },
     {
@@ -3330,7 +3441,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-16T19:29:57+03:00",
+     "last_post": "2026-11-17T19:29:57+03:00",
      "events": 2
     },
     {
@@ -3344,21 +3455,21 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-16T19:43:45+03:00",
+     "last_post": "2026-11-17T17:18:37+03:00",
      "events": 2
     },
     {
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-16T17:17:33+03:00",
+     "last_post": "2026-11-17T18:49:19+03:00",
      "events": 2
     },
     {
      "title": "Play.Event - общение и саморазвитие",
      "username": "play_events",
      "kind": "folder",
-     "last_post": "2026-11-16T19:33:04+03:00",
+     "last_post": "2026-11-17T17:25:40+03:00",
      "events": 1
     },
     {
@@ -3390,17 +3501,10 @@
      "events": 1
     },
     {
-     "title": "ГОВОРИ",
-     "username": "dialogboma",
-     "kind": "extra",
-     "last_post": "2026-11-16T14:35:39+03:00",
-     "events": 1
-    },
-    {
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
-     "last_post": "2026-11-16T16:17:09+03:00",
+     "last_post": "2026-11-17T18:33:57+03:00",
      "events": 1
     },
     {
