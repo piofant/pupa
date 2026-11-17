@@ -127,7 +127,8 @@
       "ca6052cd7743",
       "177b479df4e0",
       "4bf82aa5f9b0",
-      "dd6c5ff0810d"
+      "dd6c5ff0810d",
+      "fff86f6dbe2b"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -155,6 +156,30 @@
       "9ebc43ddc4b5"
      ],
      "found": "2026-11-16T20:30:04+03:00"
+    },
+    {
+     "key": "0d6f3e68a876",
+     "title": "Курс «Импровизация. Level Up», старт 2 ступени",
+     "date": "2026-11-17",
+     "time": "19:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/improschoolspb/7682",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/XdhRWG0UXcRWeeZOwYFhKXZphpFZaxo5RWXia266zPuu2YHly9JlVUYRxwmJfhjxnYzg8EMKwEOrfj_gdqjzK8Gsx_dbBJbInqgnZi6zfFQvkUdrZAbmu5KwSZWEPwA8ODr3cZBXzZY3Y9G1tCrsK5v5rJ6j58SCT4j61OlT1Xgp_YjlvAK9vW8f5JnObo9W8ybI2YfNXCabG4oRkOwYVPAj7jDD7INO1zbV9YrVUayFrcvkgZPBreDg82AuMsaYAHxbNW37PnWCCfNznMilHqkLZxtfHEi_2whsFx9KbPqabzErUWyPRK6G15CQe5h49NFRO9sUY3NveYmj3fUj3g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0d6f3e68a876"
+     ],
+     "found": "2026-11-17T12:30:01+03:00"
     },
     {
      "key": "009938292a74",
@@ -228,30 +253,6 @@
       "1af1520b85e4"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "fff86f6dbe2b",
-     "title": "Сенс Просвет в SensCafe",
-     "date": "2026-11-17",
-     "time": "19:00",
-     "place": "SensCafe",
-     "price": "по тарифу тайм-кафе",
-     "link": "https://t.me/sensualcafe/8772",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "circles"
-     ],
-     "adult": false,
-     "author": "SensCafe 18+",
-     "author_url": "https://t.me/sensualcafe",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "fff86f6dbe2b"
-     ],
-     "found": "2026-11-17T09:00:01+03:00"
     },
     {
      "key": "0acad97e3f8f",
@@ -548,6 +549,30 @@
      "found": "2026-11-16T20:30:04+03:00"
     },
     {
+     "key": "4f9837ff7dc0",
+     "title": "Правополушарное рисование «Осенняя прогулка»",
+     "date": "2026-11-19",
+     "time": "13:00",
+     "place": "Библиотека им. К.А. Тимирязева, Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4265577/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4265577/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e402df66-9183-451d-9d06-a79b4380d626/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4f9837ff7dc0"
+     ],
+     "found": "2026-11-17T12:30:01+03:00"
+    },
+    {
      "key": "36cd19ae6a03",
      "title": "Выставка «Электричество» в Доме Радио",
      "date": "2026-11-19",
@@ -570,6 +595,30 @@
       "36cd19ae6a03"
      ],
      "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "6d1d77b98bce",
+     "title": "Клуб вязания: тыковка-амигуруми",
+     "date": "2026-11-19",
+     "time": "17:00",
+     "place": "Библиотека № 2 им. Л.Н. Толстого, 6-я линия В.О., 17",
+     "price": "бесплатно",
+     "link": "https://lib-tolstogo.timepad.ru/event/4288388/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://lib-tolstogo.timepad.ru/event/4288388/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека № 2 им. Л.Н. Толстого",
+     "author_url": "https://lib-tolstogo.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6b22b575-a69e-4319-bec2-d12bbd2768b6/-/crop/2162x1215/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6d1d77b98bce"
+     ],
+     "found": "2026-11-17T12:30:01+03:00"
     },
     {
      "key": "371052661dfd",
@@ -818,6 +867,8 @@
      "keys": [
       "c03da9d5a4cb",
       "682e7ebdb1e8",
+      "4c555fc98553",
+      "d9fb3522e926",
       "df91c51e9168"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -999,32 +1050,6 @@
       "53069d9b8619"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "d9fb3522e926",
-     "title": "Ecstatic Lab: медленный контактный формат",
-     "date": "2026-11-20",
-     "time": null,
-     "place": null,
-     "price": "от 2 человек — 200 ₽ каждому (скидка при покупке вдвоём)",
-     "link": "https://t.me/lifeisecstatic/5655",
-     "source": "Пост в канале",
-     "signup_url": "https://cbiletom.ru/event.php?event=15663&utm_source=tg",
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
-     "author_url": "https://t.me/lifeisecstatic",
-     "image": null,
-     "hot": true,
-     "hot_reason": "осталось всего 7 мест",
-     "keys": [
-      "d9fb3522e926",
-      "4c555fc98553"
-     ],
-     "found": "2026-11-16T20:30:04+03:00"
     },
     {
      "key": "0cff787f9ddd",
@@ -2195,7 +2220,7 @@
      "price": "от 5000 ₽",
      "link": "https://t.me/lifeisecstatic/5614",
      "source": "Пост в канале",
-     "signup_url": null,
+     "signup_url": "https://t.me/ecstaticbanyaspb/14554",
      "cats": [
       "calm",
       "body",
@@ -2209,7 +2234,8 @@
      "hot_reason": "банный экстатик, нечастый формат",
      "keys": [
       "ddb665e4e5fa",
-      "e5d6a2778c54"
+      "e5d6a2778c54",
+      "4dcc3eb91172"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -2264,31 +2290,6 @@
       "7e26ba50d7c3"
      ],
      "found": "2026-11-16T12:30:00+03:00"
-    },
-    {
-     "key": "4dcc3eb91172",
-     "title": "Ecstatic Banya в бане «Правильная»",
-     "date": "2026-11-27",
-     "time": null,
-     "place": "баня «Правильная», Муринские",
-     "price": null,
-     "link": "https://t.me/lifeisecstatic/5655",
-     "source": "Пост в канале",
-     "signup_url": "https://t.me/ecstaticbanyaspb/14554",
-     "cats": [
-      "dance",
-      "calm"
-     ],
-     "adult": false,
-     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
-     "author_url": "https://t.me/lifeisecstatic",
-     "image": null,
-     "hot": true,
-     "hot_reason": "экстатик в бане, нечастый формат",
-     "keys": [
-      "4dcc3eb91172"
-     ],
-     "found": "2026-11-17T09:00:01+03:00"
     },
     {
      "key": "93a064470a25",
@@ -2444,13 +2445,13 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
-     "key": "cb04a26691f7",
-     "title": "Новое шоу «Другой Команды»",
+     "key": "877560449e72",
+     "title": "Шоу команды «Другая команда» на Точке Импро",
      "date": "2026-11-29",
      "time": "19:30",
-     "place": "Площадка «Скороход», Московский пр., 107к5",
+     "place": "Площадка «Скороход»",
      "price": null,
-     "link": "https://t.me/tochkabest/5371",
+     "link": "https://t.me/tochkabest/5382",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -2460,10 +2461,11 @@
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/s7mX7Gij4Y5xwTTiN442pjeuk8oHQzTffo4Kp_5f1MyNGJthmUlKaZUwPV7yFDmbVUz_70-8nvnxwbhzFb_o8I463LEor5eVDIUmmq3eMLJuvm1xje8FKDe5SJMsjvBOG9G8o9HfqrQhCmj9Wd8IRCyzOPTFnujA5nm2K-a4TcrQSSQoX21B0hpXqsyPbu4mgpinHsyCnOaDWevVR44b2zBVQh__EqsOh780XEnM3HeWrpe0PmA_sBC62rJxCw0cBv1mhMVJ89PZRjtRjUHEvYLcwm-am7yRluPk4jTHjmv55qBbtK1qncjFlagyU7mzRifkfU-zch_9fpCysrje7g.jpg",
+     "image": "https://cdn4.telesco.pe/file/bB4ItK9KD8ijus403t0B7q2VodHRGUuHAoPFMAQ_zmwEOqylD0p_y7Yz7Hz92JruqmVH--LUoYOyOiJoEQFsRvx5TVUudipWHo5lnzNdbuWJpXIWDRPl5gLNsrHao4COMzVfULVEHCTUYpiDiEICQOXdBlg_rAOhO0SHIZ4MW5Rhp0eSlqAkHXjorsBe2sgwdM665FQqag8qXFLq66yKhFUbUQnMGYMMxqNKC4YxZiBTB9nda3nK2KzmQw5gNPeh3nbdIA4L6I4zpMaLeHDc6nGtN_zeDu7BXYXWwAmeKoTrDCGuoHykX1AXylBdJvcA_t06kziMn3V90G2yJsaX9g.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "877560449e72",
       "cb04a26691f7",
       "366b16c320ad"
      ],
@@ -2617,34 +2619,10 @@
      "hot_reason": "эскиз, разовый показ",
      "keys": [
       "f8db91e98bc5",
-      "c3bf67b10009"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "c3919b8e6f55",
-     "title": "«Лёха покидает планету»: инди-мюзикл Андрея Черепанова",
-     "date": "2026-12-03",
-     "time": null,
-     "place": "площадка «Скороход»",
-     "price": null,
-     "link": "https://t.me/rabbitholelab/678",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "theatre"
-     ],
-     "adult": false,
-     "author": "Путь театра | Андрей Черепанов",
-     "author_url": "https://t.me/rabbitholelab",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "c3bf67b10009",
       "c3919b8e6f55"
      ],
-     "found": "2026-11-17T09:00:01+03:00"
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "35b74d48113d",
@@ -3201,14 +3179,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-17T08:30:00+03:00",
-     "events": 29
+     "last_post": "2026-11-17T12:30:01+03:00",
+     "events": 31
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-16T16:56:43+03:00",
+     "last_post": "2026-11-17T12:22:46+03:00",
      "events": 15
     },
     {
@@ -3216,7 +3194,14 @@
      "username": "sensualcafe",
      "kind": "folder",
      "last_post": "2026-11-17T08:05:51+03:00",
-     "events": 13
+     "events": 12
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-17T10:35:14+03:00",
+     "events": 9
     },
     {
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
@@ -3231,20 +3216,6 @@
      "kind": "extra",
      "last_post": "2026-11-16T17:59:55+03:00",
      "events": 8
-    },
-    {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-16T15:19:47+03:00",
-     "events": 8
-    },
-    {
-     "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
-     "username": "lifeisecstatic",
-     "kind": "extra",
-     "last_post": "2026-11-16T17:40:06+03:00",
-     "events": 5
     },
     {
      "title": "Дом Радио",
@@ -3265,6 +3236,13 @@
      "username": "ImprovLifeblog",
      "kind": "extra",
      "last_post": null,
+     "events": 3
+    },
+    {
+     "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
+     "username": "lifeisecstatic",
+     "kind": "extra",
+     "last_post": "2026-11-16T17:40:06+03:00",
      "events": 3
     },
     {
@@ -3307,13 +3285,6 @@
      "username": "metatheatre",
      "kind": "extra",
      "last_post": "2026-11-15T15:56:22+03:00",
-     "events": 2
-    },
-    {
-     "title": "Путь театра | Андрей Черепанов",
-     "username": "rabbitholelab",
-     "kind": "folder",
-     "last_post": "2026-11-16T16:58:20+03:00",
      "events": 2
     },
     {
@@ -3391,6 +3362,13 @@
      "username": "playback_notabene",
      "kind": "extra",
      "last_post": null,
+     "events": 1
+    },
+    {
+     "title": "Путь театра | Андрей Черепанов",
+     "username": "rabbitholelab",
+     "kind": "folder",
+     "last_post": "2026-11-16T16:58:20+03:00",
      "events": 1
     },
     {
