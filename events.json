@@ -5307,10 +5307,11 @@
      "author": "Тактильный Дом (пространство чувственного опыта)",
      "author_url": "https://t.me/feel_family_studio",
      "image": "https://cdn4.telesco.pe/file/U24D3Ke5oyZLZq4JlnXrk2WIQuCz8SIt7HYlG6UBUSEd_O_tOPUJ7qfaNFitT38WKkWsrz-MMVoIxI21YFxUy6W3YKAmcjOcbAP7_Fnahvr-bRIbeJqMq2rfQFuyyZjF6JaoqqMPEyJD89D2saqZS4PF2B0QgXkECaUcN5tJtPKmfS4gmjPwiZOlFpM3Qp_9qPHtAnYOdtGr-heyOb2VUIncPz3ZXhktoAWmfexHaEUoU3YULdBDJglAXZxiOCDdeGJCDYN868lTrCoazXqjfBXj8ZQnr-KF0ioS5SO0NQoXHK3E7x6dqKHXC1IslJHz9W3rMZE0ZFdDELGoCXPa3w",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "последний вечер сезона, мало мест",
      "keys": [
-      "ec712b187d51"
+      "ec712b187d51",
+      "eaeda6de5f77"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -5487,6 +5488,31 @@
       "fed65c4a4f6b"
      ],
      "found": "2026-11-17T16:45:01+03:00"
+    },
+    {
+     "key": "1313e3800dd3",
+     "title": "Угадай мелодию 18+ на дне рождения Шибаришной",
+     "date": "2026-11-24",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/shibarish/4930",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "music"
+     ],
+     "adult": true,
+     "author": "18+ Канал Шибаришной",
+     "author_url": "https://t.me/shibarish",
+     "image": "https://cdn4.telesco.pe/file/CIw3BjxzYbGQeYfRhms96IdGR5h9CYdzOU78kBXttzo6jXDiplQpzuK1oGCH1ei6n4EmCjTFbZiZQyI7YJ5n8tNd3m6IthkwzHz501lWgeOkCW23WbKlzOT0gzH24Bmwf84DCVdKopIy3jRuwQ0Tmg-7whPjBVpkOTo7WVLrLN-5u8I6xc67e0SUCpZa6iqeJnRqlQCaHfvGGLX605RpR7IdyWPT670SsbWZZESJ9i8s8OKrgNf3tD45iyF-BvI-ZXMeMnc7Tg9p51PAMamm-6ihw-7KjxWwjN8McALiQkBBoPDyfAOyUUI1PWl8yPBfb9X3OQxsTDwNfU3F5ktw1g.jpg",
+     "hot": true,
+     "hot_reason": "день рождения раз в год",
+     "keys": [
+      "1313e3800dd3"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
     },
     {
      "key": "ff2ecdc6bcea",
@@ -7064,6 +7090,31 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "6806f791952b",
+     "title": "Женский каддл с практиками перед солнцестоянием",
+     "date": "2026-12-12",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sensecuddle/1740",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Sense Cuddle Канал",
+     "author_url": "https://t.me/sensecuddle",
+     "image": "https://cdn4.telesco.pe/file/jQtg4L5Tr27i_qu1MvSMK-nLLAhsQYO_rCNMFgs4UDU_IEO0bHO9zMSoeHb_0llL2RZuHz307KwuG-L-sif9DrHjS7tzkUuirWGWcaC7oqPVwHMreGyJQIwB-wyJ3VwqUvLBrP1YZ3nhbewnaotGrvTXs4ebCLWoOID79uVzN0w6Fd3_yw2oMaGX0rKAfrzhOVjk0Dk-ooiNH2pFqhx7YKM7kUVXW3hePXSqZjOdBYlqmWkNv_zCX9sBDt8nkYi3LBa6JE2EJzoUu3kpgObXX2mcqoGCXQL5VXOv6ONzc-vMVCmVtFTWXWfTiB0OGS6SMzRlPs_MtH7rPk5Je-uzqg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6806f791952b"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
      "key": "568c52156db9",
      "title": "Как выбрать подарок по чертам лица",
      "date": "2026-12-13",
@@ -7233,6 +7284,31 @@
       "5b25a666ce79"
      ],
      "found": "2026-11-17T16:45:01+03:00"
+    },
+    {
+     "key": "d2252b2c8fee",
+     "title": "Премьера спектакля «Цианистый калий… с молоком или без?»",
+     "date": "2026-12-13",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/fo_shoo/1394",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "FoShoo — любительский театр",
+     "author_url": "https://t.me/fo_shoo",
+     "image": "https://cdn4.telesco.pe/file/f8ASUthiQQKNrKMIiHi1UUJuWyB4RI4BmeYFjdDIDU-0LPwxjC1dsP0g5exlB9UHxPFgeN6KBPhqL1kTWzHXMl25yr5HJqx2R-ymVwfuOkpCAdS9mK_VHgPAwU3pIt_i9cwPYrQBmS_FKreFCxtToT8Q5xmbB9OPpuonxCT5iec7GJpxkh4UAtVO9rm3r_UoJQ8RdCBjyPbmNqfRX5SC7hF2UqLBQUV26CuqLjSB2LzVuRIqudYt88OWGM-T4ABetrv1yxLSBgLInmNBgIyi6fsPPx09L5HXMTgcYFyzyNwzHsbvAwLKiCjDWLimvUqrCM33mo52M_9qIsd-Mdsi7w.jpg",
+     "hot": true,
+     "hot_reason": "премьерные показы",
+     "keys": [
+      "d2252b2c8fee"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
     },
     {
      "key": "afeb9ffa5af0",
@@ -7554,6 +7630,30 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "050f32adf1bb",
+     "title": "Будуар: гедонистический лаунж",
+     "date": "2026-12-19",
+     "time": null,
+     "place": "Отель 5* в центре Москвы, номер с конём",
+     "price": null,
+     "link": "https://t.me/sram_sram18/3011",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/s3OAmS8-ukSckE6IqHD1uBWl3CC7lIQ6j9JkgY0wbmkHB66MzWQi_xSim8XxNHj0x8jolt347qsBRAq6IkdF2IOWhpjPz_mCfQxfYqfz9JyJncTJH3Wab-v-KivcAUaYUPUIjH52PS4bxUzeKTzHOevqqwdiMECjnLEXKRwEo8zBiqtENiFqZrQrX-W_vCxR7IOu2pwSz9nybAoPXh5sQc94qX30J89AUpTgh63ApWTa2VnGdFFnApCOT8hocaGEpAWn2vdLaR8eJnooOoPXTk0Crgeg9ToJqb9ExJ-jzXq7CX0_yJOhZVreHWRIwpORvL-EL1LAKZu7xFknKMkR-A.jpg",
+     "hot": true,
+     "hot_reason": "закрытая встреча на 30–40 гостей",
+     "keys": [
+      "050f32adf1bb"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
      "key": "1f2eff0f8a06",
      "title": "Группа Обни с Лерой Викторовной",
      "date": "2026-12-19",
@@ -7576,6 +7676,56 @@
       "1f2eff0f8a06"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "f8914a2dfc0c",
+     "title": "Каддл с кино",
+     "date": "2026-12-19",
+     "time": null,
+     "place": null,
+     "price": "2 000 ₽",
+     "link": "https://t.me/sensecuddle/1740",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Sense Cuddle Канал",
+     "author_url": "https://t.me/sensecuddle",
+     "image": "https://cdn4.telesco.pe/file/jQtg4L5Tr27i_qu1MvSMK-nLLAhsQYO_rCNMFgs4UDU_IEO0bHO9zMSoeHb_0llL2RZuHz307KwuG-L-sif9DrHjS7tzkUuirWGWcaC7oqPVwHMreGyJQIwB-wyJ3VwqUvLBrP1YZ3nhbewnaotGrvTXs4ebCLWoOID79uVzN0w6Fd3_yw2oMaGX0rKAfrzhOVjk0Dk-ooiNH2pFqhx7YKM7kUVXW3hePXSqZjOdBYlqmWkNv_zCX9sBDt8nkYi3LBa6JE2EJzoUu3kpgObXX2mcqoGCXQL5VXOv6ONzc-vMVCmVtFTWXWfTiB0OGS6SMzRlPs_MtH7rPk5Je-uzqg.jpg",
+     "hot": true,
+     "hot_reason": "только при предзаписи 10 человек",
+     "keys": [
+      "f8914a2dfc0c"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
+     "key": "ed957212b4bd",
+     "title": "Премьера спектакля «Цианистый калий… с молоком или без?»",
+     "date": "2026-12-19",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/fo_shoo/1394",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "FoShoo — любительский театр",
+     "author_url": "https://t.me/fo_shoo",
+     "image": "https://cdn4.telesco.pe/file/f8ASUthiQQKNrKMIiHi1UUJuWyB4RI4BmeYFjdDIDU-0LPwxjC1dsP0g5exlB9UHxPFgeN6KBPhqL1kTWzHXMl25yr5HJqx2R-ymVwfuOkpCAdS9mK_VHgPAwU3pIt_i9cwPYrQBmS_FKreFCxtToT8Q5xmbB9OPpuonxCT5iec7GJpxkh4UAtVO9rm3r_UoJQ8RdCBjyPbmNqfRX5SC7hF2UqLBQUV26CuqLjSB2LzVuRIqudYt88OWGM-T4ABetrv1yxLSBgLInmNBgIyi6fsPPx09L5HXMTgcYFyzyNwzHsbvAwLKiCjDWLimvUqrCM33mo52M_9qIsd-Mdsi7w.jpg",
+     "hot": true,
+     "hot_reason": "премьерные показы",
+     "keys": [
+      "ed957212b4bd"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
     },
     {
      "key": "46b478f53732",
@@ -7824,6 +7974,31 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "edda59783bae",
+     "title": "Праздничный каддл на Йоль, Рождество и Новый год",
+     "date": "2026-12-26",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sensecuddle/1740",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Sense Cuddle Канал",
+     "author_url": "https://t.me/sensecuddle",
+     "image": "https://cdn4.telesco.pe/file/jQtg4L5Tr27i_qu1MvSMK-nLLAhsQYO_rCNMFgs4UDU_IEO0bHO9zMSoeHb_0llL2RZuHz307KwuG-L-sif9DrHjS7tzkUuirWGWcaC7oqPVwHMreGyJQIwB-wyJ3VwqUvLBrP1YZ3nhbewnaotGrvTXs4ebCLWoOID79uVzN0w6Fd3_yw2oMaGX0rKAfrzhOVjk0Dk-ooiNH2pFqhx7YKM7kUVXW3hePXSqZjOdBYlqmWkNv_zCX9sBDt8nkYi3LBa6JE2EJzoUu3kpgObXX2mcqoGCXQL5VXOv6ONzc-vMVCmVtFTWXWfTiB0OGS6SMzRlPs_MtH7rPk5Je-uzqg.jpg",
+     "hot": true,
+     "hot_reason": "праздничный каддл раз в год",
+     "keys": [
+      "edda59783bae"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
      "key": "61f3d8e5d5b5",
      "title": "Мозаичные колокольчики в Доме Лансере",
      "date": "2026-12-27",
@@ -7976,7 +8151,7 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-17T16:45:01+03:00",
+     "last_post": "2026-11-17T20:45:01+03:00",
      "events": 107
     },
     {
@@ -7985,6 +8160,13 @@
      "kind": "folder",
      "last_post": "2026-11-17T16:33:48+03:00",
      "events": 24
+    },
+    {
+     "title": "FoShoo — любительский театр",
+     "username": "fo_shoo",
+     "kind": "extra",
+     "last_post": "2026-11-17T19:03:01+03:00",
+     "events": 7
     },
     {
      "title": "Obni(me) Москва",
@@ -7997,15 +8179,8 @@
      "title": "Срамота 18+",
      "username": "sram_sram18",
      "kind": "folder",
-     "last_post": "2026-11-16T16:20:13+03:00",
-     "events": 6
-    },
-    {
-     "title": "FoShoo — любительский театр",
-     "username": "fo_shoo",
-     "kind": "extra",
-     "last_post": "2026-11-16T22:32:20+03:00",
-     "events": 5
+     "last_post": "2026-11-17T16:54:01+03:00",
+     "events": 7
     },
     {
      "title": "LeMoor Cloob инфо",
@@ -8019,6 +8194,13 @@
      "username": "postdrama",
      "kind": "extra",
      "last_post": "2026-11-16T15:31:12+03:00",
+     "events": 4
+    },
+    {
+     "title": "Sense Cuddle Канал",
+     "username": "sensecuddle",
+     "kind": "folder",
+     "last_post": "2026-11-17T18:45:38+03:00",
      "events": 4
     },
     {
@@ -8036,25 +8218,18 @@
      "events": 3
     },
     {
+     "title": "18+ Канал Шибаришной",
+     "username": "shibarish",
+     "kind": "folder",
+     "last_post": "2026-11-17T18:34:01+03:00",
+     "events": 2
+    },
+    {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
      "last_post": "2026-11-17T09:15:10+03:00",
      "events": 2
-    },
-    {
-     "title": "18+ Канал Шибаришной",
-     "username": "shibarish",
-     "kind": "folder",
-     "last_post": "2026-11-17T14:13:01+03:00",
-     "events": 1
-    },
-    {
-     "title": "Sense Cuddle Канал",
-     "username": "sensecuddle",
-     "kind": "folder",
-     "last_post": "2026-11-16T12:02:00+03:00",
-     "events": 1
     },
     {
      "title": "ПБ•Клуб — Знакомства в Москве.",
@@ -8067,7 +8242,7 @@
      "title": "Тактильный Дом (пространство чувственного опыта)",
      "username": "feel_family_studio",
      "kind": "folder",
-     "last_post": "2026-11-14T11:53:48+03:00",
+     "last_post": "2026-11-17T19:22:21+03:00",
      "events": 1
     },
     {
@@ -8123,7 +8298,7 @@
      "title": "Каддл пати Марии Зобниной и команды",
      "username": "da_budet_cuddle",
      "kind": "extra",
-     "last_post": "2026-11-16T08:50:57+03:00",
+     "last_post": "2026-11-17T18:44:58+03:00",
      "events": 0
     },
     {
