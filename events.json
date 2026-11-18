@@ -3906,7 +3906,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "d72630df5faf"
+      "d72630df5faf",
+      "71066e80c6fd"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -3944,7 +3945,7 @@
      "date": "2026-11-18",
      "time": "19:30",
      "place": "Рипа",
-     "price": null,
+     "price": "лаборатория 1600 ₽ (джем в подарок), только джем 700 ₽",
      "link": "https://t.me/cimsk/7393",
      "source": "Пост в канале",
      "signup_url": null,
@@ -3959,7 +3960,8 @@
      "hot_reason": "",
      "keys": [
       "9c434181660e",
-      "d1ea55df7c00"
+      "d1ea55df7c00",
+      "c4ac7fc1cdc9"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -4950,6 +4952,30 @@
      "found": "2026-11-16T20:45:00+03:00"
     },
     {
+     "key": "0a1b4075463c",
+     "title": "Городской скетчинг: ночной город",
+     "date": "2026-11-22",
+     "time": "12:00",
+     "place": "«Передвижник», Винзавод, 4-й Сыромятнический пер., 1/8с9",
+     "price": "2500 ₽",
+     "link": "https://peredvizhnik-event.timepad.ru/event/4310219/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://peredvizhnik-event.timepad.ru/event/4310219/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "ПЕРЕДВИЖНИК",
+     "author_url": "https://peredvizhnik-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/5cd583d8-ed93-427b-bf70-c7e3ebfb5106/-/crop/4000x2247/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0a1b4075463c"
+     ],
+     "found": "2026-11-18T12:45:00+03:00"
+    },
+    {
      "key": "8e9ef88e8f52",
      "title": "Класс по агрессии от питерского Обни (Лера Викторовна)",
      "date": "2026-11-22",
@@ -5021,6 +5047,31 @@
       "3ae7dbe3ff09"
      ],
      "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
+     "key": "657d048231c8",
+     "title": "Йога-интенсив 105 минут",
+     "date": "2026-11-22",
+     "time": "18:00",
+     "place": "Дмитровское шоссе, 9, стр. 2",
+     "price": "1800 ₽",
+     "link": "https://fysm-yoga.timepad.ru/event/4312758/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://fysm-yoga.timepad.ru/event/4312758/",
+     "cats": [
+      "body",
+      "calm"
+     ],
+     "adult": false,
+     "author": "FYSM йога",
+     "author_url": "https://fysm-yoga.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e8328196-965d-46e5-8b25-603c32b8ee7c/-/crop/1671x940/1,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "657d048231c8"
+     ],
+     "found": "2026-11-18T12:45:00+03:00"
     },
     {
      "key": "df54f08efbe8",
@@ -5294,6 +5345,30 @@
       "e32b119ad542"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "4fa4636c7636",
+     "title": "Актёрский тренинг Степана Николишина",
+     "date": "2026-11-24",
+     "time": "19:00",
+     "place": "Библиотека №124, ул. Сайкина, 9/1",
+     "price": "1500 ₽",
+     "link": "https://teatrlab.timepad.ru/event/4311316/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatrlab.timepad.ru/event/4311316/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Лаборатория современного театра",
+     "author_url": "https://teatrlab.timepad.ru/",
+     "image": "https://ucare.timepad.ru/453458b4-40f4-4d4d-a499-50a96284dc43/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4fa4636c7636"
+     ],
+     "found": "2026-11-18T12:45:00+03:00"
     },
     {
      "key": "cb3ceb389f0a",
@@ -6206,6 +6281,31 @@
      "found": "2026-11-16T02:50:09+03:00"
     },
     {
+     "key": "3d52e50debb8",
+     "title": "Телесная терапия «Быть собой среди других»",
+     "date": "2026-12-01",
+     "time": "19:00",
+     "place": "Пространство «Нора», Москва",
+     "price": null,
+     "link": "https://t.me/LoftNora/1561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Пространство Нора",
+     "author_url": "https://t.me/LoftNora",
+     "image": "https://cdn4.telesco.pe/file/v9s_h7EYJ-SEloFqk-wLp6Ho1dIwbYBAQPfjz7-F2XKGtlNEzWIdbJlIe1gRxj14Y6Y5alg7HZo9eMdzyTA4OSXKS8ogWYRRz-Dyc0m4umKrNcJLpze_VVI8C-NEbmFqA0OZ4Nh2s0zbcHFEKqPFoPNSJBgdjAUNWzkXPfD5GH3PXSM4i3YCYDsyjIw3wFGTVuI5lcDWur4oIxjJaIywjGeMbV-VJRIylsD146lMG9hcV-KOvB6ZNQnwc9hmdUmxrJF3H9cmzwWYDfoXj2JdRp3dqR9-IWgSGyctnqXX08_StYJTy9KCx5ROBFCm0hCvtGUp9r8h7T3YLs2ha-gCWA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3d52e50debb8"
+     ],
+     "found": "2026-11-18T12:45:00+03:00"
+    },
+    {
      "key": "408d662a4e09",
      "title": "Драма «Запертые мечты»",
      "date": "2026-12-01",
@@ -6428,6 +6528,30 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "52d4be486425",
+     "title": "Мастер-класс по аромасвечам с дикими травами",
+     "date": "2026-12-04",
+     "time": "12:00",
+     "place": "Усадьба Барышникова, ул. Мясницкая 42",
+     "price": "2200 ₽",
+     "link": "https://yarmarochnyy-klub.timepad.ru/event/4312353/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://yarmarochnyy-klub.timepad.ru/event/4312353/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Ярмарочный клуб",
+     "author_url": "https://yarmarochnyy-klub.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d7620733-40c0-409d-b415-b3dcfcdc58cd/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "52d4be486425"
+     ],
+     "found": "2026-11-18T12:45:00+03:00"
+    },
+    {
      "key": "e810986bd54c",
      "title": "Лекция «Одиссей 2.0: Кончаловский, Нолан, Пазолини»",
      "date": "2026-12-04",
@@ -6598,6 +6722,31 @@
       "faed5b65e973"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "eb7833d169c4",
+     "title": "Чайные травы в новогоднем декоре",
+     "date": "2026-12-06",
+     "time": "12:00",
+     "place": "Усадьба Барышникова, ул. Мясницкая 42",
+     "price": "2000 ₽",
+     "link": "https://yarmarochnyy-klub.timepad.ru/event/4313643/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://yarmarochnyy-klub.timepad.ru/event/4313643/",
+     "cats": [
+      "craft",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Ярмарочный клуб",
+     "author_url": "https://yarmarochnyy-klub.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3f8241ca-33f2-43c8-af80-ea3c08ad08ca/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "eb7833d169c4"
+     ],
+     "found": "2026-11-18T12:45:00+03:00"
     },
     {
      "key": "9e5d199f071a",
@@ -8057,14 +8206,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-18T08:45:00+03:00",
-     "events": 104
+     "last_post": "2026-11-18T12:45:00+03:00",
+     "events": 109
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-17T16:33:48+03:00",
+     "last_post": "2026-11-18T10:57:56+03:00",
      "events": 22
     },
     {
@@ -8078,7 +8227,7 @@
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
-     "last_post": "2026-11-15T23:57:18+03:00",
+     "last_post": "2026-11-18T11:54:07+03:00",
      "events": 7
     },
     {
@@ -8117,6 +8266,13 @@
      "events": 3
     },
     {
+     "title": "Пространство Нора",
+     "username": "LoftNora",
+     "kind": "folder",
+     "last_post": "2026-11-18T08:52:01+03:00",
+     "events": 3
+    },
+    {
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
@@ -8124,24 +8280,17 @@
      "events": 2
     },
     {
-     "title": "Пространство Нора",
-     "username": "LoftNora",
-     "kind": "folder",
-     "last_post": "2026-11-17T16:07:10+03:00",
-     "events": 2
-    },
-    {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-16T10:34:30+03:00",
+     "last_post": "2026-11-18T09:30:26+03:00",
      "events": 2
     },
     {
      "title": "Каддл пати Марии Зобниной и команды",
      "username": "da_budet_cuddle",
      "kind": "extra",
-     "last_post": "2026-11-18T08:18:58+03:00",
+     "last_post": "2026-11-18T07:53:02+03:00",
      "events": 1
     },
     {
@@ -8162,7 +8311,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-18T01:12:26+03:00",
+     "last_post": "2026-11-18T09:01:26+03:00",
      "events": 1
     },
     {
@@ -8197,7 +8346,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-17T10:43:43+03:00",
+     "last_post": "2026-11-18T10:03:17+03:00",
      "events": 0
     },
     {
@@ -8232,7 +8381,7 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-17T16:29:58+03:00",
+     "last_post": "2026-11-18T10:03:19+03:00",
      "events": 0
     },
     {
