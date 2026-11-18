@@ -4501,7 +4501,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
@@ -4512,7 +4513,8 @@
      "keys": [
       "c9feccf65264",
       "cfa498a77009",
-      "41a4e2cb9f53"
+      "41a4e2cb9f53",
+      "2487cd283a08"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -4928,6 +4930,31 @@
       "e68f75bb5067"
      ],
      "found": "2026-11-17T16:45:01+03:00"
+    },
+    {
+     "key": "6eddf97b667e",
+     "title": "Спектакль-детектив «Все совпадения неслучайны»",
+     "date": "2026-11-20",
+     "time": "19:30",
+     "place": "Ресторан Иль Форно, ул. Неглинная, 8/10",
+     "price": "бесплатно",
+     "link": "https://gotonight.timepad.ru/event/4073885/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://gotonight.timepad.ru/event/4073885/",
+     "cats": [
+      "theatre",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Театральный ужин \"Каменный гость\"",
+     "author_url": "https://gotonight.timepad.ru/",
+     "image": "https://ucare.timepad.ru/bd610574-6c96-4f4a-811c-dc4cc627959e/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6eddf97b667e"
+     ],
+     "found": "2026-11-18T20:45:00+03:00"
     },
     {
      "key": "ffc0d83b3aa7",
@@ -5641,7 +5668,8 @@
      "hot_reason": "",
      "keys": [
       "df54f08efbe8",
-      "cc516a8437aa"
+      "cc516a8437aa",
+      "f1c6f247497f"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -6335,6 +6363,32 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "58b652bce99b",
+     "title": "Французский вечер «Однажды в Париже»",
+     "date": "2026-11-26",
+     "time": "19:30",
+     "place": "Кафе Баловень, ул. Валовая, 11/19",
+     "price": "1950–5950 ₽",
+     "link": "https://gotonight.timepad.ru/event/4305854/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://gotonight.timepad.ru/event/4305854/",
+     "cats": [
+      "watch",
+      "theatre",
+      "music"
+     ],
+     "adult": false,
+     "author": "Театральный ужин \"Каменный гость\"",
+     "author_url": "https://gotonight.timepad.ru/",
+     "image": "https://ucare.timepad.ru/106c2293-c1f4-43d6-b9cb-869a53533c35/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "58b652bce99b"
+     ],
+     "found": "2026-11-18T20:45:00+03:00"
+    },
+    {
      "key": "21d8711b81bc",
      "title": "Занятие актёрским мастерством",
      "date": "2026-11-26",
@@ -6431,6 +6485,32 @@
       "576a0adac035"
      ],
      "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "081bb20d59ac",
+     "title": "Испанский вечер «Вива Испания!» с фламенко",
+     "date": "2026-11-27",
+     "time": "19:30",
+     "place": "Ресторан Иль Форно, ул. Неглинная, 8/11",
+     "price": "бесплатно",
+     "link": "https://gotonight.timepad.ru/event/3922417/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://gotonight.timepad.ru/event/3922417/",
+     "cats": [
+      "watch",
+      "theatre",
+      "music"
+     ],
+     "adult": false,
+     "author": "Театральный ужин \"Каменный гость\"",
+     "author_url": "https://gotonight.timepad.ru/",
+     "image": "https://ucare.timepad.ru/dfd9c39e-7163-48f7-b495-f4e85262f7ab/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "081bb20d59ac"
+     ],
+     "found": "2026-11-18T20:45:00+03:00"
     },
     {
      "key": "5441696d88d9",
@@ -8971,14 +9051,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-18T16:45:01+03:00",
-     "events": 124
+     "last_post": "2026-11-18T20:45:00+03:00",
+     "events": 127
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-18T15:15:53+03:00",
+     "last_post": "2026-11-18T19:17:02+03:00",
      "events": 22
     },
     {
@@ -9006,7 +9086,7 @@
      "title": "LeMoor Cloob инфо",
      "username": "lemoorcloob",
      "kind": "folder",
-     "last_post": "2026-11-16T12:21:10+03:00",
+     "last_post": "2026-11-18T17:28:25+03:00",
      "events": 5
     },
     {
@@ -9020,7 +9100,7 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-17T16:14:23+03:00",
+     "last_post": "2026-11-18T17:33:30+03:00",
      "events": 4
     },
     {
@@ -9055,7 +9135,7 @@
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-18T09:30:26+03:00",
+     "last_post": "2026-11-18T17:00:26+03:00",
      "events": 2
     },
     {
@@ -9076,7 +9156,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-18T09:01:26+03:00",
+     "last_post": "2026-11-18T20:23:58+03:00",
      "events": 1
     },
     {
