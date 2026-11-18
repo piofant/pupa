@@ -246,12 +246,13 @@
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "author_url": "https://t.me/improschoolspb",
      "image": "https://cdn4.telesco.pe/file/XYj7gjFhOCaKmmmHBDzqV7AAO-OJ4SeDkKtQcIFiguFviyNiU9Cn7-kUYUAfor1ULZia9__TG6xP7-8VgcPE8tv5AIUIEq_ip8-_q3SSYwoPfec4J06B0WsPKy4j9SSgvJqS4BrY-gVHoqcaeDmS54TB45PrwXl00Mzbq6mQ3MTcNFFd6Rm3JpRdIyDKfk6oCpP9OS3DOFnIzdrk0tjLu23I5e3FtgmG3qwn1lRJYgyu7u6S8KQ2nthn7puNTrvlYlRFjsv2mG5VVzQU2xYitFfDjNnYgKtH7tiSakZqh4VDf4N2euaczBPSV-j_W8wL6wW8RGKKWU8dDqvKliHKJw.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "финал сезона, разовое событие",
      "keys": [
       "47f096a69391",
       "9d6f4fb2d19b",
-      "dc19b253dbf5"
+      "dc19b253dbf5",
+      "6eafa6488c86"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -634,8 +635,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body",
-      "craft"
+      "craft",
+      "body"
      ],
      "adult": true,
      "author": "Playground.SPb 18+",
@@ -645,7 +646,8 @@
      "hot_reason": "",
      "keys": [
       "30e609049ac4",
-      "da84a06d3efa"
+      "da84a06d3efa",
+      "6710914e8423"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -675,6 +677,7 @@
       "682e7ebdb1e8",
       "4c555fc98553",
       "d9fb3522e926",
+      "84b03a5ad00d",
       "df91c51e9168"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -1005,6 +1008,30 @@
       "fe3a3f3a1417"
      ],
      "found": "2026-11-16T16:30:02+03:00"
+    },
+    {
+     "key": "b0fb016a11e4",
+     "title": "Печатная мастерская (скетчбук)",
+     "date": "2026-11-21",
+     "time": "15:00",
+     "place": "Большой проспект П. С., 65, Центральная районная детская библиотека",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4256965/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4256965/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3fb7e88f-0464-4556-b7eb-32481804447b/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b0fb016a11e4"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
     },
     {
      "key": "785fd065540b",
@@ -2285,6 +2312,55 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "918190631b65",
+     "title": "Спектакль «Доходное место»",
+     "date": "2026-11-28",
+     "time": "17:00",
+     "place": "театральный ДОМ, Подъездной пер., 18А",
+     "price": "600 ₽",
+     "link": "https://studiya-tdom.timepad.ru/event/4312889/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://studiya-tdom.timepad.ru/event/4312889/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "театральный ДОМ",
+     "author_url": "https://studiya-tdom.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4c3be04d-dafc-40f7-bf0a-3771c0604c74/-/crop/1280x720/0,36/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "918190631b65"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "5f0a06a60b30",
+     "title": "Лёд и шёлк — ночь контрастных ощущений",
+     "date": "2026-11-28",
+     "time": "23:00",
+     "place": "SensCafe",
+     "price": "соло 3000, пара 5000, трио 6000",
+     "link": "https://t.me/sensualcafe/8778",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/WUucQxUETkBeb5Rq8WXncsrPC1bxbo6ptuskP3bCjELW1Ekk-SevoBVyaOwnBd6wfxwKQLDYDXu3KIF1dNN61xXEvysbEqYmDxOjTQr75orUb_mynnqUMAtjKjmZpWVcNmLQtSYFMLah1EHVVaClAmXjXIzU9yorYh4Bnchr27rYbDeP9roxxNYvzRJOsyeaPQSulzC69WZRTTQ2O-LQZMkRgW1c7tBPOti_a7gmQsPdC78c7j2cT1nbvj4kbN4zZfNU9-3Q8I9mz-bH6MmQUb9BU2r4DPEtqdxzXMktUCiDQhmemWHolAovT_oSpYlS3kjcFDlJxOVlYlnHy711kw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5f0a06a60b30"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
      "key": "64a57cb4d076",
      "title": "Киноклуб с Максом в Obnime",
      "date": "2026-11-29",
@@ -2333,7 +2409,8 @@
       "f7b005785a4a",
       "21b13facbfe1",
       "260df2872b10",
-      "7003ce9c3382"
+      "7003ce9c3382",
+      "c4f6400c9ad7"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -2966,6 +3043,31 @@
      "found": "2026-11-17T20:30:01+03:00"
     },
     {
+     "key": "c2fd11a86929",
+     "title": "Лекция «Буддийская медитация-2»",
+     "date": "2026-12-06",
+     "time": "19:30",
+     "place": "ТОТ Йога Центр",
+     "price": null,
+     "link": "https://t.me/totyoga/3048",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm",
+      "watch"
+     ],
+     "adult": false,
+     "author": "ТОТ ЙОГА ЦЕНТР",
+     "author_url": "https://t.me/totyoga",
+     "image": "https://cdn4.telesco.pe/file/L9ZqdhTF7HoE0zcvaDsnEPJhspOJnnWIVZLyv_Lq0cWt_cHaaPrjcS7q--iN8AvfOetxwXDp6kf5TnlEbuGElTp_R5ckyFxvVmcLQutqYeVYaeIzZDchA-wx42GPkhv_z8z3ltplixLLmQtUg4I3wLCNWLehTV0B4GeBkyaH-E5OI32RPTWdK8lvKdZZApKUZ2pwoJCUjX6dJ6WQ84gKLHTbb23cyGf9GTtdnYRkL_Fk0HFwm4X0-yIagQbVNlzcoB8buNnRSdiU4XJPcvyrSjfGjYFqrEibTX-XZbyjxX0Vv_t0FoMDFDzyHzlVlJfQ8kId7wHNxzXLrv4VYgH9zg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c2fd11a86929"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
      "key": "5f49fc8f57c2",
      "title": "Магия тупрова: курс парной импровизации",
      "date": "2026-12-07",
@@ -3168,6 +3270,31 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "3204fb8e2f89",
+     "title": "Новогодняя PowerPoint-вечеринка",
+     "date": "2026-12-12",
+     "time": "12:00",
+     "place": "Точка Импро",
+     "price": null,
+     "link": "https://t.me/tochkabest/5385",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/twHXtZhKPKgXJlzJXvEnY4c3ovTY6LKn3uxLxxP5ybw7PRZYrWPu7h-Fs4UwqTazBZHGndfJ8X_MnKQh6D1ul5dOVGYaS13OJaQ_xqzLt83zIbBNEr6wjK9kOVyG6czPMmPuKjbPg8WxSYy3DRBTaJ99aQgwy9nAKTYVAt35nwZ2lx97G0hVZVC8UQjPm8YKYH-kafxdl9h29f6ENpbKYptMgKOAWHtgXIenmpC7KG5yNowtSqeSVsCPrfXxU8bwnUjsVo4G2zAV3w0MUxDn1Y9ZguJ4rFoFkz4HBwLZhbM6uwUAk-8YUf_gwDw7voS2d1xBZxxXt6W8NzWRhBxVbQ.jpg",
+     "hot": true,
+     "hot_reason": "разовая вечеринка раз в год",
+     "keys": [
+      "3204fb8e2f89"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
      "key": "73580f6939e7",
      "title": "Плейбэк-перформанс «Моя стая»",
      "date": "2026-12-12",
@@ -3268,6 +3395,30 @@
      "found": "2026-11-18T08:30:00+03:00"
     },
     {
+     "key": "3e5bcbcdd653",
+     "title": "Лекция о театральных ароматах в советской парфюмерии",
+     "date": "2026-12-18",
+     "time": "18:30",
+     "place": "Библиотека «Точки зрения», ул. Стрельнинская, 11",
+     "price": "бесплатно",
+     "link": "https://biblioteka-tochki-zreniya.timepad.ru/event/4311991/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-tochki-zreniya.timepad.ru/event/4311991/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Точки Зрения\"",
+     "author_url": "https://biblioteka-tochki-zreniya.timepad.ru/",
+     "image": "https://ucare.timepad.ru/94c8aaf3-9476-42c9-9127-2e9ada5de023/-/crop/1344x757/0,6/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3e5bcbcdd653"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
      "key": "668306882c1d",
      "title": "Тренинг «Мой 2026 год»",
      "date": "2026-12-22",
@@ -3365,6 +3516,31 @@
      "found": "2026-11-18T08:30:00+03:00"
     },
     {
+     "key": "3fba91347eb7",
+     "title": "Обни-НГ 2027",
+     "date": "2026-12-31",
+     "time": "21:00",
+     "place": "центр Петербурга",
+     "price": "первые 10 билетов 9900 ₽, далее дороже",
+     "link": "https://t.me/cuddlepiter/5525",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "dance"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/bOTaZUm7xw5IKnloWHOS1-ubtWJqihZm-hl0Q1rde8U_ui9QXQ3Qd4zEmU4WVK45iG2QI1GdsGbUtCa2HQraW4G_iepzGoSFHylPU1WiNNHdqcLGSTANfPeZMhJt28lHxntjr49R0iBAWRUQEvWBjkKjTLgl7VhHverK97KVborZ6eQQt9ngkHGDuujvRmfN42PfjCt3zqTlt-bckhiDVel1C6xjjwfsbtXmL1ngyijTYvc3oZ8H9bPDNVF5Yt2Qo1wNUEbQir5dmqlUFmmmxIPyc8jc8a0dIfNXR_2ehDzMraKx8Su4Reo50PF1jcgQqe76nMPlb-voOa9tabd-1Q.jpg",
+     "hot": true,
+     "hot_reason": "всего 70 мест, раз в год",
+     "keys": [
+      "3fba91347eb7"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
      "key": "fafdf8ee3b71",
      "title": "Новогодняя ночь SensCafe",
      "date": "2026-12-31",
@@ -3418,22 +3594,29 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-18T12:30:00+03:00",
-     "events": 34
+     "last_post": "2026-11-18T16:30:01+03:00",
+     "events": 37
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-18T08:02:53+03:00",
-     "events": 14
+     "last_post": "2026-11-18T14:39:51+03:00",
+     "events": 15
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-17T16:55:45+03:00",
-     "events": 14
+     "last_post": "2026-11-18T14:14:50+03:00",
+     "events": 15
+    },
+    {
+     "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "username": "cuddlepiter",
+     "kind": "folder",
+     "last_post": "2026-11-18T15:39:02+03:00",
+     "events": 9
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -3443,24 +3626,17 @@
      "events": 9
     },
     {
-     "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
-     "username": "cuddlepiter",
-     "kind": "folder",
-     "last_post": "2026-11-17T17:32:23+03:00",
-     "events": 8
-    },
-    {
      "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "username": "improschoolspb",
      "kind": "extra",
-     "last_post": "2026-11-18T11:00:28+03:00",
+     "last_post": "2026-11-18T15:03:22+03:00",
      "events": 8
     },
     {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
-     "last_post": "2026-11-18T11:59:55+03:00",
+     "last_post": "2026-11-18T15:31:03+03:00",
      "events": 5
     },
     {
@@ -3488,7 +3664,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-18T12:26:25+03:00",
+     "last_post": "2026-11-18T15:11:17+03:00",
      "events": 3
     },
     {
@@ -3496,6 +3672,13 @@
      "username": "kl_les",
      "kind": "folder",
      "last_post": "2026-11-17T19:10:58+03:00",
+     "events": 3
+    },
+    {
+     "title": "ТОТ ЙОГА ЦЕНТР",
+     "username": "totyoga",
+     "kind": "extra",
+     "last_post": "2026-11-18T14:14:01+03:00",
      "events": 3
     },
     {
@@ -3534,13 +3717,6 @@
      "events": 2
     },
     {
-     "title": "ТОТ ЙОГА ЦЕНТР",
-     "username": "totyoga",
-     "kind": "extra",
-     "last_post": "2026-11-18T09:55:18+03:00",
-     "events": 2
-    },
-    {
      "title": "Ecstatic Events SPb",
      "username": "ecstaticeventsspb",
      "kind": "extra",
@@ -3558,7 +3734,7 @@
      "title": "Playground.SPb 18+",
      "username": "playground_spb",
      "kind": "folder",
-     "last_post": "2026-11-15T21:00:53+03:00",
+     "last_post": "2026-11-18T15:36:22+03:00",
      "events": 1
     },
     {
@@ -3642,7 +3818,7 @@
      "title": "bastión",
      "username": "bastion_f22",
      "kind": "folder",
-     "last_post": null,
+     "last_post": "2026-11-18T14:26:49+03:00",
      "events": 0
     },
     {
@@ -3670,7 +3846,7 @@
      "title": "Kris | Тантра | Психотерапия",
      "username": "AradhanaPrema",
      "kind": "extra",
-     "last_post": "2026-11-16T11:01:09+03:00",
+     "last_post": "2026-11-18T13:42:49+03:00",
      "events": 0
     },
     {
