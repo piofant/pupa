@@ -4039,6 +4039,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "0dda319dc8ec",
+     "title": "Блюз: мастер-класс и практика",
+     "date": "2026-11-18",
+     "time": "19:00",
+     "place": "ГБУ ОКЦ САО, Кронштадтский б-р, 37г",
+     "price": "бесплатно",
+     "link": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Культорг САО",
+     "author_url": "https://kyltorg-sao.timepad.ru/",
+     "image": "https://ucare.timepad.ru/263599ac-e6c4-4748-89cf-d9c8dad6d19f/-/crop/4096x2306/0,391/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0dda319dc8ec"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "5d81c6859ceb",
      "title": "Караоке-вечер в Добролюбов Арт",
      "date": "2026-11-18",
@@ -4083,7 +4107,8 @@
      "hot_reason": "",
      "keys": [
       "d72630df5faf",
-      "71066e80c6fd"
+      "71066e80c6fd",
+      "ddcc500f5ff8"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -4164,6 +4189,31 @@
       "20cacab77928"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "fdcff5a75775",
+     "title": "Спектакль «Ночное кафе»",
+     "date": "2026-11-18",
+     "time": "20:00",
+     "place": "Театр вкуса, Троицкая улица, 7 стр. 4А",
+     "price": "бесплатно",
+     "link": "https://stsena-bez-pravil.timepad.ru/event/4272882/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://stsena-bez-pravil.timepad.ru/event/4272882/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Сцена без правил",
+     "author_url": "https://stsena-bez-pravil.timepad.ru/",
+     "image": "https://ucare.timepad.ru/9bc721bd-b6ca-4c2b-85cc-9f366713b8e5/-/crop/1575x886/0,685/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fdcff5a75775"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "8b98342febd5",
@@ -4608,6 +4658,30 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "fc7bd5ffc061",
+     "title": "Блюзовая вечеринка",
+     "date": "2026-11-20",
+     "time": "19:00",
+     "place": "ГБУ ОКЦ САО, Кронштадтский б-р, 37г",
+     "price": "бесплатно",
+     "link": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Культорг САО",
+     "author_url": "https://kyltorg-sao.timepad.ru/",
+     "image": "https://ucare.timepad.ru/263599ac-e6c4-4748-89cf-d9c8dad6d19f/-/crop/4096x2306/0,391/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fc7bd5ffc061"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "74cb5f5458dc",
      "title": "КИ: анатомические поезда в движении",
      "date": "2026-11-20",
@@ -4804,6 +4878,30 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "479f55027cb8",
+     "title": "Нейрографика: рисуем рост дохода",
+     "date": "2026-11-21",
+     "time": "13:00",
+     "place": "Кузнецкий мост 11 стр. 1, кафе «Шоколадница», 2 этаж",
+     "price": "2700 ₽",
+     "link": "https://neyrografika-moskva-s-dar.timepad.ru/event/4313710/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://neyrografika-moskva-s-dar.timepad.ru/event/4313710/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Нейрографика Москва с Дарьей Шаховой",
+     "author_url": "https://neyrografika-moskva-s-dar.timepad.ru/",
+     "image": "https://ucare.timepad.ru/60325c00-e471-4769-9663-2b98069b1909/-/preview/308x600/-/format/jpeg/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "479f55027cb8"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "e515a3d82b96",
      "title": "Фестиваль «Тёмный мир. Апокалипсис»",
      "date": "2026-11-21",
@@ -4903,6 +5001,30 @@
       "64157e3e0e41"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "2e42e7715cab",
+     "title": "Нейрографика: гармонизация отношений",
+     "date": "2026-11-21",
+     "time": "15:00",
+     "place": "Кафе «Гафре», Таганская улица 40 стр. 2",
+     "price": "2500–6000 ₽",
+     "link": "https://mk-po-neyrografike.timepad.ru/event/4307626/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mk-po-neyrografike.timepad.ru/event/4307626/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Мастер-класс по НЕЙРОГРАФИКЕ",
+     "author_url": "https://mk-po-neyrografike.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2403de2d-391e-4290-b118-cd3942d67d02/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2e42e7715cab"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "1cefad87efb8",
@@ -5152,6 +5274,30 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "8ac4ea9bbcb0",
+     "title": "Нейрографика: женственность и самоценность",
+     "date": "2026-11-22",
+     "time": "12:00",
+     "place": "Кафе «Гамбринус», Марксистская улица 20 стр. 1",
+     "price": "2500–6000 ₽",
+     "link": "https://mk-po-neyrografike.timepad.ru/event/4307627/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mk-po-neyrografike.timepad.ru/event/4307627/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Мастер-класс по НЕЙРОГРАФИКЕ",
+     "author_url": "https://mk-po-neyrografike.timepad.ru/",
+     "image": "https://ucare.timepad.ru/02760b29-e9aa-4e92-8e61-6296e85f6698/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8ac4ea9bbcb0"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "8e9ef88e8f52",
      "title": "Класс по агрессии от питерского Обни (Лера Викторовна)",
      "date": "2026-11-22",
@@ -5223,6 +5369,30 @@
       "3ae7dbe3ff09"
      ],
      "found": "2026-11-16T20:45:00+03:00"
+    },
+    {
+     "key": "885e653a488e",
+     "title": "Разговорный клуб: мужское и женское",
+     "date": "2026-11-22",
+     "time": "16:00",
+     "place": "Новослободская улица, 23",
+     "price": "600 ₽",
+     "link": "https://psyslava.timepad.ru/event/4310966/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://psyslava.timepad.ru/event/4310966/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Психолог Вячеслав Щербаков",
+     "author_url": "https://psyslava.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c37adb0d-d124-4da4-9bbb-dc3688735479/-/crop/1623x913/50,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "885e653a488e"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "657d048231c8",
@@ -5424,6 +5594,31 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "a2cd1f21412a",
+     "title": "Спектакль «Откровения Великих»",
+     "date": "2026-11-22",
+     "time": "19:30",
+     "place": "Арт-пространство «Сияние», Советской армии 8",
+     "price": "бесплатно",
+     "link": "https://art-prostranstvo-siyanie.timepad.ru/event/4312777/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://art-prostranstvo-siyanie.timepad.ru/event/4312777/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Арт-пространство \"Сияние\"",
+     "author_url": "https://art-prostranstvo-siyanie.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4226f495-2bf8-4d95-a77a-af7e1e0ab061/",
+     "hot": true,
+     "hot_reason": "премьера, один показ",
+     "keys": [
+      "a2cd1f21412a"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "ec712b187d51",
      "title": "Sex без Sex: тактильная вечеринка в темноте",
      "date": "2026-11-22",
@@ -5618,7 +5813,8 @@
      "hot_reason": "юбилей проекта, раз в год",
      "keys": [
       "01bdfbfdbf97",
-      "c28cae3c09a5"
+      "c28cae3c09a5",
+      "2fe11d4653b0"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5670,6 +5866,54 @@
       "1313e3800dd3"
      ],
      "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
+     "key": "62e8422fed35",
+     "title": "Мастер-класс по вокалу «Твой голос и есть душа»",
+     "date": "2026-11-25",
+     "time": "18:30",
+     "place": "Ленинский проспект, 6",
+     "price": "бесплатно",
+     "link": "https://theater-place-of-misis.timepad.ru/event/4308641/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://theater-place-of-misis.timepad.ru/event/4308641/",
+     "cats": [
+      "music"
+     ],
+     "adult": false,
+     "author": "Театральное Пространство МИСИС",
+     "author_url": "https://theater-place-of-misis.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ff52a152-fbbe-4586-bd84-b51c386b4dcf/-/crop/1280x720/0,23/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "62e8422fed35"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "585760b8d9f6",
+     "title": "Блюз: мастер-класс и практика",
+     "date": "2026-11-25",
+     "time": "19:00",
+     "place": "ГБУ ОКЦ САО, Кронштадтский б-р, 37г",
+     "price": "бесплатно",
+     "link": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Культорг САО",
+     "author_url": "https://kyltorg-sao.timepad.ru/",
+     "image": "https://ucare.timepad.ru/263599ac-e6c4-4748-89cf-d9c8dad6d19f/-/crop/4096x2306/0,391/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "585760b8d9f6"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "ff2ecdc6bcea",
@@ -5963,6 +6207,30 @@
       "98a80f3472a5"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "576a0adac035",
+     "title": "Блюзовая вечеринка",
+     "date": "2026-11-27",
+     "time": "19:00",
+     "place": "ГБУ ОКЦ САО, Кронштадтский б-р, 37г",
+     "price": "бесплатно",
+     "link": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Культорг САО",
+     "author_url": "https://kyltorg-sao.timepad.ru/",
+     "image": "https://ucare.timepad.ru/263599ac-e6c4-4748-89cf-d9c8dad6d19f/-/crop/4096x2306/0,391/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "576a0adac035"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "5441696d88d9",
@@ -6531,6 +6799,55 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "5697f89b23d5",
+     "title": "Блюз: мастер-класс и практика",
+     "date": "2026-12-02",
+     "time": "19:00",
+     "place": "ГБУ ОКЦ САО, Кронштадтский б-р, 37г",
+     "price": "бесплатно",
+     "link": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Культорг САО",
+     "author_url": "https://kyltorg-sao.timepad.ru/",
+     "image": "https://ucare.timepad.ru/263599ac-e6c4-4748-89cf-d9c8dad6d19f/-/crop/4096x2306/0,391/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5697f89b23d5"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "d98fc79443da",
+     "title": "Концерт «В поисках предела»",
+     "date": "2026-12-02",
+     "time": "19:00",
+     "place": "Французский институт, Милютинский пер. 10 стр. 1, медиатека",
+     "price": "бесплатно",
+     "link": "https://ifrussiemoscou.timepad.ru/event/4263368/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://ifrussiemoscou.timepad.ru/event/4263368/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Французский институт в Москве",
+     "author_url": "https://ifrussiemoscou.timepad.ru/",
+     "image": "https://ucare.timepad.ru/52aa30a0-4b8a-4faa-8211-bca3dd2015d3/-/crop/4000x2247/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d98fc79443da"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "e0d5fe98b24c",
      "title": "ИмпроКультура: антикринж и импровизация",
      "date": "2026-12-02",
@@ -6728,6 +7045,30 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "d95f10d093e4",
+     "title": "Блюзовая вечеринка",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "ГБУ ОКЦ САО, Кронштадтский б-р, 37г",
+     "price": "бесплатно",
+     "link": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kyltorg-sao.timepad.ru/event/4312482/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Культорг САО",
+     "author_url": "https://kyltorg-sao.timepad.ru/",
+     "image": "https://ucare.timepad.ru/263599ac-e6c4-4748-89cf-d9c8dad6d19f/-/crop/4096x2306/0,391/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d95f10d093e4"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
      "key": "e810986bd54c",
      "title": "Лекция «Одиссей 2.0: Кончаловский, Нолан, Пазолини»",
      "date": "2026-12-04",
@@ -6776,6 +7117,30 @@
       "ef2fbc7c2cab"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "10b7329d56d1",
+     "title": "Мастер-класс «Не надо стесняться»",
+     "date": "2026-12-05",
+     "time": "13:30",
+     "place": "Лофт-театр Лес",
+     "price": "2550 ₽",
+     "link": "https://t.me/pb_dating/5252",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "ПБ•Клуб — Знакомства в Москве.",
+     "author_url": "https://t.me/pb_dating",
+     "image": "https://cdn4.telesco.pe/file/iT9lTppU8MUXNqzNphDF5sSo4BQeiLLCZkb3rT5d2F_jc9kqevUN1O1Vf-mLDH4JUmpBXw4yjHHR4wJjJ_yY4ZSPLnjoonOjznuE485ZAWQWukwO6IA1xJ7TeHREfxzahAeVr6KFUB7RafWY70-jIif3Ad2p6lrszpBcNlN34lWAD_bLSc7doc9ACPjYcmjBpe-q0IHOmu3tSc1ysjUZBp_kxSELawW-txer41ixxbn64MPN6DaP7LmRMNb0k-Kvfc0acSiuhDJK-etkMsAB_y3MTx2tDbeBRCZwO0ycjwhMM486F1dLE9e0JZ9u6fd5obkzndQyrSSr-qHnSlws4g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "10b7329d56d1"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "990f73b1eded",
@@ -7169,6 +7534,30 @@
       "465821b78bc7"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "100ea0aac1b5",
+     "title": "Лекция «Как человека меняет дискурс»",
+     "date": "2026-12-11",
+     "time": "19:00",
+     "place": "Библиотека-читальня им. Пушкина, Спартаковская 9с3",
+     "price": "бесплатно",
+     "link": "https://pushkinmoslib.timepad.ru/event/4312933/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://pushkinmoslib.timepad.ru/event/4312933/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "ГБУК г. Москвы \"Библиотека-читальня им. А.С. Пушкина\"",
+     "author_url": "https://pushkinmoslib.timepad.ru/",
+     "image": "https://ucare.timepad.ru/0d5d70e6-0cee-4b4b-b39b-23aa83d2c2df/-/crop/1920x1080/262,407/-/preview/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "100ea0aac1b5"
+     ],
+     "found": "2026-11-18T16:45:01+03:00"
     },
     {
      "key": "a72362d39f0a",
@@ -8382,14 +8771,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-18T12:45:00+03:00",
-     "events": 109
+     "last_post": "2026-11-18T16:45:01+03:00",
+     "events": 124
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-18T10:57:56+03:00",
+     "last_post": "2026-11-18T15:15:53+03:00",
      "events": 22
     },
     {
@@ -8403,7 +8792,7 @@
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
-     "last_post": "2026-11-18T11:54:07+03:00",
+     "last_post": "2026-11-18T14:44:34+03:00",
      "events": 7
     },
     {
@@ -8452,7 +8841,14 @@
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-17T18:34:01+03:00",
+     "last_post": "2026-11-18T16:35:35+03:00",
+     "events": 2
+    },
+    {
+     "title": "ПБ•Клуб — Знакомства в Москве.",
+     "username": "pb_dating",
+     "kind": "folder",
+     "last_post": "2026-11-18T14:00:01+03:00",
      "events": 2
     },
     {
@@ -8467,13 +8863,6 @@
      "username": "da_budet_cuddle",
      "kind": "extra",
      "last_post": "2026-11-18T07:53:02+03:00",
-     "events": 1
-    },
-    {
-     "title": "ПБ•Клуб — Знакомства в Москве.",
-     "username": "pb_dating",
-     "kind": "folder",
-     "last_post": "2026-11-17T13:55:17+03:00",
      "events": 1
     },
     {
@@ -8557,7 +8946,7 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-18T10:03:19+03:00",
+     "last_post": "2026-11-18T14:45:02+03:00",
      "events": 0
     },
     {
