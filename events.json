@@ -473,6 +473,31 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "efef78918075",
+     "title": "Рисуем мандалы",
+     "date": "2026-11-19",
+     "time": "19:00",
+     "place": "КЮМ «Адмиралтеец», Псковская 14",
+     "price": "бесплатно",
+     "link": "https://nastolnye-igry-2025.timepad.ru/event/4310045/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nastolnye-igry-2025.timepad.ru/event/4310045/",
+     "cats": [
+      "craft",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Молодежный клуб КЮМ \"Адмиралтеец\"",
+     "author_url": "https://nastolnye-igry-2025.timepad.ru/",
+     "image": "https://ucare.timepad.ru/09d6f3c8-13e0-4428-acd5-343541a73c12/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "efef78918075"
+     ],
+     "found": "2026-11-18T12:30:00+03:00"
+    },
+    {
      "key": "f480105ebb86",
      "title": "Телесная практика «Присутствие в контакте»",
      "date": "2026-11-19",
@@ -625,26 +650,34 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "df91c51e9168",
-     "title": "Ecstatic Lab: свободные танцы в Мирратее",
+     "key": "7b898810f624",
+     "title": "Ecstatic Lab в Мирратее",
      "date": "2026-11-20",
      "time": "18:30",
-     "place": "Пространство «Мирратея», 16-я линия В.О., д. 7, БЦ «Игротехника», 5 этаж",
-     "price": "2700 ₽ (последние 10 мест), в день события 3000 ₽",
-     "link": "https://t.me/tantratime_spb/1823",
+     "place": "Пространство Мирратея, башня на Васильевском острове",
+     "price": "200 ₽ скидка при записи от двух человек",
+     "link": "https://t.me/ecstaticeventsspb/337",
      "source": "Пост в канале",
      "signup_url": "https://cbiletom.ru/event.php?event=15663&utm_source=tg",
-     "cats": [],
+     "cats": [
+      "dance",
+      "body"
+     ],
      "adult": false,
-     "author": "TANTRA🤍TIME | Санкт-Петербург",
-     "author_url": "https://t.me/tantratime_spb",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
+     "author": "Ecstatic Events SPb",
+     "author_url": "https://t.me/ecstaticeventsspb",
+     "image": "https://cdn4.telesco.pe/file/gVAKOSNUn5VirHb8C-MkENP3VUVu1Th9I3W5Qd4Hf155S78hodRlNCz0dgVyLzbalR6cUa07plMOqQ2oEyThB_1k218rTrSAjI083EWo3mo_9hSDLaZhs2HrxbSEUvp7J7HJX5IfBKnNva7SzkY_HDuV2TVO8MGDNbhpvlVOxCw2wPReLgxtsDDrY26Ej1T7W18aMocIA9zB2jaQJVz_emhtS0GsmojKfNe1-C3HK4VGN6FvHEoCrjsK8Yc69f3LJ-wX0QMdUHgqiG7yhy5RD632tzzUjKb7kJqd_JHbz0YYB4YuoBJ4_mUF5tQJIMa1oVYM-Cn6fE8YKk17Z8JstQ.jpg",
+     "hot": true,
+     "hot_reason": "камерная группа, осталось 7 мест",
      "keys": [
+      "7b898810f624",
+      "c03da9d5a4cb",
+      "682e7ebdb1e8",
+      "4c555fc98553",
+      "d9fb3522e926",
       "df91c51e9168"
      ],
-     "found": null
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "7cd6d4bf3206",
@@ -823,34 +856,6 @@
       "62e4d50ae452",
       "53069d9b8619",
       "ce97edeb38fc"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "c03da9d5a4cb",
-     "title": "ECSTATIC.LAB: медленный контактный экстатик",
-     "date": "2026-11-20",
-     "time": null,
-     "place": null,
-     "price": "200 ₽ скидка при записи от двух человек",
-     "link": "https://t.me/tantratime_spb/1823",
-     "source": "Пост в канале",
-     "signup_url": "https://cbiletom.ru/event.php?event=15663&utm_source=tg",
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
-     "author_url": "https://t.me/tantratime_spb",
-     "image": "https://cdn4.telesco.pe/file/V-vgwQ7XiLSOKbhl9vO9J4srn2Ei8tdWh6zYeVC-oYYiPl9hGF1lqthcVptpvzZs7E8mZ59OxSzW2Cli_wDxFKzemq_Wa7xVlkUPn9m2eXuM-ZtazUG0SnqAMDjjVxPU_NpZGKyMmYII3oo_MuKt38Qi-PY2vdjta64jztqQ6gU4zzDJKLzOh4ndydOYUxHrpHTzl0HnZQbA_mR-tgD8--YkjvQF6qN6brCbcyq_8CltFRIi0_g7I4zMSuLZfOdC6HDlbGWoTAQyYMfpZW6luQUitH8rOm0Cu79hPurP9JBLJHiPCWAJdmEeVxMsRcMCCA7U5FGhOAXLi2bE1gqQYA.jpg",
-     "hot": true,
-     "hot_reason": "камерная группа, осталось 7 мест",
-     "keys": [
-      "c03da9d5a4cb",
-      "682e7ebdb1e8",
-      "4c555fc98553",
-      "d9fb3522e926"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1198,13 +1203,13 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "34c3807b0748",
-     "title": "Мафия по профессиям для импровизаторов",
+     "key": "355dafa6a520",
+     "title": "Мафия в школе «СРАЗУ»",
      "date": "2026-11-21",
      "time": "19:00",
-     "place": "Тамбовская, 63",
+     "place": "Школа «СРАЗУ», Тамбовская, 63",
      "price": "700 ₽",
-     "link": "https://t.me/improschoolspb/7681",
+     "link": "https://t.me/improschoolspb/7684",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1214,10 +1219,11 @@
      "adult": false,
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "author_url": "https://t.me/improschoolspb",
-     "image": "https://cdn4.telesco.pe/file/ubz0ZGQTKnjDrOYwXWtwAUZ9XtAtCgq46P1PK7uYjdaaA2_b-dRGJjBNUn6TGANfIG9hpI2NV1M4GpRJjWKoFXgqSIQsDqu4uDC23fyOhBA2vZR_-W0U5z40JWufjQmAWJS7eXVNKYZtzY6H026_hW74bVuVEkCfVXz8ODDp_mJW2p2hgId-zA0-ZaUZfOvlzxajXqzTyaIynKFzeIz6JeaxzCvxU_sa7c2QfpHilXLQSOfzbklTgDvwvUGlULrSRXbrSwo3Lv_5C0Zv3WXhL3HpAKD7WbtW5b8rRfCAoP0W37WfWSgiusL7EUHVfDyKJS9-pnWdrq42OJ0yVNAmCg.jpg",
+     "image": "https://cdn4.telesco.pe/file/rv6dD4RqPJ-6V0uM3sLwGwFryigibD_XebxAaAPvltvzvyg56K335nwFiFpDzza4BdaproIdbcPDwHm-nuU6BVGRKY0KMa--rcfxTeOENi-22z10zR1Mjt_mt-pyrmH4D_2kIAB3wxeOLzp63fwf9ASZTGYooYgKPLQdMsadmmMDGxG71Bo8AAxMNLeyt8cozAtWqMymFqzSOsyb4uOrVhg4-SLWXA_zhV5VCo23TXeL_BbnOxw7b0I5TWGc5-HFOMpDOqegXLHB-330ZFVMo8nH1wh8HsDhNAYW3jFGNYNGJpmESR65IGm7FJkBeHQxPwNN7e13z35AKXYNjpIngg.jpg",
      "hot": true,
      "hot_reason": "всего до 10 мест",
      "keys": [
+      "355dafa6a520",
       "34c3807b0748"
      ],
      "found": "2026-11-16T16:30:02+03:00"
@@ -1423,6 +1429,30 @@
       "78380c2c9942"
      ],
      "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "f5fbe94f0720",
+     "title": "Мастер-класс по созданию обвеса",
+     "date": "2026-11-22",
+     "time": "12:00",
+     "place": "Surf Coffee x Soul, Средний проспект В.О., 27",
+     "price": "1650 ₽",
+     "link": "https://choice-art-studio.timepad.ru/event/4310892/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://choice-art-studio.timepad.ru/event/4310892/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Choice Art Studio",
+     "author_url": "https://choice-art-studio.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6181d623-69c7-4100-8279-b78485c74807/-/crop/4206x2368/0,45/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f5fbe94f0720"
+     ],
+     "found": "2026-11-18T12:30:00+03:00"
     },
     {
      "key": "4d6416cffcf8",
@@ -1645,7 +1675,8 @@
       "d8e14492b017",
       "4c6466604b6b",
       "383b65a32842",
-      "e5ebce229013"
+      "e5ebce229013",
+      "52a525fda3e3"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -2333,6 +2364,32 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "4cd6eed957da",
+     "title": "Читка пьесы «#Щастьематеринства» и разговор",
+     "date": "2026-11-29",
+     "time": "17:00",
+     "place": "Арт-пространство Сад искусств, Загородный проспект, 35",
+     "price": "бесплатно",
+     "link": "https://metamorfozy-event.timepad.ru/event/4310672/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://metamorfozy-event.timepad.ru/event/4310672/",
+     "cats": [
+      "watch",
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Метаморфозы",
+     "author_url": "https://metamorfozy-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/18b812e7-fc69-4db5-b1cf-dd5680e86d63/-/crop/1992x1121/4,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4cd6eed957da"
+     ],
+     "found": "2026-11-18T12:30:00+03:00"
+    },
+    {
      "key": "b9d2bdc4bd3a",
      "title": "«Одиночество»: перформанс Cielo",
      "date": "2026-11-29",
@@ -2557,34 +2614,10 @@
      "keys": [
       "f8db91e98bc5",
       "c3bf67b10009",
-      "c3919b8e6f55"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "73123089c635",
-     "title": "«Лёха покидает планету»: инди-мюзикл",
-     "date": "2026-12-03",
-     "time": null,
-     "place": "Скороход",
-     "price": null,
-     "link": "https://t.me/rabbitholelab/678",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "theatre"
-     ],
-     "adult": false,
-     "author": "Путь театра | Андрей Черепанов",
-     "author_url": "https://t.me/rabbitholelab",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "c3919b8e6f55",
       "73123089c635"
      ],
-     "found": "2026-11-18T09:00:02+03:00"
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "35b74d48113d",
@@ -2956,6 +2989,31 @@
       "5f49fc8f57c2"
      ],
      "found": "2026-11-16T02:48:51+03:00"
+    },
+    {
+     "key": "5fa705347ff6",
+     "title": "Ничего Святого: шоу-импровизация 18+",
+     "date": "2026-12-07",
+     "time": "19:30",
+     "place": "Art Lab Medovarus, Мучной пер. 5",
+     "price": "600 ₽",
+     "link": "https://impro-banda.timepad.ru/event/4310436/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://impro-banda.timepad.ru/event/4310436/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Импро-банда",
+     "author_url": "https://impro-banda.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4f66b7ec-3f35-4800-bbba-19d5fba6731c/-/crop/4030x2266/0,139/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5fa705347ff6"
+     ],
+     "found": "2026-11-18T12:30:00+03:00"
     },
     {
      "key": "61cd83b7307c",
@@ -3360,8 +3418,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-18T08:30:00+03:00",
-     "events": 30
+     "last_post": "2026-11-18T12:30:00+03:00",
+     "events": 34
     },
     {
      "title": "SensCafe 18+",
@@ -3395,15 +3453,15 @@
      "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "username": "improschoolspb",
      "kind": "extra",
-     "last_post": "2026-11-17T16:30:09+03:00",
+     "last_post": "2026-11-18T11:00:28+03:00",
      "events": 8
     },
     {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
-     "last_post": "2026-11-16T17:59:55+03:00",
-     "events": 7
+     "last_post": "2026-11-18T11:59:55+03:00",
+     "events": 5
     },
     {
      "title": "Дом Радио",
@@ -3430,7 +3488,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-17T17:03:06+03:00",
+     "last_post": "2026-11-18T12:26:25+03:00",
      "events": 3
     },
     {
@@ -3476,18 +3534,18 @@
      "events": 2
     },
     {
-     "title": "Путь театра | Андрей Черепанов",
-     "username": "rabbitholelab",
-     "kind": "folder",
-     "last_post": "2026-11-16T16:58:20+03:00",
-     "events": 2
-    },
-    {
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-17T18:49:19+03:00",
+     "last_post": "2026-11-18T09:55:18+03:00",
      "events": 2
+    },
+    {
+     "title": "Ecstatic Events SPb",
+     "username": "ecstaticeventsspb",
+     "kind": "extra",
+     "last_post": "2026-11-18T11:55:37+03:00",
+     "events": 1
     },
     {
      "title": "Play.Event - общение и саморазвитие",
@@ -3553,6 +3611,13 @@
      "events": 1
     },
     {
+     "title": "Путь театра | Андрей Черепанов",
+     "username": "rabbitholelab",
+     "kind": "folder",
+     "last_post": "2026-11-16T16:58:20+03:00",
+     "events": 1
+    },
+    {
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
@@ -3583,13 +3648,6 @@
     {
      "title": "BRIF — фестиваль импровизации",
      "username": "BRIF_improv",
-     "kind": "extra",
-     "last_post": null,
-     "events": 0
-    },
-    {
-     "title": "Ecstatic Events SPb",
-     "username": "ecstaticeventsspb",
      "kind": "extra",
      "last_post": null,
      "events": 0
@@ -3703,7 +3761,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-18T01:12:26+03:00",
+     "last_post": "2026-11-18T09:01:26+03:00",
      "events": 0
     },
     {
