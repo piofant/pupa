@@ -532,6 +532,7 @@
      "keys": [
       "7cd6d4bf3206",
       "7156b53f2d97",
+      "c5ce2b36c463",
       "3678d4bc3c1e"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -1055,6 +1056,30 @@
       "95cb1c083e67"
      ],
      "found": "2026-11-16T20:30:04+03:00"
+    },
+    {
+     "key": "a957dc12641c",
+     "title": "Роспись деревянных значков «Так бы и съел!»",
+     "date": "2026-11-21",
+     "time": "18:00",
+     "place": "Библиотека «Ржевская», Индустриальный пр., 35 к.1",
+     "price": "бесплатно",
+     "link": "https://biblioteka-rzhevskaya.timepad.ru/event/4310616/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-rzhevskaya.timepad.ru/event/4310616/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека «Ржевская»",
+     "author_url": "https://biblioteka-rzhevskaya.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e0c63d16-8362-4b6a-9bc2-d248db13b9d2/-/crop/2400x1348/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a957dc12641c"
+     ],
+     "found": "2026-11-19T12:30:02+03:00"
     },
     {
      "key": "5c44f8657e45",
@@ -1688,13 +1713,13 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "f386879adb07",
-     "title": "Лекция «Клубничка на берёзке»: секс в древнерусских источниках",
+     "key": "4f4284bf2891",
+     "title": "Лекция Иры Ульяновой о сексуальной жизни по древнерусским источникам",
      "date": "2026-11-23",
      "time": "19:00",
      "place": "SensCafe",
-     "price": "по тарифу тайм-кафе + донат",
-     "link": "https://t.me/sensualcafe/8773",
+     "price": "тариф тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8787",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1704,10 +1729,11 @@
      "adult": true,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
-     "image": "https://cdn4.telesco.pe/file/fYP6EDtjv8Q3gMtL98k2VHiRewjZrLAjwD2QKuhpfmTy1gpu9xRtCRsnVbXMpFHWghNWmYaUmZ1muQVE1p1x-H6s3MTD-DLtwwmAqES96LIBEPX-00aIgmzTJOpa7dvWLqwptlEtYx7BCK1CeINgWHkTdZsLvPQh1zoN_8MUJZhV_FnL04ircehBJhINJU8EYNt-u5s-PFqJrf31xM4NuUyP-naqXlM6cOwJCdk7R0eb1lwo4nkq82QR-AwykE1jQRXQLGREku8f3uSgpFUuokHaXvEY_tyLEQ17Fmm7uu9adXe3pAQOeIxyn-SANIjKGc8eufsOemjM5OnLublBzQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/X-T32BaG2ozz3mqWftkD2qXkLYBbEn02sC4o8PHZLwm0KKHFnItmL8voGMmrEcy1nnbBS4kGU8QxRRNf9A9kYAIcXIweZ_Lxoj9h-innbiJ7Hwc9eEX4foRh_vNh60eSBiFvt8sYSlFzf_vqvX0G9wkPognpm27EXG_bYxQ6tTFLGk_L99i8dyE5Oe8p1pKRHHWWlZMZK4md9CjdCsyN_K305dEU_BNE1Dj_KOqdbDNZ9a4qXG2uWvSsXCnfkYQB8_h1Wxs58v1K2OzriVXNVBYannJCeXEBHYeYKyZ6hDeKbzcJQTFA3lkZFqr_6CDWHI0Z2vPPk8PVKd2vd7EfVA.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "4f4284bf2891",
       "f386879adb07"
      ],
      "found": "2026-11-17T16:30:07+03:00"
@@ -2107,9 +2133,34 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "7e26ba50d7c3"
+      "7e26ba50d7c3",
+      "990cb11a900f"
      ],
      "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "cadd4b3b4138",
+     "title": "Ночь Желаний в SensCafe",
+     "date": "2026-11-27",
+     "time": "23:00",
+     "place": "SensCafe",
+     "price": "3500 р. / 6000 р.",
+     "link": "https://t.me/sensualcafe/8787",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/X-T32BaG2ozz3mqWftkD2qXkLYBbEn02sC4o8PHZLwm0KKHFnItmL8voGMmrEcy1nnbBS4kGU8QxRRNf9A9kYAIcXIweZ_Lxoj9h-innbiJ7Hwc9eEX4foRh_vNh60eSBiFvt8sYSlFzf_vqvX0G9wkPognpm27EXG_bYxQ6tTFLGk_L99i8dyE5Oe8p1pKRHHWWlZMZK4md9CjdCsyN_K305dEU_BNE1Dj_KOqdbDNZ9a4qXG2uWvSsXCnfkYQB8_h1Wxs58v1K2OzriVXNVBYannJCeXEBHYeYKyZ6hDeKbzcJQTFA3lkZFqr_6CDWHI0Z2vPPk8PVKd2vd7EfVA.jpg",
+     "hot": true,
+     "hot_reason": "первое мероприятие капсулы, ночной формат",
+     "keys": [
+      "cadd4b3b4138"
+     ],
+     "found": "2026-11-19T12:30:02+03:00"
     },
     {
      "key": "ebc114c7f459",
@@ -2134,31 +2185,6 @@
       "ebc114c7f459"
      ],
      "found": "2026-11-17T20:30:01+03:00"
-    },
-    {
-     "key": "990cb11a900f",
-     "title": "Концерт-лекция «Между звуком и шумом»",
-     "date": "2026-11-27",
-     "time": null,
-     "place": "Дом Радио",
-     "price": null,
-     "link": "https://t.me/domradio_online/2206",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "music"
-     ],
-     "adult": false,
-     "author": "Дом Радио",
-     "author_url": "https://t.me/domradio_online",
-     "image": "https://cdn4.telesco.pe/file/ShYWyAE7v0Hn7JYu345IIgD9O9AbTIT_BzuLR8hLxSCMSDVT4SelbruR6-F9Wg8PtDdudNScYtMnzUiAqcwpijiHfcdJFKNmWBSbqA43cMubam3fBdhURddGqM-9XMmLfeq3HI2IH4DOTqtRb8Xq6CMTck1WSLSkYxfM6wZfN7XGHc4X2hmeUSvYW_QMYJmXyX3hIlvw3AGFfBEX8uP5mkRVGefq5s52ZlX8-3t8JdlG_eFKhXrTG-t9_08Hh5xeUtjmAw1_izJS5oSE51n7Y6vfBKCahammnOgGcRsJfR9tf60QWyXUthPcI32RWwlshz5V8WeM8TPuIvZiowP_6Q.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "990cb11a900f"
-     ],
-     "found": "2026-11-18T20:30:00+03:00"
     },
     {
      "key": "93a064470a25",
@@ -2186,35 +2212,10 @@
       "548e77010e73",
       "c7ec8a68895a",
       "289fa2b5870d",
+      "1431dc6eb430",
       "419f18299140"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "1431dc6eb430",
-     "title": "Ретрит Ecstatic Dance Spb",
-     "date": "2026-11-27",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/ecstaticdancespb/2379",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "calm",
-      "music"
-     ],
-     "adult": false,
-     "author": "Ecstatic Dance Spb",
-     "author_url": "https://t.me/ecstaticdancespb",
-     "image": null,
-     "hot": true,
-     "hot_reason": "ретрит раз в сезон, скоро старт",
-     "keys": [
-      "1431dc6eb430"
-     ],
-     "found": "2026-11-19T09:00:01+03:00"
     },
     {
      "key": "ab92916ff9a7",
@@ -2314,6 +2315,32 @@
      "found": "2026-11-18T16:30:01+03:00"
     },
     {
+     "key": "04bc3de7ac2c",
+     "title": "«Песнь камней»: иммерсивный перформанс театра танца «МЫ»",
+     "date": "2026-11-28",
+     "time": "19:00",
+     "place": "Библиотека «Малоохтинская», Новочеркасский пр., 49/20",
+     "price": "бесплатно",
+     "link": "https://biblioteka-malookhtinskay.timepad.ru/event/4312967/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-malookhtinskay.timepad.ru/event/4312967/",
+     "cats": [
+      "watch",
+      "theatre",
+      "dance"
+     ],
+     "adult": false,
+     "author": "Библиотека «Малоохтинская»",
+     "author_url": "https://biblioteka-malookhtinskay.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f01c5940-2158-424f-b04c-a94863564044/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "04bc3de7ac2c"
+     ],
+     "found": "2026-11-19T12:30:02+03:00"
+    },
+    {
      "key": "5f0a06a60b30",
      "title": "Лёд и шёлк: ночь контрастных ощущений",
      "date": "2026-11-28",
@@ -2336,6 +2363,32 @@
       "5f0a06a60b30"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "1baa3e529640",
+     "title": "Гильдия секс-терапевтов: «Есть ли секс в длительных отношениях?»",
+     "date": "2026-11-29",
+     "time": "14:00",
+     "place": "SensCafe",
+     "price": "тариф тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8787",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch",
+      "circles"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/X-T32BaG2ozz3mqWftkD2qXkLYBbEn02sC4o8PHZLwm0KKHFnItmL8voGMmrEcy1nnbBS4kGU8QxRRNf9A9kYAIcXIweZ_Lxoj9h-innbiJ7Hwc9eEX4foRh_vNh60eSBiFvt8sYSlFzf_vqvX0G9wkPognpm27EXG_bYxQ6tTFLGk_L99i8dyE5Oe8p1pKRHHWWlZMZK4md9CjdCsyN_K305dEU_BNE1Dj_KOqdbDNZ9a4qXG2uWvSsXCnfkYQB8_h1Wxs58v1K2OzriVXNVBYannJCeXEBHYeYKyZ6hDeKbzcJQTFA3lkZFqr_6CDWHI0Z2vPPk8PVKd2vd7EfVA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1baa3e529640"
+     ],
+     "found": "2026-11-19T12:30:02+03:00"
     },
     {
      "key": "64a57cb4d076",
@@ -2571,6 +2624,31 @@
       "6d215a84fd04"
      ],
      "found": "2026-11-18T09:00:02+03:00"
+    },
+    {
+     "key": "5421cc76838a",
+     "title": "Лекция Игоря Колышкина «О спорт, ты секс!»",
+     "date": "2026-12-01",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "тариф тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8787",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/X-T32BaG2ozz3mqWftkD2qXkLYBbEn02sC4o8PHZLwm0KKHFnItmL8voGMmrEcy1nnbBS4kGU8QxRRNf9A9kYAIcXIweZ_Lxoj9h-innbiJ7Hwc9eEX4foRh_vNh60eSBiFvt8sYSlFzf_vqvX0G9wkPognpm27EXG_bYxQ6tTFLGk_L99i8dyE5Oe8p1pKRHHWWlZMZK4md9CjdCsyN_K305dEU_BNE1Dj_KOqdbDNZ9a4qXG2uWvSsXCnfkYQB8_h1Wxs58v1K2OzriVXNVBYannJCeXEBHYeYKyZ6hDeKbzcJQTFA3lkZFqr_6CDWHI0Z2vPPk8PVKd2vd7EfVA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5421cc76838a"
+     ],
+     "found": "2026-11-19T12:30:02+03:00"
     },
     {
      "key": "73ceb8bbfad2",
@@ -3549,7 +3627,7 @@
      "title": "Новогодняя ночь SensCafe",
      "date": "2026-12-31",
      "time": "22:30",
-     "place": null,
+     "place": "SensCafe",
      "price": "соло 6500 ₽ / пара 11 000 ₽",
      "link": "https://t.me/sensualcafe/8777",
      "source": "Пост в канале",
@@ -3564,7 +3642,8 @@
      "hot": true,
      "hot_reason": "новогодняя ночь раз в год",
      "keys": [
-      "fafdf8ee3b71"
+      "fafdf8ee3b71",
+      "055888696f07"
      ],
      "found": "2026-11-18T08:30:00+03:00"
     },
@@ -3598,22 +3677,22 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-19T08:30:01+03:00",
-     "events": 38
-    },
-    {
-     "title": "Точка Импро",
-     "username": "tochkaBest",
-     "kind": "extra",
-     "last_post": "2026-11-18T17:04:19+03:00",
-     "events": 15
+     "last_post": "2026-11-19T12:30:02+03:00",
+     "events": 40
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-19T08:01:07+03:00",
-     "events": 14
+     "last_post": "2026-11-19T12:10:27+03:00",
+     "events": 17
+    },
+    {
+     "title": "Точка Импро",
+     "username": "tochkaBest",
+     "kind": "extra",
+     "last_post": "2026-11-19T12:17:05+03:00",
+     "events": 15
     },
     {
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
@@ -3630,13 +3709,6 @@
      "events": 8
     },
     {
-     "title": "Дом Радио",
-     "username": "domradio_online",
-     "kind": "folder",
-     "last_post": "2026-11-18T19:32:01+03:00",
-     "events": 7
-    },
-    {
      "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "username": "improschoolspb",
      "kind": "extra",
@@ -3644,11 +3716,11 @@
      "events": 7
     },
     {
-     "title": "Ecstatic Dance Spb",
-     "username": "ecstaticdancespb",
-     "kind": "extra",
-     "last_post": "2026-11-18T18:34:53+03:00",
-     "events": 4
+     "title": "Дом Радио",
+     "username": "domradio_online",
+     "kind": "folder",
+     "last_post": "2026-11-18T19:32:01+03:00",
+     "events": 6
     },
     {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
@@ -3656,6 +3728,13 @@
      "kind": "extra",
      "last_post": "2026-11-18T15:31:03+03:00",
      "events": 4
+    },
+    {
+     "title": "Ecstatic Dance Spb",
+     "username": "ecstaticdancespb",
+     "kind": "extra",
+     "last_post": "2026-11-18T18:34:53+03:00",
+     "events": 3
     },
     {
      "title": "Improv Life",
@@ -3962,7 +4041,7 @@
      "title": "Ясно в Поляне",
      "username": "vse_yap",
      "kind": "folder",
-     "last_post": null,
+     "last_post": "2026-11-19T10:39:14+03:00",
      "events": 0
     }
    ]
