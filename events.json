@@ -5268,16 +5268,18 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/OgmerPf0iwLt5Uxq12U0MhmKqoErHjWG5KLH9ja7ZpUHbOylJVNvE5UJEtl9IivOrt8m68Av-PTwHvcc_1W0GVTFp6y-aksSfmwB5cJNIFm4tt9FyxHHU7m6Bywcx6v4y70REeOhYxd2adPJw2ifhF987NpHH2rDiUczkFjDbenObJogvb5RA5SBcYU4c2nNmYXfvDIwtYnvjNGaA8itnG1rvthGwHdH_6XLKhfFXuW3gZNbBQz54ZAqN0sLkkrp0cdmv521eDcaTV91FpdYhG5BSgdvU7-JjT05LdwSYI7uJkFmcvpEdCS7k9Cywfl1sv6l0RGW4H2CJoDVYqWnGg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "74cb5f5458dc"
+      "74cb5f5458dc",
+      "1aff62ace902"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -5452,7 +5454,8 @@
      "hot_reason": "",
      "keys": [
       "aafe3e86bddd",
-      "5abc7966fd09"
+      "5abc7966fd09",
+      "1e0d578d7979"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5922,7 +5925,8 @@
      "hot_reason": "",
      "keys": [
       "84f61ef66d6f",
-      "45ac57a7709b"
+      "45ac57a7709b",
+      "2ade7e974574"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -8736,6 +8740,31 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "0bb3c9923592",
+     "title": "Бодиворк, аутентичное движение и КИ-джем",
+     "date": "2026-12-13",
+     "time": "14:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7407",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/mG9RPYJNM1GVQBnWGqJcGb99vmtp3aN37RW7ZyHQYKVwpemJaPYWNdHQlfFQ4T4SyCimNyB6QXaVoX21RCi9209vdpaRWQirUlYukqxB6z6r6OPWtQA5ESQ4EBe0w4G-0QxnGM4SeIqiY-IMHK_zQhbpxkD4SRlE8WUkLm_yX2q5t7rMiCl4FimLQ8w8KVpS0AfnPktyEvDM5Ls8SF-4cLQv2-nW84vfHrlk46MKkDHMNFA9skDN4VsVJz7wPVIBWjvJqweyvQXtcNejN8cdkiagdKpwQOtOD7mSIPDEI-c4i1Dlhc_pO6SPwQ0icVaVqbOObOehnQFwfgmNJVd1sQ.jpg",
+     "hot": true,
+     "hot_reason": "разовый четырёхчасовой воркшоп плюс джем",
+     "keys": [
+      "0bb3c9923592"
+     ],
+     "found": "2026-11-19T20:45:28+03:00"
+    },
+    {
      "key": "e561e4f493c0",
      "title": "Воркшоп «Внутренний свет» и вечерний класс-джем",
      "date": "2026-12-13",
@@ -9701,15 +9730,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-19T16:45:08+03:00",
+     "last_post": "2026-11-19T20:45:28+03:00",
      "events": 130
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-19T15:02:01+03:00",
-     "events": 21
+     "last_post": "2026-11-19T19:32:42+03:00",
+     "events": 22
     },
     {
      "title": "FoShoo — любительский театр",
@@ -9743,7 +9772,7 @@
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-19T10:02:25+03:00",
+     "last_post": "2026-11-19T17:03:57+03:00",
      "events": 5
     },
     {
@@ -9778,7 +9807,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-18T14:00:01+03:00",
+     "last_post": "2026-11-19T17:00:40+03:00",
      "events": 2
     },
     {
@@ -9876,7 +9905,7 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-19T11:55:32+03:00",
+     "last_post": "2026-11-19T18:12:02+03:00",
      "events": 0
     },
     {
