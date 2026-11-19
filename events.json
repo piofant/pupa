@@ -575,7 +575,8 @@
      "hot_reason": "",
      "keys": [
       "f64ff26c35e0",
-      "546d9f1439f9"
+      "546d9f1439f9",
+      "8a907bda708f"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -700,7 +701,7 @@
      "adult": false,
      "author": "Шамина шарит — дайджест импрова",
      "author_url": "https://t.me/shamina_sharit",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/b_G0qMCi4pIOJ-Jv8Oj75ATT5P_dmRNxGHLqsAFQVvCiFfRcFcMXn0-qAUtOMAE5PNoHAEjRD620VbcrqXHRCKzoQy4BC8oa4GUkIPW6HEUaQRzOc7pIUNOgEOdX_Gt73O4HA86-ZMGFzk8sVZD1gBxQPtNkodvCyZKsAuo6qbSM1cH3mdMYCUYNsFu85fthCCX4qvadAQ7Stt5Sb6zAEDZMtuOUCgHT0njYTXyr9q3IFTZn0LkAf3bOo_3f2Lb0dpF8xv8bCVQKtJUBxfXbNzOQ2kixjo8UX_Bu2Y8VHVIP3-GA6EtKkoeSuA0rKFP4d4blQU8zy_dGyuGa-Khr3Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
@@ -787,31 +788,6 @@
       "ce97edeb38fc"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "8a907bda708f",
-     "title": "Контактная импровизация Obni(me)",
-     "date": "2026-11-20",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/cuddlepiter/5538",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
-     "author_url": "https://t.me/cuddlepiter",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "8a907bda708f"
-     ],
-     "found": "2026-11-19T19:00:01+03:00"
     },
     {
      "key": "0cff787f9ddd",
@@ -913,6 +889,31 @@
      "found": "2026-11-19T08:30:01+03:00"
     },
     {
+     "key": "83b344fd2ece",
+     "title": "Клуб публичных выступлений",
+     "date": "2026-11-21",
+     "time": "12:00",
+     "place": "Точка Импро",
+     "price": null,
+     "link": "https://t.me/tochkabest/5413",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/usDHyqQJoDAa7jZV1EiSuGSwcLIo0PWM09EVPzGAYorXpxD4U0WbJTKrxdP9Dq-X-LML7LaUHcSwwOtI95_ddtF5dQ-ozKeS-rRPP6QvGvO6RZUGvdQMlYHME7cjwLkCOyOcf407JIXUaJwBR1BkSosAI_GCT13ZxaPvqi1xMHiX5Q-FPDpwYfnyGhiSKs7oV1N_gxQvrBkFiDxZrgOpTrDPybBTwlLuS2Ms54YiJyNdLuJomkYiszKH_GgrR1Vb0YA7C8AT3x97Uz4Ilhv99e2xg9d0LFY0WYSTBEp9gfJMDkRWR1Q8cdNtRE2ydQMHizjQWco7FQP-iHTJfcX5Xg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "83b344fd2ece"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
      "key": "e1e1009532b0",
      "title": "Пробный урок по импровизации (Точка Импро)",
      "date": "2026-11-21",
@@ -959,6 +960,30 @@
       "b0f084b4b1c6"
      ],
      "found": "2026-11-18T20:30:00+03:00"
+    },
+    {
+     "key": "2af9f7d24f7f",
+     "title": "Стендап-разгоны с Тимуром Альмяшевым",
+     "date": "2026-11-21",
+     "time": "12:00",
+     "place": "Точка Импро",
+     "price": null,
+     "link": "https://t.me/tochkabest/5413",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/usDHyqQJoDAa7jZV1EiSuGSwcLIo0PWM09EVPzGAYorXpxD4U0WbJTKrxdP9Dq-X-LML7LaUHcSwwOtI95_ddtF5dQ-ozKeS-rRPP6QvGvO6RZUGvdQMlYHME7cjwLkCOyOcf407JIXUaJwBR1BkSosAI_GCT13ZxaPvqi1xMHiX5Q-FPDpwYfnyGhiSKs7oV1N_gxQvrBkFiDxZrgOpTrDPybBTwlLuS2Ms54YiJyNdLuJomkYiszKH_GgrR1Vb0YA7C8AT3x97Uz4Ilhv99e2xg9d0LFY0WYSTBEp9gfJMDkRWR1Q8cdNtRE2ydQMHizjQWco7FQP-iHTJfcX5Xg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2af9f7d24f7f"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
     },
     {
      "key": "1ba4083c63e5",
@@ -1033,13 +1058,13 @@
      "found": "2026-11-18T16:30:01+03:00"
     },
     {
-     "key": "785fd065540b",
-     "title": "Лабораторка по импро у Василия Волкодаева",
+     "key": "8ccdb3a02807",
+     "title": "Лабораторка с Василием Волкодаевым",
      "date": "2026-11-21",
      "time": "16:00",
-     "place": "Резиденция «Точки», Большая Посадская 24/2",
+     "place": "Точка Импро",
      "price": null,
-     "link": "https://t.me/tochkabest/5381",
+     "link": "https://t.me/tochkabest/5413",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1048,10 +1073,11 @@
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/ryT3tcvdGmMG5_8JzdCtJO_FSJ2Mf1n9lA2WoavJe_3DrvPV_ntRS98t4FpJXwk6tyRjWTrlXlqWB7IhmeCbHzs3KTx2AW2rAGiAZMc4W4WCe8nQU5-TKjAO0m7K3pXujCSec96OKz1j_8D8a6FQy0ou7MX6ajGNob4lmogSjSCBE9XsRC13CeFa4v34saHePUlIsf2LCPyna-gcmPo3nEAg2rGTMHTXAFDkG6mCOwIU1qREz1sId8upWwJu7gvF7ppRpEOHCs1l33l2jd7imlFS7pkKPzjXXGDNDb5aSy6RP0m2og-ZHABeFgy02rjA1OcxsEn83v3lsi9w7njtyg.jpg",
+     "image": "https://cdn4.telesco.pe/file/usDHyqQJoDAa7jZV1EiSuGSwcLIo0PWM09EVPzGAYorXpxD4U0WbJTKrxdP9Dq-X-LML7LaUHcSwwOtI95_ddtF5dQ-ozKeS-rRPP6QvGvO6RZUGvdQMlYHME7cjwLkCOyOcf407JIXUaJwBR1BkSosAI_GCT13ZxaPvqi1xMHiX5Q-FPDpwYfnyGhiSKs7oV1N_gxQvrBkFiDxZrgOpTrDPybBTwlLuS2Ms54YiJyNdLuJomkYiszKH_GgrR1Vb0YA7C8AT3x97Uz4Ilhv99e2xg9d0LFY0WYSTBEp9gfJMDkRWR1Q8cdNtRE2ydQMHizjQWco7FQP-iHTJfcX5Xg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "8ccdb3a02807",
       "785fd065540b",
       "235070703f54"
      ],
@@ -1150,7 +1176,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "a11a4b048483"
+      "a11a4b048483",
+      "45d732fb1d5a"
      ],
      "found": "2026-11-16T02:48:51+03:00"
     },
@@ -1506,11 +1533,11 @@
     },
     {
      "key": "adc6c3dbddc6",
-     "title": "Воскресный практикум по импровизации",
+     "title": "Воскресный практикум по импровизации (12:00)",
      "date": "2026-11-22",
      "time": "12:00",
-     "place": "Тамбовская ул., 63 (ДК «Железнодорожников»)",
-     "price": "1500 ₽ (800 ₽ для учеников школы)",
+     "place": "Тамбовская ул., 63, ДК «Железнодорожников»",
+     "price": "1500 ₽ (ученикам школы 800 ₽)",
      "link": "https://t.me/improschoolspb/7698",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1520,7 +1547,7 @@
      "adult": false,
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "author_url": "https://t.me/improschoolspb",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/NUnx-8XEuML8-tQibjS2eK-IUoltMQ4Jw-Fl1IhQ5axjq7W6au8pcreCjDCycGsNqVYgui4KjJQfo4qIcYnC1FtkUDuEg61CwzcnzvEwPivhl1ltKMTrVWBGmqtAsYy2YSfcnTDWo_OXoJrbw8Efkw9NS3-EjnF8joO-WX-dBpd_mms6jvwthkx4S2SIBwn01U4pDNi477ShRG2HgIE7kRw1qDjOZtGNwjUBEPvMNW0JaCJqorkEP8eRXvlLo-qXAaawlsUkBxGGk8EWU7C0e9dIU9RHi-1VrDTKgLNquPGWcLE7uPskSDO862DTNiblTCQoupnH5OPBTUZg0kdT9Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
@@ -1599,6 +1626,30 @@
       "ff1fd052f337"
      ],
      "found": "2026-11-16T16:30:02+03:00"
+    },
+    {
+     "key": "7e94466cc62a",
+     "title": "Воскресный практикум по импровизации (14:00)",
+     "date": "2026-11-22",
+     "time": "14:00",
+     "place": "Тамбовская ул., 63, ДК «Железнодорожников»",
+     "price": "1500 ₽ (ученикам школы 800 ₽)",
+     "link": "https://t.me/improschoolspb/7698",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/NUnx-8XEuML8-tQibjS2eK-IUoltMQ4Jw-Fl1IhQ5axjq7W6au8pcreCjDCycGsNqVYgui4KjJQfo4qIcYnC1FtkUDuEg61CwzcnzvEwPivhl1ltKMTrVWBGmqtAsYy2YSfcnTDWo_OXoJrbw8Efkw9NS3-EjnF8joO-WX-dBpd_mms6jvwthkx4S2SIBwn01U4pDNi477ShRG2HgIE7kRw1qDjOZtGNwjUBEPvMNW0JaCJqorkEP8eRXvlLo-qXAaawlsUkBxGGk8EWU7C0e9dIU9RHi-1VrDTKgLNquPGWcLE7uPskSDO862DTNiblTCQoupnH5OPBTUZg0kdT9Q.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7e94466cc62a"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
     },
     {
      "key": "d0f3adc66575",
@@ -1724,8 +1775,8 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "944db557e4f6",
-     "title": "Shadow Ecstatic Dance: нежность к себе",
+     "key": "1aa249a75927",
+     "title": "Shadow Ecstatic Dance «Себе нежно»",
      "date": "2026-11-22",
      "time": "17:30",
      "place": "Кадетская линия 5, корп. 2Д",
@@ -1740,15 +1791,15 @@
      "adult": false,
      "author": "SHADOW ECSTATIC DANCE SPB",
      "author_url": "https://t.me/shadow_ecstatic",
-     "image": "https://cdn4.telesco.pe/file/BD1TcyIcdMCddi9YgoFRc6NGw7LDbk_4ypzv0Lw4o9U_hCYyJKWu_YJzkshAwFqdY3yUF6T8EOFFq9e-G8WzdkDkFTiI9eB7kqkOHHbU8okzsuoySEK72RcaUM1nfDUzNuPT_2rjAh_cY1vmVTXY1kRPasQICMeCOLUdZuE_YcxfA7rte6DcAWjUEcd5-RqSpwJbHYwU18N3qhhiW9bgEaSyaNPAn1_0EqvA74CGZ2oWJHqIT5ix1FYVDjzMCGuWj0vMpIIrGHtss3ZitGsM4P4oSnfiC3NtqCX9YcvkOJXJEYNT_wObt3-Uhdxb8bSXNbSKnLse2r4WZMzyuz0OBw.jpg",
+     "image": "https://cdn4.telesco.pe/file/GQM0qo_hpUyLDYU2KJkbo2B4mIZO5AVhhtcMPWg4E9P_wPo6vO8399WaBOj_Ph5QI5C7nQ5U7rQ6RuE1GD7nMZM7at5vbV1c1IKnEvdBJBiUfJnndNRT5HzKOimZiogduEiqv0llLyexyVzxDcX7OBPsl_OFrhoBzdNFVH0EF7bs3eC8IxfFx0azF6m1_3P7YLHZyQRtgxCinQFC40PNNYC3cDWHzeb1KutgmO15637OL5bbP8CFooMzyT11VLrPyuQ0l6UhcixFOEl6B0_uxSTmZ10ePrsUmLoQRPkpJMp2itNjJc-HkQS_DaLJWf08XNPwf_6ifzk6Pc1B36W3uw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "1aa249a75927",
       "944db557e4f6",
       "8b56bf4eeb08",
       "0eb63c7ed143",
-      "b3f215f3330a",
-      "1aa249a75927"
+      "b3f215f3330a"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -3022,6 +3073,30 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "5fca506b7340",
+     "title": "Праймал Дейтинг в SensCafe",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "по тарифу тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5fca506b7340"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
      "key": "8961c9fb3c10",
      "title": "Шоу-спектакль «Дамы без Драмы»",
      "date": "2026-12-03",
@@ -3124,6 +3199,30 @@
       "5edae989f3c3"
      ],
      "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
+     "key": "bb8f3242dc4f",
+     "title": "Ролевой Тактильник",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "1500/2700 ₽",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bb8f3242dc4f"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
     },
     {
      "key": "fa3809b6279a",
@@ -3474,6 +3573,31 @@
      "found": "2026-11-18T16:30:01+03:00"
     },
     {
+     "key": "910d7a65ec86",
+     "title": "БИКАПО небесного леса",
+     "date": "2026-12-06",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2220",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/gWHhnQoVvPyN4K1mcQFROxrDTKfckYoaaDnfPDi3B0VM5UuclezPhRqizhmatmFgJGjeL9GnEpRcX5DleUpcXIMfr2jKWFdVXWBD5efuNZM-dt4GCKefaVFRV2vaPBKTNmtE4RlcyGLO0ZzV2mLTBpZ1VQdX8iAVtIaPrMR2SJFz4BdeOCxBytvUoAOCc1qKYweQ9k59f1MoN0I2ZiBvyDryXoTHRl9dusuI2I0gbYoyQZtKbIK7XFUycjQ_QouTOW_ow-XRhDBPde0Oe6JdzdnX1ds-9goFmYpAak_VldOlnJguETcmKh0ha1jLO-coH9owwBt6oi7IRYy1-91fHg.jpg",
+     "hot": true,
+     "hot_reason": "нечастая программа с редкими инструментами",
+     "keys": [
+      "910d7a65ec86"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
      "key": "5f49fc8f57c2",
      "title": "Магия тупрова: курс парной импровизации",
      "date": "2026-12-07",
@@ -3646,6 +3770,30 @@
       "735e90635eaa"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "de8728f30077",
+     "title": "Тантрический Праймал",
+     "date": "2026-12-11",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "1600/2900 ₽",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "de8728f30077"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
     },
     {
      "key": "e89fb87c3a51",
@@ -3851,6 +3999,30 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "bb6ecdef8690",
+     "title": "Вечер Проявленности",
+     "date": "2026-12-16",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "по тарифу тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bb6ecdef8690"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
      "key": "83e33eb627a5",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-16",
@@ -3899,6 +4071,30 @@
      "found": "2026-11-18T16:30:01+03:00"
     },
     {
+     "key": "85343e5ec830",
+     "title": "Silent Primal",
+     "date": "2026-12-18",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "1700/3000 ₽",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "85343e5ec830"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
      "key": "adb4fd69bf2f",
      "title": "Групповая расстановка с личным запросом",
      "date": "2026-12-18",
@@ -3921,6 +4117,30 @@
       "adb4fd69bf2f"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "279f38c15ff5",
+     "title": "Primal Dark Flur (ночь)",
+     "date": "2026-12-18",
+     "time": "23:00",
+     "place": "SensCafe",
+     "price": "2500/4500 ₽",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": true,
+     "hot_reason": "ночной формат, нечастый",
+     "keys": [
+      "279f38c15ff5"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
     },
     {
      "key": "73c89b760680",
@@ -4046,6 +4266,30 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "7c5bbd31615a",
+     "title": "Вечер заботы о мужчинах",
+     "date": "2026-12-28",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "по тарифу тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8793",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/GkI1bsipY-vkR5emk_0jOzWcwIO11yo54WTilJRwy3LP9VI86Y0FOq_fVK7IGw9w5lNg5x5-WGCA9-RYS7-xd5ezQwNjk2M6sNH9TDlc99lbgr0CsUmdhjefR7034rJn-zkoS_pQ03zec5z_P7BmYo33XYS8rUk1a0ox5sfQVln4dCGLKfQjLynwSx2f2mx4f1boeWn0m0jm7Ga9MpzCP0xtyvljU4pX7cSvpFAPhs8eQLBcxv7dMWtiOq-oFvE5IkwIYp8Xoff5Bxp9A1qbUkQVzRD0BK2R_KEqSsqPEfkyXG4heVrWTfh2AHsAJRlWq7oimZJ8HbZzZnv7AY-EAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7c5bbd31615a"
+     ],
+     "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
      "key": "789ef4cdc7e3",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-30",
@@ -4149,42 +4393,42 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-19T16:30:00+03:00",
+     "last_post": "2026-11-19T20:30:00+03:00",
      "events": 53
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-19T13:54:22+03:00",
-     "events": 17
+     "last_post": "2026-11-19T19:59:09+03:00",
+     "events": 24
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-19T12:17:05+03:00",
-     "events": 15
+     "last_post": "2026-11-19T19:17:47+03:00",
+     "events": 17
+    },
+    {
+     "title": "Дом Радио",
+     "username": "domradio_online",
+     "kind": "folder",
+     "last_post": "2026-11-19T19:49:14+03:00",
+     "events": 9
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-19T18:56:29+03:00",
+     "events": 9
     },
     {
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
      "last_post": "2026-11-19T16:12:51+03:00",
-     "events": 9
-    },
-    {
-     "title": "Дом Радио",
-     "username": "domradio_online",
-     "kind": "folder",
-     "last_post": "2026-11-19T15:37:17+03:00",
-     "events": 8
-    },
-    {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-18T20:01:22+03:00",
      "events": 8
     },
     {
@@ -4233,7 +4477,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-18T19:30:14+03:00",
+     "last_post": "2026-11-19T19:31:08+03:00",
      "events": 3
     },
     {
@@ -4415,7 +4659,7 @@
      "title": "OWG Youth",
      "username": "owgyouth",
      "kind": "folder",
-     "last_post": "2026-11-16T15:03:23+03:00",
+     "last_post": "2026-11-19T18:03:18+03:00",
      "events": 0
     },
     {
@@ -4492,7 +4736,7 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-19T16:08:22+03:00",
+     "last_post": "2026-11-19T20:00:49+03:00",
      "events": 0
     },
     {
