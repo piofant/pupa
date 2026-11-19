@@ -4618,7 +4618,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "c883144db8ea"
+      "c883144db8ea",
+      "335fdad277d2"
      ],
      "found": "2026-11-18T08:45:00+03:00"
     },
@@ -4718,6 +4719,30 @@
       "07e47eb8d022"
      ],
      "found": "2026-11-19T12:45:00+03:00"
+    },
+    {
+     "key": "597e3abf6707",
+     "title": "Выставка-экскурсия «Тайны самоцветов»",
+     "date": "2026-11-20",
+     "time": "11:00",
+     "place": "Галерея самоцветов, ул. Строителей, 3",
+     "price": "бесплатно",
+     "link": "https://galereya-samotsvetov.timepad.ru/event/3316108/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galereya-samotsvetov.timepad.ru/event/3316108/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Галерея Самоцветов",
+     "author_url": "https://galereya-samotsvetov.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c3f4548d-6b2c-41ef-8aa4-19dc6d22132b/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "597e3abf6707"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
     },
     {
      "key": "3667ce70977c",
@@ -4965,13 +4990,13 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
-     "key": "d12798f0eb55",
+     "key": "d85d8933d482",
      "title": "«Бездельницы» — разговорное шоу",
      "date": "2026-11-20",
      "time": "20:00",
-     "place": "Бар «Небылицы», Валовая 32/75 стр2, м. Добрынинская",
+     "place": "Бар «Небылицы», Валовая 32/75 стр2",
      "price": "вход свободный по регистрации",
-     "link": "https://t.me/shamina_sharit/3715",
+     "link": "https://t.me/shamina_sharit/3739",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -4981,10 +5006,11 @@
      "adult": false,
      "author": "Шамина шарит — дайджест импрова",
      "author_url": "https://t.me/shamina_sharit",
-     "image": "https://cdn4.telesco.pe/file/n9mRXSTDz170HQ_Sib_cxSg8w78xuWi03MQTqXhKhhBN2SuyVTtSYlh-wDSlcA72INKM7QCUHuq0kpTuKAshhcntjaMn_tAfQlDXKE3SKIkSO-2VJcJwkoS_FF7--BZz0Sac9yF-bBGSNSsdFAWbAfK2TtzUSGQ2aHktJcQfl_v1RRYI9uqlWCG-THjV-V8vdxINT6ytOAbPSaBebmNEuQRPsH19PLqGheFsCaNnFOXIgsJlSzi8PBDj-4JrFRNuMQuqAbd7U13G_oexCnNcxC97P0IcUdwV8lHu-0O8NbREDDlUz0D68KTRxYDoj3zUYWFa9ml6sHLXVU0hITD1Ag.jpg",
+     "image": "https://cdn4.telesco.pe/file/b_G0qMCi4pIOJ-Jv8Oj75ATT5P_dmRNxGHLqsAFQVvCiFfRcFcMXn0-qAUtOMAE5PNoHAEjRD620VbcrqXHRCKzoQy4BC8oa4GUkIPW6HEUaQRzOc7pIUNOgEOdX_Gt73O4HA86-ZMGFzk8sVZD1gBxQPtNkodvCyZKsAuo6qbSM1cH3mdMYCUYNsFu85fthCCX4qvadAQ7Stt5Sb6zAEDZMtuOUCgHT0njYTXyr9q3IFTZn0LkAf3bOo_3f2Lb0dpF8xv8bCVQKtJUBxfXbNzOQ2kixjo8UX_Bu2Y8VHVIP3-GA6EtKkoeSuA0rKFP4d4blQU8zy_dGyuGa-Khr3Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "d85d8933d482",
       "d12798f0eb55"
      ],
      "found": "2026-11-16T02:50:09+03:00"
@@ -5088,6 +5114,30 @@
       "9d8a38472811"
      ],
      "found": "2026-11-19T12:45:00+03:00"
+    },
+    {
+     "key": "ab46a8d6918d",
+     "title": "Выставка-экскурсия «Тайны самоцветов»",
+     "date": "2026-11-21",
+     "time": "11:00",
+     "place": "Галерея самоцветов, ул. Строителей, 3",
+     "price": "бесплатно",
+     "link": "https://galereya-samotsvetov.timepad.ru/event/3316108/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galereya-samotsvetov.timepad.ru/event/3316108/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Галерея Самоцветов",
+     "author_url": "https://galereya-samotsvetov.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c3f4548d-6b2c-41ef-8aa4-19dc6d22132b/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ab46a8d6918d"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
     },
     {
      "key": "7e75f84313cd",
@@ -5433,6 +5483,31 @@
       "c703a9fc2c54"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "af76ae0d31f0",
+     "title": "Спектакль «Материнство»",
+     "date": "2026-11-21",
+     "time": "19:00",
+     "place": "Москва, Смоленская набережная 5/13",
+     "price": "бесплатно",
+     "link": "https://zigma-art.timepad.ru/event/4312878/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://zigma-art.timepad.ru/event/4312878/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Зигма Арт",
+     "author_url": "https://zigma-art.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b404a806-6261-4d5a-8384-d7bcd862b6ec/-/crop/1320x743/0,57/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "af76ae0d31f0"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
     },
     {
      "key": "44e2db0778c8",
@@ -6125,7 +6200,8 @@
      "keys": [
       "01bdfbfdbf97",
       "c28cae3c09a5",
-      "2fe11d4653b0"
+      "2fe11d4653b0",
+      "2b138c7cda8d"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -6964,6 +7040,31 @@
      "found": "2026-11-19T12:45:00+03:00"
     },
     {
+     "key": "573c675c6380",
+     "title": "Спектакль «Убийца на белом коне»",
+     "date": "2026-11-29",
+     "time": "18:00",
+     "place": "Москва, 3-я Северная линия, 17",
+     "price": "бесплатно",
+     "link": "https://teatr-studiya-grotesk.timepad.ru/event/4313698/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatr-studiya-grotesk.timepad.ru/event/4313698/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Театр-студия \"ГРОТЕСК\"",
+     "author_url": "https://teatr-studiya-grotesk.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a1d915a0-b9e1-4a3e-a17b-3b3e1c949617/-/crop/2560x1438/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "573c675c6380"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
+    },
+    {
      "key": "69ff3edf97d5",
      "title": "«Провалы, провалы, провалы…»: «Мулин Муж»",
      "date": "2026-11-29",
@@ -7334,6 +7435,30 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "2b470de9a785",
+     "title": "Лекция «Россия — Китай: диалог сквозь века»",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": "Москва, Николоямская ул., 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4313688/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4313688/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f7f9f030-0ca6-43c6-94a7-08de985834f4/-/crop/1280x719/0,1/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2b470de9a785"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
+    },
+    {
      "key": "bdc92a710b32",
      "title": "Плейбэк-перформанс «Где водятся волшебники?»",
      "date": "2026-12-03",
@@ -7578,6 +7703,55 @@
       "c722f3a360f6"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "5c4c7526752e",
+     "title": "Лекция «Цвет как язык Поднебесной»",
+     "date": "2026-12-05",
+     "time": "16:00",
+     "place": "Москва, Николоямская ул., 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4313699/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4313699/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e7e58455-6328-4b30-b399-c37217bc50af/-/crop/1280x719/0,396/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5c4c7526752e"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
+    },
+    {
+     "key": "2e95de47c484",
+     "title": "Йога под рэп",
+     "date": "2026-12-05",
+     "time": "18:00",
+     "place": "Студия Lisabon, Кировоградская 11 к1",
+     "price": "2500 ₽",
+     "link": "https://fysm-yoga.timepad.ru/event/4312892/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://fysm-yoga.timepad.ru/event/4312892/",
+     "cats": [
+      "body",
+      "dance"
+     ],
+     "adult": false,
+     "author": "FYSM йога",
+     "author_url": "https://fysm-yoga.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d6f9e2c3-9968-4ee6-ac0e-e54f5ba4eb6c/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2e95de47c484"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
     },
     {
      "key": "25ab49c0f734",
@@ -7995,7 +8169,8 @@
      "keys": [
       "fbb9da079acd",
       "26cf51cb68ae",
-      "af376ba06b29"
+      "af376ba06b29",
+      "820ef97ea3b6"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -9128,6 +9303,31 @@
       "f1a9740ea102"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "9349a1765740",
+     "title": "Фестиваль контактной импровизации и перформанса",
+     "date": "2027-01-03",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7404",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/SWES4ICrLsgmQDc5yXITLyLWFtP2tgbllAVpGZCtxTIR03rk-uTjo5oc79ME2L6-nPTKHTsru_NakxBx9W4okFaX7kU4i2O_JrU1LHz-ZfG4A3DQQv52Ij_JfQF4PgxXVcqQzSBi0PgkfRnBXt__Zf2w_Vy8T8jmfgswiWR8_dqSrlCYV6alGvWVQHm-ItsyDYX_KmLU2LewUpefcFZAMr0ifyKmBstPNXJpPOWep0n1WrH3dX6TX1MFT0XvTfmjiIudd_St-jlWrTMAdMJDmdnpike56oKVdcL3w-_iQSaHbJD1sWXtLq2GcBfyICwcP3xQ0NSGwdTzagYyv--How",
+     "hot": true,
+     "hot_reason": "новогодний фестиваль раз в год",
+     "keys": [
+      "9349a1765740"
+     ],
+     "found": "2026-11-19T16:45:08+03:00"
     }
    ],
    "sources": [
@@ -9135,21 +9335,21 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-19T12:45:00+03:00",
-     "events": 123
+     "last_post": "2026-11-19T16:45:08+03:00",
+     "events": 130
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-19T11:02:09+03:00",
-     "events": 20
+     "last_post": "2026-11-19T15:02:01+03:00",
+     "events": 21
     },
     {
      "title": "FoShoo — любительский театр",
      "username": "fo_shoo",
      "kind": "extra",
-     "last_post": "2026-11-17T19:03:01+03:00",
+     "last_post": "2026-11-19T13:25:33+03:00",
      "events": 7
     },
     {
@@ -9198,14 +9398,14 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-18T17:33:30+03:00",
+     "last_post": "2026-11-19T15:54:23+03:00",
      "events": 3
     },
     {
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-18T16:35:35+03:00",
+     "last_post": "2026-11-19T16:08:51+03:00",
      "events": 2
     },
     {
@@ -9226,7 +9426,7 @@
      "title": "Каддл пати Марии Зобниной и команды",
      "username": "da_budet_cuddle",
      "kind": "extra",
-     "last_post": "2026-11-18T07:53:02+03:00",
+     "last_post": "2026-11-19T14:57:50+03:00",
      "events": 1
     },
     {
@@ -9240,7 +9440,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-18T20:23:58+03:00",
+     "last_post": "2026-11-19T15:02:38+03:00",
      "events": 1
     },
     {
@@ -9275,7 +9475,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-18T10:03:17+03:00",
+     "last_post": "2026-11-19T16:43:12+03:00",
      "events": 0
     },
     {
