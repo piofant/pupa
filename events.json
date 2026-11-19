@@ -152,6 +152,30 @@
      "found": "2026-11-17T12:30:01+03:00"
     },
     {
+     "key": "dc6b94da14d9",
+     "title": "Мастер-класс по макраме «Панно перья»",
+     "date": "2026-11-19",
+     "time": "17:30",
+     "place": "ул. Корнея Чуковского, д.3, к.1",
+     "price": "бесплатно",
+     "link": "https://tv-masterskaya-ostrova.timepad.ru/event/4313940/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tv-masterskaya-ostrova.timepad.ru/event/4313940/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Мастерская макраме «Фактура лета»",
+     "author_url": "https://tv-masterskaya-ostrova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/fb98401f-4bee-4288-956f-98d2b6f87702/-/crop/1824x1026/0,103/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "dc6b94da14d9"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "371052661dfd",
      "title": "Мастер-класс «Природа в красках»",
      "date": "2026-11-19",
@@ -558,7 +582,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "f64ff26c35e0"
+      "f64ff26c35e0",
+      "546d9f1439f9"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -1132,6 +1157,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "5cfb13b6880c",
+     "title": "Клуб общения",
+     "date": "2026-11-21",
+     "time": "19:00",
+     "place": "Санкт-Петербург",
+     "price": "1000 ₽",
+     "link": "https://psikholog-trener.timepad.ru/event/4313509/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://psikholog-trener.timepad.ru/event/4313509/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "психолог-тренер",
+     "author_url": "https://psikholog-trener.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b53daff0-a7d5-4738-81ca-f0c909e8ef31/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5cfb13b6880c"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "355dafa6a520",
      "title": "Мафия в школе «СРАЗУ»",
      "date": "2026-11-21",
@@ -1480,6 +1529,31 @@
      "found": "2026-11-16T16:30:02+03:00"
     },
     {
+     "key": "34ea2ed5566b",
+     "title": "Сторителлинг: эмоции и сенсорика",
+     "date": "2026-11-22",
+     "time": "14:00",
+     "place": "ул. Восстания, д.1, БЦ «Восстания-1», эт. 2+, оф. 43",
+     "price": "500 ₽",
+     "link": "https://zaugolova-mariya.timepad.ru/event/4313923/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://zaugolova-mariya.timepad.ru/event/4313923/",
+     "cats": [
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Зауголова Мария",
+     "author_url": "https://zaugolova-mariya.timepad.ru/",
+     "image": "https://ucare.timepad.ru/47fad6c2-f9ea-4fd2-ac66-308bd6b4fa54/-/crop/1280x720/0,67/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "34ea2ed5566b"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "eade9b8ec14d",
      "title": "Вечер тантрического массажа",
      "date": "2026-11-22",
@@ -1605,7 +1679,8 @@
       "4c6466604b6b",
       "383b65a32842",
       "e5ebce229013",
-      "52a525fda3e3"
+      "52a525fda3e3",
+      "ec519199c08e"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1658,6 +1733,31 @@
       "952de1a1a4bf"
      ],
      "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "67ebbd9a3a50",
+     "title": "Премьера «Шутка по Шекспиру»",
+     "date": "2026-11-22",
+     "time": "19:00",
+     "place": "Творческое пространство «Холодильник», наб. Обводного канала 88В",
+     "price": "бесплатно",
+     "link": "https://6780-a.timepad.ru/event/4313303/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://6780-a.timepad.ru/event/4313303/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "6780",
+     "author_url": "https://6780-a.timepad.ru/",
+     "image": "https://ucare.timepad.ru/61314c7f-ded3-4bd4-8d27-6de82c6cd8af/-/crop/2560x1442/0,77/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "67ebbd9a3a50"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
     },
     {
      "key": "110251e602a8",
@@ -2427,7 +2527,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "TANTRA🤍TIME | Санкт-Петербург",
@@ -2440,7 +2541,8 @@
       "21b13facbfe1",
       "260df2872b10",
       "7003ce9c3382",
-      "c4f6400c9ad7"
+      "c4f6400c9ad7",
+      "618a54c09bd5"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -2576,6 +2678,31 @@
      "found": "2026-11-16T02:48:51+03:00"
     },
     {
+     "key": "173ad5fc046f",
+     "title": "Концерт-перформанс «Возможно мы»",
+     "date": "2026-11-29",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/domradio_online/2214",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/AJydpyXF26pG1FAdtvZyTIxO-ambtVWsNyw9yDqxJ7dFGqkSc3fSoYS3csB0sImc5dHswrXmZXoJXmNYucjcF4QsF36393L1dGZuQkYy5b35zLfMqKWjmTfM6UxnuLzPN88zXex0nSqkGRRW84CQuXF90r3LC1QjC6_fyDBxd_XqLMkxpsiOqiKL7VlbZiNELs6tPCvuZUbunNTeuu-h_sc4zqNOWZ313a5va3SRmDhvvzIgLO_20P20eKe5RDA2bvjkp9YRcmEfvzxmR_Z54ybXanW9u5fx-unP7X-Cco1rhVc0fAcVROTesbeO1ceAhzbihS7Zlayd4zjS5TacDw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "173ad5fc046f"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "23f43db37824",
      "title": "Магия тупрова: курс парной импровизации",
      "date": "2026-11-30",
@@ -2624,6 +2751,31 @@
       "6d215a84fd04"
      ],
      "found": "2026-11-18T09:00:02+03:00"
+    },
+    {
+     "key": "9dba143c1dd3",
+     "title": "Концерт-перформанс «Возможно мы»",
+     "date": "2026-11-30",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/domradio_online/2214",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/AJydpyXF26pG1FAdtvZyTIxO-ambtVWsNyw9yDqxJ7dFGqkSc3fSoYS3csB0sImc5dHswrXmZXoJXmNYucjcF4QsF36393L1dGZuQkYy5b35zLfMqKWjmTfM6UxnuLzPN88zXex0nSqkGRRW84CQuXF90r3LC1QjC6_fyDBxd_XqLMkxpsiOqiKL7VlbZiNELs6tPCvuZUbunNTeuu-h_sc4zqNOWZ313a5va3SRmDhvvzIgLO_20P20eKe5RDA2bvjkp9YRcmEfvzxmR_Z54ybXanW9u5fx-unP7X-Cco1rhVc0fAcVROTesbeO1ceAhzbihS7Zlayd4zjS5TacDw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9dba143c1dd3"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
     },
     {
      "key": "5421cc76838a",
@@ -2723,6 +2875,56 @@
      "found": "2026-11-17T09:00:01+03:00"
     },
     {
+     "key": "d7d7fbb19c7e",
+     "title": "«Питер как эмоция»: спектакль и встреча с Полиной Санаевой",
+     "date": "2026-12-03",
+     "time": "18:30",
+     "place": "Библиотека им. Герцена, Новгородская улица, 27",
+     "price": "бесплатно",
+     "link": "https://biblioteka-im-ai-gertsena.timepad.ru/event/4314021/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-im-ai-gertsena.timepad.ru/event/4314021/",
+     "cats": [
+      "watch",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Библиотека им. А.И. Герцена",
+     "author_url": "https://biblioteka-im-ai-gertsena.timepad.ru/",
+     "image": "https://ucare.timepad.ru/aa61b75b-32f1-4903-9dcc-696a63f69b82/-/crop/1535x863/0,51/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d7d7fbb19c7e"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "8961c9fb3c10",
+     "title": "Шоу-спектакль «Дамы без Драмы»",
+     "date": "2026-12-03",
+     "time": "19:30",
+     "place": "Кожевенная линия, 30",
+     "price": "900–2200 ₽",
+     "link": "https://docteatr.timepad.ru/event/4310555/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://docteatr.timepad.ru/event/4310555/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Docteatr",
+     "author_url": "https://docteatr.timepad.ru/",
+     "image": "https://ucare.timepad.ru/0fdd2951-a64d-4e4a-81a8-708e28310bb8/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8961c9fb3c10"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "f8db91e98bc5",
      "title": "Эскиз спектакля «Лёха покидает планету» (Черепанов)",
      "date": "2026-12-03",
@@ -2800,6 +3002,31 @@
       "5edae989f3c3"
      ],
      "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
+     "key": "fa3809b6279a",
+     "title": "Спектакль «Питер о Петербурге»",
+     "date": "2026-12-04",
+     "time": "19:30",
+     "place": "Отель «Svet», пр. Просвещения, 83",
+     "price": "200–800 ₽",
+     "link": "https://112studio.timepad.ru/event/4313290/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://112studio.timepad.ru/event/4313290/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "112Studio",
+     "author_url": "https://112studio.timepad.ru/",
+     "image": "https://ucare.timepad.ru/379fb126-a4a9-4576-bd81-631df82f3dee/-/crop/2560x1440/0,355/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fa3809b6279a"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
     },
     {
      "key": "b00a223f2be6",
@@ -3275,6 +3502,30 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "735e90635eaa",
+     "title": "Групповая расстановка с личным запросом",
+     "date": "2026-12-10",
+     "time": "19:00",
+     "place": "Невский проспект 65",
+     "price": "900–32000 ₽",
+     "link": "https://galina-cherkasova.timepad.ru/event/4311855/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galina-cherkasova.timepad.ru/event/4311855/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Галина Черкасова",
+     "author_url": "https://galina-cherkasova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/62d4aee2-a7dc-4cbe-90a5-e65c336667db/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "735e90635eaa"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "e89fb87c3a51",
      "title": "Большая ночь поцелуев: Punk Night",
      "date": "2026-12-11",
@@ -3453,6 +3704,31 @@
      "found": "2026-11-18T20:30:00+03:00"
     },
     {
+     "key": "e9c88ae0dd11",
+     "title": "«Театр снов 2.0»: концерт жестовой песни",
+     "date": "2026-12-14",
+     "time": "19:00",
+     "place": "Дом молодёжи «Квадрат», ул. Передовиков 16к2",
+     "price": "бесплатно",
+     "link": "https://hand-cover-band.timepad.ru/event/4313941/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://hand-cover-band.timepad.ru/event/4313941/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Музыкально-жестовая кавер-группа Хиты:Эхо наших душ (ХЭНД)",
+     "author_url": "https://hand-cover-band.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b32e6120-a237-4d54-8ef3-b0d576caf071/-/crop/6240x3512/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e9c88ae0dd11"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
      "key": "83e33eb627a5",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-16",
@@ -3499,6 +3775,56 @@
       "3e5bcbcdd653"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "adb4fd69bf2f",
+     "title": "Групповая расстановка с личным запросом",
+     "date": "2026-12-18",
+     "time": "19:00",
+     "place": "Невский проспект 65",
+     "price": "900–32000 ₽",
+     "link": "https://galina-cherkasova.timepad.ru/event/4311855/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galina-cherkasova.timepad.ru/event/4311855/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Галина Черкасова",
+     "author_url": "https://galina-cherkasova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/62d4aee2-a7dc-4cbe-90a5-e65c336667db/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "adb4fd69bf2f"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "73c89b760680",
+     "title": "«Демон театральности»: перформативный разговор",
+     "date": "2026-12-19",
+     "time": "17:00",
+     "place": "Литейный проспект, д.14",
+     "price": "бесплатно",
+     "link": "https://metamorfozy-event.timepad.ru/event/4310668/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://metamorfozy-event.timepad.ru/event/4310668/",
+     "cats": [
+      "watch",
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Метаморфозы",
+     "author_url": "https://metamorfozy-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2bcbd2c0-26a0-4227-a86e-28b2558fccea/-/crop/3264x1834/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "73c89b760680"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
     },
     {
      "key": "668306882c1d",
@@ -3572,6 +3898,30 @@
       "d7a4c82ce90e"
      ],
      "found": "2026-11-18T08:30:00+03:00"
+    },
+    {
+     "key": "b934bd9a671a",
+     "title": "Групповая расстановка с личным запросом",
+     "date": "2026-12-26",
+     "time": "19:00",
+     "place": "Невский проспект 65",
+     "price": "900–32000 ₽",
+     "link": "https://galina-cherkasova.timepad.ru/event/4311855/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galina-cherkasova.timepad.ru/event/4311855/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Галина Черкасова",
+     "author_url": "https://galina-cherkasova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/62d4aee2-a7dc-4cbe-90a5-e65c336667db/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b934bd9a671a"
+     ],
+     "found": "2026-11-19T16:30:00+03:00"
     },
     {
      "key": "789ef4cdc7e3",
@@ -3677,14 +4027,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-19T12:30:02+03:00",
-     "events": 40
+     "last_post": "2026-11-19T16:30:00+03:00",
+     "events": 52
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-19T12:10:27+03:00",
+     "last_post": "2026-11-19T13:54:22+03:00",
      "events": 17
     },
     {
@@ -3698,7 +4048,14 @@
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
-     "last_post": "2026-11-18T23:57:36+03:00",
+     "last_post": "2026-11-19T16:12:51+03:00",
+     "events": 8
+    },
+    {
+     "title": "Дом Радио",
+     "username": "domradio_online",
+     "kind": "folder",
+     "last_post": "2026-11-19T15:37:17+03:00",
      "events": 8
     },
     {
@@ -3716,13 +4073,6 @@
      "events": 7
     },
     {
-     "title": "Дом Радио",
-     "username": "domradio_online",
-     "kind": "folder",
-     "last_post": "2026-11-18T19:32:01+03:00",
-     "events": 6
-    },
-    {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
@@ -3733,7 +4083,7 @@
      "title": "Ecstatic Dance Spb",
      "username": "ecstaticdancespb",
      "kind": "extra",
-     "last_post": "2026-11-18T18:34:53+03:00",
+     "last_post": "2026-11-19T15:12:08+03:00",
      "events": 3
     },
     {
@@ -3747,7 +4097,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-18T15:11:17+03:00",
+     "last_post": "2026-11-19T15:04:51+03:00",
      "events": 3
     },
     {
@@ -3768,7 +4118,7 @@
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-18T18:18:01+03:00",
+     "last_post": "2026-11-19T15:15:14+03:00",
      "events": 3
     },
     {
@@ -3929,7 +4279,7 @@
      "title": "Massage Band",
      "username": "sensmassagemasters",
      "kind": "folder",
-     "last_post": "2026-11-16T14:36:08+03:00",
+     "last_post": "2026-11-19T13:12:33+03:00",
      "events": 0
     },
     {
@@ -4013,14 +4363,14 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-16T12:04:47+03:00",
+     "last_post": "2026-11-19T16:08:22+03:00",
      "events": 0
     },
     {
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-18T20:23:58+03:00",
+     "last_post": "2026-11-19T15:02:38+03:00",
      "events": 0
     },
     {
