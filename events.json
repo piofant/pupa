@@ -4573,6 +4573,30 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "5c01884c1bfe",
+     "title": "Мастер-класс «Стань себе другом»",
+     "date": "2026-11-20",
+     "time": "14:45",
+     "place": "1-й Боткинский проезд, д.7, стр. 1",
+     "price": "бесплатно",
+     "link": "https://pkb1alekseeva.timepad.ru/event/4293821/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://pkb1alekseeva.timepad.ru/event/4293821/",
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "ГБУЗ \"Психиатрическая клиническая больница № 1 им. Н.А. Алексеева ДЗМ\"",
+     "author_url": "https://pkb1alekseeva.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e817f29d-cdff-4c69-9709-465b954c58bd/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5c01884c1bfe"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
      "key": "bc22491efaea",
      "title": "«Сказка на ночь»: группа с метафорическими картами",
      "date": "2026-11-20",
@@ -4849,6 +4873,36 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "20ffe8640234",
+     "title": "День рождения свингер-клуба Bizarre",
+     "date": "2026-11-20",
+     "time": "22:30",
+     "place": "Клуб Bizarre, Ленинская Слобода 19к2",
+     "price": null,
+     "link": "https://t.me/bizarreclubmsk/8699",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch",
+      "dance"
+     ],
+     "adult": true,
+     "author": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
+     "author_url": "https://t.me/bizarreclubmsk",
+     "image": "https://cdn4.telesco.pe/file/ZBE8Yx7v1BN8hdY30KoivBUh5zG-Hc1_-YUMEllqx8AvBLUiAZNKEyNIu7vHQ8C4OjzZyGlWccNZFE5qZwJVwh13ePvIIPkgYlLY5PKPx2g2BE_E8p2hgDCb9IrtwDIhYOxwbmwpuWvZIHvQT0CuDzqei9VDWHcva3e_6x7cToM3mznkVIj33J17wEuPaUmnGIEVc7OloXyZG59abi3p-pinCaTTvVd5Ti5QPVUGUQRvzPbwrXaFH66_EPJr3wM-2nygGoqE_0PWodpk7rR3iED7CdYc1PHNeoGdly3h3D_o1WG1TyZyqXNeM176PxSSPTx79vg4Sw5dMdla5dG7mg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "20ffe8640234",
+      "aafe3e86bddd",
+      "5abc7966fd09",
+      "1e0d578d7979",
+      "17188962c22c"
+     ],
+     "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
      "key": "fcba4765b282",
      "title": "Desire Games — вечеринка с играми и sex-квестом",
      "date": "2026-11-20",
@@ -4869,35 +4923,6 @@
      "hot_reason": "",
      "keys": [
       "fcba4765b282"
-     ],
-     "found": "2026-11-16T12:45:07+03:00"
-    },
-    {
-     "key": "aafe3e86bddd",
-     "title": "День рождения клуба Bizarre (пятница)",
-     "date": "2026-11-20",
-     "time": null,
-     "place": "клуб Bizarre, Ленинская Слобода 19к2",
-     "price": null,
-     "link": "https://t.me/bizarreclubmsk/8688",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body",
-      "dance",
-      "watch"
-     ],
-     "adult": true,
-     "author": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
-     "author_url": "https://t.me/bizarreclubmsk",
-     "image": "https://cdn4.telesco.pe/file/CGOEHqDm8ifZRkJZzHQm8Agod5g7OQWXeDnwOVFVvIu1wquzr62lEyx4X8cKO0WCyjfsVmwLf2drljweiKjbSxaZJk4kFGUZwz6DawS-72tYcwPbDlo9fBGddzYvgK26NwAzUlRj-a9zj3U_qSEqi0xAPucIc2Q21A8W--z6KGW3GCUv37N1HtQuW3o6DVsL5DYUMefZV_svVSrh-7ZWKv64z2JTg67cF_PfvQdYC7iMSRNlV3C6FEquWJVDmQ6wteNXnJfIGhB-N7WcCJ9Xx43RlhGnLwz3oMAu71ownjRtMSJ_PAL27gbIHGagRnh9EcZiLXa6zzpfcpXtt-9Ctg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "aafe3e86bddd",
-      "5abc7966fd09",
-      "1e0d578d7979",
-      "17188962c22c"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5368,7 +5393,8 @@
      "keys": [
       "84f61ef66d6f",
       "45ac57a7709b",
-      "2ade7e974574"
+      "2ade7e974574",
+      "6b501d6e0e19"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5469,6 +5495,30 @@
       "8ac4ea9bbcb0"
      ],
      "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "04e2be269291",
+     "title": "Практика публичных выступлений",
+     "date": "2026-11-22",
+     "time": "13:00",
+     "place": "Новослободская 37",
+     "price": "1500 ₽",
+     "link": "https://dusha-kompanii.timepad.ru/event/4314557/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://dusha-kompanii.timepad.ru/event/4314557/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Душа компании",
+     "author_url": "https://dusha-kompanii.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b7c93442-5ae7-425f-a9e5-0a4df2ba1aa2/-/crop/2560x1441/0,134/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "04e2be269291"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
     },
     {
      "key": "88a63c68ce1c",
@@ -5892,6 +5942,31 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "219c3fedc14f",
+     "title": "Контактная импровизация: «Я+Я=МЫ»",
+     "date": "2026-11-23",
+     "time": "19:00",
+     "place": "Спартаковский пер., 2, стр. 1",
+     "price": "1500–1900 ₽",
+     "link": "https://t.me/cimsk/7408",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/VvxuWpCUZiIG2gT6m9SSNle0tKbV9vNEBxS3HesNNNJv_yBXvv5X7CJy2hGQPP8nZZPg-_wBLuSxAwist4DkwI366ARAAu1gxb-8I9Eu-IDKj3W6XhzTw6m4KtFxgbHANTo854WenZVlsdGnXCcaUTttb_xZLZEHe6B0MQ7O6SqQcMVB7m0VERp8pxUks9e_Y4nSfGK_-1Zoh93c3i1rvrodHWYxPH-AgdT8n4zKVZnsmNgAoXJndqvi6kYgmJCGdv44J_CtsTHo1OU6wWvc_B1BCm1vFmdHr0jji7BTbGdT8chvKXZQroy5rY1dVeprzCuBH8xoQLKqKPjTyQKNAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "219c3fedc14f"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
      "key": "e32b119ad542",
      "title": "Открытый урок актёрского мастерства для взрослых",
      "date": "2026-11-23",
@@ -5914,6 +5989,31 @@
       "e32b119ad542"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "6ca3d4761f44",
+     "title": "Кундалини-йога в полнолуние",
+     "date": "2026-11-24",
+     "time": "17:00",
+     "place": "Комсомольский проспект 32к2",
+     "price": "4800 ₽",
+     "link": "https://telo-event.timepad.ru/event/4314552/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://telo-event.timepad.ru/event/4314552/",
+     "cats": [
+      "body",
+      "calm"
+     ],
+     "adult": false,
+     "author": "TELO",
+     "author_url": "https://telo-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/587e3823-aed8-4200-8fdd-88ae22f0262f/-/crop/1716x965/0,188/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6ca3d4761f44"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
     },
     {
      "key": "4fa4636c7636",
@@ -6213,6 +6313,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "3f0081a2e221",
+     "title": "Мастер-класс по объёмному комиксу",
+     "date": "2026-11-25",
+     "time": "19:30",
+     "place": "ул. Малая Юшуньская, 1, двор гостиницы «Берлин»",
+     "price": "1100 ₽",
+     "link": "https://kino-dvij.timepad.ru/event/4307631/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kino-dvij.timepad.ru/event/4307631/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "“Кинопередвижка\"",
+     "author_url": "https://kino-dvij.timepad.ru/",
+     "image": "https://ucare.timepad.ru/012c78c2-61bb-4f2e-b002-63e483e426a4/-/crop/2560x1438/0,26/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3f0081a2e221"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
      "key": "9f69ce4290ee",
      "title": "Плейбэк-перформанс «Внутренний огонь»",
      "date": "2026-11-25",
@@ -6483,6 +6607,30 @@
       "081bb20d59ac"
      ],
      "found": "2026-11-18T20:45:00+03:00"
+    },
+    {
+     "key": "14052a84a9ad",
+     "title": "Ридинг «Тёмные ночи Души» Т. Мура",
+     "date": "2026-11-27",
+     "time": "19:30",
+     "place": "Новорогожская, 5, библиотека «Дом А.Ф. Лосева»",
+     "price": "бесплатно",
+     "link": "https://losev.timepad.ru/event/4314160/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://losev.timepad.ru/event/4314160/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Дом А.Ф. Лосева\"",
+     "author_url": "https://losev.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4389b77c-1810-4d52-84e4-1afc663f9b18/-/crop/3628x2041/28,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "14052a84a9ad"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
     },
     {
      "key": "5441696d88d9",
@@ -7050,6 +7198,31 @@
       "3d52e50debb8"
      ],
      "found": "2026-11-18T12:45:00+03:00"
+    },
+    {
+     "key": "661dfb567b34",
+     "title": "Выпускной показ театральной студии «МоторПро»",
+     "date": "2026-12-01",
+     "time": "20:00",
+     "place": "OFF-Театр, Большой Сухаревский пер., 21, стр. 2",
+     "price": "бесплатно",
+     "link": "https://motorpro-studio.timepad.ru/event/4314669/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://motorpro-studio.timepad.ru/event/4314669/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "МоторПро",
+     "author_url": "https://motorpro-studio.timepad.ru/",
+     "image": "https://ucare.timepad.ru/772eb9b7-9458-426d-9a83-98c018c00a5d/-/crop/1649x927/0,33/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "661dfb567b34"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
     },
     {
      "key": "408d662a4e09",
@@ -7960,6 +8133,55 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "7b460c0c9bc0",
+     "title": "Спектакль «Нежданно-Негаданно»",
+     "date": "2026-12-11",
+     "time": "19:15",
+     "place": "ул. Электрозаводская, д.12, стр. 1",
+     "price": "500–1000 ₽",
+     "link": "https://theatre-olimpik.timepad.ru/event/4314412/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://theatre-olimpik.timepad.ru/event/4314412/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Театр \"ОЛИМПиК\"",
+     "author_url": "https://theatre-olimpik.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f5ff66f5-efb1-4a54-828c-ae6304be50fd/-/crop/2560x1440/0,560/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7b460c0c9bc0"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
+     "key": "8e8fbbae2186",
+     "title": "Мастер-класс «Арт-стул»",
+     "date": "2026-12-12",
+     "time": "11:00",
+     "place": "Калужское шоссе, 2, стр. 1, центр «Корниловский»",
+     "price": "12000 ₽",
+     "link": "https://homefest.timepad.ru/event/4314364/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://homefest.timepad.ru/event/4314364/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "HomeFest",
+     "author_url": "https://homefest.timepad.ru/",
+     "image": "https://ucare.timepad.ru/83ad6278-44ee-41d8-9055-6b97e1713ddf/-/crop/2000x1125/0,1095/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8e8fbbae2186"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
      "key": "fbb9da079acd",
      "title": "Тренинг «От соматики к акробатике»",
      "date": "2026-12-12",
@@ -8773,6 +8995,30 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "0187bc99c922",
+     "title": "Клуб «Резонанс»: между тревогой и безразличием",
+     "date": "2026-12-20",
+     "time": "19:00",
+     "place": "2-й Троицкий пер., 6, стр. 9",
+     "price": "2000 ₽",
+     "link": "https://prostranstvo-favor.timepad.ru/event/4314470/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://prostranstvo-favor.timepad.ru/event/4314470/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Культурный центр «Фавор»",
+     "author_url": "https://prostranstvo-favor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/bdd2ab25-8d58-4b52-9f95-4b5af6783839/-/crop/2253x1267/202,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0187bc99c922"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
      "key": "e006b7508657",
      "title": "«Любовь Громова» — иммерсивный спектакль FoShoo",
      "date": "2026-12-20",
@@ -8996,6 +9242,31 @@
      "found": "2026-11-17T20:45:01+03:00"
     },
     {
+     "key": "293b7d2168e3",
+     "title": "Тренинг школы КИ для среднего и продвинутого уровня, день 1",
+     "date": "2026-12-26",
+     "time": null,
+     "place": null,
+     "price": "15 000 ₽ (ранняя), 17 900 ₽ (поздняя)",
+     "link": "https://t.me/cimsk/7410",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/Glch2VANJi3_XkCNOgY5fWG0sMenkMImeyj-w-kw0nBomrzVQjUK9IGBNoCNLxWM_ywuJq7M0VQ3DewYT_Zd8dKzP6LQt_GLslHafx-wbh0MqiCyydWoHPApbFJOUh1BeUOX5Z2dtaEdkeNj6ZSZabC-MP8AKxw22C-bDnb2d7cr2LjD3MFmFGOgqmUHNOLiDapE2C9DCyvjrk__-INGgv0W2oVbJEzo-jYjW8MorfljjlVQvR1DwjY7k24yOUaP4Wmz0GqKnzxowCDg-5jrpMGynApSek-8Z2Ls3I40HURe7lGBK6sD08aVqI4QqRmEs6K7gJiD95E-KNvGYmHJZw",
+     "hot": true,
+     "hot_reason": "двухдневный тренинг раз в сезон",
+     "keys": [
+      "293b7d2168e3"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
      "key": "61f3d8e5d5b5",
      "title": "Мозаичные колокольчики в Доме Лансере",
      "date": "2026-12-27",
@@ -9091,6 +9362,56 @@
       "d27aac01717c"
      ],
      "found": "2026-11-17T16:45:01+03:00"
+    },
+    {
+     "key": "f54081af1a4e",
+     "title": "Тренинг школы КИ для среднего и продвинутого уровня, день 2",
+     "date": "2026-12-27",
+     "time": null,
+     "place": null,
+     "price": "15 000 ₽ (ранняя), 17 900 ₽ (поздняя)",
+     "link": "https://t.me/cimsk/7410",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/Glch2VANJi3_XkCNOgY5fWG0sMenkMImeyj-w-kw0nBomrzVQjUK9IGBNoCNLxWM_ywuJq7M0VQ3DewYT_Zd8dKzP6LQt_GLslHafx-wbh0MqiCyydWoHPApbFJOUh1BeUOX5Z2dtaEdkeNj6ZSZabC-MP8AKxw22C-bDnb2d7cr2LjD3MFmFGOgqmUHNOLiDapE2C9DCyvjrk__-INGgv0W2oVbJEzo-jYjW8MorfljjlVQvR1DwjY7k24yOUaP4Wmz0GqKnzxowCDg-5jrpMGynApSek-8Z2Ls3I40HURe7lGBK6sD08aVqI4QqRmEs6K7gJiD95E-KNvGYmHJZw",
+     "hot": true,
+     "hot_reason": "двухдневный тренинг раз в сезон",
+     "keys": [
+      "f54081af1a4e"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
+     "key": "978bf7edc26c",
+     "title": "Новогодний джем ансамбля «Голоса Возрождения»",
+     "date": "2026-12-28",
+     "time": "19:00",
+     "place": "2-й Троицкий пер., 6, стр. 9",
+     "price": "2000 ₽",
+     "link": "https://prostranstvo-favor.timepad.ru/event/4314485/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://prostranstvo-favor.timepad.ru/event/4314485/",
+     "cats": [
+      "music",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Культурный центр «Фавор»",
+     "author_url": "https://prostranstvo-favor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/29efce79-6d44-4305-9f90-2407a2b1c05e/-/crop/2606x1466/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "978bf7edc26c"
+     ],
+     "found": "2026-11-20T12:45:23+03:00"
     },
     {
      "key": "cb83e711d495",
@@ -9198,15 +9519,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-20T08:45:00+03:00",
-     "events": 123
+     "last_post": "2026-11-20T12:45:23+03:00",
+     "events": 133
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-19T19:32:42+03:00",
-     "events": 20
+     "last_post": "2026-11-20T11:11:01+03:00",
+     "events": 23
     },
     {
      "title": "FoShoo — любительский театр",
@@ -9247,7 +9568,7 @@
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-19T21:02:04+03:00",
+     "last_post": "2026-11-20T10:03:52+03:00",
      "events": 4
     },
     {
@@ -9268,14 +9589,14 @@
      "title": "Postдрама — театр-школа",
      "username": "postdrama",
      "kind": "extra",
-     "last_post": "2026-11-16T15:31:12+03:00",
+     "last_post": "2026-11-20T10:10:25+03:00",
      "events": 2
     },
     {
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-19T17:00:40+03:00",
+     "last_post": "2026-11-20T12:18:44+03:00",
      "events": 2
     },
     {
@@ -9310,7 +9631,7 @@
      "title": "Poly-datings | Поли-знакомства",
      "username": "PolyDatings",
      "kind": "folder",
-     "last_post": "2026-11-16T10:31:14+03:00",
+     "last_post": "2026-11-20T11:17:14+03:00",
      "events": 0
     },
     {
@@ -9373,7 +9694,7 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-20T06:02:27+03:00",
+     "last_post": "2026-11-20T12:05:32+03:00",
      "events": 0
     },
     {
