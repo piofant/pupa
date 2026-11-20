@@ -1311,6 +1311,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "bc150d58fccb",
+     "title": "Коллаж из конфетти «Точка, точка, запятая…»",
+     "date": "2026-11-22",
+     "time": "15:00",
+     "place": "Читай-клуб Лермонтовки, Vokzal 1853, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://chitay-klub-lermont-event.timepad.ru/event/4286762/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://chitay-klub-lermont-event.timepad.ru/event/4286762/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Читай-клуб Лермонтовки",
+     "author_url": "https://chitay-klub-lermont-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/1a44ac73-72d2-4755-a648-ee41506555c8/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bc150d58fccb"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
      "key": "7734f679591b",
      "title": "Диалог Бома для постоянных участников",
      "date": "2026-11-22",
@@ -1547,6 +1571,31 @@
      "found": "2026-11-16T09:00:02+03:00"
     },
     {
+     "key": "bf4d9113f4fb",
+     "title": "Премьера «Почему нет?» musicAeterna Dance",
+     "date": "2026-11-22",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2221",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "dance"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/vQk7_ye0jAfy45Beiksr9oVUF-Z4qnRzGzgeJbDsyrUP9c63XWzoA4CEChWgQBnz4huQOJZFZEWgCi3VXRMh178hgmDQz6NuNW7c1cwDaKc1ZjvZnhjrvNZITnzu020iKh-Oy0wvWqnVwBEJGaAcTRKB4ipjgOPRuht65nCb4e-9haPyAadP8fM5tG0HhCr11IGXu6PHdrP-6agyNnAfJpIOCftKON75S6Sd2sfs_4nksaXHPKyKpq4x-6L4-sNpV6ITwsRtqVDsC8Y4FvGszWK0sh6cZ3zDuoXn8nkOD4W6Lyphe3ChJi7hPZt0k6y3KdITDiS5vAFpILzicYYZ9g.jpg",
+     "hot": true,
+     "hot_reason": "премьера спектакля",
+     "keys": [
+      "bf4d9113f4fb"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
      "key": "4f4284bf2891",
      "title": "Лекция Иры Ульяновой о сексуальной жизни по древнерусским источникам",
      "date": "2026-11-23",
@@ -1735,7 +1784,7 @@
      "adult": false,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/K7AOEdqZghrX7m2wiqI2tyRVaqPmVK5xQOsJP5Ce0vZ0BQ-XN8lzfYPp7XXqtj1p6ZTseeQMCe9yuY8Hv_JrlEf3XesnEAwYH4Ux0B__QNAXcCfxGfc7wvndmdBXA_AJOJSNV6HyCnd0ObIy7zItaaet3OG7Qtr5SMBLVMAX96bGFEpONckjNmRBZpY0AhPfrxQtWOsDk4WU27gUmdd80NUpsoFKuMU94x_mcVghFSktAbr_j25r6YVebXTiJk7k8UIaMhS1aB_OETflRu1KcvHz7Gzbx47o6Gzg9jiixr5xIorfYXRoYlh6xTZTcDUu2ru73q4auZ24upiSNeKcdA.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
@@ -1915,6 +1964,30 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "97c67c9721ed",
+     "title": "Театральный фестиваль «Пять углов»",
+     "date": "2026-11-27",
+     "time": "18:00",
+     "place": "КДК «Центральный», Чайковского 2/7 лит.П",
+     "price": "бесплатно",
+     "link": "https://kdk-central.timepad.ru/event/4314118/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kdk-central.timepad.ru/event/4314118/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Культурно-досуговый комплекс «Центральный»",
+     "author_url": "https://kdk-central.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d4ad629c-60cc-44fa-a8b1-cad24507a9ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "97c67c9721ed"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
      "key": "ddb665e4e5fa",
      "title": "Ecstatic Banya в Муринских",
      "date": "2026-11-27",
@@ -1939,7 +2012,8 @@
       "ddb665e4e5fa",
       "e5d6a2778c54",
       "4dcc3eb91172",
-      "e1eb83a7c38a"
+      "e1eb83a7c38a",
+      "5a2528fafac7"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -2071,35 +2145,10 @@
       "c7ec8a68895a",
       "289fa2b5870d",
       "1431dc6eb430",
+      "0e8ad6e24da1",
       "419f18299140"
      ],
      "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
-     "key": "0e8ad6e24da1",
-     "title": "Ретрит Ecstatic Dance: баня, какао, песенный круг",
-     "date": "2026-11-27",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/ecstaticdancespb/2379",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "calm",
-      "music"
-     ],
-     "adult": false,
-     "author": "Ecstatic Dance Spb",
-     "author_url": "https://t.me/ecstaticdancespb",
-     "image": null,
-     "hot": true,
-     "hot_reason": "ретрит раз в сезон, 27–29 ноября",
-     "keys": [
-      "0e8ad6e24da1"
-     ],
-     "found": "2026-11-20T09:00:01+03:00"
     },
     {
      "key": "ab92916ff9a7",
@@ -2126,6 +2175,54 @@
      "found": "2026-11-18T20:30:00+03:00"
     },
     {
+     "key": "758176a5c6db",
+     "title": "Психологическая игра «Мама. Свобода быть собой»",
+     "date": "2026-11-28",
+     "time": "12:00",
+     "place": "5-я линия Васильевского острова, д.40, к.2",
+     "price": "бесплатно",
+     "link": "https://golovina-alena-andreevna.timepad.ru/event/4314571/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://golovina-alena-andreevna.timepad.ru/event/4314571/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Головина Алёна Андреевна",
+     "author_url": "https://golovina-alena-andreevna.timepad.ru/",
+     "image": "https://ucare.timepad.ru/38dacd9e-3c3d-49ce-b2cd-ca6908ded6da/-/crop/2703x1522/63,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "758176a5c6db"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
+     "key": "d4fbbef8a73a",
+     "title": "Цирковой мастер-класс: клоунада и жонглирование",
+     "date": "2026-11-28",
+     "time": "12:00",
+     "place": "Точка Импро",
+     "price": null,
+     "link": "https://t.me/tochkabest/5420",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/k830Hvf2d7d9YMRzrDuBGyxppUHJ8v6JxbcXJwmzj-OWDCFxlgGNXkxaolNGyFXmnN0bPABwjJ3ZTPZ4n2meD97FkBpbMehHpze58sYQ--GKSBAm7jy5N01NNe0L6Zd8Pd0aJLtTPcTpPPcRmUljAafkZI8uoYd3P9JixrN-iBFAt97ZyF6cVmrzOsjRzIHpcDx1_LN2JfGQgBvsyOqzivDW-VWpaP-4ot-rP7b4FBQBwXWpdGChGWMpBN4RPuL0gMXHI0BkwMwMohnet4Tb17-237cE3ng21UoIGdskU8mNW3hDjAUM9DM31lFbG541TldtrZIVJaVMyiOwSTYBoQ.jpg",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "d4fbbef8a73a"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
      "key": "24bfb54dcb00",
      "title": "Семинар «Архетипы»",
      "date": "2026-11-28",
@@ -2148,6 +2245,31 @@
       "24bfb54dcb00"
      ],
      "found": "2026-11-16T20:30:04+03:00"
+    },
+    {
+     "key": "cc0b6c1d5d19",
+     "title": "Чувственная прелюдия: мастер-класс",
+     "date": "2026-11-28",
+     "time": "14:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sensualcafe/8795",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "circles"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/PpB0W6tlT94vkvfvFxgnm7-a7aOFpfSIyoFHr1Bjgwworo03Z6fAL8DU3WLEs9MfBp2kWK1UoK5jl6QuQjU2G_8QHD3w97jj_oiEQI0hL0uICZGcjT5Zgev1BEvj0008pBDsn_LJ5-K2i1mgrDhVpBpI6TaLp-50I9W5bOcjwIIfAZQM6Kji7HFyIprCi7VQYGlVNJ-uqcaHAgEXGASbuX9rXiO2AJQEjHDinHA6sizE7rMlY_SiVnOsDGry-1I5I2Mh2KiaUY6TMLtVI1AVUivLYvuOxunn33KYb2rT3sQSY4ER1E5q1S_f4SZLyymilz7wtKH4WK08u6Aq_3mL7Q.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "cc0b6c1d5d19"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
     },
     {
      "key": "4b0905e594ae",
@@ -3562,6 +3684,30 @@
      "found": "2026-11-18T08:30:00+03:00"
     },
     {
+     "key": "b479476b3da3",
+     "title": "Психологическая игра «Папа. Опора. Сила. Уверенность»",
+     "date": "2026-12-13",
+     "time": "16:00",
+     "place": "5-я линия Васильевского острова, д.40, к.2",
+     "price": "бесплатно",
+     "link": "https://golovina-alena-andreevna.timepad.ru/event/4314576/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://golovina-alena-andreevna.timepad.ru/event/4314576/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Головина Алёна Андреевна",
+     "author_url": "https://golovina-alena-andreevna.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ae130f48-a5c5-4daf-998b-6b2a831d620b/-/crop/2703x1522/63,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b479476b3da3"
+     ],
+     "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
      "key": "e6d266e8999c",
      "title": "Киноверсия оперы «Орфей и Эвридика» Уилсона с лекцией",
      "date": "2026-12-13",
@@ -4006,36 +4152,36 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-20T08:30:00+03:00",
-     "events": 44
+     "last_post": "2026-11-20T12:30:10+03:00",
+     "events": 48
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-20T08:01:19+03:00",
-     "events": 24
+     "last_post": "2026-11-20T12:03:42+03:00",
+     "events": 25
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-19T21:25:39+03:00",
-     "events": 16
+     "last_post": "2026-11-20T11:40:40+03:00",
+     "events": 17
     },
     {
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
-     "last_post": "2026-11-19T16:12:51+03:00",
+     "last_post": "2026-11-20T11:40:27+03:00",
      "events": 9
     },
     {
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-19T19:49:14+03:00",
-     "events": 8
+     "last_post": "2026-11-20T11:08:28+03:00",
+     "events": 9
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -4052,18 +4198,18 @@
      "events": 7
     },
     {
-     "title": "Ecstatic Dance Spb",
-     "username": "ecstaticdancespb",
-     "kind": "extra",
-     "last_post": "2026-11-19T15:12:08+03:00",
-     "events": 4
-    },
-    {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
      "last_post": "2026-11-18T15:31:03+03:00",
      "events": 4
+    },
+    {
+     "title": "Ecstatic Dance Spb",
+     "username": "ecstaticdancespb",
+     "kind": "extra",
+     "last_post": "2026-11-19T15:12:08+03:00",
+     "events": 3
     },
     {
      "title": "Improv Life",
@@ -4076,7 +4222,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-19T15:04:51+03:00",
+     "last_post": "2026-11-20T12:29:29+03:00",
      "events": 3
     },
     {
@@ -4195,7 +4341,7 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-18T19:34:22+03:00",
+     "last_post": "2026-11-20T09:03:09+03:00",
      "events": 1
     },
     {
