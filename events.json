@@ -6262,7 +6262,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "ac05f028f68f"
+      "ac05f028f68f",
+      "079a9e066439"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -6640,7 +6641,8 @@
       "c28cae3c09a5",
       "2fe11d4653b0",
       "2b138c7cda8d",
-      "18103f952fc6"
+      "18103f952fc6",
+      "67750ed8eb75"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -7323,11 +7325,12 @@
      "author": "Sense Cuddle Канал",
      "author_url": "https://t.me/sensecuddle",
      "image": "https://cdn4.telesco.pe/file/gKqv_xR1K23AzhycLAt9HkldUGjhRKjPIqWQ7-GjrZAeXoch18hZzznBBLkB-Ozsn-3n3AYTRd_wZalsn8NDbkIqVLlssjqA8XT77Oi5LHqVc5Q37fmoCSrW0MSvxnEo6G6cGBTys78WhcTY4GzMY4N7d8HwCYSvUVmMHwjHDzwJ64-A91YFSnWtePz1U0EHlfsf_kiSmsPeVSiiKZ0ZbcT9sigheagL5Bk_e08mS27t9gkGc1h-BJeUGAFnfEJVWFnO5MYAyfufZhchkc6qhAC0lquHE7o8764glbPFJbGGFkUP61Ey_uloIGTrxKrhrXXm8MxF_dx4i7_3jQfqAg.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "последний каддл в этой студии",
      "keys": [
       "54f0357fa796",
-      "824edaacda67"
+      "824edaacda67",
+      "a2dafa00f820"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -10220,14 +10223,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-20T16:45:15+03:00",
+     "last_post": "2026-11-20T20:45:15+03:00",
      "events": 139
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-20T14:01:01+03:00",
+     "last_post": "2026-11-20T19:04:12+03:00",
      "events": 22
     },
     {
@@ -10248,7 +10251,7 @@
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
-     "last_post": "2026-11-20T14:09:12+03:00",
+     "last_post": "2026-11-20T18:09:11+03:00",
      "events": 6
     },
     {
@@ -10262,7 +10265,7 @@
      "title": "Sense Cuddle Канал",
      "username": "sensecuddle",
      "kind": "folder",
-     "last_post": "2026-11-17T18:45:38+03:00",
+     "last_post": "2026-11-20T17:17:59+03:00",
      "events": 4
     },
     {
@@ -10276,7 +10279,7 @@
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-20T16:31:11+03:00",
+     "last_post": "2026-11-20T20:42:01+03:00",
      "events": 3
     },
     {
@@ -10304,7 +10307,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-20T12:18:44+03:00",
+     "last_post": "2026-11-20T17:40:01+03:00",
      "events": 2
     },
     {
@@ -10353,7 +10356,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-20T16:15:30+03:00",
+     "last_post": "2026-11-20T19:38:53+03:00",
      "events": 0
     },
     {
