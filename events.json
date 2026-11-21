@@ -5999,6 +5999,31 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "62d7cc8b61bd",
+     "title": "Каддл Обнималити",
+     "date": "2026-11-22",
+     "time": null,
+     "place": "Резиденция на Чистых прудах, Москва",
+     "price": null,
+     "link": "https://t.me/uyutnoeprostranstvoo/753",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "calm"
+     ],
+     "adult": true,
+     "author": "Уютное пространство",
+     "author_url": "https://t.me/uyutnoeprostranstvoo",
+     "image": "https://cdn4.telesco.pe/file/DYadUXzPi17k__SxEEGcE0rwvvjb5EqOX1JWauO-tO3-WTDN6k8NVA8vrUYe6-hiqE71dzBImCizU5cIzbZTXOcHnra0e2IWdFEOewP-zyAfyBC3O9zJd8-tC0tlu3b5BJ-aXAekb5xaj5IBP8w3wKI22MPmrXFD8T1qwTz-g8kzZH9IX7OJyl9wr7B2Rxv65VVCUnlaKKr2RCpHnmi4HneeQEgDT_0zP-agoeAKFW5pIIzHpl4DheiVa_gf734fUghtjDhz_nL9AXXxcnPrfrLQGcVU4A6cvexCgSSwIJdMA4ugtF4Evdu3fYk0I-j1uTmpR0Gdm0YawLK3FDWi9g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "62d7cc8b61bd"
+     ],
+     "found": "2026-11-21T20:45:00+03:00"
+    },
+    {
      "key": "834830944ec6",
      "title": "Спектакль «Фрекен Жюли» в FoShoo",
      "date": "2026-11-22",
@@ -6223,7 +6248,8 @@
       "2fe11d4653b0",
       "2b138c7cda8d",
       "18103f952fc6",
-      "67750ed8eb75"
+      "67750ed8eb75",
+      "77440beeec17"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -6248,8 +6274,7 @@
      "hot": true,
      "hot_reason": "разовая вечеринка раз в год",
      "keys": [
-      "1da6d579d04f",
-      "77440beeec17"
+      "1da6d579d04f"
      ],
      "found": "2026-11-20T16:45:15+03:00"
     },
@@ -6398,6 +6423,31 @@
       "7f6ead692e71"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "5cd50de5c4fd",
+     "title": "Мастер-класс «Мандалотерапия»",
+     "date": "2026-11-25",
+     "time": "19:00",
+     "place": "Фудхолл «Дружба-Сити», Пресненская наб., 10, этаж −1, Москва",
+     "price": "бесплатно",
+     "link": "https://fudkholl-druzhba-city.timepad.ru/event/4317681/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://fudkholl-druzhba-city.timepad.ru/event/4317681/",
+     "cats": [
+      "craft",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Фудхолл \"Дружба-Сити\"",
+     "author_url": "https://fudkholl-druzhba-city.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d2e8f18d-eb99-4da1-bf90-50d4d66fe25a/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5cd50de5c4fd"
+     ],
+     "found": "2026-11-21T20:45:00+03:00"
     },
     {
      "key": "91be5e7369be",
@@ -6916,6 +6966,31 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "64592a957af9",
+     "title": "Спектакль «В маленьком доме»",
+     "date": "2026-11-28",
+     "time": "18:00",
+     "place": "Луговая улица, вл. 20Ас1, деревня Рогозинино, Филимонковский район, Москва",
+     "price": "2000–3000 ₽",
+     "link": "https://esterra.timepad.ru/event/4316587/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://esterra.timepad.ru/event/4316587/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Эстерра",
+     "author_url": "https://esterra.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e4bdb99e-36bd-44ea-97ac-08746f17b5e2/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "64592a957af9"
+     ],
+     "found": "2026-11-21T20:45:00+03:00"
+    },
+    {
      "key": "cd8d90e355d4",
      "title": "ИмпроКультура: антикринж и импровизация",
      "date": "2026-11-28",
@@ -7185,6 +7260,31 @@
       "dcc0c749acc7"
      ],
      "found": "2026-11-20T16:45:15+03:00"
+    },
+    {
+     "key": "e5c83ac04fd4",
+     "title": "Квартирник «Голоса Есенина»",
+     "date": "2026-11-29",
+     "time": "14:00",
+     "place": "Москва",
+     "price": "бесплатно",
+     "link": "https://golosa-esenina.timepad.ru/event/4317492/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://golosa-esenina.timepad.ru/event/4317492/",
+     "cats": [
+      "music",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Голоса Есенина",
+     "author_url": "https://golosa-esenina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/bbc49cbb-e382-49d2-a8ea-c8f6723dc592/-/crop/1280x721/0,15/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e5c83ac04fd4"
+     ],
+     "found": "2026-11-21T20:45:00+03:00"
     },
     {
      "key": "03fead505e7a",
@@ -8512,6 +8612,31 @@
       "ae8c79675c60"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "e9fe76aa29fb",
+     "title": "Спектакль «Московские каникулы»",
+     "date": "2026-12-08",
+     "time": "20:00",
+     "place": "Театральный центр «Русская речь», ул. Архитектора Власова, д. 6, Москва",
+     "price": "бесплатно",
+     "link": "https://rusrech.timepad.ru/event/4316733/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://rusrech.timepad.ru/event/4316733/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Театральный центр \"Русская речь\"",
+     "author_url": "https://rusrech.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3346183b-19dd-4bb2-b16b-4c680d26d29f/-/crop/5867x3303/0,387/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e9fe76aa29fb"
+     ],
+     "found": "2026-11-21T20:45:00+03:00"
     },
     {
      "key": "1a811574a76d",
@@ -10245,8 +10370,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-21T16:45:18+03:00",
-     "events": 147
+     "last_post": "2026-11-21T20:45:00+03:00",
+     "events": 151
     },
     {
      "title": "Контактная Импровизация в Москве",
@@ -10305,6 +10430,13 @@
      "events": 3
     },
     {
+     "title": "Уютное пространство",
+     "username": "uyutnoeprostranstvoo",
+     "kind": "extra",
+     "last_post": "2026-11-21T18:10:06+03:00",
+     "events": 3
+    },
+    {
      "title": "Postдрама — театр-школа",
      "username": "postdrama",
      "kind": "extra",
@@ -10315,7 +10447,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-20T17:40:01+03:00",
+     "last_post": "2026-11-21T17:30:01+03:00",
      "events": 2
     },
     {
@@ -10323,13 +10455,6 @@
      "username": "bizarreclubmsk",
      "kind": "folder",
      "last_post": "2026-11-21T09:15:12+03:00",
-     "events": 2
-    },
-    {
-     "title": "Уютное пространство",
-     "username": "uyutnoeprostranstvoo",
-     "kind": "extra",
-     "last_post": "2026-11-19T15:54:23+03:00",
      "events": 2
     },
     {
@@ -10406,14 +10531,14 @@
      "title": "Потанцуем полежим ⚪️",
      "username": "mariamtanec",
      "kind": "folder",
-     "last_post": "2026-11-16T00:07:46+03:00",
+     "last_post": "2026-11-21T20:37:16+03:00",
      "events": 0
     },
     {
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-20T22:05:32+03:00",
+     "last_post": "2026-11-21T17:05:35+03:00",
      "events": 0
     },
     {
