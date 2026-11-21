@@ -227,30 +227,6 @@
      "found": "2026-11-20T20:30:01+03:00"
     },
     {
-     "key": "fe3a3f3a1417",
-     "title": "Медитация на Владимирской",
-     "date": "2026-11-21",
-     "time": "15:00",
-     "place": "м. Владимирская",
-     "price": null,
-     "link": "https://t.me/meditatespb/736",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "calm"
-     ],
-     "adult": false,
-     "author": "Медитация в Санкт-Петербурге [ meditate.spb ]",
-     "author_url": "https://t.me/meditatespb",
-     "image": "https://cdn4.telesco.pe/file/Pjo_dvjcmT3dviBob-WPcehSdOq56V064FJ5udNGavx5sSBpHh8vds9CJiWGi3DI9j95xb90uiZED9KVrlxxB99LwwG0FIb7Eh3kulJ0rFaUov62zBL7r-Ykz9zC9khOXd6vVcoG8olzFb_aDQed1Spnj9-h6OT9e-EQaTtQPFaGL7MJzAqlkZQ8yWKk_lYZLm4Edzr3Xt6BHcWd2U_vs_Mc-4LX_GRdUGYGr4FNUQ7uA_OIyY7sGDkCIc685mqyXOZ_gcSWYn-8ukx7p20jWU-zN5pe9hB6l-_Uuz5t9O_eXaFHOgair8LeJ5PVZA0AhlitvPa4KhqjciYSoZZr8w.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "fe3a3f3a1417"
-     ],
-     "found": "2026-11-16T16:30:02+03:00"
-    },
-    {
      "key": "b0fb016a11e4",
      "title": "Печатная мастерская (скетчбук)",
      "date": "2026-11-21",
@@ -273,6 +249,31 @@
       "b0fb016a11e4"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "6e67e44694ba",
+     "title": "Групповая медитация",
+     "date": "2026-11-21",
+     "time": "15:05",
+     "place": "Зал у метро Владимирская",
+     "price": null,
+     "link": "https://t.me/meditatespb/737",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Медитация в Санкт-Петербурге [ meditate.spb ]",
+     "author_url": "https://t.me/meditatespb",
+     "image": "https://cdn4.telesco.pe/file/Pjo_dvjcmT3dviBob-WPcehSdOq56V064FJ5udNGavx5sSBpHh8vds9CJiWGi3DI9j95xb90uiZED9KVrlxxB99LwwG0FIb7Eh3kulJ0rFaUov62zBL7r-Ykz9zC9khOXd6vVcoG8olzFb_aDQed1Spnj9-h6OT9e-EQaTtQPFaGL7MJzAqlkZQ8yWKk_lYZLm4Edzr3Xt6BHcWd2U_vs_Mc-4LX_GRdUGYGr4FNUQ7uA_OIyY7sGDkCIc685mqyXOZ_gcSWYn-8ukx7p20jWU-zN5pe9hB6l-_Uuz5t9O_eXaFHOgair8LeJ5PVZA0AhlitvPa4KhqjciYSoZZr8w.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6e67e44694ba",
+      "fe3a3f3a1417"
+     ],
+     "found": "2026-11-16T16:30:02+03:00"
     },
     {
      "key": "8ccdb3a02807",
@@ -900,6 +901,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "7a3a9e5d06a0",
+     "title": "День Чайного Челленджа",
+     "date": "2026-11-22",
+     "time": "11:00",
+     "place": "Студия «Точка», ул. Зеленогорская, 4",
+     "price": "Донейшн",
+     "link": "https://t.me/aleksun_days/491",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "aleksun_days (Тропа)",
+     "author_url": "https://t.me/aleksun_days",
+     "image": "https://cdn4.telesco.pe/file/csGZioeu7L4LDle61oQv2Wv3xF0eKiqcIlBkE_LG7fXSsyikqZCQfDhPfMJj3nzplDvmuTTSDY7b7P1XwzTeAVnHd5kZjYpVgbjHTInjW5iz9OCOt3MqbcqbxpOeybkFyMDR38Wl2aIbL4TtTY_OXVIy6cZBPJDaRdR72mG6qMpeMvD268Pf8OSD_a9plC6_IB4dPX6C6OXR1peQnocTIUujHfUNyPO-YgAyOcZgZw3g2XiauVfPc129vJxZ85y-rV9bcrlbSmdXBZgtsQhpExiOs7Xzegcs9aV_kO8TgQxGXOXc-rpgytOnmeBLvm54PIEao-L91lvfWZEN9ipseg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7a3a9e5d06a0"
+     ],
+     "found": "2026-11-21T12:30:00+03:00"
+    },
+    {
      "key": "f5fbe94f0720",
      "title": "Мастер-класс по созданию обвеса",
      "date": "2026-11-22",
@@ -924,13 +949,13 @@
      "found": "2026-11-18T12:30:00+03:00"
     },
     {
-     "key": "4d6416cffcf8",
-     "title": "Практикум по юмору и импровизации (Дэн Фомичев)",
+     "key": "adc6c3dbddc6",
+     "title": "Практикум по юмору и импровизации",
      "date": "2026-11-22",
      "time": "12:00",
      "place": "Тамбовская ул., 63, ДК «Железнодорожников»",
-     "price": "800 ₽ / 1500 ₽",
-     "link": "https://t.me/improschoolspb/7681",
+     "price": "800 ₽ для учеников школы, 1500 ₽ для остальных",
+     "link": "https://t.me/improschoolspb/7698",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -939,35 +964,12 @@
      "adult": false,
      "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
      "author_url": "https://t.me/improschoolspb",
-     "image": "https://cdn4.telesco.pe/file/ubz0ZGQTKnjDrOYwXWtwAUZ9XtAtCgq46P1PK7uYjdaaA2_b-dRGJjBNUn6TGANfIG9hpI2NV1M4GpRJjWKoFXgqSIQsDqu4uDC23fyOhBA2vZR_-W0U5z40JWufjQmAWJS7eXVNKYZtzY6H026_hW74bVuVEkCfVXz8ODDp_mJW2p2hgId-zA0-ZaUZfOvlzxajXqzTyaIynKFzeIz6JeaxzCvxU_sa7c2QfpHilXLQSOfzbklTgDvwvUGlULrSRXbrSwo3Lv_5C0Zv3WXhL3HpAKD7WbtW5b8rRfCAoP0W37WfWSgiusL7EUHVfDyKJS9-pnWdrq42OJ0yVNAmCg.jpg",
+     "image": "https://cdn4.telesco.pe/file/NUnx-8XEuML8-tQibjS2eK-IUoltMQ4Jw-Fl1IhQ5axjq7W6au8pcreCjDCycGsNqVYgui4KjJQfo4qIcYnC1FtkUDuEg61CwzcnzvEwPivhl1ltKMTrVWBGmqtAsYy2YSfcnTDWo_OXoJrbw8Efkw9NS3-EjnF8joO-WX-dBpd_mms6jvwthkx4S2SIBwn01U4pDNi477ShRG2HgIE7kRw1qDjOZtGNwjUBEPvMNW0JaCJqorkEP8eRXvlLo-qXAaawlsUkBxGGk8EWU7C0e9dIU9RHi-1VrDTKgLNquPGWcLE7uPskSDO862DTNiblTCQoupnH5OPBTUZg0kdT9Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "adc6c3dbddc6",
       "4d6416cffcf8",
-      "adc6c3dbddc6"
-     ],
-     "found": "2026-11-16T16:30:02+03:00"
-    },
-    {
-     "key": "ff1fd052f337",
-     "title": "Практикум по юмору и импровизации (Саша Грейнер)",
-     "date": "2026-11-22",
-     "time": "12:00",
-     "place": null,
-     "price": "800 ₽ / 1500 ₽",
-     "link": "https://t.me/improschoolspb/7681",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "author_url": "https://t.me/improschoolspb",
-     "image": "https://cdn4.telesco.pe/file/ubz0ZGQTKnjDrOYwXWtwAUZ9XtAtCgq46P1PK7uYjdaaA2_b-dRGJjBNUn6TGANfIG9hpI2NV1M4GpRJjWKoFXgqSIQsDqu4uDC23fyOhBA2vZR_-W0U5z40JWufjQmAWJS7eXVNKYZtzY6H026_hW74bVuVEkCfVXz8ODDp_mJW2p2hgId-zA0-ZaUZfOvlzxajXqzTyaIynKFzeIz6JeaxzCvxU_sa7c2QfpHilXLQSOfzbklTgDvwvUGlULrSRXbrSwo3Lv_5C0Zv3WXhL3HpAKD7WbtW5b8rRfCAoP0W37WfWSgiusL7EUHVfDyKJS9-pnWdrq42OJ0yVNAmCg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
       "ff1fd052f337"
      ],
      "found": "2026-11-16T16:30:02+03:00"
@@ -992,9 +994,11 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "7e94466cc62a"
+      "7e94466cc62a",
+      "d0f3adc66575",
+      "2ef024e27262"
      ],
-     "found": "2026-11-19T20:30:00+03:00"
+     "found": "2026-11-16T16:30:02+03:00"
     },
     {
      "key": "91cd2b820156",
@@ -1020,54 +1024,6 @@
       "91cd2b820156"
      ],
      "found": "2026-11-20T20:30:01+03:00"
-    },
-    {
-     "key": "d0f3adc66575",
-     "title": "Практикум по юмору и импровизации (Дэн Фомичев, 14:00)",
-     "date": "2026-11-22",
-     "time": "14:00",
-     "place": null,
-     "price": "800 ₽ / 1500 ₽",
-     "link": "https://t.me/improschoolspb/7681",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "author_url": "https://t.me/improschoolspb",
-     "image": "https://cdn4.telesco.pe/file/ubz0ZGQTKnjDrOYwXWtwAUZ9XtAtCgq46P1PK7uYjdaaA2_b-dRGJjBNUn6TGANfIG9hpI2NV1M4GpRJjWKoFXgqSIQsDqu4uDC23fyOhBA2vZR_-W0U5z40JWufjQmAWJS7eXVNKYZtzY6H026_hW74bVuVEkCfVXz8ODDp_mJW2p2hgId-zA0-ZaUZfOvlzxajXqzTyaIynKFzeIz6JeaxzCvxU_sa7c2QfpHilXLQSOfzbklTgDvwvUGlULrSRXbrSwo3Lv_5C0Zv3WXhL3HpAKD7WbtW5b8rRfCAoP0W37WfWSgiusL7EUHVfDyKJS9-pnWdrq42OJ0yVNAmCg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "d0f3adc66575"
-     ],
-     "found": "2026-11-16T16:30:02+03:00"
-    },
-    {
-     "key": "2ef024e27262",
-     "title": "Практикум по юмору и импровизации (Саша Грейнер, 14:00)",
-     "date": "2026-11-22",
-     "time": "14:00",
-     "place": null,
-     "price": "800 ₽ / 1500 ₽",
-     "link": "https://t.me/improschoolspb/7681",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "author_url": "https://t.me/improschoolspb",
-     "image": "https://cdn4.telesco.pe/file/ubz0ZGQTKnjDrOYwXWtwAUZ9XtAtCgq46P1PK7uYjdaaA2_b-dRGJjBNUn6TGANfIG9hpI2NV1M4GpRJjWKoFXgqSIQsDqu4uDC23fyOhBA2vZR_-W0U5z40JWufjQmAWJS7eXVNKYZtzY6H026_hW74bVuVEkCfVXz8ODDp_mJW2p2hgId-zA0-ZaUZfOvlzxajXqzTyaIynKFzeIz6JeaxzCvxU_sa7c2QfpHilXLQSOfzbklTgDvwvUGlULrSRXbrSwo3Lv_5C0Zv3WXhL3HpAKD7WbtW5b8rRfCAoP0W37WfWSgiusL7EUHVfDyKJS9-pnWdrq42OJ0yVNAmCg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "2ef024e27262"
-     ],
-     "found": "2026-11-16T16:30:02+03:00"
     },
     {
      "key": "34ea2ed5566b",
@@ -1171,37 +1127,6 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "1aa249a75927",
-     "title": "Shadow Ecstatic Dance «Себе нежно»",
-     "date": "2026-11-22",
-     "time": "17:30",
-     "place": "Кадетская линия 5, корп. 2Д",
-     "price": "2200–2500 ₽",
-     "link": "https://t.me/shadow_ecstatic/422",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "circles",
-      "body"
-     ],
-     "adult": false,
-     "author": "SHADOW ECSTATIC DANCE SPB",
-     "author_url": "https://t.me/shadow_ecstatic",
-     "image": "https://cdn4.telesco.pe/file/GQM0qo_hpUyLDYU2KJkbo2B4mIZO5AVhhtcMPWg4E9P_wPo6vO8399WaBOj_Ph5QI5C7nQ5U7rQ6RuE1GD7nMZM7at5vbV1c1IKnEvdBJBiUfJnndNRT5HzKOimZiogduEiqv0llLyexyVzxDcX7OBPsl_OFrhoBzdNFVH0EF7bs3eC8IxfFx0azF6m1_3P7YLHZyQRtgxCinQFC40PNNYC3cDWHzeb1KutgmO15637OL5bbP8CFooMzyT11VLrPyuQ0l6UhcixFOEl6B0_uxSTmZ10ePrsUmLoQRPkpJMp2itNjJc-HkQS_DaLJWf08XNPwf_6ifzk6Pc1B36W3uw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "1aa249a75927",
-      "944db557e4f6",
-      "8b56bf4eeb08",
-      "0eb63c7ed143",
-      "b3f215f3330a",
-      "875d3bfbc9c1"
-     ],
-     "found": "2026-11-15T19:53:57+03:00"
-    },
-    {
      "key": "235f99d4cde9",
      "title": "Shadow Ecstatic Dance: нежность и бережность",
      "date": "2026-11-22",
@@ -1224,6 +1149,37 @@
       "235f99d4cde9"
      ],
      "found": "2026-11-20T16:30:08+03:00"
+    },
+    {
+     "key": "875d3bfbc9c1",
+     "title": "Shadow Ecstatic: «Себе нежно»",
+     "date": "2026-11-22",
+     "time": "17:30",
+     "place": "Кадетская линия, 5, корп. 2Д",
+     "price": "2200 ₽, 2500 ₽ в день события",
+     "link": "https://t.me/shadow_ecstatic/430",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "body",
+      "circles"
+     ],
+     "adult": false,
+     "author": "SHADOW ECSTATIC DANCE SPB",
+     "author_url": "https://t.me/shadow_ecstatic",
+     "image": "https://cdn4.telesco.pe/file/MXl6bHCnkFhMbFXvaQ4JG5LqBvXM48Ko42RD2B4DXsft5xYOr98QR-JQcCDGbrCteaQEPCCtXo6ai_KKY6B5RwmtxVBpJAx8YW4CxfjQu-zHQtAgwM4nmITFDY5LDwyMIF5T3XgdK6-kxpgeP5euOGNJXl6jObjrXnAVbIQjvDefyhrhXncsxzVQqa-cggnmJSlimbPFmXsz_778EcDCdDM46_aceIxuX_YDa621GmML8HtmNfFyEkaQnmggcoV7dKVHXfWObg-sv9NIYLz1Zoo1iNNyZlt_JZ9289JcMdqVqq_ns7CP2TPOIGjzuo5yoDpXOlT2B3_u3TgooF9k1w",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "875d3bfbc9c1",
+      "1aa249a75927",
+      "944db557e4f6",
+      "8b56bf4eeb08",
+      "0eb63c7ed143",
+      "b3f215f3330a"
+     ],
+     "found": "2026-11-15T19:53:57+03:00"
     },
     {
      "key": "8081b0a495ab",
@@ -1274,6 +1230,31 @@
       "59233e1d0007"
      ],
      "found": "2026-11-15T23:23:11+03:00"
+    },
+    {
+     "key": "2c5742d0ce0e",
+     "title": "Ecstatic Dance",
+     "date": "2026-11-22",
+     "time": "19:00",
+     "place": "LIVE BODY, Санкт-Петербург",
+     "price": null,
+     "link": "https://t.me/ecstaticdancespb/2394",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "music"
+     ],
+     "adult": false,
+     "author": "Ecstatic Dance Spb",
+     "author_url": "https://t.me/ecstaticdancespb",
+     "image": "https://cdn4.telesco.pe/file/jFtCeVhjeTzZDHEtzsVmA8uzAVZXCoHS2sLliiy6TtwMJ5J5EnFRZ2Hei9aFzxqNFylOfqLWNjqW4Sss5eLO_URMIPMrLAu040RgzxCrpbdKjGI9pToCqhMtJ1kSBM9VmxziCkZbkdPYCIO7TzIMK6BLbQ2CYR62pz5njP0VghH5lu4zMnhIh4V8nnZS7LlkOU1HVslB0pPqb29QPy6Bz2pFosgVjZ9yJTb_yATLJsWiWQ8MStvD3tsE3ldjZOjFNjkl_XpqQvxKT2d9TJKnlYn0zWzRTmSjOVJCjuJzccoNi_TZxNhaRT8C8eSzt64RT1YZ5LGsMOjR24gT0Gl3mg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2c5742d0ce0e"
+     ],
+     "found": "2026-11-21T12:30:00+03:00"
     },
     {
      "key": "d8e14492b017",
@@ -3147,39 +3128,15 @@
      "found": "2026-11-17T16:30:07+03:00"
     },
     {
-     "key": "e6cc0990f972",
-     "title": "Мастер-класс по стендапу (Точка Импро)",
-     "date": "2026-12-05",
-     "time": "12:00",
-     "place": "м. Горьковская, ул. Мира, 3 или Большая Посадская, 24/2",
-     "price": "500 ₽",
-     "link": "https://impro-event.timepad.ru/event/2897594/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://impro-event.timepad.ru/event/2897594/",
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "impro-event",
-     "author_url": "https://impro-event.timepad.ru/",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "e6cc0990f972"
-     ],
-     "found": "2026-11-15T20:30:01+03:00"
-    },
-    {
      "key": "e86b036de1a7",
      "title": "Пробный урок курса стендапа",
      "date": "2026-12-05",
      "time": "12:00",
      "place": "Большая Посадская, 24/2",
-     "price": null,
+     "price": "500 ₽",
      "link": "https://t.me/tochkabest/5421",
      "source": "Пост в канале",
-     "signup_url": null,
+     "signup_url": "https://impro-event.timepad.ru/event/2897594/",
      "cats": [
       "theatre"
      ],
@@ -3190,9 +3147,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "e86b036de1a7"
+      "e86b036de1a7",
+      "e6cc0990f972"
      ],
-     "found": "2026-11-20T16:30:08+03:00"
+     "found": "2026-11-15T20:30:01+03:00"
     },
     {
      "key": "e5af6d487a6f",
@@ -4337,14 +4295,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-21T08:30:05+03:00",
-     "events": 55
+     "last_post": "2026-11-21T12:30:00+03:00",
+     "events": 54
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-20T19:02:24+03:00",
+     "last_post": "2026-11-21T10:56:24+03:00",
      "events": 25
     },
     {
@@ -4376,11 +4334,11 @@
      "events": 8
     },
     {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
+     "title": "Ecstatic Dance Spb",
+     "username": "ecstaticdancespb",
      "kind": "extra",
-     "last_post": "2026-11-19T18:56:29+03:00",
-     "events": 6
+     "last_post": "2026-11-21T10:44:54+03:00",
+     "events": 4
     },
     {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
@@ -4397,13 +4355,6 @@
      "events": 4
     },
     {
-     "title": "Ecstatic Dance Spb",
-     "username": "ecstaticdancespb",
-     "kind": "extra",
-     "last_post": "2026-11-19T15:12:08+03:00",
-     "events": 3
-    },
-    {
      "title": "Improv Life",
      "username": "ImprovLifeblog",
      "kind": "extra",
@@ -4414,7 +4365,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-20T15:33:57+03:00",
+     "last_post": "2026-11-21T11:48:50+03:00",
      "events": 3
     },
     {
@@ -4429,6 +4380,13 @@
      "username": "rabbitholelab",
      "kind": "folder",
      "last_post": "2026-11-20T16:51:20+03:00",
+     "events": 3
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-19T18:56:29+03:00",
      "events": 3
     },
     {
@@ -4467,6 +4425,13 @@
      "events": 2
     },
     {
+     "title": "aleksun_days (Тропа)",
+     "username": "aleksun_days",
+     "kind": "folder",
+     "last_post": "2026-11-21T11:57:44+03:00",
+     "events": 1
+    },
+    {
      "title": "Sensual Party 5 декабря",
      "username": "sensualparty",
      "kind": "folder",
@@ -4491,7 +4456,7 @@
      "title": "Медитация в Санкт-Петербурге [ meditate.spb ]",
      "username": "meditatespb",
      "kind": "extra",
-     "last_post": "2026-11-16T13:23:51+03:00",
+     "last_post": "2026-11-21T11:57:59+03:00",
      "events": 1
     },
     {
@@ -4521,13 +4486,6 @@
      "kind": "extra",
      "last_post": "2026-11-20T17:21:00+03:00",
      "events": 1
-    },
-    {
-     "title": "aleksun_days (Тропа)",
-     "username": "aleksun_days",
-     "kind": "folder",
-     "last_post": "2026-11-14T12:24:55+03:00",
-     "events": 0
     },
     {
      "title": "bastión",
@@ -4589,7 +4547,7 @@
      "title": "Play.Event - общение и саморазвитие",
      "username": "play_events",
      "kind": "folder",
-     "last_post": "2026-11-17T17:25:40+03:00",
+     "last_post": "2026-11-21T11:06:02+03:00",
      "events": 0
     },
     {
