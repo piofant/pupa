@@ -5057,7 +5057,8 @@
      "hot_reason": "",
      "keys": [
       "d8819753042d",
-      "c703a9fc2c54"
+      "c703a9fc2c54",
+      "64072f5c8410"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -5112,26 +5113,28 @@
      "found": "2026-11-17T12:45:00+03:00"
     },
     {
-     "key": "84f61ef66d6f",
-     "title": "День рождения клуба Bizarre (суббота)",
+     "key": "fdc7d6a4c64c",
+     "title": "День рождения клуба Bizarre",
      "date": "2026-11-21",
-     "time": null,
-     "place": "клуб Bizarre, Ленинская Слобода 19к2",
+     "time": "22:30",
+     "place": "Москва, Ленинская Слобода 19к2, клуб Bizarre",
      "price": null,
-     "link": "https://t.me/bizarreclubmsk/8688",
+     "link": "https://t.me/bizarreclubmsk/8701",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
       "body",
+      "watch",
       "dance"
      ],
      "adult": true,
      "author": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "author_url": "https://t.me/bizarreclubmsk",
-     "image": "https://cdn4.telesco.pe/file/CGOEHqDm8ifZRkJZzHQm8Agod5g7OQWXeDnwOVFVvIu1wquzr62lEyx4X8cKO0WCyjfsVmwLf2drljweiKjbSxaZJk4kFGUZwz6DawS-72tYcwPbDlo9fBGddzYvgK26NwAzUlRj-a9zj3U_qSEqi0xAPucIc2Q21A8W--z6KGW3GCUv37N1HtQuW3o6DVsL5DYUMefZV_svVSrh-7ZWKv64z2JTg67cF_PfvQdYC7iMSRNlV3C6FEquWJVDmQ6wteNXnJfIGhB-N7WcCJ9Xx43RlhGnLwz3oMAu71ownjRtMSJ_PAL27gbIHGagRnh9EcZiLXa6zzpfcpXtt-9Ctg.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "image": "https://cdn4.telesco.pe/file/I-RBvumkZg215hTt-8nXmgzGk-NMe-3hfKd8yh0N8fyt7NUeL_wd_hNuTGQSy_AeSX_kaqCnR7cGOg4pLPbDmzCiMGLEGqZ6Nb0e56wfSUi7Cdpi5bDNY0j2VJPdmdDi6VbdRrj3Z2Qwwc6FWdnWUDIQXOFzb11UGOeipcrw4aiCESXJD98z0CHUUT-TcG1F00M1qbF8qtEvWPUVWPRaM2ShsDZoh7JeO0LRJr55YvmlMxoTMcoiKsPIO8kGBpxBHPlYzU45bJLjx_1JltKlZV3w4tJTw8DaSRN_3vChyK-4jbasCuVZP7QVRIj_tHPB9vw8x7eh-PW-c8Llg7e55A",
+     "hot": true,
+     "hot_reason": "пятилетие клуба, мест мало",
      "keys": [
+      "fdc7d6a4c64c",
       "84f61ef66d6f",
       "45ac57a7709b",
       "2ade7e974574",
@@ -6328,6 +6331,55 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "b625b6bd93af",
+     "title": "Мастер-класс по созданию воскового саше",
+     "date": "2026-11-27",
+     "time": "18:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с. 1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4318512/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4318512/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cce59b24-9165-4cfb-88ad-c781e6d94218/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b625b6bd93af"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
+     "key": "24b08c0e6d9f",
+     "title": "Сердечная встреча «Точка опоры»",
+     "date": "2026-11-27",
+     "time": "18:30",
+     "place": "Москва",
+     "price": "бесплатно",
+     "link": "https://tochka-opory-a4.timepad.ru/event/4316205/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tochka-opory-a4.timepad.ru/event/4316205/",
+     "cats": [
+      "music",
+      "calm"
+     ],
+     "adult": false,
+     "author": "ТОЧКА ОПОРЫ",
+     "author_url": "https://tochka-opory-a4.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7f13a477-31e2-4385-88e0-1f1da8654896/-/crop/2240x478/0,224/-/preview/-/quality/lightest/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "24b08c0e6d9f"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
      "key": "576a0adac035",
      "title": "Блюзовая вечеринка",
      "date": "2026-11-27",
@@ -7266,6 +7318,30 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "31112365a2e5",
+     "title": "Лекция «Прогулки в толпе»",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": "Москва, ул. Малая Никитская, 12, стр. 1, усадьба Долгоруковых-Бобринских, лекционный зал 2",
+     "price": "бесплатно",
+     "link": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4316886/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4316886/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Филиал Ельцин Центра в Москве",
+     "author_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ffcce578-c3d5-46ef-ab0c-e2e116411f7b/-/preview/308x600/-/format/jpeg/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "31112365a2e5"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
      "key": "2b470de9a785",
      "title": "Лекция «Россия — Китай: диалог сквозь века»",
      "date": "2026-12-03",
@@ -7389,6 +7465,31 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "b762b3c9f161",
+     "title": "Сердечная встреча «Точка опоры»",
+     "date": "2026-12-04",
+     "time": "18:30",
+     "place": "Москва",
+     "price": "бесплатно",
+     "link": "https://tochka-opory-a4.timepad.ru/event/4316205/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tochka-opory-a4.timepad.ru/event/4316205/",
+     "cats": [
+      "music",
+      "calm"
+     ],
+     "adult": false,
+     "author": "ТОЧКА ОПОРЫ",
+     "author_url": "https://tochka-opory-a4.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7f13a477-31e2-4385-88e0-1f1da8654896/-/crop/2240x478/0,224/-/preview/-/quality/lightest/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b762b3c9f161"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
      "key": "d95f10d093e4",
      "title": "Блюзовая вечеринка",
      "date": "2026-12-04",
@@ -7461,6 +7562,30 @@
       "ef2fbc7c2cab"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "23b95802a6c5",
+     "title": "Мастер-класс по созданию новогоднего венка",
+     "date": "2026-12-05",
+     "time": "13:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с. 1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4318514/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4318514/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/8e74d5e9-6179-4a9a-9f3d-eef81dfaaec6/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "23b95802a6c5"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
     },
     {
      "key": "10b7329d56d1",
@@ -7707,6 +7832,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "d9734e9ec28c",
+     "title": "Мастер-класс по созданию бархатного шара",
+     "date": "2026-12-06",
+     "time": "17:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с. 1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4318547/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4318547/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6a69df3d-b752-45f2-8ae8-bb40e15a8f18/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d9734e9ec28c"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
      "key": "d7d060bf880a",
      "title": "Спектакль «Раис»",
      "date": "2026-12-06",
@@ -7905,6 +8054,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "fb85701d69a5",
+     "title": "Лекция «Одинокие прогулки»",
+     "date": "2026-12-10",
+     "time": "19:00",
+     "place": "Москва, ул. Малая Никитская, 12, стр. 1, усадьба Долгоруковых-Бобринских, лекционный зал 2",
+     "price": "бесплатно",
+     "link": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4316890/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4316890/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Филиал Ельцин Центра в Москве",
+     "author_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ffcce578-c3d5-46ef-ab0c-e2e116411f7b/-/preview/308x600/-/format/jpeg/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fb85701d69a5"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
      "key": "465821b78bc7",
      "title": "Мастер-класс «Интерьерная ёлочка» из проволоки",
      "date": "2026-12-10",
@@ -7927,6 +8100,31 @@
       "465821b78bc7"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "ba62668c28b7",
+     "title": "Сердечная встреча «Точка опоры»",
+     "date": "2026-12-11",
+     "time": "18:30",
+     "place": "Москва",
+     "price": "бесплатно",
+     "link": "https://tochka-opory-a4.timepad.ru/event/4316205/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tochka-opory-a4.timepad.ru/event/4316205/",
+     "cats": [
+      "music",
+      "calm"
+     ],
+     "adult": false,
+     "author": "ТОЧКА ОПОРЫ",
+     "author_url": "https://tochka-opory-a4.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7f13a477-31e2-4385-88e0-1f1da8654896/-/crop/2240x478/0,224/-/preview/-/quality/lightest/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ba62668c28b7"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
     },
     {
      "key": "100ea0aac1b5",
@@ -8301,6 +8499,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "6dff5fd3d6fc",
+     "title": "Спектакль «Тарас Бульба»",
+     "date": "2026-12-13",
+     "time": "17:00",
+     "place": "Москва, улица Вешняковская, 12Д",
+     "price": "бесплатно",
+     "link": "https://artklaster.timepad.ru/event/4316838/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://artklaster.timepad.ru/event/4316838/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "ГБУК г. Москвы «ОКЦ ВАО» ОСП «ЦКС „Восток“",
+     "author_url": "https://artklaster.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4cc4fc3a-21e5-4a86-90e0-6b11f27b02c7/-/crop/2772x1558/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6dff5fd3d6fc"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
      "key": "5598c1940cca",
      "title": "Спектакль-импровизация «Место силы»",
      "date": "2026-12-13",
@@ -8546,6 +8768,30 @@
       "80ee039c4cc3"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "9968f1bb56d2",
+     "title": "Лекция «Особые отношения с историей»",
+     "date": "2026-12-17",
+     "time": "19:00",
+     "place": "Москва, ул. Малая Никитская, 12, стр. 1, усадьба Долгоруковых-Бобринских, лекционный зал 2",
+     "price": "бесплатно",
+     "link": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4316981/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4316981/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Филиал Ельцин Центра в Москве",
+     "author_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ffcce578-c3d5-46ef-ab0c-e2e116411f7b/-/preview/308x600/-/format/jpeg/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9968f1bb56d2"
+     ],
+     "found": "2026-11-21T12:45:21+03:00"
     },
     {
      "key": "6c8181a0bf25",
@@ -9439,14 +9685,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-21T08:45:00+03:00",
-     "events": 128
+     "last_post": "2026-11-21T12:45:21+03:00",
+     "events": 138
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-20T19:04:12+03:00",
+     "last_post": "2026-11-21T12:10:02+03:00",
      "events": 21
     },
     {
@@ -9516,7 +9762,7 @@
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-20T10:03:52+03:00",
+     "last_post": "2026-11-21T09:15:12+03:00",
      "events": 2
     },
     {
