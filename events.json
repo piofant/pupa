@@ -5012,6 +5012,31 @@
      "found": "2026-11-16T20:45:00+03:00"
     },
     {
+     "key": "57c6370e3b8e",
+     "title": "Ф. М. Московский детектив",
+     "date": "2026-11-21",
+     "time": "18:00",
+     "place": "Библиотека имени Ф. М. Достоевского, Чистопрудный бульвар, 23, стр. 1",
+     "price": "бесплатно",
+     "link": "https://kulturnyy-tsentr-imeni-vy.timepad.ru/event/4256061/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kulturnyy-tsentr-imeni-vy.timepad.ru/event/4256061/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Культурный центр имени В.Я. Вульфа",
+     "author_url": "https://kulturnyy-tsentr-imeni-vy.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ddb42e4b-d317-4ba8-aaf7-91d2aec8e2af/-/crop/2016x1134/0,370/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "показ спектакля 21 ноября",
+     "keys": [
+      "57c6370e3b8e"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
+    },
+    {
      "key": "3f1c26e01790",
      "title": "ИмпроКультура: антикринж и импровизация",
      "date": "2026-11-21",
@@ -5811,6 +5836,30 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "b5aa10b6a1ce",
+     "title": "Вечер сторителлинга «Мотылёк»",
+     "date": "2026-11-24",
+     "time": "19:00",
+     "place": "Heaven Bar, Сущёвская улица, 21, строение 10",
+     "price": "бесплатно",
+     "link": "https://storytelling-club.timepad.ru/event/4317235/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://storytelling-club.timepad.ru/event/4317235/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Клуб Сторителлинга",
+     "author_url": "https://storytelling-club.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f6e2d424-c665-4300-acd8-110d9b145d8f/-/crop/3251x693/0,189/-/resize/2240x478/-/quality/lightest/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b5aa10b6a1ce"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
+    },
+    {
      "key": "cb3ceb389f0a",
      "title": "КИ + психология: «Границы» (Усов)",
      "date": "2026-11-24",
@@ -5911,7 +5960,8 @@
      "hot": true,
      "hot_reason": "разовая вечеринка раз в год",
      "keys": [
-      "1da6d579d04f"
+      "1da6d579d04f",
+      "77440beeec17"
      ],
      "found": "2026-11-20T16:45:15+03:00"
     },
@@ -6678,6 +6728,31 @@
      "found": "2026-11-16T02:50:09+03:00"
     },
     {
+     "key": "9d43077f9b56",
+     "title": "Слово и сцена. Миша Чевега",
+     "date": "2026-11-28",
+     "time": "20:00",
+     "place": "Театр Труда",
+     "price": null,
+     "link": "https://t.me/fifth_friday/1395",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Пятая Пятница",
+     "author_url": "https://t.me/fifth_friday",
+     "image": "https://cdn4.telesco.pe/file/OGDDw0ZjBr2mhaOl7n4y4x1Qmk2xY9HfrPuuZ7JArnZolSFcE83_HkUQa7dpeYO4RulNT5nkpZX_MFAcwepzbT0H1PJMzQsizVs-sZrQJabTlMt7F5GANgrXRwjX1Hf7pOv4GZcoIlkeYn3qmOSB_iDgoNXXJKlJpviIbsGkUnzwNxf72UbNef_j_pBBmReGVMCrW4BW5oMwmJQB9vrPvlITMyTS1A4sXDQwKvWQ8uUh12A-iRS09lWkXTKiGRtECYg0hy0dMbz1hlqCesrz6shmmCaSfl0pH_PCD0e8TsMrPv9qTOtSV5ze5UHMDQhWHV_klWV4sPUYaPZRoToODg.jpg",
+     "hot": true,
+     "hot_reason": "разовый вечер 28 ноября",
+     "keys": [
+      "9d43077f9b56"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
+    },
+    {
      "key": "7d6b29b41f8b",
      "title": "Sense: групповая практика в темноте",
      "date": "2026-11-28",
@@ -7047,6 +7122,55 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "30d80d86a946",
+     "title": "Открытие фестиваля «Китайская мозаика»",
+     "date": "2026-12-01",
+     "time": "18:30",
+     "place": "Николоямская улица, 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4318387/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4318387/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b32dc989-e5f3-4120-ac37-34c94e3c3036/-/crop/1690x951/110,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовое открытие фестиваля",
+     "keys": [
+      "30d80d86a946"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
+    },
+    {
+     "key": "8b9506fd7e5c",
+     "title": "Вечер сторителлинга «Мотылёк»",
+     "date": "2026-12-01",
+     "time": "19:00",
+     "place": "Heaven Bar, Сущёвская улица, 21, строение 10",
+     "price": "бесплатно",
+     "link": "https://storytelling-club.timepad.ru/event/4317235/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://storytelling-club.timepad.ru/event/4317235/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Клуб Сторителлинга",
+     "author_url": "https://storytelling-club.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f6e2d424-c665-4300-acd8-110d9b145d8f/-/crop/3251x693/0,189/-/resize/2240x478/-/quality/lightest/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8b9506fd7e5c"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
+    },
+    {
      "key": "626a9e28dc19",
      "title": "КИ + психология: «Границы» (Усов)",
      "date": "2026-12-01",
@@ -7170,6 +7294,30 @@
       "408d662a4e09"
      ],
      "found": "2026-11-16T02:50:09+03:00"
+    },
+    {
+     "key": "dd26fbe38924",
+     "title": "Презентация выставки «Китайское искусство»",
+     "date": "2026-12-02",
+     "time": "18:30",
+     "place": "Николоямская улица, 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4317202/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4317202/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7007ab38-22e7-4402-a60d-d0b4b017088f/",
+     "hot": true,
+     "hot_reason": "разовая презентация выставки",
+     "keys": [
+      "dd26fbe38924"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
     },
     {
      "key": "65f849b8cc10",
@@ -7490,6 +7638,31 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "17fbd299edb6",
+     "title": "Концерт китайской классической музыки",
+     "date": "2026-12-04",
+     "time": "18:00",
+     "place": "Николоямская улица, 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4317204/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4317204/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/0a490b02-42cb-4718-915b-f18c6f63b3a7/-/crop/1300x732/0,11/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый концерт китайского ансамбля",
+     "keys": [
+      "17fbd299edb6"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
+    },
+    {
      "key": "b762b3c9f161",
      "title": "Сердечная встреча «Точка опоры»",
      "date": "2026-12-04",
@@ -7537,6 +7710,30 @@
       "d95f10d093e4"
      ],
      "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "228911747b4a",
+     "title": "Инь и ян в китайском кинематографе",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "Николоямская улица, 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4317953/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4317953/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/df3581a1-6bb1-4281-9164-1af32f6604de/",
+     "hot": true,
+     "hot_reason": "разовая беседа о кино",
+     "keys": [
+      "228911747b4a"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
     },
     {
      "key": "e810986bd54c",
@@ -7611,6 +7808,30 @@
       "23b95802a6c5"
      ],
      "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
+     "key": "b8a3fca36951",
+     "title": "Мастерская подарков",
+     "date": "2026-12-05",
+     "time": "13:00",
+     "place": "Партизанская улица, 23",
+     "price": "бесплатно",
+     "link": "https://cc-zodchie.timepad.ru/event/4317049/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://cc-zodchie.timepad.ru/event/4317049/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Культурное пространство «Зодчие»",
+     "author_url": "https://cc-zodchie.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6ae43ee7-f2c1-4365-8442-bfe9b8bf7614/-/crop/1707x960/107,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовая новогодняя мастерская",
+     "keys": [
+      "b8a3fca36951"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
     },
     {
      "key": "10b7329d56d1",
@@ -7759,13 +7980,13 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
-     "key": "b4ae1af28002",
-     "title": "«Любовь Громова» — иммерсивный спектакль FoShoo",
+     "key": "6727e41e883c",
+     "title": "Любовь Громову",
      "date": "2026-12-05",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/fo_shoo/1389",
+     "link": "https://t.me/fo_shoo/1401",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -7776,9 +7997,10 @@
      "author": "FoShoo — любительский театр",
      "author_url": "https://t.me/fo_shoo",
      "image": "https://cdn4.telesco.pe/file/EzlndZJQtnqd3IocqKKq9_oGyhG_OFr17BQ5VX6GX2x31yZNehYcDoAQbIwn9BCKqvPPwNB3jYHh2jRG2J1f4xhQxDjVphwD3Duu6S4SVtq_vFOHzOekdMTIC5pzjJgtzxCA3FpE6dCUVMONDsAU0b0Cl_L-WAFuEwB9A3yqVpqQnxYHUhqgFVDoRZs8QbYChbS-fazouWFxMKkd4XVHsIbXKfJmOSe2J_j13tI25xAwAlEZqDKMrbgqq0ZaQYVVz2zVzZQovIaPgnn1FxCp2Mq9imo8_oZQxSfbr2MNBFP9FeKBP2Xv51OBpjbTEqBkl2aPOVS1iATFdIrHjz4ufw.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "показ спектакля 5 декабря",
      "keys": [
+      "6727e41e883c",
       "b4ae1af28002"
      ],
      "found": "2026-11-17T08:45:00+03:00"
@@ -7953,6 +8175,30 @@
       "642939e74708"
      ],
      "found": "2026-11-17T16:45:01+03:00"
+    },
+    {
+     "key": "cedc5ac89486",
+     "title": "Вечер сторителлинга «Мотылёк»",
+     "date": "2026-12-08",
+     "time": "19:00",
+     "place": "Heaven Bar, Сущёвская улица, 21, строение 10",
+     "price": "бесплатно",
+     "link": "https://storytelling-club.timepad.ru/event/4317235/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://storytelling-club.timepad.ru/event/4317235/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Клуб Сторителлинга",
+     "author_url": "https://storytelling-club.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f6e2d424-c665-4300-acd8-110d9b145d8f/-/crop/3251x693/0,189/-/resize/2240x478/-/quality/lightest/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "cedc5ac89486"
+     ],
+     "found": "2026-11-21T16:45:18+03:00"
     },
     {
      "key": "ae8c79675c60",
@@ -9185,13 +9431,13 @@
      "found": "2026-11-20T12:45:23+03:00"
     },
     {
-     "key": "e006b7508657",
-     "title": "«Любовь Громова» — иммерсивный спектакль FoShoo",
+     "key": "01e4c7c41592",
+     "title": "Любовь Громову",
      "date": "2026-12-20",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/fo_shoo/1389",
+     "link": "https://t.me/fo_shoo/1401",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -9202,9 +9448,10 @@
      "author": "FoShoo — любительский театр",
      "author_url": "https://t.me/fo_shoo",
      "image": "https://cdn4.telesco.pe/file/EzlndZJQtnqd3IocqKKq9_oGyhG_OFr17BQ5VX6GX2x31yZNehYcDoAQbIwn9BCKqvPPwNB3jYHh2jRG2J1f4xhQxDjVphwD3Duu6S4SVtq_vFOHzOekdMTIC5pzjJgtzxCA3FpE6dCUVMONDsAU0b0Cl_L-WAFuEwB9A3yqVpqQnxYHUhqgFVDoRZs8QbYChbS-fazouWFxMKkd4XVHsIbXKfJmOSe2J_j13tI25xAwAlEZqDKMrbgqq0ZaQYVVz2zVzZQovIaPgnn1FxCp2Mq9imo8_oZQxSfbr2MNBFP9FeKBP2Xv51OBpjbTEqBkl2aPOVS1iATFdIrHjz4ufw.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "показ спектакля 20 декабря",
      "keys": [
+      "01e4c7c41592",
       "e006b7508657"
      ],
      "found": "2026-11-17T08:45:00+03:00"
@@ -9710,21 +9957,21 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-21T12:45:21+03:00",
-     "events": 138
+     "last_post": "2026-11-21T16:45:18+03:00",
+     "events": 147
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-21T12:10:02+03:00",
+     "last_post": "2026-11-21T14:14:01+03:00",
      "events": 21
     },
     {
      "title": "FoShoo — любительский театр",
      "username": "fo_shoo",
      "kind": "extra",
-     "last_post": "2026-11-20T13:35:31+03:00",
+     "last_post": "2026-11-21T13:02:31+03:00",
      "events": 7
     },
     {
@@ -9738,7 +9985,7 @@
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
-     "last_post": "2026-11-20T18:09:11+03:00",
+     "last_post": "2026-11-21T13:54:44+03:00",
      "events": 6
     },
     {
@@ -9759,7 +10006,7 @@
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-20T20:42:01+03:00",
+     "last_post": "2026-11-21T16:17:24+03:00",
      "events": 3
     },
     {
@@ -9805,6 +10052,13 @@
      "events": 1
     },
     {
+     "title": "Пятая Пятница",
+     "username": "fifth_friday",
+     "kind": "folder",
+     "last_post": "2026-11-21T13:50:48+03:00",
+     "events": 1
+    },
+    {
      "title": "Тактильный Дом (пространство чувственного опыта)",
      "username": "feel_family_studio",
      "kind": "folder",
@@ -9843,7 +10097,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-20T19:38:53+03:00",
+     "last_post": "2026-11-21T16:08:17+03:00",
      "events": 0
     },
     {
@@ -9865,13 +10119,6 @@
      "username": "mariamtanec",
      "kind": "folder",
      "last_post": "2026-11-16T00:07:46+03:00",
-     "events": 0
-    },
-    {
-     "title": "Пятая Пятница",
-     "username": "fifth_friday",
-     "kind": "folder",
-     "last_post": "2026-11-19T09:30:48+03:00",
      "events": 0
     },
     {
