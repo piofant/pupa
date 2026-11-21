@@ -370,7 +370,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "66d41440082b"
+      "66d41440082b",
+      "caedc78aa8b7"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -1100,6 +1101,30 @@
      "found": "2026-11-20T12:30:10+03:00"
     },
     {
+     "key": "b37a1d509cd2",
+     "title": "Открытый урок по стендапу и импровизации",
+     "date": "2026-11-22",
+     "time": "16:30",
+     "place": null,
+     "price": "Бесплатно",
+     "link": "https://t.me/improschoolspb/7704",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/s4qtKf7cgz2wAaBGJHRmAGQLsHPbSvnMVf8KqbMSBOW5oWPGfEHvVFbkZYnI_wCdxRvf4Lo5vRA9JjwKriMxbI_09FOV4TzgzkzJpOjdXe5kkKEaGxVC5lSL3HCw6jmc9S4JUK-yHMCFc5tKb48lOAeWaqrxiFRmNncreT5fSLM25GEz6DW-41daJJ91CExiIK2zwy8IHi6VyPVBu3JbGZ42Zsn6V8IT6OBxs21X3D_gqTOatYqxZjVL_7kIwp7_Mgkk-5Uy76UTfej_xDJDK-YR8eGBeGE_oOzukx6faiDV5jCRNPKr8QCtb-kpgSPUTSR5xUKry00fEsoMvWAuIg.jpg",
+     "hot": true,
+     "hot_reason": "количество мест ограничено",
+     "keys": [
+      "b37a1d509cd2"
+     ],
+     "found": "2026-11-21T16:30:03+03:00"
+    },
+    {
      "key": "7734f679591b",
      "title": "Диалог Бома для постоянных участников",
      "date": "2026-11-22",
@@ -1232,31 +1257,6 @@
      "found": "2026-11-15T23:23:11+03:00"
     },
     {
-     "key": "2c5742d0ce0e",
-     "title": "Ecstatic Dance",
-     "date": "2026-11-22",
-     "time": "19:00",
-     "place": "LIVE BODY, Санкт-Петербург",
-     "price": null,
-     "link": "https://t.me/ecstaticdancespb/2394",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "music"
-     ],
-     "adult": false,
-     "author": "Ecstatic Dance Spb",
-     "author_url": "https://t.me/ecstaticdancespb",
-     "image": "https://cdn4.telesco.pe/file/jFtCeVhjeTzZDHEtzsVmA8uzAVZXCoHS2sLliiy6TtwMJ5J5EnFRZ2Hei9aFzxqNFylOfqLWNjqW4Sss5eLO_URMIPMrLAu040RgzxCrpbdKjGI9pToCqhMtJ1kSBM9VmxziCkZbkdPYCIO7TzIMK6BLbQ2CYR62pz5njP0VghH5lu4zMnhIh4V8nnZS7LlkOU1HVslB0pPqb29QPy6Bz2pFosgVjZ9yJTb_yATLJsWiWQ8MStvD3tsE3ldjZOjFNjkl_XpqQvxKT2d9TJKnlYn0zWzRTmSjOVJCjuJzccoNi_TZxNhaRT8C8eSzt64RT1YZ5LGsMOjR24gT0Gl3mg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "2c5742d0ce0e"
-     ],
-     "found": "2026-11-21T12:30:00+03:00"
-    },
-    {
      "key": "d8e14492b017",
      "title": "Ecstatic Dance Deep",
      "date": "2026-11-22",
@@ -1283,7 +1283,8 @@
       "383b65a32842",
       "e5ebce229013",
       "52a525fda3e3",
-      "ec519199c08e"
+      "ec519199c08e",
+      "2c5742d0ce0e"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -2313,6 +2314,30 @@
       "918190631b65"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "a7aeb863beec",
+     "title": "Игры на желание",
+     "date": "2026-11-28",
+     "time": "17:30",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sensualcafe/8799",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/TF5jSteC4-X7fXsDBpkIjOQBDsp-HV5LNw08XH3JRUpUitCNDoDGN7H5RnPyUakUMSPp4t-dJh-3uUCnTkws8eOyajcEjnmCIpEYzjcaBohqhWvIQHa2-7XNOyXEjpwHU0IytiLYLMZOvelejGNecw2KY24lvd9LfRf3Tw_PEEvm9kdIYVCkUcGaElRhnkD7fOrdWH-B1j6qQt3uvb0cCVps-2YGjgNLA8vxtSCUaAVV_Snh1iMunwMIlVb-kFnttflK3vXdZhQoiWI076xrOn4K6ol5PBKj09wYOv4qrhxiTkazVxI_2Jd-wr4NdhixfXpJfL6tMlCAQ6Tlx0iXDQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a7aeb863beec"
+     ],
+     "found": "2026-11-21T16:30:03+03:00"
     },
     {
      "key": "04bc3de7ac2c",
@@ -4295,21 +4320,21 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-21T12:30:00+03:00",
+     "last_post": "2026-11-21T16:30:03+03:00",
      "events": 54
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-21T10:56:24+03:00",
-     "events": 25
+     "last_post": "2026-11-21T13:50:48+03:00",
+     "events": 26
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-20T15:50:39+03:00",
+     "last_post": "2026-11-21T13:52:59+03:00",
      "events": 18
     },
     {
@@ -4323,7 +4348,7 @@
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
-     "last_post": "2026-11-20T22:15:56+03:00",
+     "last_post": "2026-11-21T13:31:04+03:00",
      "events": 8
     },
     {
@@ -4332,13 +4357,6 @@
      "kind": "extra",
      "last_post": "2026-11-18T02:29:15+03:00",
      "events": 8
-    },
-    {
-     "title": "Ecstatic Dance Spb",
-     "username": "ecstaticdancespb",
-     "kind": "extra",
-     "last_post": "2026-11-21T10:44:54+03:00",
-     "events": 4
     },
     {
      "title": "TANTRA🤍TIME | Санкт-Петербург",
@@ -4353,6 +4371,20 @@
      "kind": "folder",
      "last_post": "2026-11-20T17:47:01+03:00",
      "events": 4
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-21T16:10:24+03:00",
+     "events": 4
+    },
+    {
+     "title": "Ecstatic Dance Spb",
+     "username": "ecstaticdancespb",
+     "kind": "extra",
+     "last_post": "2026-11-21T10:44:54+03:00",
+     "events": 3
     },
     {
      "title": "Improv Life",
@@ -4372,7 +4404,7 @@
      "title": "Випассана СПб",
      "username": "spb_vipassana",
      "kind": "folder",
-     "last_post": "2026-11-20T17:18:45+03:00",
+     "last_post": "2026-11-21T15:14:00+03:00",
      "events": 3
     },
     {
@@ -4380,13 +4412,6 @@
      "username": "rabbitholelab",
      "kind": "folder",
      "last_post": "2026-11-20T16:51:20+03:00",
-     "events": 3
-    },
-    {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-19T18:56:29+03:00",
      "events": 3
     },
     {
@@ -4540,7 +4565,7 @@
      "title": "OWG Youth",
      "username": "owgyouth",
      "kind": "folder",
-     "last_post": "2026-11-19T18:03:18+03:00",
+     "last_post": "2026-11-21T14:06:49+03:00",
      "events": 0
     },
     {
@@ -4638,7 +4663,7 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-19T20:00:49+03:00",
+     "last_post": "2026-11-21T14:32:39+03:00",
      "events": 0
     },
     {
