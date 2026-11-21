@@ -1490,6 +1490,30 @@
      "found": "2026-11-16T02:48:51+03:00"
     },
     {
+     "key": "30958bbfd417",
+     "title": "Поэтический круг",
+     "date": "2026-11-23",
+     "time": "19:00",
+     "place": "Санкт-Петербург, наб. Фонтанки, 97",
+     "price": "бесплатно; donation по желанию, посещение кафе примерно 500…",
+     "link": "https://sofiya-grishina.timepad.ru/event/4317440/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://sofiya-grishina.timepad.ru/event/4317440/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "София Гришина",
+     "author_url": "https://sofiya-grishina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/eda33fbb-93ab-4699-9736-a74b238a09e9/-/crop/1680x946/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовая встреча",
+     "keys": [
+      "30958bbfd417"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "88e6300aeacc",
      "title": "Эмоции и чувства: легальное проживание",
      "date": "2026-11-23",
@@ -1589,6 +1613,30 @@
       "ed222922e74e"
      ],
      "found": "2026-11-20T16:30:08+03:00"
+    },
+    {
+     "key": "50a88f535aa9",
+     "title": "Коллажи: фактуры и текстуры",
+     "date": "2026-11-25",
+     "time": "15:00",
+     "place": "Санкт-Петербург, Лиговский проспект, 99",
+     "price": "бесплатно",
+     "link": "https://otkrytye--masterskie.timepad.ru/event/4317782/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://otkrytye--masterskie.timepad.ru/event/4317782/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "ОТКРЫТЫЕ МАСТЕРСКИЕ",
+     "author_url": "https://otkrytye--masterskie.timepad.ru/",
+     "image": "https://ucare.timepad.ru/daa823b2-8028-4d41-88e7-73db7e0e3e3f/-/crop/2560x1438/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "50a88f535aa9"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
     },
     {
      "key": "e111e96b4d23",
@@ -1981,6 +2029,30 @@
      "found": "2026-11-20T12:30:10+03:00"
     },
     {
+     "key": "e5277856c3c4",
+     "title": "Очень простая история",
+     "date": "2026-11-27",
+     "time": "18:30",
+     "place": "Санкт-Петербург, ул. Фучика, 15, Санкт-Петербургский гуманитарный университет профсоюзов",
+     "price": "бесплатно",
+     "link": "https://masterskaya-ss-pronina.timepad.ru/event/3993972/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://masterskaya-ss-pronina.timepad.ru/event/3993972/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Мастерская С.С. Пронина",
+     "author_url": "https://masterskaya-ss-pronina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/8749239d-097c-4f95-8662-2b2f0fe39da0/-/crop/1280x720/0,55/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый спектакль",
+     "keys": [
+      "e5277856c3c4"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "ddb665e4e5fa",
      "title": "Ecstatic Banya",
      "date": "2026-11-27",
@@ -2267,6 +2339,30 @@
      "found": "2026-11-20T12:30:10+03:00"
     },
     {
+     "key": "01807054765a",
+     "title": "Клуб аудиокниг и вязания",
+     "date": "2026-11-28",
+     "time": "16:00",
+     "place": "Санкт-Петербург, Новочеркасский проспект, 49",
+     "price": "бесплатно",
+     "link": "https://biblioteka-gogolya.timepad.ru/event/4317404/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-gogolya.timepad.ru/event/4317404/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека Гоголя",
+     "author_url": "https://biblioteka-gogolya.timepad.ru/",
+     "image": "https://ucare.timepad.ru/71903823-9863-45a9-8937-9341bedf5ba1/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "01807054765a"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "4b0905e594ae",
      "title": "Классическая обнимательная встреча Obnime",
      "date": "2026-11-28",
@@ -2314,6 +2410,30 @@
       "918190631b65"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "5b6931b7ccc3",
+     "title": "Брелок макраме",
+     "date": "2026-11-28",
+     "time": "17:30",
+     "place": "Санкт-Петербург, проспект Большевиков, 8",
+     "price": "бесплатно",
+     "link": "https://bibliotekapolka.timepad.ru/event/4309741/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://bibliotekapolka.timepad.ru/event/4309741/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Полка\"",
+     "author_url": "https://bibliotekapolka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/fd52deba-2586-43da-bd27-cebe2dad17c4/-/crop/1579x887/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "5b6931b7ccc3"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
     },
     {
      "key": "a7aeb863beec",
@@ -3178,6 +3298,30 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "36a037b2fef9",
+     "title": "Сказка как путь к себе",
+     "date": "2026-12-05",
+     "time": "14:00",
+     "place": "Санкт-Петербург, ул. Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4317776/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4317776/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d40a5b37-fa81-4fa3-a995-bfcfbb631e57/-/crop/1280x720/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый групповой тренинг",
+     "keys": [
+      "36a037b2fef9"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "e5af6d487a6f",
      "title": "Экстатик с DJ Иваном Суворовым в LiveBody",
      "date": "2026-12-05",
@@ -3750,6 +3894,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "bbb09284ecac",
+     "title": "Дарума из солёного теста",
+     "date": "2026-12-12",
+     "time": "12:00",
+     "place": "Санкт-Петербург, ул. Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4317841/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4317841/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7858b722-dbca-4211-9e0a-2695385d6819/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "bbb09284ecac"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "3204fb8e2f89",
      "title": "Новогодняя PowerPoint-вечеринка",
      "date": "2026-12-12",
@@ -3926,6 +4094,30 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "1a82d1ee0d1d",
+     "title": "Упаковка подарков",
+     "date": "2026-12-15",
+     "time": "18:30",
+     "place": "Санкт-Петербург, Заневский проспект, 28",
+     "price": "бесплатно",
+     "link": "https://sovremennik-events.timepad.ru/event/4317696/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://sovremennik-events.timepad.ru/event/4317696/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотечный Центр Общения \"Современник\"",
+     "author_url": "https://sovremennik-events.timepad.ru/",
+     "image": "https://ucare.timepad.ru/90a7ce9b-3630-4805-b365-f719c79bdadf/-/crop/1299x731/0,155/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "1a82d1ee0d1d"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "bb6ecdef8690",
      "title": "Вечер Проявленности",
      "date": "2026-12-16",
@@ -3972,6 +4164,54 @@
       "83e33eb627a5"
      ],
      "found": "2026-11-18T08:30:00+03:00"
+    },
+    {
+     "key": "b7dfcc79bf51",
+     "title": "Нейрографика: рисуем желания",
+     "date": "2026-12-17",
+     "time": "17:00",
+     "place": "Санкт-Петербург, ул. Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4317906/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4317906/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/70b61d03-479e-455d-af74-838965655f40/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "b7dfcc79bf51"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
+     "key": "2a140dd9ba5f",
+     "title": "Оберег из джута — коза",
+     "date": "2026-12-18",
+     "time": "14:00",
+     "place": "Санкт-Петербург, ул. Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4317904/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4317904/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f310d377-453f-47fb-8b61-934a1c12edb7/-/crop/2560x1441/0,50/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "2a140dd9ba5f"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
     },
     {
      "key": "3e5bcbcdd653",
@@ -4096,6 +4336,30 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "e667cfbd76d2",
+     "title": "Ангел-хранитель своими руками",
+     "date": "2026-12-22",
+     "time": "13:00",
+     "place": "Санкт-Петербург, ул. Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4317909/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4317909/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/8bf7925f-41b0-4eb0-aac2-f2478edaf888/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "e667cfbd76d2"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
      "key": "668306882c1d",
      "title": "Тренинг «Мой 2026 год»",
      "date": "2026-12-22",
@@ -4167,6 +4431,30 @@
       "d7a4c82ce90e"
      ],
      "found": "2026-11-18T08:30:00+03:00"
+    },
+    {
+     "key": "7a8fa6098d1f",
+     "title": "Маленькое чудо своими руками",
+     "date": "2026-12-24",
+     "time": "18:00",
+     "place": "Санкт-Петербург, ул. Шкапина, 6",
+     "price": "бесплатно",
+     "link": "https://timiryazevka.timepad.ru/event/4317884/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timiryazevka.timepad.ru/event/4317884/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека им. К.А. Тимирязева",
+     "author_url": "https://timiryazevka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/5f61b0a3-1192-45bf-a9fc-2adb2c66a586/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый мастер-класс",
+     "keys": [
+      "7a8fa6098d1f"
+     ],
+     "found": "2026-11-21T20:30:00+03:00"
     },
     {
      "key": "b934bd9a671a",
@@ -4320,8 +4608,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-21T16:30:03+03:00",
-     "events": 54
+     "last_post": "2026-11-21T20:30:00+03:00",
+     "events": 66
     },
     {
      "title": "SensCafe 18+",
@@ -4369,7 +4657,7 @@
      "title": "Гостиная: открыто",
      "username": "open_living",
      "kind": "folder",
-     "last_post": "2026-11-20T17:47:01+03:00",
+     "last_post": "2026-11-21T16:50:30+03:00",
      "events": 4
     },
     {
@@ -4439,7 +4727,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-20T19:29:57+03:00",
+     "last_post": "2026-11-21T19:29:57+03:00",
      "events": 2
     },
     {
@@ -4467,7 +4755,7 @@
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-20T19:03:21+03:00",
+     "last_post": "2026-11-21T19:04:33+03:00",
      "events": 1
     },
     {
@@ -4565,7 +4853,7 @@
      "title": "OWG Youth",
      "username": "owgyouth",
      "kind": "folder",
-     "last_post": "2026-11-21T14:06:49+03:00",
+     "last_post": "2026-11-21T16:34:24+03:00",
      "events": 0
     },
     {
@@ -4600,7 +4888,7 @@
      "title": "Дом Сердца",
      "username": "manery_heart",
      "kind": "folder",
-     "last_post": "2026-11-18T20:10:28+03:00",
+     "last_post": "2026-11-21T19:40:31+03:00",
      "events": 0
     },
     {
