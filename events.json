@@ -622,6 +622,31 @@
      "found": "2026-11-20T12:30:10+03:00"
     },
     {
+     "key": "28ee6c07511a",
+     "title": "Женский писательский клуб «Первая строка»",
+     "date": "2026-11-23",
+     "time": "18:00",
+     "place": "Открытая гостиная",
+     "price": null,
+     "link": "https://t.me/open_living/3234",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "28ee6c07511a"
+     ],
+     "found": "2026-11-22T12:30:00+03:00"
+    },
+    {
      "key": "505635c136c1",
      "title": "Волшебные деревья: рисунок природными красками",
      "date": "2026-11-23",
@@ -657,7 +682,8 @@
      "signup_url": null,
      "cats": [
       "body",
-      "watch"
+      "watch",
+      "circles"
      ],
      "adult": true,
      "author": "SensCafe 18+",
@@ -667,7 +693,8 @@
      "hot_reason": "",
      "keys": [
       "4f4284bf2891",
-      "f386879adb07"
+      "f386879adb07",
+      "39bdb37d305a"
      ],
      "found": "2026-11-17T16:30:07+03:00"
     },
@@ -773,25 +800,26 @@
      "found": "2026-11-16T02:48:51+03:00"
     },
     {
-     "key": "2bafa0321bf5",
-     "title": "Лекция о подходах в психологии",
+     "key": "64c30098ca29",
+     "title": "Лекция «Теоретические подходы и прикладные направления в психологии»",
      "date": "2026-11-24",
-     "time": "18:30",
-     "place": "Открытая Гостиная, Литейный пр. 17-19",
+     "time": "18:00",
+     "place": "Открытая гостиная",
      "price": "бесплатно",
-     "link": "https://otkrytaya-gostinaya.timepad.ru/event/4307612/",
-     "source": "Страница на Таймпаде",
+     "link": "https://t.me/open_living/3234",
+     "source": "Пост в канале",
      "signup_url": "https://otkrytaya-gostinaya.timepad.ru/event/4307612/",
      "cats": [
       "watch"
      ],
      "adult": false,
-     "author": "Открытая Гостиная",
-     "author_url": "https://otkrytaya-gostinaya.timepad.ru/",
-     "image": "https://ucare.timepad.ru/9d528e71-0f18-4010-86d4-d8532e602299/",
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "64c30098ca29",
       "2bafa0321bf5"
      ],
      "found": "2026-11-16T20:30:04+03:00"
@@ -870,25 +898,27 @@
      "found": "2026-11-18T20:30:00+03:00"
     },
     {
-     "key": "a1454295a72b",
-     "title": "Лекция о Жобиме и босса-нове",
+     "key": "16926fb73831",
+     "title": "Лекция «Долой тоску!» к 100-летию Жобима",
      "date": "2026-11-25",
      "time": "18:00",
-     "place": "Открытая гостиная, Литейный пр., 17-19",
+     "place": "Открытая гостиная",
      "price": "бесплатно",
-     "link": "https://t.me/open_living/3225",
+     "link": "https://t.me/open_living/3234",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "watch"
+      "watch",
+      "music"
      ],
      "adult": false,
      "author": "Гостиная: открыто",
      "author_url": "https://t.me/open_living",
-     "image": "https://cdn4.telesco.pe/file/Pv-GZsJqzEEG8noiNuMvbLey7yM8sBRVNgKrlijrHkPUwrMOq0rKxBmDUoxPx66I4m5SgZrqfxPBh8FiyDwbibgt33UVqrWSxXsIxHo9qkJX7R9DayKnjMmYc1_mZ9fJKv-Nf4r-e0KmTEyvJrQEsbIptXpinLpXf3vrLQSVSOhst5of_uoyxFWS4C4-EQc6VG4JwsW7a7qBfPQPWYoD5Xir198OXLwEweEWapvUQQyTVu34ztkJSKZfCvA6ASmU2VE1TG_QZBpn0RqzCfa33_iIamcvCXMSzyAJLEb7BcNmMnwZQTPFXWOw1MjSOPKlJAQMBsXx5eYQV6XOVwe5lA.jpg",
+     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "16926fb73831",
       "a1454295a72b"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -1089,6 +1119,31 @@
      "found": "2026-11-20T16:30:08+03:00"
     },
     {
+     "key": "857db578fb56",
+     "title": "Рисуем мандалы",
+     "date": "2026-11-26",
+     "time": "19:00",
+     "place": "Псковская 14, КЮМ «Адмиралтеец»",
+     "price": "бесплатно",
+     "link": "https://nastolnye-igry-2025.timepad.ru/event/4318285/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nastolnye-igry-2025.timepad.ru/event/4318285/",
+     "cats": [
+      "craft",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Молодежный клуб КЮМ \"Адмиралтеец\"",
+     "author_url": "https://nastolnye-igry-2025.timepad.ru/",
+     "image": "https://ucare.timepad.ru/58f31633-bdfa-4f8d-a97a-33d42654447a/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "857db578fb56"
+     ],
+     "found": "2026-11-22T12:30:00+03:00"
+    },
+    {
      "key": "8aa2af2923e3",
      "title": "Эмоции и чувства: легальное проживание",
      "date": "2026-11-26",
@@ -1234,6 +1289,31 @@
       "97c67c9721ed"
      ],
      "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
+     "key": "fe9c1d994913",
+     "title": "Дискуссия о личной истории в художественной литературе",
+     "date": "2026-11-27",
+     "time": "18:30",
+     "place": "Открытая гостиная",
+     "price": null,
+     "link": "https://t.me/open_living/3234",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fe9c1d994913"
+     ],
+     "found": "2026-11-22T12:30:00+03:00"
     },
     {
      "key": "e5277856c3c4",
@@ -1424,13 +1504,13 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "ab92916ff9a7",
+     "key": "3560005c8ae9",
      "title": "Книжный клуб: «Выгон» Эми Липтрот",
      "date": "2026-11-28",
      "time": "12:00",
      "place": "Открытая гостиная",
      "price": null,
-     "link": "https://t.me/open_living/3229",
+     "link": "https://t.me/open_living/3234",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1439,10 +1519,11 @@
      "adult": false,
      "author": "Гостиная: открыто",
      "author_url": "https://t.me/open_living",
-     "image": "https://cdn4.telesco.pe/file/FItknf2Xj2fyzbb8P3s7TfieCmcvxaNbhzePFVUzWoBOupmO4Mr8FWfmbOwbiB_uGzyRrL5W48ix0jnYf2JElwkDC_tMMJhYrzTOg7HosycoLjcvjE_DkNzwTyOvDcKwUKXUg6xOuKFDA5DUgWjeqh3xq901GV19WdYEEtNlJkWp0ZvjUYppMKpXkCHrzyhKJQ9xPaUe6IljyIrTPs9HVbdk2D60cTrb0qO44DsKAoU8Bzncq2HBg3aDS2jPgoCm-GB5NTIKpvP0w54p91qAF-ARxvuBBA4Pk9NEymRdvyFcZqgl1eNJmqHSGLpPxv74D893d9MsVXrnMMgOTjn0Bg.jpg",
+     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "3560005c8ae9",
       "ab92916ff9a7"
      ],
      "found": "2026-11-18T20:30:00+03:00"
@@ -1547,13 +1628,13 @@
      "found": "2026-11-20T12:30:10+03:00"
     },
     {
-     "key": "7eac59743936",
-     "title": "Женский рисовальный клуб: натюрморты из аксессуаров",
+     "key": "47f04ee22925",
+     "title": "Женский рисовальный клуб",
      "date": "2026-11-28",
      "time": "15:00",
-     "place": "Гостиная",
+     "place": "Открытая гостиная",
      "price": null,
-     "link": "https://t.me/open_living/3233",
+     "link": "https://t.me/open_living/3234",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -1562,10 +1643,11 @@
      "adult": false,
      "author": "Гостиная: открыто",
      "author_url": "https://t.me/open_living",
-     "image": "https://cdn4.telesco.pe/file/XfJPRsqLBmc8rK1Lz7UJAXYNyOTveQLHdZCk6Cmesq2Ej2HAdshqDb2E94ZGl4CMnhGmeG-WNV4IwY5_Wca7L3x1wDrwbJnDG8m1qhDONHKRdlYTdpPvpZhmz3tqTp970S3eR7C_9uV23NS0MTmvd3mV6cjQ0IQ8mgA8D1MYNspQkhoyL32y2-jtX_kld52RJRdDZgsfjxQScMAwlocoIDgwDHZF02wYS96cEi_985rfATmJoGh8nfX6o2ZPCs20bRT02JYtu9yBFCWmKLlrDrl7XHC3Is_QYLSR9NZbv4nAIBEQro6PuXovBJ0B3JCoX56Rnm8BNjqZQCT4TBnOog.jpg",
+     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "47f04ee22925",
       "7eac59743936"
      ],
      "found": "2026-11-22T08:30:15+03:00"
@@ -2694,35 +2776,11 @@
      "adult": false,
      "author": "Дом Радио",
      "author_url": "https://t.me/domradio_online",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/JS4sN2IqOQKOZhzRqsC05HxFk0brE3ehUaeDI2eiKYIbAKOILjvW9w6aqNE5VvdOmCPCgGNMET64bHcs6H-zf86tQpgJekKt5dUys84RmlIBA0C3pK02-rmElfvmfdLZBf4lUUbjPEprfcKWZ78cSTGVztPTTmmxah1Aptib7H-WnvExfD1kRp27M8suxdSojCUkUtGYKKpjSQBDHGIHvopPbeU5-Z3xEXDRuhccGMnXNZfqO6ucAM-kE7QRJCYpUaa6En8ab1Yts4F68QAQQw8Xxpq__lE7_bRqaqYfBLAXQqOjM-F9D8Kck1-FXDtZZHfRRwwXXepjvfh3iwI4xA.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "581819d8fcc5"
-     ],
-     "found": "2026-11-22T09:00:00+03:00"
-    },
-    {
-     "key": "4cd834fd2736",
-     "title": "«Башня из слоновой кости X»: концерт экспериментальной музыки",
-     "date": "2026-12-05",
-     "time": null,
-     "place": "Дом Радио",
-     "price": null,
-     "link": "https://t.me/domradio_online/2230",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "music"
-     ],
-     "adult": false,
-     "author": "Дом Радио",
-     "author_url": "https://t.me/domradio_online",
-     "image": "https://cdn4.telesco.pe/file/bL4A2BWsNSToK9ZcCPIyTZrbImEDkHvHZ2Fgc99ONqqUh-DsZ3hPPMgHKHN5ZEvqsW8SdJbyVuFq17965oGzxV7tMbcwRYUFHrjNJtQegNxATek6AfYa99nD-Uz13e99dBw3Lr657y-3lRFxBzdk629jHgOja6MKZmDPVoZEo7Y0cQyzP7VGz2d3zncdNcII7pVl280ThyQQiDmSq5MXHMj99GVcEFN5uVEX1yWmgOfQ678fl2rU3jNaZlQWvZuhIwyyPuRqJj2-HIRCaD8MAy3oUHT0K3d1Ux6GcbAAsmMxKOOwLAOl2bsb8udaUAhVHUlkXU26z9Eew1LxyXCYsA.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "581819d8fcc5",
       "4cd834fd2736"
      ],
      "found": "2026-11-20T20:30:01+03:00"
@@ -3916,14 +3974,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-22T08:30:15+03:00",
+     "last_post": "2026-11-22T12:30:00+03:00",
      "events": 58
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-21T13:50:48+03:00",
+     "last_post": "2026-11-22T11:38:48+03:00",
      "events": 22
     },
     {
@@ -3938,7 +3996,7 @@
      "username": "domradio_online",
      "kind": "folder",
      "last_post": "2026-11-20T17:55:53+03:00",
-     "events": 10
+     "events": 9
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -3946,6 +4004,13 @@
      "kind": "extra",
      "last_post": "2026-11-18T02:29:15+03:00",
      "events": 8
+    },
+    {
+     "title": "Гостиная: открыто",
+     "username": "open_living",
+     "kind": "folder",
+     "last_post": "2026-11-22T09:59:58+03:00",
+     "events": 7
     },
     {
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
@@ -3958,14 +4023,7 @@
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
-     "last_post": "2026-11-18T15:31:03+03:00",
-     "events": 4
-    },
-    {
-     "title": "Гостиная: открыто",
-     "username": "open_living",
-     "kind": "folder",
-     "last_post": "2026-11-21T22:12:46+03:00",
+     "last_post": "2026-11-22T11:59:55+03:00",
      "events": 4
     },
     {
@@ -4063,7 +4121,7 @@
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
-     "last_post": "2026-11-20T19:07:01+03:00",
+     "last_post": "2026-11-22T12:19:04+03:00",
      "events": 1
     },
     {
@@ -4252,7 +4310,7 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-21T14:32:39+03:00",
+     "last_post": "2026-11-22T11:28:29+03:00",
      "events": 0
     },
     {
