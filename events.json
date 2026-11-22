@@ -384,7 +384,8 @@
       "8b56bf4eeb08",
       "0eb63c7ed143",
       "b3f215f3330a",
-      "235f99d4cde9"
+      "235f99d4cde9",
+      "f43c74183b67"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -1218,6 +1219,31 @@
      "found": "2026-11-20T16:30:08+03:00"
     },
     {
+     "key": "124eac78eb6f",
+     "title": "SensCafe: разрушители мифов, третье заседание",
+     "date": "2026-11-27",
+     "time": "18:00",
+     "place": "SensCafe",
+     "price": null,
+     "link": "https://t.me/sensualcafe/8802",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "circles"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/Cebx1-D6w4EuEUFlCVd_QSEDI9ZXX4Ug4tWd_hwuZ8AlPZYgLrSF1ja_r3BsgjxguVgAxv3q31bifPLHTwaO6F3LPuJ3KinJQ3Q5kTbAfJikSXjSzTWOHDZTFFgEEdOgup6IAKOBmDdNzw_VreW6eizq8dW2gTiukz952myZBFys5A1PH9PjmqlSZDGCl6UErvFpyf72Oq2rdX0XQJzkXMAjjwg7xglRejgfsKCq4auVRvUQ-b8_clZHyL9g91Tonoa31Rz2nePoU1uOXcKmaO83efbxEP1a6uFNDmHISUeW27EVQUu0Xyl1SjXa7Ti50zg5ZdMEXVC4PtTortThqw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "124eac78eb6f"
+     ],
+     "found": "2026-11-22T16:30:16+03:00"
+    },
+    {
      "key": "4686fa6f4d8c",
      "title": "Коллажная мастерская «Момент»",
      "date": "2026-11-27",
@@ -1677,6 +1703,30 @@
      "found": "2026-11-21T20:30:00+03:00"
     },
     {
+     "key": "7ba8eff6926c",
+     "title": "Чайная встреча «Ароматы северной природы»",
+     "date": "2026-11-28",
+     "time": "16:00",
+     "place": "Московский Рынок, Решетникова 12, 1 этаж у корнера «Мой чай»",
+     "price": "бесплатно",
+     "link": "https://moskovskiy-rynok.timepad.ru/event/4319181/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moskovskiy-rynok.timepad.ru/event/4319181/",
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Московский Рынок",
+     "author_url": "https://moskovskiy-rynok.timepad.ru/",
+     "image": "https://ucare.timepad.ru/96e9f399-b4f8-4f0a-9011-0f5824776080/-/crop/1313x739/0,54/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7ba8eff6926c"
+     ],
+     "found": "2026-11-22T16:30:16+03:00"
+    },
+    {
      "key": "4b0905e594ae",
      "title": "Классическая обнимательная встреча Obnime",
      "date": "2026-11-28",
@@ -1798,6 +1848,31 @@
       "04bc3de7ac2c"
      ],
      "found": "2026-11-19T12:30:02+03:00"
+    },
+    {
+     "key": "89a11ea8c3c6",
+     "title": "Биг эМпров шоу",
+     "date": "2026-11-28",
+     "time": "20:00",
+     "place": "Малый пр. П.С., 89, 2 этаж",
+     "price": "500 ₽",
+     "link": "https://t.me/mprovtheatre/1615",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "эМпров Театр",
+     "author_url": "https://t.me/mprovtheatre",
+     "image": "https://cdn4.telesco.pe/file/b4Sf1goD3rrrL9dfzC232aDGRq6W3uXVmlPNVaNx-3FhSkerJZOcKeNOM27Oh7d3lv1RECdQsV8BUSsGqsIYpHcvPDj2MMotvowpTzqFHMtZegu46miXIUYS1RPDqIIrTD1GyJwi8vhskn9oTuTOP-2ZkZSvt7te5RJD6nIXT__mNmfYf8_yaCuBPEKClNd5Eh4LdT7IE5Ak9rgs7T61gKKzv9DMDVZWdWzgIjrCtC4zi4VsqgQbaZjuhBb0c0N2cnXUGBUwc6KIgSbJeTUL1k72_xGcfL1XOz0TlFdyNmrR5mHxirueMsNZw9K2ykw3ytgeoc9adGxrVuqTM9OU7Q.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "89a11ea8c3c6"
+     ],
+     "found": "2026-11-22T16:30:16+03:00"
     },
     {
      "key": "5f0a06a60b30",
@@ -2810,13 +2885,13 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
-     "key": "e429523ab160",
-     "title": "Тантрический массаж: однодневный ретрит",
+     "key": "87b941d3c1be",
+     "title": "Исцеление прикосновением: тантрический массаж",
      "date": "2026-12-06",
      "time": "11:00",
-     "place": "пространство «Обними», Конюшенная пл., 2В",
-     "price": "12 000 ₽, в паре по 10 000 ₽",
-     "link": "https://t.me/tantratime_spb/1826",
+     "place": "пространство «Обними», Конюшенная площадь, 2В",
+     "price": "12 000 ₽ (10 000 ₽ с человека в паре)",
+     "link": "https://t.me/tantratime_spb/1835",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -2826,10 +2901,11 @@
      "adult": true,
      "author": "TANTRA🤍TIME | Санкт-Петербург",
      "author_url": "https://t.me/tantratime_spb",
-     "image": "https://cdn4.telesco.pe/file/WFrvzOuAGK009q1fwfn3XDDAr1suMN0-MxguAmxqn_waY66A_4Qr0jvrW_7Hdhk70hgV9e6X4Hqc6PXTJIm7SRwUBby3grnvE7h9mdQi54e64Or5tMtcWp22A-Z0aMLWdXzCbf24vY4wXXB2BVXyxtYVpoJQDXYckZT9zvlTm4dIQA6P5Wq0o3Kb0rT8Yn8woHpUKrdZRsivCWzNyADqZXmdI6uOCXG8H1uizt9dOS9AGNR9Z7ybRdgP_dvYOPxrBGJBxdu4zob1C5NdSNMXrHDpPO0HK48N8D8MqGhRfJSePxcfCQqDbyKjJ6dclgwXH_gTpO3emirqL48CgEG11Q.jpg",
+     "image": "https://cdn4.telesco.pe/file/TvEhGzObX61Jan8D3wq59US49bDljVmL5YUU665vYpiv0aO-96dm3-y6hGTepC3ZmyKy-dfniutGJMx3FK2sF8vWAurtWZUoZZeX9nMyhikT5_d0Ji6PtCY8zqIutIAJJDP43EdfDTwlNIP2c50vJbxtuz3h1jr7CNT8MGfm45n7VFgNWzxLe80zqM24GrWtOChAOhyIyO3j4IHLF3-3LyH6P_q5MUEredasB7_jrYhVSX1-vB3mgIQNyadmeHSXyul520QrbmAvjMUafj8iBKncn1K26q8iBTdilQltor2jyYYZUtCP-qLdesnXpfT1sSduWVwiY_I85jM2gw8TQA.jpg",
      "hot": true,
      "hot_reason": "однодневный ретрит, нечастый формат",
      "keys": [
+      "87b941d3c1be",
       "e429523ab160"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -3974,15 +4050,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-22T12:30:00+03:00",
-     "events": 58
+     "last_post": "2026-11-22T16:30:16+03:00",
+     "events": 59
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-22T11:38:48+03:00",
-     "events": 22
+     "last_post": "2026-11-22T15:31:07+03:00",
+     "events": 23
     },
     {
      "title": "Точка Импро",
@@ -4023,7 +4099,7 @@
      "title": "TANTRA🤍TIME | Санкт-Петербург",
      "username": "tantratime_spb",
      "kind": "extra",
-     "last_post": "2026-11-22T11:59:55+03:00",
+     "last_post": "2026-11-22T13:48:12+03:00",
      "events": 4
     },
     {
@@ -4107,7 +4183,7 @@
      "title": "SHADOW ECSTATIC DANCE SPB",
      "username": "shadow_ecstatic",
      "kind": "extra",
-     "last_post": "2026-11-20T13:45:39+03:00",
+     "last_post": "2026-11-22T12:49:48+03:00",
      "events": 1
     },
     {
@@ -4146,6 +4222,13 @@
      "events": 1
     },
     {
+     "title": "эМпров Театр",
+     "username": "mprovtheatre",
+     "kind": "extra",
+     "last_post": "2026-11-22T15:54:14+03:00",
+     "events": 1
+    },
+    {
      "title": "bastión",
      "username": "bastion_f22",
      "kind": "folder",
@@ -4156,7 +4239,7 @@
      "title": "BRIF — фестиваль импровизации",
      "username": "BRIF_improv",
      "kind": "extra",
-     "last_post": null,
+     "last_post": "2026-11-22T16:20:40+03:00",
      "events": 0
     },
     {
@@ -4198,7 +4281,7 @@
      "title": "OWG Youth",
      "username": "owgyouth",
      "kind": "folder",
-     "last_post": "2026-11-21T16:34:24+03:00",
+     "last_post": "2026-11-22T13:46:40+03:00",
      "events": 0
     },
     {
@@ -4254,7 +4337,7 @@
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-21T19:04:33+03:00",
+     "last_post": "2026-11-22T13:38:17+03:00",
      "events": 0
     },
     {
@@ -4321,13 +4404,6 @@
      "events": 0
     },
     {
-     "title": "эМпров Театр",
-     "username": "mprovtheatre",
-     "kind": "extra",
-     "last_post": "2026-11-20T17:21:00+03:00",
-     "events": 0
-    },
-    {
      "title": "Я 2.0",
      "username": "totalrestart",
      "kind": "folder",
@@ -4338,7 +4414,7 @@
      "title": "Ясно в Поляне",
      "username": "vse_yap",
      "kind": "folder",
-     "last_post": "2026-11-19T10:39:14+03:00",
+     "last_post": "2026-11-22T13:27:18+03:00",
      "events": 0
     }
    ]
