@@ -1679,6 +1679,30 @@
      "found": "2026-11-22T08:30:15+03:00"
     },
     {
+     "key": "cd33fb6bcf2d",
+     "title": "Мастер-класс по скетчингу",
+     "date": "2026-11-28",
+     "time": "15:00",
+     "place": "Санкт-Петербург, 16 линия В.О., 65А, 1 этаж (Библиотека № 5)",
+     "price": "бесплатно",
+     "link": "https://vokzalnye-brodyagi.timepad.ru/event/4318993/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://vokzalnye-brodyagi.timepad.ru/event/4318993/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Вокзальные бродяги",
+     "author_url": "https://vokzalnye-brodyagi.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c8d1d150-6d6a-4023-8956-a4c01c91d530/-/crop/3024x1702/0,1972/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "cd33fb6bcf2d"
+     ],
+     "found": "2026-11-22T20:30:28+03:00"
+    },
+    {
      "key": "01807054765a",
      "title": "Клуб аудиокниг и вязания",
      "date": "2026-11-28",
@@ -2236,6 +2260,30 @@
       "704ee1d9c50c"
      ],
      "found": "2026-11-20T20:30:01+03:00"
+    },
+    {
+     "key": "37fab88f0bf2",
+     "title": "Лекция про Теда Банди в Открытой гостиной",
+     "date": "2026-11-30",
+     "time": "18:30",
+     "place": "Санкт-Петербург, Литейный проспект, 17-19, Открытая гостиная",
+     "price": "бесплатно",
+     "link": "https://otkrytaya-gostinaya.timepad.ru/event/4309769/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://otkrytaya-gostinaya.timepad.ru/event/4309769/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Открытая Гостиная",
+     "author_url": "https://otkrytaya-gostinaya.timepad.ru/",
+     "image": "https://ucare.timepad.ru/1d3580f7-c1dc-456e-922d-cad40e4fcd35/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_69453.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "37fab88f0bf2"
+     ],
+     "found": "2026-11-22T20:30:28+03:00"
     },
     {
      "key": "23f43db37824",
@@ -4050,8 +4098,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-22T16:30:16+03:00",
-     "events": 59
+     "last_post": "2026-11-22T20:30:28+03:00",
+     "events": 61
     },
     {
      "title": "SensCafe 18+",
@@ -4211,7 +4259,7 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-20T22:38:14+03:00",
+     "last_post": "2026-11-22T18:27:45+03:00",
      "events": 1
     },
     {
@@ -4274,7 +4322,7 @@
      "title": "Massage Band",
      "username": "sensmassagemasters",
      "kind": "folder",
-     "last_post": "2026-11-20T19:03:39+03:00",
+     "last_post": "2026-11-22T19:01:31+03:00",
      "events": 0
     },
     {
@@ -4330,7 +4378,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-21T19:29:57+03:00",
+     "last_post": "2026-11-22T19:29:57+03:00",
      "events": 0
     },
     {
