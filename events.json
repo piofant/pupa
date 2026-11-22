@@ -4715,7 +4715,8 @@
      "keys": [
       "ac05f028f68f",
       "079a9e066439",
-      "492450debe6b"
+      "492450debe6b",
+      "a6813bb1fe92"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -5020,6 +5021,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "f186319809b1",
+     "title": "Рисование сангиной или углем",
+     "date": "2026-11-24",
+     "time": "13:00",
+     "place": "Москва, Люсиновская 48-50к10",
+     "price": "2890 ₽",
+     "link": "https://obem.timepad.ru/event/4319206/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://obem.timepad.ru/event/4319206/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Объём",
+     "author_url": "https://obem.timepad.ru/",
+     "image": "https://ucare.timepad.ru/51a6dc28-972a-4fd7-abcd-f401040f5251/-/crop/1280x719/0,98/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f186319809b1"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "6ca3d4761f44",
      "title": "Кундалини-йога в полнолуние",
      "date": "2026-11-24",
@@ -5176,6 +5201,54 @@
       "1313e3800dd3"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "2f8df2fc4603",
+     "title": "Мастер-класс по интерьерной живописи",
+     "date": "2026-11-25",
+     "time": "13:00",
+     "place": "Москва, Люсиновская улица 48-50к10",
+     "price": "3490 ₽",
+     "link": "https://obem.timepad.ru/event/4319425/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://obem.timepad.ru/event/4319425/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Объём",
+     "author_url": "https://obem.timepad.ru/",
+     "image": "https://ucare.timepad.ru/90817600-e791-4132-94d9-b6a0cf0dda99/-/crop/1280x721/0,538/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2f8df2fc4603"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
+     "key": "dedce3844b0d",
+     "title": "Рисование сангиной или углем",
+     "date": "2026-11-25",
+     "time": "13:00",
+     "place": "Москва, Люсиновская 48-50к10",
+     "price": "2890 ₽",
+     "link": "https://obem.timepad.ru/event/4319206/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://obem.timepad.ru/event/4319206/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Объём",
+     "author_url": "https://obem.timepad.ru/",
+     "image": "https://ucare.timepad.ru/51a6dc28-972a-4fd7-abcd-f401040f5251/-/crop/1280x719/0,98/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "dedce3844b0d"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "62e8422fed35",
@@ -5445,6 +5518,31 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "254b5b46adb6",
+     "title": "Арома знакомства",
+     "date": "2026-11-26",
+     "time": "19:00",
+     "place": "Москва, кафе «Крошечки», ул. Дмитрия Ульянова, 1/61",
+     "price": "бесплатно",
+     "link": "https://praktiki-event.timepad.ru/event/4318992/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://praktiki-event.timepad.ru/event/4318992/",
+     "cats": [
+      "calm",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Мероприятия",
+     "author_url": "https://praktiki-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d0ec304a-a99c-4c87-aaaa-ae9e18d282bf/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "254b5b46adb6"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "8109bb55e26a",
      "title": "Класс КИ для начинающих (Хронос)",
      "date": "2026-11-26",
@@ -5564,7 +5662,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "1baaf4833c96"
+      "1baaf4833c96",
+      "824c6d8009c6"
      ],
      "found": "2026-11-17T16:45:01+03:00"
     },
@@ -5789,6 +5888,30 @@
       "5441696d88d9"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "8aeff466a656",
+     "title": "Аромасвечи в стиле хюгге",
+     "date": "2026-11-28",
+     "time": "13:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с.1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4319805/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4319805/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ac0d75e5-abc5-479b-a6f4-759acb150633/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8aeff466a656"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "248bb5f66ea4",
@@ -6133,6 +6256,30 @@
       "3c6b1855561e"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "23963458aef1",
+     "title": "Мастер-класс по интерьерной живописи",
+     "date": "2026-11-29",
+     "time": "13:00",
+     "place": "Москва, Люсиновская улица 48-50к10",
+     "price": "3490 ₽",
+     "link": "https://obem.timepad.ru/event/4319425/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://obem.timepad.ru/event/4319425/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Объём",
+     "author_url": "https://obem.timepad.ru/",
+     "image": "https://ucare.timepad.ru/90817600-e791-4132-94d9-b6a0cf0dda99/-/crop/1280x721/0,538/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "23963458aef1"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "dcc0c749acc7",
@@ -7155,7 +7302,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "circles"
      ],
      "adult": false,
      "author": "ПБ•Клуб — Знакомства в Москве.",
@@ -7164,7 +7312,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "10b7329d56d1"
+      "10b7329d56d1",
+      "e05af8dc3102"
      ],
      "found": "2026-11-18T16:45:01+03:00"
     },
@@ -7390,6 +7539,31 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "6a3c4fdf9d02",
+     "title": "«Чай для Льва»: чайный купаж",
+     "date": "2026-12-06",
+     "time": "12:00",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "1600 ₽",
+     "link": "https://conservation.timepad.ru/event/4319012/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319012/",
+     "cats": [
+      "calm",
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/adc8856c-134d-40cb-a196-52ce4a63c8ad/-/crop/1422x800/5,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6a3c4fdf9d02"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "eb7833d169c4",
      "title": "Чайные травы в новогоднем декоре",
      "date": "2026-12-06",
@@ -7437,6 +7611,30 @@
       "9e5d199f071a"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "ed9b4354f8c8",
+     "title": "«Голоса Африки»: клуб на португальском",
+     "date": "2026-12-06",
+     "time": "17:00",
+     "place": "Москва, ул. Николоямская, 1",
+     "price": "бесплатно",
+     "link": "https://iberoamerikanskiy-kulturn.timepad.ru/event/4208833/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://iberoamerikanskiy-kulturn.timepad.ru/event/4208833/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Ибероамериканский культурный центр",
+     "author_url": "https://iberoamerikanskiy-kulturn.timepad.ru/",
+     "image": "https://ucare.timepad.ru/eb042f39-573f-498a-8987-c4dba51e46da/-/crop/1536x864/0,139/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ed9b4354f8c8"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "d9734e9ec28c",
@@ -7983,6 +8181,55 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "4bd280d7991a",
+     "title": "Мастер-класс «Рождественские звезды»",
+     "date": "2026-12-12",
+     "time": "12:30",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "900 ₽",
+     "link": "https://conservation.timepad.ru/event/4319019/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319019/",
+     "cats": [
+      "craft",
+      "music"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2feaf879-49e1-4e46-a996-b6e91534d873/-/crop/1280x720/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4bd280d7991a"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
+     "key": "7b5575b51df6",
+     "title": "Аромасвечи в стиле хюгге",
+     "date": "2026-12-12",
+     "time": "13:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с.1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4319805/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4319805/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ac0d75e5-abc5-479b-a6f4-759acb150633/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7b5575b51df6"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "c568d938f138",
      "title": "Мастер-класс «Ёлка как в Пинтерест»",
      "date": "2026-12-12",
@@ -8005,6 +8252,54 @@
       "c568d938f138"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "7111ad2ab49f",
+     "title": "Мастер-класс по набойке",
+     "date": "2026-12-12",
+     "time": "15:30",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "900 ₽",
+     "link": "https://conservation.timepad.ru/event/4319021/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319021/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/65fdd84c-a70b-4937-93a6-167979126558/-/crop/3264x1834/0,2658/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7111ad2ab49f"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
+     "key": "5cb5b4c1075e",
+     "title": "ЧХСА: читаем «Бригадира» Фонвизина",
+     "date": "2026-12-12",
+     "time": "16:00",
+     "place": "Москва, ул. Барболина 6, библиотека им. Лермонтова",
+     "price": "1100 ₽",
+     "link": "https://p2p-teatr.timepad.ru/event/4319677/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://p2p-teatr.timepad.ru/event/4319677/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "P2P Театр",
+     "author_url": "https://p2p-teatr.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c3c272aa-ab3b-4d6d-96bc-fe58e6b09076/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5cb5b4c1075e"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "ad52293afcb7",
@@ -8030,6 +8325,30 @@
       "ad52293afcb7"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "dd0767c68796",
+     "title": "Мастер-класс по созданию брелока",
+     "date": "2026-12-12",
+     "time": "18:30",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "500 ₽",
+     "link": "https://conservation.timepad.ru/event/4319024/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319024/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/58bcf59b-1a02-4361-81ea-a8fdfaf61840/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "dd0767c68796"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "e3dc4e90f1a2",
@@ -8080,6 +8399,30 @@
       "6806f791952b"
      ],
      "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
+     "key": "43725af5e58d",
+     "title": "Мастер-класс «Зеленая палочка»",
+     "date": "2026-12-13",
+     "time": "12:30",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "1200 ₽",
+     "link": "https://conservation.timepad.ru/event/4319014/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319014/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/25366ce6-ac99-4387-ac9e-957ec1e19b9e/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "43725af5e58d"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "568c52156db9",
@@ -8206,6 +8549,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "17a61a637fd3",
+     "title": "Коллаж праздничного застолья",
+     "date": "2026-12-13",
+     "time": "14:00",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "1200 ₽",
+     "link": "https://conservation.timepad.ru/event/4319015/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319015/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ec92ce5c-79a3-4e84-b7df-ef3e0b28168f/-/crop/1280x719/0,62/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "17a61a637fd3"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "22e6a249df51",
      "title": "Лекция «Агония Эроса»",
      "date": "2026-12-13",
@@ -8228,6 +8595,30 @@
       "22e6a249df51"
      ],
      "found": "2026-11-22T12:45:19+03:00"
+    },
+    {
+     "key": "560dce8c05a5",
+     "title": "Мастер-класс по чеканке",
+     "date": "2026-12-13",
+     "time": "17:00",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "900 ₽",
+     "link": "https://conservation.timepad.ru/event/4319017/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319017/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e1bd38da-823b-4d94-9b46-3a6e683efce5/-/crop/1280x720/0,67/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "560dce8c05a5"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "6dff5fd3d6fc",
@@ -8277,6 +8668,30 @@
       "5598c1940cca"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "9f4d41ff28ab",
+     "title": "Флористическая ёлочка",
+     "date": "2026-12-13",
+     "time": "18:30",
+     "place": "Москва, Покровский бульвар 16-18, 4-4А (Дом Телешова)",
+     "price": "900 ₽",
+     "link": "https://conservation.timepad.ru/event/4319018/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4319018/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/26651367-f204-4e4b-b5ed-bed55cbef9a3/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9f4d41ff28ab"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "22d4566dd3c6",
@@ -8352,6 +8767,30 @@
       "d2252b2c8fee"
      ],
      "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
+     "key": "29cff72c9a91",
+     "title": "Аромасвечи в стиле хюгге",
+     "date": "2026-12-14",
+     "time": "18:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с.1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4319805/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4319805/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ac0d75e5-abc5-479b-a6f4-759acb150633/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "29cff72c9a91"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "afeb9ffa5af0",
@@ -8550,6 +8989,31 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "27523cb00ada",
+     "title": "Балет «Щелкунчик» школы «Сувенир»",
+     "date": "2026-12-18",
+     "time": "19:00",
+     "place": "Москва, Заречная ул., 2, КДЦ «Заречье»",
+     "price": "1100–2300 ₽",
+     "link": "https://suvenirdance.timepad.ru/event/4306829/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://suvenirdance.timepad.ru/event/4306829/",
+     "cats": [
+      "watch",
+      "dance"
+     ],
+     "adult": false,
+     "author": "Школа танцев \"Сувенир\"",
+     "author_url": "https://suvenirdance.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d6ed26b6-add4-455a-9457-76c8bb609556/-/crop/1772x997/0,32/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "27523cb00ada"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "ce645b903eec",
      "title": "Книжный бранч в гончарной мастерской",
      "date": "2026-12-18",
@@ -8622,6 +9086,30 @@
       "170954aba151"
      ],
      "found": "2026-11-17T16:45:01+03:00"
+    },
+    {
+     "key": "3be28875019c",
+     "title": "Аромасвечи в стиле хюгге",
+     "date": "2026-12-19",
+     "time": "13:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с.1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4319805/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4319805/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ac0d75e5-abc5-479b-a6f4-759acb150633/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3be28875019c"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
     },
     {
      "key": "81ce8620d027",
@@ -8967,6 +9455,30 @@
      "found": "2026-11-17T08:45:00+03:00"
     },
     {
+     "key": "415a59a5823b",
+     "title": "Аромасвечи в стиле хюгге",
+     "date": "2026-12-22",
+     "time": "18:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с.1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4319805/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4319805/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ac0d75e5-abc5-479b-a6f4-759acb150633/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "415a59a5823b"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "773ff84e6d41",
      "title": "КИ + психология: «Границы» (Усов)",
      "date": "2026-12-22",
@@ -9263,6 +9775,30 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "8dca77cf2f33",
+     "title": "Аромасвечи в стиле хюгге",
+     "date": "2026-12-27",
+     "time": "15:00",
+     "place": "Москва, ул. Мясницкая, 14/2 с.1",
+     "price": "1900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4319805/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4319805/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ac0d75e5-abc5-479b-a6f4-759acb150633/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8dca77cf2f33"
+     ],
+     "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
      "key": "2e89e27c9aad",
      "title": "Киберхор: поём новогоднее",
      "date": "2026-12-27",
@@ -9436,13 +9972,13 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
-     "key": "9349a1765740",
-     "title": "Фестиваль контактной импровизации и перформанса",
+     "key": "9332fa91a960",
+     "title": "Фестиваль контактной импровизации",
      "date": "2027-01-03",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/cimsk/7404",
+     "link": "https://t.me/cimsk/7417",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -9452,10 +9988,11 @@
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/SWES4ICrLsgmQDc5yXITLyLWFtP2tgbllAVpGZCtxTIR03rk-uTjo5oc79ME2L6-nPTKHTsru_NakxBx9W4okFaX7kU4i2O_JrU1LHz-ZfG4A3DQQv52Ij_JfQF4PgxXVcqQzSBi0PgkfRnBXt__Zf2w_Vy8T8jmfgswiWR8_dqSrlCYV6alGvWVQHm-ItsyDYX_KmLU2LewUpefcFZAMr0ifyKmBstPNXJpPOWep0n1WrH3dX6TX1MFT0XvTfmjiIudd_St-jlWrTMAdMJDmdnpike56oKVdcL3w-_iQSaHbJD1sWXtLq2GcBfyICwcP3xQ0NSGwdTzagYyv--How",
+     "image": "https://cdn4.telesco.pe/file/Xmx2DyM08tMzd0L5b8sfvvZukpuPbpPTg5B1jF-5iMxQH_GZMVzwsbvO-G4cftL5VYoNPgu_ECSE-tY9P3I4-k0Ohx8ZLO3WW_KhTjV0x6wY-bdXxmr-siOChypJMuiWtLIHYPTUR0LXPBFZqprBQ77Zaxa1wKZ0tgdFvb379NcMwnh0LnpievnxwDC9RTojlQ5ofdhxp86UdSg7sQUNEB8WIVq3pvlQftWO1hRVITID16bsimN0FuTsYjzZh2d0nymEOvV_GZzdA9_WYVq1T1I-sITw4taz7lStJucCRtgApgnCc2ES8UZqEiTq7RiNr9M6bU3NOIn5iW1Q_doBYQ.jpg",
      "hot": true,
-     "hot_reason": "новогодний фестиваль раз в год",
+     "hot_reason": "фестиваль КИ раз в год",
      "keys": [
+      "9332fa91a960",
       "9349a1765740"
      ],
      "found": "2026-11-19T16:45:08+03:00"
@@ -9516,28 +10053,28 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-22T12:45:19+03:00",
-     "events": 149
+     "last_post": "2026-11-22T16:45:16+03:00",
+     "events": 171
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-22T12:14:13+03:00",
+     "last_post": "2026-11-22T16:26:19+03:00",
      "events": 19
     },
     {
      "title": "FoShoo — любительский театр",
      "username": "fo_shoo",
      "kind": "extra",
-     "last_post": "2026-11-21T13:02:31+03:00",
+     "last_post": "2026-11-22T15:16:59+03:00",
      "events": 6
     },
     {
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
-     "last_post": "2026-11-21T21:53:19+03:00",
+     "last_post": "2026-11-22T15:02:35+03:00",
      "events": 6
     },
     {
@@ -9579,7 +10116,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-21T17:30:01+03:00",
+     "last_post": "2026-11-22T13:33:01+03:00",
      "events": 2
     },
     {
