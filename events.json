@@ -1609,6 +1609,32 @@
      "found": "2026-11-19T12:30:02+03:00"
     },
     {
+     "key": "3c3c48199ea6",
+     "title": "Секс в долгосрочных отношениях: лекция-разговорка в SensCafe",
+     "date": "2026-11-29",
+     "time": "14:30",
+     "place": "SensCafe",
+     "price": "по тарифу тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8805",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch",
+      "circles"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3c3c48199ea6"
+     ],
+     "found": "2026-11-23T11:00:04+03:00"
+    },
+    {
      "key": "64a57cb4d076",
      "title": "Киноклуб с Максом в Obnime",
      "date": "2026-11-29",
@@ -3814,7 +3840,7 @@
      "username": "sensualcafe",
      "kind": "folder",
      "last_post": "2026-11-22T20:53:38+03:00",
-     "events": 24
+     "events": 25
     },
     {
      "title": "Точка Импро",
