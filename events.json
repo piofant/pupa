@@ -4923,6 +4923,30 @@
      "found": "2026-11-23T08:45:04+03:00"
     },
     {
+     "key": "26439b3c4d42",
+     "title": "Класс КИ «Проявленность»",
+     "date": "2026-11-24",
+     "time": "19:00",
+     "place": "Центр Альфа Зет, 3-й Самотечный пер. 11/1, м. Достоевская",
+     "price": "1800 ₽ при оплате до понедельника, 2100 ₽ во вторник",
+     "link": "https://t.me/cimsk/7425",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/acSqZUsTudSawsmCWGNVRSgP9b8IpWVEz5f0kLx7UjAoJ4uJI9vgEO1bv61RVWtmOK2f7ZsPjO5BcbfGzOs1uobwz8y0s4YikBv5vNfk3227d7skPyvqmRIrue6za_rRBhiEnPMC-3EyGi6DksIJCpAx1mX6brhmVNOs-HtXqN3q0hhgmzFIE6EFcqk17W8Uvv0BblMc28fhSaZmlTraceWExuNxOGj-X_2VLRVSpydco9R49rvWSP_8CB-9-VDHjk5OoM-EbHIOfCv7fm8fs3idKKt4YmjQYVQFt_3R_KBpOVS1bvX4iPrUBy0ZPLvTX2tlH2kxsEyXRXzZGwNUWQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "26439b3c4d42"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "3c18986166fc",
      "title": "Открытый мастер-класс актёрского мастерства (ВНЕ…ТЕАТР)",
      "date": "2026-11-24",
@@ -4978,7 +5002,8 @@
       "1da6d579d04f",
       "fed65c4a4f6b",
       "1313e3800dd3",
-      "709e4ea67c32"
+      "709e4ea67c32",
+      "0ee9598cbaab"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5346,26 +5371,28 @@
      "found": "2026-11-23T08:45:04+03:00"
     },
     {
-     "key": "254b5b46adb6",
-     "title": "Арома знакомства",
+     "key": "77895d435fc1",
+     "title": "Знакомство с массажем и эфирными маслами",
      "date": "2026-11-26",
      "time": "19:00",
-     "place": "Москва, кафе «Крошечки», ул. Дмитрия Ульянова, 1/61",
+     "place": "Кафе «Крошечки», ул. Дмитрия Ульянова 1/61",
      "price": "бесплатно",
-     "link": "https://praktiki-event.timepad.ru/event/4318992/",
+     "link": "https://praktiki-event.timepad.ru/event/4320241/",
      "source": "Страница на Таймпаде",
-     "signup_url": "https://praktiki-event.timepad.ru/event/4318992/",
+     "signup_url": "https://praktiki-event.timepad.ru/event/4320241/",
      "cats": [
-      "calm",
-      "circles"
+      "body",
+      "craft",
+      "calm"
      ],
      "adult": false,
      "author": "Мероприятия",
      "author_url": "https://praktiki-event.timepad.ru/",
-     "image": "https://ucare.timepad.ru/d0ec304a-a99c-4c87-aaaa-ae9e18d282bf/-/resize/1920x1080/",
+     "image": "https://ucare.timepad.ru/e065f657-9889-47be-9abd-acc480127d95/-/resize/1920x1080/",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "77895d435fc1",
       "254b5b46adb6"
      ],
      "found": "2026-11-22T16:45:16+03:00"
@@ -5419,6 +5446,30 @@
       "04dd60dd2161"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "6b366becc05c",
+     "title": "Стендап в Панчо",
+     "date": "2026-11-26",
+     "time": "19:30",
+     "place": "Панчо Вила, Большая Якиманка 52",
+     "price": "бесплатно",
+     "link": "https://stendap-tsekh.timepad.ru/event/4319637/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://stendap-tsekh.timepad.ru/event/4319637/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Стендап Цех",
+     "author_url": "https://stendap-tsekh.timepad.ru/",
+     "image": "https://ucare.timepad.ru/99b39e40-665e-4f1b-9120-29cfe36513f5/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6b366becc05c"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "58b652bce99b",
@@ -5497,13 +5548,13 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
-     "key": "98a80f3472a5",
-     "title": "Курс по шибари от мастера Шагота (старт)",
+     "key": "08515cca52ae",
+     "title": "Курс по шибари от мастера Шагота",
      "date": "2026-11-26",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/sram_sram18/3008",
+     "link": "https://t.me/sram_sram18/3016",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -5513,10 +5564,11 @@
      "adult": true,
      "author": "Срамота 18+",
      "author_url": "https://t.me/sram_sram18",
-     "image": "https://cdn4.telesco.pe/file/PdFTj8lKPXxU2kqU0hGbmVkV5SIRPnUvo_wGl8lJ5-7bZsksh0aF5YWuqvwq5XPs7oKl31hl8com5sI_LBI2-mhniNq0Me-AbYrT7ra54W1lwWusbrxQ3M8mbBJ7LBC9UokTAyxnNExSoymV285-JAAU-hAqzKR4-TmDCNvOlArMl1Mr6aUYRngNomPnpQQ-lG_IWOO9AqKnCGEG50q4JaPkxW400lFj0qCEiPHo9vRgr4t2wbe01J0TVYttbdcBRolH-pkCAGOH0wlQVYm4TTUc72_egibHnLI7hoxTp104VivXloWhvZWixYHAGpDSgP-XXPbDkgIXZaXahmRTtQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/Ssh0c3fnNznQ_TD8zNIY8C2E4IdV8GjAwIDLYxSi-FBIAGHYGDYSzGUgRuNWfr-YK5LMNyGW4C9Ua81ZT4oW-6bKm5u8Ni-k-Bj4phf_HCMtO1hAoa21Eite7mMMefVZdVb9M8zLxCsca_u1pyqbUYe4nHYCKKuqt925Q34FJZCDQOcXchCWpHmVjCqE68SCKfkL4tEQJX6yWDBQx_fIozAN_JcGPRkRQDG0siPWrXdnXk0QNqHrlc8SVA4NUo7lhTAty1USLoqIZVoXHlZZWBjfDwi4uUaxuZN80DW_mx-AKgcD0Jc0G-mEQkmFV9F5rTtLrtgwwUvaJdtflB6KgQ.jpg",
      "hot": true,
      "hot_reason": "стартует курс, набор группы",
      "keys": [
+      "08515cca52ae",
       "98a80f3472a5"
      ],
      "found": "2026-11-16T12:45:07+03:00"
@@ -6064,13 +6116,13 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
-     "key": "ada82eed11c9",
-     "title": "«Дубайск» от Le Jeu — закрытая вечеринка",
+     "key": "666833051c0c",
+     "title": "«Дубайск» от Le Jeu",
      "date": "2026-11-28",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/sram_sram18/3008",
+     "link": "https://t.me/sram_sram18/3016",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -6079,13 +6131,38 @@
      "adult": true,
      "author": "Срамота 18+",
      "author_url": "https://t.me/sram_sram18",
-     "image": "https://cdn4.telesco.pe/file/PdFTj8lKPXxU2kqU0hGbmVkV5SIRPnUvo_wGl8lJ5-7bZsksh0aF5YWuqvwq5XPs7oKl31hl8com5sI_LBI2-mhniNq0Me-AbYrT7ra54W1lwWusbrxQ3M8mbBJ7LBC9UokTAyxnNExSoymV285-JAAU-hAqzKR4-TmDCNvOlArMl1Mr6aUYRngNomPnpQQ-lG_IWOO9AqKnCGEG50q4JaPkxW400lFj0qCEiPHo9vRgr4t2wbe01J0TVYttbdcBRolH-pkCAGOH0wlQVYm4TTUc72_egibHnLI7hoxTp104VivXloWhvZWixYHAGpDSgP-XXPbDkgIXZaXahmRTtQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/Ssh0c3fnNznQ_TD8zNIY8C2E4IdV8GjAwIDLYxSi-FBIAGHYGDYSzGUgRuNWfr-YK5LMNyGW4C9Ua81ZT4oW-6bKm5u8Ni-k-Bj4phf_HCMtO1hAoa21Eite7mMMefVZdVb9M8zLxCsca_u1pyqbUYe4nHYCKKuqt925Q34FJZCDQOcXchCWpHmVjCqE68SCKfkL4tEQJX6yWDBQx_fIozAN_JcGPRkRQDG0siPWrXdnXk0QNqHrlc8SVA4NUo7lhTAty1USLoqIZVoXHlZZWBjfDwi4uUaxuZN80DW_mx-AKgcD0Jc0G-mEQkmFV9F5rTtLrtgwwUvaJdtflB6KgQ.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "666833051c0c",
       "ada82eed11c9"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "4981a087a28f",
+     "title": "Вечеринка в японском стиле",
+     "date": "2026-11-28",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sram_sram18/3016",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/Ssh0c3fnNznQ_TD8zNIY8C2E4IdV8GjAwIDLYxSi-FBIAGHYGDYSzGUgRuNWfr-YK5LMNyGW4C9Ua81ZT4oW-6bKm5u8Ni-k-Bj4phf_HCMtO1hAoa21Eite7mMMefVZdVb9M8zLxCsca_u1pyqbUYe4nHYCKKuqt925Q34FJZCDQOcXchCWpHmVjCqE68SCKfkL4tEQJX6yWDBQx_fIozAN_JcGPRkRQDG0siPWrXdnXk0QNqHrlc8SVA4NUo7lhTAty1USLoqIZVoXHlZZWBjfDwi4uUaxuZN80DW_mx-AKgcD0Jc0G-mEQkmFV9F5rTtLrtgwwUvaJdtflB6KgQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4981a087a28f"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "9c455f1694e7",
@@ -6297,14 +6374,15 @@
       "body",
       "calm"
      ],
-     "adult": false,
+     "adult": true,
      "author": "Уютное пространство",
      "author_url": "https://t.me/uyutnoeprostranstvoo",
      "image": "https://cdn4.telesco.pe/file/qfCtAPO4z1CtrheVrsWL9jw9ioVrLzUPH_3tzfxEqjRqcmnzlopklBtNV5nH3dKbPv56p9nHj7UvsW09Znds1PW4pv-sKsIGQZaKo1RcVwe3KZx8ZEbc0MAPswqF55zRKKyU6lIN8DwhQzWR6wwYT9Efs7yTzfT2EDnhWpihIi2Q8sWI0qScic1nZ_UFRYRhXOdM_qvcdwsQ_qhfzFNGCBJjR95qes_Ur3MW5T32nGD1kgHx5PfdyWOsvw9kywzR4dztZTgQwwSwvbNk_1a_5SXUfbM0quCK6abV9nHyjb8F2_s8rVuzi3SPJ4VHp4VUFzRjyEslMzFXYXkjeKSs2Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "9be7845a5674"
+      "9be7845a5674",
+      "9a26edd4b68f"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -7565,6 +7643,30 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "4f06d40f4534",
+     "title": "Разговорный клуб «Женское/Мужское»",
+     "date": "2026-12-06",
+     "time": "15:00",
+     "place": "Пространство «Искусство Гармонии», Сретенский бульвар 6/1",
+     "price": "бесплатно",
+     "link": "https://psikholog-dlya-zhiz-event.timepad.ru/event/4317928/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://psikholog-dlya-zhiz-event.timepad.ru/event/4317928/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Психолог для жизни",
+     "author_url": "https://psikholog-dlya-zhiz-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a17ae962-6ec2-4841-b411-494cc5ff783f/-/crop/1280x720/78,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4f06d40f4534"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "9e5d199f071a",
      "title": "«Душа поёт» (LeMoor)",
      "date": "2026-12-06",
@@ -8129,7 +8231,8 @@
       "26cf51cb68ae",
       "af376ba06b29",
       "820ef97ea3b6",
-      "c7151538d843"
+      "c7151538d843",
+      "bb63697ede95"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -8376,6 +8479,30 @@
       "e3dc4e90f1a2"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "6caf4223a22a",
+     "title": "Будуар от Free People",
+     "date": "2026-12-12",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sram_sram18/3016",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/Ssh0c3fnNznQ_TD8zNIY8C2E4IdV8GjAwIDLYxSi-FBIAGHYGDYSzGUgRuNWfr-YK5LMNyGW4C9Ua81ZT4oW-6bKm5u8Ni-k-Bj4phf_HCMtO1hAoa21Eite7mMMefVZdVb9M8zLxCsca_u1pyqbUYe4nHYCKKuqt925Q34FJZCDQOcXchCWpHmVjCqE68SCKfkL4tEQJX6yWDBQx_fIozAN_JcGPRkRQDG0siPWrXdnXk0QNqHrlc8SVA4NUo7lhTAty1USLoqIZVoXHlZZWBjfDwi4uUaxuZN80DW_mx-AKgcD0Jc0G-mEQkmFV9F5rTtLrtgwwUvaJdtflB6KgQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6caf4223a22a"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "6806f791952b",
@@ -8694,6 +8821,30 @@
       "9f4d41ff28ab"
      ],
      "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
+     "key": "2abe532bba14",
+     "title": "Мастер-класс: бархатный шар с новогодним декором",
+     "date": "2026-12-13",
+     "time": "19:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320144/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320144/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/af597398-a439-48cb-8c30-6ba87a60cc71/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2abe532bba14"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "22d4566dd3c6",
@@ -9042,6 +9193,30 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "84f426e72556",
+     "title": "Мастер-класс: венок из искусственной хвои",
+     "date": "2026-12-18",
+     "time": "19:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320115/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320115/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cb7c330b-012d-440d-a042-3bbadfb1a7ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "84f426e72556"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "19ecd5aabeab",
      "title": "Мастер-класс «Интерьерная ёлочка» из проволоки",
      "date": "2026-12-19",
@@ -9161,6 +9336,30 @@
       "5453e55ab74e"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "f8883f727bdf",
+     "title": "Мастер-класс: бархатный шар с новогодним декором",
+     "date": "2026-12-19",
+     "time": "16:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320144/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320144/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/af597398-a439-48cb-8c30-6ba87a60cc71/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f8883f727bdf"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "fc121b0ca39d",
@@ -9382,6 +9581,54 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "04c6f246640b",
+     "title": "Мастер-класс: бархатный шар с новогодним декором",
+     "date": "2026-12-20",
+     "time": "13:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320144/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320144/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/af597398-a439-48cb-8c30-6ba87a60cc71/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "04c6f246640b"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
+     "key": "cbba621e5a37",
+     "title": "Мастер-класс: венок из искусственной хвои",
+     "date": "2026-12-20",
+     "time": "18:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320115/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320115/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cb7c330b-012d-440d-a042-3bbadfb1a7ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "cbba621e5a37"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "0187bc99c922",
      "title": "Клуб «Резонанс»: между тревогой и безразличием",
      "date": "2026-12-20",
@@ -9556,6 +9803,30 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "dc1e423e5617",
+     "title": "Мастер-класс: венок из искусственной хвои",
+     "date": "2026-12-25",
+     "time": "19:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320115/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320115/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cb7c330b-012d-440d-a042-3bbadfb1a7ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "dc1e423e5617"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "467c990b4ef0",
      "title": "Тренинг Дмитрия Бозина «Хранители Тишины»",
      "date": "2026-12-26",
@@ -9654,6 +9925,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "c95b71c05e10",
+     "title": "Мастер-класс: бархатный шар с новогодним декором",
+     "date": "2026-12-26",
+     "time": "19:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320144/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320144/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/af597398-a439-48cb-8c30-6ba87a60cc71/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c95b71c05e10"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "b3585b046030",
      "title": "Завершающий тренинг школы КИ сезона",
      "date": "2026-12-26",
@@ -9726,6 +10021,30 @@
       "293b7d2168e3"
      ],
      "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
+     "key": "1e5f6f25fd60",
+     "title": "Мастер-класс: венок из искусственной хвои",
+     "date": "2026-12-27",
+     "time": "13:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320115/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320115/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cb7c330b-012d-440d-a042-3bbadfb1a7ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1e5f6f25fd60"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "61f3d8e5d5b5",
@@ -9899,6 +10218,30 @@
      "found": "2026-11-20T12:45:23+03:00"
     },
     {
+     "key": "b51795963598",
+     "title": "Мастер-класс: бархатный шар с новогодним декором",
+     "date": "2026-12-28",
+     "time": "17:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320144/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320144/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/af597398-a439-48cb-8c30-6ba87a60cc71/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b51795963598"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "978bf7edc26c",
      "title": "Новогодний джем ансамбля «Голоса Возрождения»",
      "date": "2026-12-28",
@@ -9922,6 +10265,30 @@
       "978bf7edc26c"
      ],
      "found": "2026-11-20T12:45:23+03:00"
+    },
+    {
+     "key": "2da66546964a",
+     "title": "Мастер-класс: венок из искусственной хвои",
+     "date": "2026-12-29",
+     "time": "18:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320115/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320115/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cb7c330b-012d-440d-a042-3bbadfb1a7ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2da66546964a"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "cb83e711d495",
@@ -9973,6 +10340,30 @@
      "found": "2026-11-22T12:45:19+03:00"
     },
     {
+     "key": "6e649bc3ef4d",
+     "title": "Мастер-класс: бархатный шар с новогодним декором",
+     "date": "2026-12-30",
+     "time": "19:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "2900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320144/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320144/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/af597398-a439-48cb-8c30-6ba87a60cc71/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6e649bc3ef4d"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
      "key": "f1a9740ea102",
      "title": "Спектакль «Снегопад для Киры» (30 дек)",
      "date": "2026-12-30",
@@ -9996,6 +10387,30 @@
       "f1a9740ea102"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "c5059df9e601",
+     "title": "Мастер-класс: венок из искусственной хвои",
+     "date": "2026-12-31",
+     "time": "15:00",
+     "place": "Магазин «Флаувау», Мясницкая 14/2 с.1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4320115/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4320115/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cb7c330b-012d-440d-a042-3bbadfb1a7ae/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c5059df9e601"
+     ],
+     "found": "2026-11-23T12:45:07+03:00"
     },
     {
      "key": "9332fa91a960",
@@ -10079,28 +10494,28 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-23T08:45:04+03:00",
-     "events": 160
+     "last_post": "2026-11-23T12:45:07+03:00",
+     "events": 174
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-22T21:05:17+03:00",
-     "events": 25
+     "last_post": "2026-11-23T12:00:56+03:00",
+     "events": 26
+    },
+    {
+     "title": "Срамота 18+",
+     "username": "sram_sram18",
+     "kind": "folder",
+     "last_post": "2026-11-23T10:03:43+03:00",
+     "events": 7
     },
     {
      "title": "FoShoo — любительский театр",
      "username": "fo_shoo",
      "kind": "extra",
      "last_post": "2026-11-22T15:16:59+03:00",
-     "events": 5
-    },
-    {
-     "title": "Срамота 18+",
-     "username": "sram_sram18",
-     "kind": "folder",
-     "last_post": "2026-11-20T12:49:28+03:00",
      "events": 5
     },
     {
@@ -10142,7 +10557,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-22T13:33:01+03:00",
+     "last_post": "2026-11-23T12:27:36+03:00",
      "events": 2
     },
     {
@@ -10156,7 +10571,7 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-21T18:10:06+03:00",
+     "last_post": "2026-11-23T10:03:11+03:00",
      "events": 1
     },
     {
@@ -10170,7 +10585,7 @@
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-22T16:49:21+03:00",
+     "last_post": "2026-11-23T12:04:11+03:00",
      "events": 0
     },
     {
@@ -10247,7 +10662,7 @@
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-22T18:05:15+03:00",
+     "last_post": "2026-11-23T09:30:56+03:00",
      "events": 0
     },
     {
