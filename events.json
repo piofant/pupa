@@ -5122,32 +5122,6 @@
    "name": "Москва",
    "events": [
     {
-     "key": "f966081004cf",
-     "title": "КИ: «Физика и Лирика КИ. Я+Я=МЫ!»",
-     "date": "2026-11-23",
-     "time": "19:00",
-     "place": "Йогаплатформа",
-     "price": "1500–1900 ₽",
-     "link": "https://t.me/cimsk/7421",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/pHK01aZULKWg_mAuW2DriIU2lVbWn6ZunmYSiSAmhLK6Tqr1DRTbWoI7cbyk9kuJWJf_JR8-hcR4N20_CwXuVmW1HW101RfplHMGVUPpvsp_JUuzV1acmwhNmH0Xhvco4GkaNDBdlNWV4Hh5xytd3hH7jHkZW0xV4c54y-6n6bUCUObUrIkSXfDzbJmN9TswD5Qo3SBzBVfZ5ylPxLdrsJJ48lH9XbYGQLcRcmgiEqeio1oT8pRc22MZwFqo8FrkfZJr4_qXRQ1Bc_fQ3LkD8y2af1Yg8sJyS67W_Vs8mrpH1yT2EWYOXjopPHESRr6p_5fElAueLUslk7sIrlmDQw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "f966081004cf",
-      "063291b111d8"
-     ],
-     "found": "2026-11-22T20:45:04+03:00"
-    },
-    {
      "key": "9c0c83c1a7c1",
      "title": "КИ: большой класс Юры Львова",
      "date": "2026-11-23",
@@ -5170,7 +5144,9 @@
      "keys": [
       "9c0c83c1a7c1",
       "76a9d2f27086",
-      "219c3fedc14f"
+      "219c3fedc14f",
+      "f966081004cf",
+      "063291b111d8"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -5341,58 +5317,11 @@
      "hot_reason": "",
      "keys": [
       "cb3ceb389f0a",
-      "b58032630602"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "cc022a900771",
-     "title": "КИ + психология: «Нагло. Красиво. Видимо.»",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "АльфаЗет, м. Достоевская",
-     "price": null,
-     "link": "https://t.me/cimsk/7421",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "circles"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "cc022a900771"
-     ],
-     "found": "2026-11-23T08:45:04+03:00"
-    },
-    {
-     "key": "26439b3c4d42",
-     "title": "Класс КИ «Проявленность»",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Центр Альфа Зет, 3-й Самотечный пер. 11/1, м. Достоевская",
-     "price": "1800 ₽ при оплате до понедельника, 2100 ₽ во вторник",
-     "link": "https://t.me/cimsk/7425",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/acSqZUsTudSawsmCWGNVRSgP9b8IpWVEz5f0kLx7UjAoJ4uJI9vgEO1bv61RVWtmOK2f7ZsPjO5BcbfGzOs1uobwz8y0s4YikBv5vNfk3227d7skPyvqmRIrue6za_rRBhiEnPMC-3EyGi6DksIJCpAx1mX6brhmVNOs-HtXqN3q0hhgmzFIE6EFcqk17W8Uvv0BblMc28fhSaZmlTraceWExuNxOGj-X_2VLRVSpydco9R49rvWSP_8CB-9-VDHjk5OoM-EbHIOfCv7fm8fs3idKKt4YmjQYVQFt_3R_KBpOVS1bvX4iPrUBy0ZPLvTX2tlH2kxsEyXRXzZGwNUWQ.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "b58032630602",
+      "cc022a900771",
       "26439b3c4d42"
      ],
-     "found": "2026-11-23T12:45:07+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "3c18986166fc",
@@ -5451,7 +5380,8 @@
       "fed65c4a4f6b",
       "1313e3800dd3",
       "709e4ea67c32",
-      "0ee9598cbaab"
+      "0ee9598cbaab",
+      "876adb9859cb"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5817,6 +5747,30 @@
       "b05af0ea03fe"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "88ed49d95ef1",
+     "title": "Контактная импровизация: класс «Животное»",
+     "date": "2026-11-25",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7428",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "88ed49d95ef1"
+     ],
+     "found": "2026-11-23T20:45:06+03:00"
     },
     {
      "key": "ebc46c5f2230",
@@ -7380,6 +7334,31 @@
      "found": "2026-11-16T02:50:09+03:00"
     },
     {
+     "key": "69f79ef64bac",
+     "title": "Шоу длинной формы импро-команды Сабраж",
+     "date": "2026-12-01",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/shamina_sharit/3744",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Шамина шарит — дайджест импрова",
+     "author_url": "https://t.me/shamina_sharit",
+     "image": "https://cdn4.telesco.pe/file/GadJDPk-CeOuscUoktyuTnRxtIp17kbT0QAIIadKHH4uAQ9fqlc_1S2re-wZ-Mk1gd8l03t7LFtJo2pOPFMKswqULX-taonrO9EL1_5U2YzpINfMMg9-_wSGwm3nq9A1fKSViiJHy8z6294upqchs-Q6OT34kGo7a3Ppljfd8mrt3WAQa7TxEIVjaCKogCPaz4Dra2Z20aVs-QPjfRIxYJoNucR8i9pzxVQL8vFWndWmKcupSu_-6ccCR9FZMkr-KZUgXRydg78WNwreeDZhLdwDTonKbcaZ5f6kVy95DZH05g0lCKwNFt8GGg8pgEl-UyzXWLO1iBpFINL3fG9OMw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "69f79ef64bac"
+     ],
+     "found": "2026-11-23T20:45:06+03:00"
+    },
+    {
      "key": "dd26fbe38924",
      "title": "Презентация выставки «Китайское искусство»",
      "date": "2026-12-02",
@@ -7548,6 +7527,30 @@
       "20d43a45f870"
      ],
      "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
+     "key": "1c7a6f511cd0",
+     "title": "Контактная импровизация: класс «Животное», часть 2",
+     "date": "2026-12-02",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7428",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1c7a6f511cd0"
+     ],
+     "found": "2026-11-23T20:45:06+03:00"
     },
     {
      "key": "2bca3323d9c4",
@@ -8776,7 +8779,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "5ff88d9620cc"
+      "5ff88d9620cc",
+      "7b4612583723"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -9839,6 +9843,31 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "8220109a8ce7",
+     "title": "Контактная импровизация: лаборатория",
+     "date": "2026-12-16",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7428",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8220109a8ce7"
+     ],
+     "found": "2026-11-23T20:45:06+03:00"
+    },
+    {
      "key": "9968f1bb56d2",
      "title": "Лекция «Особые отношения с историей»",
      "date": "2026-12-17",
@@ -10548,6 +10577,30 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "506e98decc0f",
+     "title": "Контактная импровизация: класс",
+     "date": "2026-12-23",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7428",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "506e98decc0f"
+     ],
+     "found": "2026-11-23T20:45:06+03:00"
+    },
+    {
      "key": "dc1e423e5617",
      "title": "Мастер-класс: венок из искусственной хвои",
      "date": "2026-12-25",
@@ -11239,15 +11292,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-23T16:45:01+03:00",
+     "last_post": "2026-11-23T20:45:06+03:00",
      "events": 187
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-23T16:04:00+03:00",
-     "events": 26
+     "last_post": "2026-11-23T18:04:36+03:00",
+     "events": 27
     },
     {
      "title": "Срамота 18+",
@@ -11306,6 +11359,13 @@
      "events": 2
     },
     {
+     "title": "Шамина шарит — дайджест импрова",
+     "username": "shamina_sharit",
+     "kind": "extra",
+     "last_post": "2026-11-23T17:25:08+03:00",
+     "events": 2
+    },
+    {
      "title": "Пятая Пятница",
      "username": "fifth_friday",
      "kind": "folder",
@@ -11316,21 +11376,14 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-23T10:03:11+03:00",
-     "events": 1
-    },
-    {
-     "title": "Шамина шарит — дайджест импрова",
-     "username": "shamina_sharit",
-     "kind": "extra",
-     "last_post": "2026-11-22T21:53:05+03:00",
+     "last_post": "2026-11-23T17:35:48+03:00",
      "events": 1
     },
     {
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-23T12:04:11+03:00",
+     "last_post": "2026-11-23T16:49:21+03:00",
      "events": 0
     },
     {
@@ -11365,7 +11418,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-22T11:19:45+03:00",
+     "last_post": "2026-11-23T19:47:45+03:00",
      "events": 0
     },
     {
