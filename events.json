@@ -326,11 +326,12 @@
      "adult": false,
      "author": "Каледонский Лес",
      "author_url": "https://t.me/kl_les",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/EWAIXb_-zFNO_vydOyuVTAmaSQWrjKKsDlmfe3cms2bcWC2OO5E0yZuV8_Y41gFNuLCtCzZ27Nv6yQ0IviXA2bTVMA8WrKPVBLym9GWaHN4Ah3rjt36EMVzBA0ndnIoELiJVtx3IGl2u3JkIcsBK6ra5N3yRbxk4dtlySgud_jov8UrMRV22sbgMVz3of-it3tAjrVJBmoNqkPoy8fhhgakqIDAu-EL1xOpM67SjphkrB7csn2ZlMoEdAI4RJE3L62Sqc5JMluK_Iv0sgrii7hWr8ERmGdZHN6VQ-wHa5ANbNkvi37V9o88ccWztRF11c7agDoge9N7xPqiNH0u2jg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "99261b90d342"
+      "99261b90d342",
+      "7f106c3a248b"
      ],
      "found": "2026-11-23T08:30:26+03:00"
     },
@@ -351,11 +352,12 @@
      "adult": false,
      "author": "Каледонский Лес",
      "author_url": "https://t.me/kl_les",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/EWAIXb_-zFNO_vydOyuVTAmaSQWrjKKsDlmfe3cms2bcWC2OO5E0yZuV8_Y41gFNuLCtCzZ27Nv6yQ0IviXA2bTVMA8WrKPVBLym9GWaHN4Ah3rjt36EMVzBA0ndnIoELiJVtx3IGl2u3JkIcsBK6ra5N3yRbxk4dtlySgud_jov8UrMRV22sbgMVz3of-it3tAjrVJBmoNqkPoy8fhhgakqIDAu-EL1xOpM67SjphkrB7csn2ZlMoEdAI4RJE3L62Sqc5JMluK_Iv0sgrii7hWr8ERmGdZHN6VQ-wHa5ANbNkvi37V9o88ccWztRF11c7agDoge9N7xPqiNH0u2jg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "73c5fe4c8462"
+      "73c5fe4c8462",
+      "46865f03a226"
      ],
      "found": "2026-11-23T08:30:26+03:00"
     },
@@ -406,6 +408,31 @@
       "e1e734f2a55d"
      ],
      "found": "2026-11-23T08:30:26+03:00"
+    },
+    {
+     "key": "78de584f4b5c",
+     "title": "Лекция Юлии Векслер «Штраус и Шёнберг»",
+     "date": "2026-11-24",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2236",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/B2k0b163k9RgOGQwnJcClEV7SZY6dvJfCbBq8hihOFemowQa8u1Z40-1aipzoFq7fKIpb_9c8LCN6s4I_dG0FcHRGxl-oPfpb6wvBAkIbaTU0Gu6rokq_fmSIPW0DrZx3hPnue3YLG9Bk7aOyPxdL5AJ-bUz1Lv_YxYeOG9aXuZVP1-pD-iSmiJmCrNjz2O-sx0XS1Gx51UM05JNJNvBkIjHq9fiuVIth7UCA3TpL3lSezz_4UZ3g7dbxqqyGQ4E3f4vFAE2xPiuQip2wsgv8Gxhxe7GiX_MsJMg3qXefFwTA-OxH9r-gje-bKoS_tKN-Pbr1oln2ELLyVizRz-Rtg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "78de584f4b5c"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
     },
     {
      "key": "50a88f535aa9",
@@ -506,6 +533,30 @@
      "found": "2026-11-20T09:00:01+03:00"
     },
     {
+     "key": "4c511e08c27a",
+     "title": "Групповая медитация Випассаны",
+     "date": "2026-11-25",
+     "time": "18:55",
+     "place": "Радищева 30, м. Площадь Восстания/Чернышевская",
+     "price": "бесплатно, пожертвование",
+     "link": "https://t.me/spb_vipassana/1350",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Випассана СПб",
+     "author_url": "https://t.me/spb_vipassana",
+     "image": "https://cdn4.telesco.pe/file/meDKu25ac6vvR11YrOglNvWgCq6T3gdMFT9fXGjZQzRxn_K-WTUE42R75uV5xdlTpP3EEFdVur1NDDnU9DZ2GqsSiISedOUaKjF2qnQytP6VZsTYOFH5LhyYemtAbPdJ4SVgXwNfNm2OjMc_uoD0togZR2KSvB5QhpjhO5OpU9dLJAxENiU89E4-puowzbjyamEiNXrrJV3npNiEBNPJ3ledWeYXOFl3sdKsCstU8yiBoFKDlN0R0VY7rsgnhG4WmlhpAczVu48M0KwCv4Qig2KfVTLvhfRH0q5FP-x4DsV5BOhW0t9fGv-7xoCKdIHiAio2t4AAfXkY6hZoRN5jTA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4c511e08c27a"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
+    },
+    {
      "key": "f638eb095955",
      "title": "Ботанические иллюстрации акварелью",
      "date": "2026-11-25",
@@ -604,6 +655,31 @@
      "found": "2026-11-23T08:30:26+03:00"
     },
     {
+     "key": "3a3c7c06e6c2",
+     "title": "«ТОЧНО!» — импро-игра комиков",
+     "date": "2026-11-25",
+     "time": "20:00",
+     "place": "Бар «Глагол», м. Петроградская",
+     "price": null,
+     "link": "https://t.me/improschoolspb/7713",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3a3c7c06e6c2"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
+    },
+    {
      "key": "cc1775e5637f",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-11-25",
@@ -626,6 +702,31 @@
       "cc1775e5637f"
      ],
      "found": "2026-11-18T08:30:00+03:00"
+    },
+    {
+     "key": "4611aa027ebd",
+     "title": "Творческая встреча с Фёдором Безносиковым",
+     "date": "2026-11-25",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2236",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/B2k0b163k9RgOGQwnJcClEV7SZY6dvJfCbBq8hihOFemowQa8u1Z40-1aipzoFq7fKIpb_9c8LCN6s4I_dG0FcHRGxl-oPfpb6wvBAkIbaTU0Gu6rokq_fmSIPW0DrZx3hPnue3YLG9Bk7aOyPxdL5AJ-bUz1Lv_YxYeOG9aXuZVP1-pD-iSmiJmCrNjz2O-sx0XS1Gx51UM05JNJNvBkIjHq9fiuVIth7UCA3TpL3lSezz_4UZ3g7dbxqqyGQ4E3f4vFAE2xPiuQip2wsgv8Gxhxe7GiX_MsJMg3qXefFwTA-OxH9r-gje-bKoS_tKN-Pbr1oln2ELLyVizRz-Rtg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4611aa027ebd"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
     },
     {
      "key": "323e4d5df296",
@@ -800,13 +901,38 @@
      "found": "2026-11-20T20:30:01+03:00"
     },
     {
-     "key": "7a6684513297",
-     "title": "Показ «Малики» с режиссёром",
+     "key": "a1ba70d14c94",
+     "title": "Comedy Buddy: клуб разгонов",
+     "date": "2026-11-26",
+     "time": "20:00",
+     "place": "Школа «СРАЗУ»",
+     "price": null,
+     "link": "https://t.me/improschoolspb/7713",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre",
+      "circles"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a1ba70d14c94"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
+    },
+    {
+     "key": "92b67704dbee",
+     "title": "Показ фильма «Малика» с обсуждением",
      "date": "2026-11-26",
      "time": null,
      "place": "Дом Радио",
      "price": null,
-     "link": "https://t.me/domradio_online/2179",
+     "link": "https://t.me/domradio_online/2236",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -816,10 +942,11 @@
      "adult": false,
      "author": "Дом Радио",
      "author_url": "https://t.me/domradio_online",
-     "image": "https://cdn4.telesco.pe/file/WZ0sgF8BUoR0OwHzIoqnkolZ_YWdKg3TC7LgnbFWfWjMasXmuCQ65063q5zkMHYApVRv_X2ryGLWSUdRAwBYyWPXQQOpH5hNA4Yy7pfFkOBNR7-vu1J0T5Sf6W92MY5N67MiaziA8y2aO6a6WH_Pbo-OC8XJeCkwhJTVxOyaV9HIxAlrLXvUqfSUQFPFgp3VKB-IPf_8tQMTYpXP_Ljr-E0JaOMolXxveD8bUlhuYcrtIXvY5Z5Qc1yndh8tbkPOUqZyHevooDg0rrVc16ro9kM7fD08-ACjPIAQibl1qLplM8o6DqqmGiJX8RnZbcyh3kwOl8wqEIJ_AN6dWAQ9lA",
+     "image": "https://cdn4.telesco.pe/file/B2k0b163k9RgOGQwnJcClEV7SZY6dvJfCbBq8hihOFemowQa8u1Z40-1aipzoFq7fKIpb_9c8LCN6s4I_dG0FcHRGxl-oPfpb6wvBAkIbaTU0Gu6rokq_fmSIPW0DrZx3hPnue3YLG9Bk7aOyPxdL5AJ-bUz1Lv_YxYeOG9aXuZVP1-pD-iSmiJmCrNjz2O-sx0XS1Gx51UM05JNJNvBkIjHq9fiuVIth7UCA3TpL3lSezz_4UZ3g7dbxqqyGQ4E3f4vFAE2xPiuQip2wsgv8Gxhxe7GiX_MsJMg3qXefFwTA-OxH9r-gje-bKoS_tKN-Pbr1oln2ELLyVizRz-Rtg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "92b67704dbee",
       "7a6684513297"
      ],
      "found": "2026-11-15T19:53:57+03:00"
@@ -1124,7 +1251,8 @@
      "hot_reason": "",
      "keys": [
       "7e26ba50d7c3",
-      "990cb11a900f"
+      "990cb11a900f",
+      "992a5a9dca38"
      ],
      "found": "2026-11-16T12:30:00+03:00"
     },
@@ -1751,6 +1879,30 @@
      "found": "2026-11-23T12:30:21+03:00"
     },
     {
+     "key": "b2baeaa123e9",
+     "title": "«Распев»: хоровые встречи",
+     "date": "2026-11-28",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2236",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/B2k0b163k9RgOGQwnJcClEV7SZY6dvJfCbBq8hihOFemowQa8u1Z40-1aipzoFq7fKIpb_9c8LCN6s4I_dG0FcHRGxl-oPfpb6wvBAkIbaTU0Gu6rokq_fmSIPW0DrZx3hPnue3YLG9Bk7aOyPxdL5AJ-bUz1Lv_YxYeOG9aXuZVP1-pD-iSmiJmCrNjz2O-sx0XS1Gx51UM05JNJNvBkIjHq9fiuVIth7UCA3TpL3lSezz_4UZ3g7dbxqqyGQ4E3f4vFAE2xPiuQip2wsgv8Gxhxe7GiX_MsJMg3qXefFwTA-OxH9r-gje-bKoS_tKN-Pbr1oln2ELLyVizRz-Rtg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b2baeaa123e9"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
+    },
+    {
      "key": "a7aeb863beec",
      "title": "Игры на желание",
      "date": "2026-11-28",
@@ -1801,6 +1953,31 @@
       "aa91a45639f7"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "c86637363be8",
+     "title": "Мастер-класс Сергея Суховика: дроун-синтезатор",
+     "date": "2026-11-28",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2236",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "music",
+      "craft"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/B2k0b163k9RgOGQwnJcClEV7SZY6dvJfCbBq8hihOFemowQa8u1Z40-1aipzoFq7fKIpb_9c8LCN6s4I_dG0FcHRGxl-oPfpb6wvBAkIbaTU0Gu6rokq_fmSIPW0DrZx3hPnue3YLG9Bk7aOyPxdL5AJ-bUz1Lv_YxYeOG9aXuZVP1-pD-iSmiJmCrNjz2O-sx0XS1Gx51UM05JNJNvBkIjHq9fiuVIth7UCA3TpL3lSezz_4UZ3g7dbxqqyGQ4E3f4vFAE2xPiuQip2wsgv8Gxhxe7GiX_MsJMg3qXefFwTA-OxH9r-gje-bKoS_tKN-Pbr1oln2ELLyVizRz-Rtg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c86637363be8"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
     },
     {
      "key": "f7cbf0c17411",
@@ -1873,6 +2050,54 @@
       "c86d994a3220"
      ],
      "found": "2026-11-20T16:30:08+03:00"
+    },
+    {
+     "key": "528b54ac3891",
+     "title": "Практикум по юмору и импровизации (12:00)",
+     "date": "2026-11-29",
+     "time": "12:00",
+     "place": "Школа «СРАЗУ»",
+     "price": "800 ₽ / 1500 ₽",
+     "link": "https://t.me/improschoolspb/7713",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "528b54ac3891"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
+    },
+    {
+     "key": "c91c87879cf8",
+     "title": "Практикум по юмору и импровизации (14:00)",
+     "date": "2026-11-29",
+     "time": "14:00",
+     "place": "Школа «СРАЗУ»",
+     "price": "800 ₽ / 1500 ₽",
+     "link": "https://t.me/improschoolspb/7713",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c91c87879cf8"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
     },
     {
      "key": "3c3c48199ea6",
@@ -1952,6 +2177,30 @@
       "370897a3e7cc"
      ],
      "found": "2026-11-23T12:30:21+03:00"
+    },
+    {
+     "key": "954e891fed24",
+     "title": "Бесплатный пробный урок по юмору и импровизации",
+     "date": "2026-11-29",
+     "time": "16:30",
+     "place": "Школа «СРАЗУ»",
+     "price": "бесплатно",
+     "link": "https://t.me/improschoolspb/7713",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "author_url": "https://t.me/improschoolspb",
+     "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "954e891fed24"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
     },
     {
      "key": "49d74c714bda",
@@ -2317,6 +2566,32 @@
      "found": "2026-11-22T20:30:28+03:00"
     },
     {
+     "key": "5fbd4e49c4e3",
+     "title": "Ecstatic Banya в Муринских банях",
+     "date": "2026-11-30",
+     "time": "19:00",
+     "place": "Муринские бани, баня «Правильная», Мурино, 2-я линия, 4",
+     "price": "3500–8000 ₽",
+     "link": "https://t.me/lifeisecstatic/5697",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm",
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
+     "author_url": "https://t.me/lifeisecstatic",
+     "image": "https://cdn4.telesco.pe/file/D4xJAmO7t9pNGy1zQDeCJ-NsO_k1WkyD9oIcvUtodonYlWIYCqOH22T0BWoZzIimfyfpl9t720SMH98z2w4K95Gvj7wtJqKYkDejcMKAjEgIYr2Ivp1U8Q2fCcR4kgQ04IM1bZtHiMQKdmEl3MJuWty-2VXlAmVvZ9wlF9cBJxeT9ZUo8iQmFNywdBHb-3Cck6KXZ1XL_v9rBf6RUBTq3GFj6Am4U2pJ-Gg1PSpO2NwafshYv8FPX06v_39zvvqEZp7RWoJ5dvIS_q1cx9yHQtQrS9P21Inoa1EcPeRJxKTyYI9lVe4mPe3wRkUnqOwPFT3q1sDNbFadfnQWmYqP2A.jpg",
+     "hot": true,
+     "hot_reason": "всего 20 мест, перенесено на понедельник",
+     "keys": [
+      "5fbd4e49c4e3"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
+    },
+    {
      "key": "23f43db37824",
      "title": "Магия тупрова: курс парной импровизации",
      "date": "2026-11-30",
@@ -2488,6 +2763,31 @@
       "9c3333d7e9c1"
      ],
      "found": "2026-11-23T12:30:21+03:00"
+    },
+    {
+     "key": "b8fd05d3286b",
+     "title": "Шоу длинной формы от «Сабраж»",
+     "date": "2026-12-01",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/shamina_sharit/3744",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Шамина шарит — дайджест импрова",
+     "author_url": "https://t.me/shamina_sharit",
+     "image": "https://cdn4.telesco.pe/file/GadJDPk-CeOuscUoktyuTnRxtIp17kbT0QAIIadKHH4uAQ9fqlc_1S2re-wZ-Mk1gd8l03t7LFtJo2pOPFMKswqULX-taonrO9EL1_5U2YzpINfMMg9-_wSGwm3nq9A1fKSViiJHy8z6294upqchs-Q6OT34kGo7a3Ppljfd8mrt3WAQa7TxEIVjaCKogCPaz4Dra2Z20aVs-QPjfRIxYJoNucR8i9pzxVQL8vFWndWmKcupSu_-6ccCR9FZMkr-KZUgXRydg78WNwreeDZhLdwDTonKbcaZ5f6kVy95DZH05g0lCKwNFt8GGg8pgEl-UyzXWLO1iBpFINL3fG9OMw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b8fd05d3286b"
+     ],
+     "found": "2026-11-23T20:30:00+03:00"
     },
     {
      "key": "73ceb8bbfad2",
@@ -3164,13 +3464,13 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
-     "key": "8a2c52ab5000",
-     "title": "Открытый диалог «Говори»",
+     "key": "77ec48ae430c",
+     "title": "Открытый Диалог",
      "date": "2026-12-06",
      "time": "18:00",
      "place": "Лиговский пр-т, 83Г",
      "price": "500 ₽",
-     "link": "https://t.me/dialogboma/103",
+     "link": "https://t.me/dialogboma/108",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -3183,6 +3483,7 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "77ec48ae430c",
       "8a2c52ab5000"
      ],
      "found": "2026-11-17T20:30:01+03:00"
@@ -4448,7 +4749,7 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-23T16:30:05+03:00",
+     "last_post": "2026-11-23T20:30:00+03:00",
      "events": 70
     },
     {
@@ -4469,8 +4770,8 @@
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-20T17:55:53+03:00",
-     "events": 8
+     "last_post": "2026-11-23T16:38:44+03:00",
+     "events": 12
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -4490,22 +4791,29 @@
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
-     "last_post": "2026-11-23T16:08:49+03:00",
+     "last_post": "2026-11-23T18:25:04+03:00",
      "events": 6
     },
     {
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-23T00:37:37+03:00",
+     "last_post": "2026-11-23T19:03:32+03:00",
      "events": 6
     },
     {
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-23T14:17:06+03:00",
-     "events": 4
+     "last_post": "2026-11-23T18:04:02+03:00",
+     "events": 5
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-23T19:48:04+03:00",
+     "events": 5
     },
     {
      "title": "Improv Life",
@@ -4536,6 +4844,13 @@
      "events": 2
     },
     {
+     "title": "Випассана СПб",
+     "username": "spb_vipassana",
+     "kind": "folder",
+     "last_post": "2026-11-23T17:21:43+03:00",
+     "events": 2
+    },
+    {
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
@@ -4550,6 +4865,13 @@
      "events": 2
     },
     {
+     "title": "Шамина шарит — дайджест импрова",
+     "username": "shamina_sharit",
+     "kind": "extra",
+     "last_post": "2026-11-23T17:25:08+03:00",
+     "events": 2
+    },
+    {
      "title": "Sensual Party 5 декабря",
      "username": "sensualparty",
      "kind": "folder",
@@ -4557,17 +4879,10 @@
      "events": 1
     },
     {
-     "title": "Випассана СПб",
-     "username": "spb_vipassana",
-     "kind": "folder",
-     "last_post": "2026-11-21T15:14:00+03:00",
-     "events": 1
-    },
-    {
      "title": "ГОВОРИ",
      "username": "dialogboma",
      "kind": "extra",
-     "last_post": "2026-11-23T15:19:19+03:00",
+     "last_post": "2026-11-23T17:31:34+03:00",
      "events": 1
     },
     {
@@ -4588,7 +4903,7 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-22T18:27:45+03:00",
+     "last_post": "2026-11-23T20:05:21+03:00",
      "events": 1
     },
     {
@@ -4603,13 +4918,6 @@
      "username": "chapopro",
      "kind": "folder",
      "last_post": null,
-     "events": 1
-    },
-    {
-     "title": "Шамина шарит — дайджест импрова",
-     "username": "shamina_sharit",
-     "kind": "extra",
-     "last_post": "2026-11-22T21:53:05+03:00",
      "events": 1
     },
     {
@@ -4735,7 +5043,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-22T19:29:57+03:00",
+     "last_post": "2026-11-23T19:31:57+03:00",
      "events": 0
     },
     {
@@ -4763,21 +5071,14 @@
      "title": "Плейбек-театр \"ЭХО\"",
      "username": "playback_812",
      "kind": "extra",
-     "last_post": "2026-11-14T13:04:55+03:00",
-     "events": 0
-    },
-    {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-22T21:24:10+03:00",
+     "last_post": "2026-11-23T17:47:09+03:00",
      "events": 0
     },
     {
      "title": "Театр «Свой вариант»",
      "username": "tssvoyvariant",
      "kind": "folder",
-     "last_post": null,
+     "last_post": "2026-11-23T20:00:01+03:00",
      "events": 0
     },
     {
