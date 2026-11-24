@@ -156,6 +156,30 @@
      "found": "2026-11-23T08:30:26+03:00"
     },
     {
+     "key": "48abb9785e6d",
+     "title": "Сила в движении",
+     "date": "2026-11-24",
+     "time": "19:00",
+     "place": "ТОТ ЙОГА ЦЕНТР, Сенная",
+     "price": null,
+     "link": "https://t.me/totyoga/3056",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "ТОТ ЙОГА ЦЕНТР",
+     "author_url": "https://t.me/totyoga",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "48abb9785e6d"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
      "key": "73c5fe4c8462",
      "title": "Сказка с гуслями от Киры Гаран",
      "date": "2026-11-24",
@@ -1479,6 +1503,30 @@
      "found": "2026-11-23T12:00:22+03:00"
     },
     {
+     "key": "a0d385d35dd3",
+     "title": "Ужин о книгах с психологом и издателем",
+     "date": "2026-11-28",
+     "time": "16:00",
+     "place": "Ресторан «Римски», Большой проспект В.О., 18",
+     "price": "1000 ₽",
+     "link": "https://dnevnik-psikhologa.timepad.ru/event/4322759/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://dnevnik-psikhologa.timepad.ru/event/4322759/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Дневник Психолога",
+     "author_url": "https://dnevnik-psikhologa.timepad.ru/",
+     "image": "https://ucare.timepad.ru/67806f80-19ed-422f-9143-d3d052367346/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "всего 8 мест",
+     "keys": [
+      "a0d385d35dd3"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
      "key": "7ba8eff6926c",
      "title": "Чайная встреча «Ароматы северной природы»",
      "date": "2026-11-28",
@@ -2788,6 +2836,31 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "9327e3b2a67a",
+     "title": "Граффити: дискуссия и первый скетч",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": "Молодежный клуб «Эллада», ул. Псковская, 14",
+     "price": "бесплатно",
+     "link": "https://mk-ellada-event.timepad.ru/event/4322553/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mk-ellada-event.timepad.ru/event/4322553/",
+     "cats": [
+      "craft",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Молодежный клуб «Эллада»",
+     "author_url": "https://mk-ellada-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f39d6412-73a6-4eb8-abc4-5654538971ee/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9327e3b2a67a"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
      "key": "5fca506b7340",
      "title": "Праймал Дейтинг в SensCafe",
      "date": "2026-12-03",
@@ -3114,6 +3187,30 @@
      "found": "2026-11-21T20:30:00+03:00"
     },
     {
+     "key": "154813a780c9",
+     "title": "Мастер-класс: новогодний венок",
+     "date": "2026-12-05",
+     "time": "15:00",
+     "place": "Terra School, Газовая 10Н",
+     "price": "6000 ₽",
+     "link": "https://terra-school.timepad.ru/event/4322762/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://terra-school.timepad.ru/event/4322762/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Terra School",
+     "author_url": "https://terra-school.timepad.ru/",
+     "image": "https://ucare.timepad.ru/1fa09f8f-46a4-4ee4-a8b2-0438963d37dd/-/crop/5152x2895/0,3483/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "154813a780c9"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
      "key": "e5af6d487a6f",
      "title": "Экстатик с DJ Иваном Суворовым в LiveBody",
      "date": "2026-12-05",
@@ -3363,6 +3460,31 @@
       "6a62a26d9edf"
      ],
      "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
+     "key": "0f3f3c3425c1",
+     "title": "Концерт «Голос и орган: диалог сквозь столетия»",
+     "date": "2026-12-06",
+     "time": "18:00",
+     "place": "Кафедральный собор Св. Марии, Большая Конюшенная, 8А",
+     "price": "бесплатно",
+     "link": "https://kafedralnyy-sobor-svyatoy.timepad.ru/event/4317908/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kafedralnyy-sobor-svyatoy.timepad.ru/event/4317908/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Кафедральный Собор святой Марии",
+     "author_url": "https://kafedralnyy-sobor-svyatoy.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f1180084-f8d3-4f33-8789-6549af346c03/-/crop/5112x2875/0,274/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "0f3f3c3425c1"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
     },
     {
      "key": "77ec48ae430c",
@@ -3862,6 +3984,30 @@
      "found": "2026-11-21T20:30:00+03:00"
     },
     {
+     "key": "b908c80cce08",
+     "title": "Мастер-класс: новогодний венок",
+     "date": "2026-12-12",
+     "time": "12:00",
+     "place": "Terra School, Газовая 10Н",
+     "price": "6000 ₽",
+     "link": "https://terra-school.timepad.ru/event/4322762/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://terra-school.timepad.ru/event/4322762/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Terra School",
+     "author_url": "https://terra-school.timepad.ru/",
+     "image": "https://ucare.timepad.ru/1fa09f8f-46a4-4ee4-a8b2-0438963d37dd/-/crop/5152x2895/0,3483/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b908c80cce08"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
      "key": "3204fb8e2f89",
      "title": "Новогодняя PowerPoint-вечеринка",
      "date": "2026-12-12",
@@ -3885,6 +4031,56 @@
       "3204fb8e2f89"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "438ccb9b16bd",
+     "title": "Арт-йога-терапия в галерее Сергиенко",
+     "date": "2026-12-12",
+     "time": "16:00",
+     "place": "Галерея Сергиенко, ул. Пеньковая, 8/6",
+     "price": "12000 ₽",
+     "link": "https://centersis.timepad.ru/event/4317421/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://centersis.timepad.ru/event/4317421/",
+     "cats": [
+      "body",
+      "craft",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Центр стратегического менторинга СИС",
+     "author_url": "https://centersis.timepad.ru/",
+     "image": "https://ucare.timepad.ru/830af110-40a6-4af7-b255-2bdd0dcc30f9/-/crop/2729x1536/11,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый формат с перформансом",
+     "keys": [
+      "438ccb9b16bd"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
+     "key": "096655598c87",
+     "title": "Дискуссионный вечер в «Элладе»",
+     "date": "2026-12-12",
+     "time": "17:00",
+     "place": "Молодежный клуб «Эллада», ул. Псковская, 14",
+     "price": "бесплатно",
+     "link": "https://mk-ellada-event.timepad.ru/event/4322586/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mk-ellada-event.timepad.ru/event/4322586/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Молодежный клуб «Эллада»",
+     "author_url": "https://mk-ellada-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f3ff5b46-01af-4e95-a229-49536ecfe531/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "096655598c87"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
     },
     {
      "key": "73580f6939e7",
@@ -4181,6 +4377,31 @@
       "41954d9d9b1c"
      ],
      "found": "2026-11-22T08:30:15+03:00"
+    },
+    {
+     "key": "653043713f8f",
+     "title": "Спектакль «Таня-Таня»",
+     "date": "2026-12-17",
+     "time": "19:30",
+     "place": "Театр-студия «Кумкуат», Курляндская ул., 49",
+     "price": "900–1600 ₽",
+     "link": "https://teatrkumkuat.timepad.ru/event/3413069/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatrkumkuat.timepad.ru/event/3413069/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Театр-студия \"Кумкуат\"",
+     "author_url": "https://teatrkumkuat.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a2cffd67-414c-40c4-9911-902bf889955f/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "653043713f8f"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
     },
     {
      "key": "2a140dd9ba5f",
@@ -4620,6 +4841,30 @@
      "found": "2026-11-19T20:30:00+03:00"
     },
     {
+     "key": "54b52bf36b88",
+     "title": "Новогодний скетч-баттл",
+     "date": "2026-12-28",
+     "time": "19:00",
+     "place": "Молодежный клуб «Эллада», ул. Псковская, 14",
+     "price": "бесплатно",
+     "link": "https://mk-ellada-event.timepad.ru/event/4322606/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mk-ellada-event.timepad.ru/event/4322606/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Молодежный клуб «Эллада»",
+     "author_url": "https://mk-ellada-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f39d6412-73a6-4eb8-abc4-5654538971ee/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "54b52bf36b88"
+     ],
+     "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
      "key": "789ef4cdc7e3",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-30",
@@ -4724,14 +4969,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T08:30:14+03:00",
-     "events": 68
+     "last_post": "2026-11-24T12:30:00+03:00",
+     "events": 77
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-23T16:29:09+03:00",
+     "last_post": "2026-11-24T12:02:52+03:00",
      "events": 23
     },
     {
@@ -4745,7 +4990,7 @@
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-23T21:05:02+03:00",
+     "last_post": "2026-11-24T11:51:36+03:00",
      "events": 14
     },
     {
@@ -4766,7 +5011,7 @@
      "title": "Гостиная: открыто",
      "username": "open_living",
      "kind": "folder",
-     "last_post": "2026-11-22T09:59:58+03:00",
+     "last_post": "2026-11-24T10:37:03+03:00",
      "events": 6
     },
     {
@@ -4833,17 +5078,24 @@
      "events": 2
     },
     {
+     "title": "ТОТ ЙОГА ЦЕНТР",
+     "username": "totyoga",
+     "kind": "extra",
+     "last_post": "2026-11-24T09:36:37+03:00",
+     "events": 2
+    },
+    {
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-23T17:25:08+03:00",
+     "last_post": "2026-11-24T09:50:11+03:00",
      "events": 2
     },
     {
      "title": "Sensual Party 5 декабря",
      "username": "sensualparty",
      "kind": "folder",
-     "last_post": null,
+     "last_post": "2026-11-24T12:02:39+03:00",
      "events": 1
     },
     {
@@ -4879,13 +5131,6 @@
      "username": "meerschool",
      "kind": "extra",
      "last_post": "2026-11-23T20:05:21+03:00",
-     "events": 1
-    },
-    {
-     "title": "ТОТ ЙОГА ЦЕНТР",
-     "username": "totyoga",
-     "kind": "extra",
-     "last_post": "2026-11-23T15:57:17+03:00",
      "events": 1
     },
     {
@@ -4955,7 +5200,7 @@
      "title": "Massage Band",
      "username": "sensmassagemasters",
      "kind": "folder",
-     "last_post": "2026-11-22T19:01:31+03:00",
+     "last_post": "2026-11-24T12:12:02+03:00",
      "events": 0
     },
     {
@@ -4983,7 +5228,7 @@
      "title": "Playground.SPb 18+",
      "username": "playground_spb",
      "kind": "folder",
-     "last_post": "2026-11-18T20:19:29+03:00",
+     "last_post": "2026-11-24T10:41:10+03:00",
      "events": 0
     },
     {
