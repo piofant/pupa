@@ -5491,6 +5491,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "9f67a3caa695",
+     "title": "КИ-класс «Проявленность»",
+     "date": "2026-11-24",
+     "time": "19:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7430",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/vI2PKjOEzP1v2l1yvDVVWsaiXCk_RzzTZnGUVkT-EAoHWwk-m4nLQNMUNITo2XqrVVWJtTmP_51JZWaN54-D8UvkmgXIzjN9h7T8DyyQgAu1I_Qr2YkQC8bzXoFtisFXmF3oa3bDQysw6OgrVbyOay-XfENHtS3G0BqJFZDDpaOOa4cG_zvYv2Uu-ScbMQ6gFDTUH05vumTjimyp2MUgbd-ttDWNyK-3XT8M0f1DKsYwkrqO8zyQ9C8zFYm4toaAQ6ud5WvTmahzVBCzJs2rOCRIDXKua8HWM6Ej_lf-gM-iLcSp15ABgqXXluEbD6zFkoAeqBwXWPH3L1rjGwhOdA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9f67a3caa695"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "3c18986166fc",
      "title": "Открытый мастер-класс актёрского мастерства (ВНЕ…ТЕАТР)",
      "date": "2026-11-24",
@@ -5548,7 +5572,8 @@
       "1313e3800dd3",
       "709e4ea67c32",
       "0ee9598cbaab",
-      "876adb9859cb"
+      "876adb9859cb",
+      "f6e63fe54c22"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -5623,6 +5648,31 @@
       "2c1356e441d1"
      ],
      "found": "2026-11-23T16:45:01+03:00"
+    },
+    {
+     "key": "cb217957b01a",
+     "title": "Поэтическая мастерская «Гранёный текст»",
+     "date": "2026-11-25",
+     "time": "18:00",
+     "place": "Библиотека им. Достоевского, Чистопрудный бульвар 23 с1",
+     "price": "бесплатно",
+     "link": "https://biblioteka-im-f-m-dostoev.timepad.ru/event/4322655/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-im-f-m-dostoev.timepad.ru/event/4322655/",
+     "cats": [
+      "craft",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Библиотека им.Ф.М.Достоевского",
+     "author_url": "https://biblioteka-im-f-m-dostoev.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2e168e47-f35f-4b3f-84f7-35514cb47c5d/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "cb217957b01a"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
     },
     {
      "key": "62e8422fed35",
@@ -5916,6 +5966,55 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "ea2a15b443c9",
+     "title": "Показ группы комедийной импровизации",
+     "date": "2026-11-25",
+     "time": "20:00",
+     "place": "Арт-пространство «Сияние», ул. Советской армии 8",
+     "price": "бесплатно",
+     "link": "https://art-prostranstvo-siyanie.timepad.ru/event/4322532/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://art-prostranstvo-siyanie.timepad.ru/event/4322532/",
+     "cats": [
+      "theatre",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Арт-пространство \"Сияние\"",
+     "author_url": "https://art-prostranstvo-siyanie.timepad.ru/",
+     "image": "https://ucare.timepad.ru/8264d1cf-2fc2-4116-93e0-bca703fe7178/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ea2a15b443c9"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
+     "key": "95de974b1700",
+     "title": "Каддл Марии Зобниной",
+     "date": "2026-11-25",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/da_budet_cuddle/1852",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Каддл пати Марии Зобниной и команды",
+     "author_url": "https://t.me/da_budet_cuddle",
+     "image": "https://cdn4.telesco.pe/file/INwO7Q4GzZCNYv3RJU1PZiNUiiMt4W9SYJe5AO3KCNZlGsDWFD3QrA3XVMbNlUwtJgy20hVO7jtogZ99nDzw3gI1Ka6Q5aQO20f1XKX2nPHcXPwTDHx9w3kN6GgvDO3ymqcocIgz2oxK038Z87IdjsWk5J7KEXBVCSal_pdLSHuE3Rll8ROwNK4fEPltvjMu8Uv227k9OWmhiuEGGG6zadlQ52NpSMgREseblIMCqfZ8ZwJF1NvoukGAapLfDSIVBu1XhjkMq3sdLLCnxXM9O2XgIdw1gfA8W8PMOV8WVEPOffFmO3E168RWgO2ckeZYuv36X6EIZ0kQ7PLdte1_YA",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "95de974b1700"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "88ed49d95ef1",
      "title": "Контактная импровизация: класс «Животное»",
      "date": "2026-11-25",
@@ -6191,6 +6290,30 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
+     "key": "39cad6417f79",
+     "title": "Лекция «Генетический код места»",
+     "date": "2026-11-27",
+     "time": "11:00",
+     "place": "Москва, Вернадского проспект, 25",
+     "price": "бесплатно",
+     "link": "https://barcelonadesign.timepad.ru/event/4322535/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://barcelonadesign.timepad.ru/event/4322535/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Barcelona Design",
+     "author_url": "https://barcelonadesign.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2d44950b-073c-437f-a75f-2e97ac105962/-/crop/3667x2060/0,1798/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "39cad6417f79"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "44793376a54c",
      "title": "Мастерская: ёлочная игрушка из ваты",
      "date": "2026-11-27",
@@ -6361,6 +6484,30 @@
       "576a0adac035"
      ],
      "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "4f745d90c7bb",
+     "title": "Клуб прокрастинаторов: скетчинг",
+     "date": "2026-11-27",
+     "time": "19:00",
+     "place": "«Передвижник» на Винзаводе, 4-й Сыромятнический пер., 1/8 с9",
+     "price": "бесплатно",
+     "link": "https://peredvizhnik-event.timepad.ru/event/4322713/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://peredvizhnik-event.timepad.ru/event/4322713/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "ПЕРЕДВИЖНИК",
+     "author_url": "https://peredvizhnik-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/24f167b1-6f60-4773-bb08-7d1b20283f21/-/crop/4000x2247/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4f745d90c7bb"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
     },
     {
      "key": "94bfc8954934",
@@ -6732,6 +6879,30 @@
       "1e74f584be3d"
      ],
      "found": "2026-11-16T02:50:09+03:00"
+    },
+    {
+     "key": "00fa3cb66721",
+     "title": "Группа поддержки «Человеку нужен человек»",
+     "date": "2026-11-28",
+     "time": "19:30",
+     "place": "Москва, 1-Останкинская ул., вл. 7 стр. 1",
+     "price": "бесплатно",
+     "link": "https://vstrecha-beseda.timepad.ru/event/3654258/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://vstrecha-beseda.timepad.ru/event/3654258/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Бесплатная встреча-беседа в Останкино",
+     "author_url": "https://vstrecha-beseda.timepad.ru/",
+     "image": "https://ucare.timepad.ru/31a2b846-9561-4062-9c96-de4f4a20ad35/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "00fa3cb66721"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
     },
     {
      "key": "9d43077f9b56",
@@ -8163,6 +8334,30 @@
      "found": "2026-11-23T16:45:01+03:00"
     },
     {
+     "key": "8152a8af7f16",
+     "title": "Мастер-класс по китайскому народному танцу",
+     "date": "2026-12-05",
+     "time": "13:00",
+     "place": "Москва, Николоямская ул., 1",
+     "price": "бесплатно",
+     "link": "https://mediacenter-brics.timepad.ru/event/4322255/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mediacenter-brics.timepad.ru/event/4322255/",
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Информационно-культурный медиацентр БРИКС+",
+     "author_url": "https://mediacenter-brics.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d8c350c6-2af5-42bd-aa76-f4747df9313d/-/crop/9504x5350/0,665/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8152a8af7f16"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "23b95802a6c5",
      "title": "Мастер-класс по созданию новогоднего венка",
      "date": "2026-12-05",
@@ -8606,6 +8801,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "f13d8b553fa2",
+     "title": "Тренинг «Приручи конфликт»: конфликтовать выгодно",
+     "date": "2026-12-06",
+     "time": "16:00",
+     "place": "Москва, ул. Мантулинская 5 стр. 1, парк Красная Пресня",
+     "price": "бесплатно",
+     "link": "https://nafm.timepad.ru/event/4103236/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nafm.timepad.ru/event/4103236/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Национальная ассоциация семейных медиаторов",
+     "author_url": "https://nafm.timepad.ru/",
+     "image": "https://ucare.timepad.ru/01fa2901-6636-456a-b5ce-044a4d997766/-/crop/7564x4257/1006,2333/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f13d8b553fa2"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "ed9b4354f8c8",
      "title": "«Голоса Африки»: клуб на португальском",
      "date": "2026-12-06",
@@ -8976,6 +9195,30 @@
      "found": "2026-11-21T12:45:21+03:00"
     },
     {
+     "key": "abe3f54751aa",
+     "title": "Лекция «Спортивная сверхдержава»",
+     "date": "2026-12-10",
+     "time": "19:00",
+     "place": "Книжный «Пиотровский», Малая Никитская 12 стр. 1",
+     "price": "бесплатно",
+     "link": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4322616/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/event/4322616/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Филиал Ельцин Центра в Москве",
+     "author_url": "https://filial-eltsin-tsentra-v-m.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a0c5d918-59f8-4905-b2ad-2fbfd3c175f9/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "abe3f54751aa"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "465821b78bc7",
      "title": "Мастер-класс «Интерьерная ёлочка» из проволоки",
      "date": "2026-12-10",
@@ -8998,6 +9241,30 @@
       "465821b78bc7"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "bdd5c75d6e94",
+     "title": "Искусство загадывать желания",
+     "date": "2026-12-11",
+     "time": "18:30",
+     "place": "Москва",
+     "price": "2500 ₽",
+     "link": "https://m-emotion.timepad.ru/event/4322514/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://m-emotion.timepad.ru/event/4322514/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Мастерская эмоций",
+     "author_url": "https://m-emotion.timepad.ru/",
+     "image": "https://ucare.timepad.ru/21dddc9f-fcaf-4123-95b5-83a0355f559b/-/crop/1422x800/96,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bdd5c75d6e94"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
     },
     {
      "key": "ba62668c28b7",
@@ -9346,6 +9613,31 @@
       "ad52293afcb7"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "e3a468085ce3",
+     "title": "Открытая репетиция плейбек-театра «Своими глазами»",
+     "date": "2026-12-12",
+     "time": "17:00",
+     "place": "Центр «Мир», Арбат 24, зал Театр",
+     "price": "1000 ₽",
+     "link": "https://teatr-svoimi-glazami.timepad.ru/event/4321595/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatr-svoimi-glazami.timepad.ru/event/4321595/",
+     "cats": [
+      "theatre",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Театр \"Своими глазами\"",
+     "author_url": "https://teatr-svoimi-glazami.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7b003ccb-da6d-4161-85ee-80ec472cadfc/-/crop/1420x798/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "открытая репетиция, узкий круг гостей",
+     "keys": [
+      "e3a468085ce3"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
     },
     {
      "key": "dd0767c68796",
@@ -10546,6 +10838,30 @@
      "found": "2026-11-23T12:45:07+03:00"
     },
     {
+     "key": "d62ce94366fa",
+     "title": "Тренинг «Приручи конфликт»: кто кому чего не должен",
+     "date": "2026-12-20",
+     "time": "16:00",
+     "place": "Москва, ул. Мантулинская 5 стр. 1, парк Красная Пресня",
+     "price": "бесплатно",
+     "link": "https://nafm.timepad.ru/event/4103244/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nafm.timepad.ru/event/4103244/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Национальная ассоциация семейных медиаторов",
+     "author_url": "https://nafm.timepad.ru/",
+     "image": "https://ucare.timepad.ru/ef9d7f07-9861-4216-af57-ef62ccaa680a/-/crop/1536x864/0,547/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d62ce94366fa"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
+    },
+    {
      "key": "cbba621e5a37",
      "title": "Мастер-класс: венок из искусственной хвои",
      "date": "2026-12-20",
@@ -10568,6 +10884,31 @@
       "cbba621e5a37"
      ],
      "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
+     "key": "d9809d4a29cb",
+     "title": "Театральный вечер студии «Пикколо»",
+     "date": "2026-12-20",
+     "time": "18:00",
+     "place": "ЦКС «Восток», Вешняковская 12Д",
+     "price": "бесплатно",
+     "link": "https://artklaster.timepad.ru/event/4322488/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://artklaster.timepad.ru/event/4322488/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "ГБУК г. Москвы «ОКЦ ВАО» ОСП «ЦКС „Восток“",
+     "author_url": "https://artklaster.timepad.ru/",
+     "image": "https://ucare.timepad.ru/feff1d76-5014-417a-8048-c1d99922c664/-/crop/1920x1081/0,244/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d9809d4a29cb"
+     ],
+     "found": "2026-11-24T12:45:02+03:00"
     },
     {
      "key": "0187bc99c922",
@@ -11378,13 +11719,13 @@
      "found": "2026-11-23T12:45:07+03:00"
     },
     {
-     "key": "9332fa91a960",
-     "title": "Фестиваль контактной импровизации",
+     "key": "890f912b94d9",
+     "title": "Зимний фестиваль «Контактные Каникулы»",
      "date": "2027-01-03",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/cimsk/7417",
+     "link": "https://t.me/cimsk/7429",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -11392,12 +11733,13 @@
       "watch"
      ],
      "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/Xmx2DyM08tMzd0L5b8sfvvZukpuPbpPTg5B1jF-5iMxQH_GZMVzwsbvO-G4cftL5VYoNPgu_ECSE-tY9P3I4-k0Ohx8ZLO3WW_KhTjV0x6wY-bdXxmr-siOChypJMuiWtLIHYPTUR0LXPBFZqprBQ77Zaxa1wKZ0tgdFvb379NcMwnh0LnpievnxwDC9RTojlQ5ofdhxp86UdSg7sQUNEB8WIVq3pvlQftWO1hRVITID16bsimN0FuTsYjzZh2d0nymEOvV_GZzdA9_WYVq1T1I-sITw4taz7lStJucCRtgApgnCc2ES8UZqEiTq7RiNr9M6bU3NOIn5iW1Q_doBYQ.jpg",
+     "author": "Контактные Каникулы — фестиваль КИ (чат)",
+     "author_url": "https://t.me/contactfestival",
+     "image": "https://cdn4.telesco.pe/file/WvZRBMbj49BSReePCymaqZp79XIZ_CFDzsDcQdT1MVgw5gNFVeds5uskQKgMqtWGuDf-jw97gGvS1ij3GpsX-WVOZi1pE4f2Hui8nLKMJ2Sb7i1hJ__mwm6tOUlk49zQ3p-U3dButdkUHHYacgB7xzvYK77zafsE0BYq3CqlBracNym1nW_Yp4qHZ7u9v3N9EDH7ZzC3VUEwiS7ugykMkQChOCRdsqi0h5TPWaD-m84XMCKXvQkrJvEjpJicD_pQEQRqK4lbEPFMuxpb0wmTrPY9ZNjRlhmB3hdjHQXlFBEX1abJ7U9iMsvw8XGzZNc-FKmQNMtz0Rfkqm45TpX6og.jpg",
      "hot": true,
-     "hot_reason": "фестиваль КИ раз в год",
+     "hot_reason": "зимний фестиваль раз в год",
      "keys": [
+      "890f912b94d9",
       "9332fa91a960",
       "9349a1765740"
      ],
@@ -11459,15 +11801,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T08:45:00+03:00",
-     "events": 186
+     "last_post": "2026-11-24T12:45:02+03:00",
+     "events": 198
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-23T18:04:36+03:00",
-     "events": 26
+     "last_post": "2026-11-24T12:03:47+03:00",
+     "events": 27
     },
     {
      "title": "Срамота 18+",
@@ -11529,8 +11871,15 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-23T17:25:08+03:00",
+     "last_post": "2026-11-24T09:50:11+03:00",
      "events": 2
+    },
+    {
+     "title": "Каддл пати Марии Зобниной и команды",
+     "username": "da_budet_cuddle",
+     "kind": "extra",
+     "last_post": "2026-11-24T10:59:54+03:00",
+     "events": 1
     },
     {
      "title": "Пятая Пятница",
@@ -11589,13 +11938,6 @@
      "events": 0
     },
     {
-     "title": "Каддл пати Марии Зобниной и команды",
-     "username": "da_budet_cuddle",
-     "kind": "extra",
-     "last_post": "2026-11-22T11:16:40+03:00",
-     "events": 0
-    },
-    {
      "title": "Клуб «Быть РАзным»",
      "username": "be_various",
      "kind": "extra",
@@ -11620,14 +11962,14 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-23T23:06:33+03:00",
+     "last_post": "2026-11-24T12:04:52+03:00",
      "events": 0
     },
     {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-23T09:30:56+03:00",
+     "last_post": "2026-11-24T09:15:14+03:00",
      "events": 0
     },
     {
