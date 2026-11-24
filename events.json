@@ -5817,7 +5817,8 @@
       "709e4ea67c32",
       "0ee9598cbaab",
       "876adb9859cb",
-      "f6e63fe54c22"
+      "f6e63fe54c22",
+      "0df7eba6765b"
      ],
      "found": "2026-11-16T12:45:07+03:00"
     },
@@ -6099,16 +6100,19 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/m3f5dcYfT0OuK8cZwMOtkAmgRy_xowtsEtxGYkjAip0kePHH4lvQ1rFbIH1WoiWJCq3xpRwBzGHroY-Q_T2azRN6i8valZ5X5hvoWgbhyzrq3akamjwwFRvk6KY97ynm5BiMD7ABT3B3Kx4ua8eNDMmZSOXi4K04C97DWAdyFVStJtDdTfJrLh2LhDFfkdMJrxhb9KTckfMIdFZk6RLbsTbHMzV8F6lo_VT04kIEL5YThTK6efuDvYKtuNlIE5zaj6yp8tqhoEfhmMya6kuZIQTJEOS9zEagIEz8Cw1jwhoh74frdXpPKwDaIrCi2RY-ojduJqsQ3qJuKRWAkRG7iw",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "bfb0e0d53a00"
+      "bfb0e0d53a00",
+      "88ec51d2dd22",
+      "88ed49d95ef1"
      ],
      "found": "2026-11-23T08:45:04+03:00"
     },
@@ -6259,49 +6263,27 @@
      "found": "2026-11-24T12:45:02+03:00"
     },
     {
-     "key": "88ed49d95ef1",
-     "title": "Контактная импровизация: класс «Животное»",
-     "date": "2026-11-25",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/cimsk/7428",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "88ed49d95ef1"
-     ],
-     "found": "2026-11-23T20:45:06+03:00"
-    },
-    {
-     "key": "ebc46c5f2230",
-     "title": "Утренние танцы КИ «Пространство между»",
+     "key": "b54501a2e016",
+     "title": "КИ-класс «Пространство между» и джем",
      "date": "2026-11-26",
      "time": "11:00",
-     "place": "Йогаплатформа",
-     "price": null,
-     "link": "https://t.me/cimsk/7421",
+     "place": "Йогаплатформа, Спартаковский пер., 2с1, 6 подъезд, 3 этаж",
+     "price": "1600 ₽ класс с джемом, 700 ₽ только джем",
+     "link": "https://t.me/cimsk/7431",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/bmFE_DZ1rID3Mm1_o7I-eqhkcy8kismodtrqYpB63IkNsSKURdlI-4xK5IdlEHKFwADtYfwsofUtXfhC1YZgn-c7ogdiJFFhByuygpcrA_8zr0J1NBRwTEKRy3NOZGuEIOI3h0J-paGPaEiE_Zo6o9sj1Et8vXKMWJOyTwBJs3C_QK9C7rhIOIL5jAOex3g7NRn4MztBfJpM1VFRADtugVk2KlOMOVTKVjBNnPM6EQWSMVBuB-uZh9ZyZUME_QrZVthzo1dZ5CfH5dTd_4rL2v8H4JKxUdfy8dFqMNcIzv8RXDmYHHVTRQAEFYq-dVC_A9QyK9CumJHmE2e_llP43w.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "b54501a2e016",
       "ebc46c5f2230"
      ],
      "found": "2026-11-23T08:45:04+03:00"
@@ -6353,7 +6335,8 @@
      "hot_reason": "",
      "keys": [
       "77895d435fc1",
-      "254b5b46adb6"
+      "254b5b46adb6",
+      "408e77e4f58e"
      ],
      "found": "2026-11-22T16:45:16+03:00"
     },
@@ -6902,6 +6885,55 @@
      "found": "2026-11-22T12:45:19+03:00"
     },
     {
+     "key": "cb9031a3e165",
+     "title": "Чайная дегустация в Зелёной Ячейке",
+     "date": "2026-11-28",
+     "time": "15:00",
+     "place": "ул. Профсоюзная, 93А (у метро Беляево)",
+     "price": "2500 ₽",
+     "link": "https://greencell.timepad.ru/event/4323079/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://greencell.timepad.ru/event/4323079/",
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Зеленая Ячейка",
+     "author_url": "https://greencell.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b158e650-a1b5-4b06-9b78-9ba7af5ac552/-/crop/3375x1900/0,269/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "cb9031a3e165"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
+    },
+    {
+     "key": "ec28d2b8da6a",
+     "title": "SENSE: тантра в темноте",
+     "date": "2026-11-28",
+     "time": "17:00",
+     "place": "Palmira Business Club, Новоданиловская наб., 6 к2",
+     "price": "Ж 4999 ₽, М 9999 ₽, пара 15000 ₽",
+     "link": "https://t.me/sram_sram18/3018",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/CRegsBGXTrAvM-1L6c1kQbLDPtwko5izkgPsuctdt9nFN9Lf5wAhJKTg-UkiJVeAntVWXT2uNyhOerQdiKE0CFo6yxn0-F_CFGxc0UoQThh51VkXPTvqe1H019MgRS0tbaJA6P0ctsXPCv4bz93Zz8nU03XR3eTZuQy2LHVg6Dw_VrGcO0zRJsbEoDv-CFd-aUtHmIy1lkfmrxOiQ7dqWu9cj3sR__gjMZfXaTkgu8kxs4KkT7HTObxdYd5fGTYeQJcqIzgSxNl1sk9hiwcVD9vYz_T3ErWW4ZXXtlXuq3KuaOACOyox2_KePeXErlZG_q6bMNQOgVpMxLKnWqSQUA.jpg",
+     "hot": true,
+     "hot_reason": "разовый формат, до 18 гостей",
+     "keys": [
+      "ec28d2b8da6a",
+      "7d6b29b41f8b"
+     ],
+     "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
      "key": "5bafa081233d",
      "title": "Дыхательные практики под музыку",
      "date": "2026-11-28",
@@ -7172,30 +7204,6 @@
       "9d43077f9b56"
      ],
      "found": "2026-11-21T16:45:18+03:00"
-    },
-    {
-     "key": "7d6b29b41f8b",
-     "title": "Sense: групповая практика в темноте",
-     "date": "2026-11-28",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/sram_sram18/3004",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "author": "Срамота 18+",
-     "author_url": "https://t.me/sram_sram18",
-     "image": "https://cdn4.telesco.pe/file/f43THiQCP9qlFxM3Sy2K0GlBgTI5OGMnmklgPB5KTZmplWQ7qjrYVfVgiqpTzFN716xRnTFBiiUWVhO9oSRWjJxHrLYCjh6b_TTS2s4tysA2Utgt59uh4Du8pDUHxl6tydXDSPWib3zpd5FfEtyvXT3LPyDOMKEF64coJxsQSF9UU6CFt9LELPkh9AP4uREudqLfHmLUwemWSLQ5HplCSVmmrXKSC6777_UUUZBEY2NxFR1Sa0eCZRZ-FRCC_TudOmLDsx2AAdSoY6HBzaJf6wxMxJ9kSGkzzv3tN1nxCVE18pAJqRnSfr2nUOkxgY98bI0FDB6hbpsdzK_JNcWkLw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "7d6b29b41f8b"
-     ],
-     "found": "2026-11-15T23:28:44+03:00"
     },
     {
      "key": "666833051c0c",
@@ -8111,28 +8119,54 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
-     "key": "1c7a6f511cd0",
-     "title": "Контактная импровизация: класс «Животное», часть 2",
+     "key": "2b464456944e",
+     "title": "КИ-класс «Животное» Артёма Маркова",
      "date": "2026-12-02",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/cimsk/7428",
+     "link": "https://t.me/cimsk/7432",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
+     "image": "https://cdn4.telesco.pe/file/m3f5dcYfT0OuK8cZwMOtkAmgRy_xowtsEtxGYkjAip0kePHH4lvQ1rFbIH1WoiWJCq3xpRwBzGHroY-Q_T2azRN6i8valZ5X5hvoWgbhyzrq3akamjwwFRvk6KY97ynm5BiMD7ABT3B3Kx4ua8eNDMmZSOXi4K04C97DWAdyFVStJtDdTfJrLh2LhDFfkdMJrxhb9KTckfMIdFZk6RLbsTbHMzV8F6lo_VT04kIEL5YThTK6efuDvYKtuNlIE5zaj6yp8tqhoEfhmMya6kuZIQTJEOS9zEagIEz8Cw1jwhoh74frdXpPKwDaIrCi2RY-ojduJqsQ3qJuKRWAkRG7iw",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "2b464456944e",
       "1c7a6f511cd0"
      ],
      "found": "2026-11-23T20:45:06+03:00"
+    },
+    {
+     "key": "02e7f9a532fb",
+     "title": "Арома-встреча с дегустацией эфирных масел",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": "ул. Дмитрия Ульянова, 1/61",
+     "price": "бесплатно",
+     "link": "https://aroma-svet.timepad.ru/event/4323121/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://aroma-svet.timepad.ru/event/4323121/",
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Aroma-Svet",
+     "author_url": "https://aroma-svet.timepad.ru/",
+     "image": "https://ucare.timepad.ru/9252adf3-d790-429a-8577-ed680781d922/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "02e7f9a532fb"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
     },
     {
      "key": "2bca3323d9c4",
@@ -8650,6 +8684,30 @@
      "found": "2026-11-21T16:45:18+03:00"
     },
     {
+     "key": "e2c7955e9562",
+     "title": "Полуночный экодень: апсайкл и текстиль",
+     "date": "2026-12-05",
+     "time": "13:00",
+     "place": "Мастерская фонда «Второе дыхание», ул. Годовикова, 6",
+     "price": "бесплатно",
+     "link": "https://vtd-masterskaya.timepad.ru/event/4323460/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://vtd-masterskaya.timepad.ru/event/4323460/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Мастерская фонда \"Второе дыхание\"",
+     "author_url": "https://vtd-masterskaya.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7ead13af-5058-44b6-b17f-fb7c8c422389/-/crop/2560x1438/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e2c7955e9562"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
+    },
+    {
      "key": "10b7329d56d1",
      "title": "Мастер-класс «Не надо стесняться»",
      "date": "2026-12-05",
@@ -8995,6 +9053,30 @@
       "587def690120"
      ],
      "found": "2026-11-23T16:45:01+03:00"
+    },
+    {
+     "key": "72501d922e46",
+     "title": "Арома-массаж AromaTouch: практика в парах",
+     "date": "2026-12-06",
+     "time": "15:00",
+     "place": "м. Бауманская",
+     "price": "4000 ₽",
+     "link": "https://praktiki-event.timepad.ru/event/4324427/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://praktiki-event.timepad.ru/event/4324427/",
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Мероприятия",
+     "author_url": "https://praktiki-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/82676f9b-7644-4cf3-b03d-eee385eb4eb4/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "72501d922e46"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
     },
     {
      "key": "4f06d40f4534",
@@ -9413,6 +9495,55 @@
       "7b4612583723"
      ],
      "found": "2026-11-15T23:19:36+03:00"
+    },
+    {
+     "key": "3b7094a986dd",
+     "title": "КИ день рождённый джем",
+     "date": "2026-12-09",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7432",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/m3f5dcYfT0OuK8cZwMOtkAmgRy_xowtsEtxGYkjAip0kePHH4lvQ1rFbIH1WoiWJCq3xpRwBzGHroY-Q_T2azRN6i8valZ5X5hvoWgbhyzrq3akamjwwFRvk6KY97ynm5BiMD7ABT3B3Kx4ua8eNDMmZSOXi4K04C97DWAdyFVStJtDdTfJrLh2LhDFfkdMJrxhb9KTckfMIdFZk6RLbsTbHMzV8F6lo_VT04kIEL5YThTK6efuDvYKtuNlIE5zaj6yp8tqhoEfhmMya6kuZIQTJEOS9zEagIEz8Cw1jwhoh74frdXpPKwDaIrCi2RY-ojduJqsQ3qJuKRWAkRG7iw",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3b7094a986dd"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
+    },
+    {
+     "key": "03c259608192",
+     "title": "Арома-встреча с дегустацией эфирных масел",
+     "date": "2026-12-10",
+     "time": "19:00",
+     "place": "ул. Дмитрия Ульянова, 1/61",
+     "price": "бесплатно",
+     "link": "https://aroma-svet.timepad.ru/event/4323121/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://aroma-svet.timepad.ru/event/4323121/",
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Aroma-Svet",
+     "author_url": "https://aroma-svet.timepad.ru/",
+     "image": "https://ucare.timepad.ru/9252adf3-d790-429a-8577-ed680781d922/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "03c259608192"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
     },
     {
      "key": "fb85701d69a5",
@@ -10546,26 +10677,28 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
-     "key": "8220109a8ce7",
-     "title": "Контактная импровизация: лаборатория",
+     "key": "30f17c70e514",
+     "title": "КИ-лаборатория Артёма Маркова",
      "date": "2026-12-16",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/cimsk/7428",
+     "link": "https://t.me/cimsk/7432",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
       "dance",
+      "body",
       "circles"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
+     "image": "https://cdn4.telesco.pe/file/m3f5dcYfT0OuK8cZwMOtkAmgRy_xowtsEtxGYkjAip0kePHH4lvQ1rFbIH1WoiWJCq3xpRwBzGHroY-Q_T2azRN6i8valZ5X5hvoWgbhyzrq3akamjwwFRvk6KY97ynm5BiMD7ABT3B3Kx4ua8eNDMmZSOXi4K04C97DWAdyFVStJtDdTfJrLh2LhDFfkdMJrxhb9KTckfMIdFZk6RLbsTbHMzV8F6lo_VT04kIEL5YThTK6efuDvYKtuNlIE5zaj6yp8tqhoEfhmMya6kuZIQTJEOS9zEagIEz8Cw1jwhoh74frdXpPKwDaIrCi2RY-ojduJqsQ3qJuKRWAkRG7iw",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "30f17c70e514",
       "8220109a8ce7"
      ],
      "found": "2026-11-23T20:45:06+03:00"
@@ -11329,25 +11462,27 @@
      "found": "2026-11-16T12:45:07+03:00"
     },
     {
-     "key": "506e98decc0f",
-     "title": "Контактная импровизация: класс",
+     "key": "023ed066b2de",
+     "title": "КИ-класс Артёма Маркова",
      "date": "2026-12-23",
      "time": null,
      "place": null,
      "price": null,
-     "link": "https://t.me/cimsk/7428",
+     "link": "https://t.me/cimsk/7432",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/ZefslnXGXMy5ASdER1vfkRxRaqlmR9E3W4jIcA3FLuqD3EQNSCHCRHDoOAVcpHO_691hgwpMn_17XzU4YOWNtgj5WXnmfFEwi08EXREGMCENqjA4y0SfUpDXm1uQOGFzZsMjdIWGVCaFYoB9sU7SPaZcA0bLrnnlJZ6QMlnA3WiAqT0W92Sxkf17EoQPetC_cHJjKomQJL_1KCBtOhIoj9lLfSQ_MuDG50BEivCUZFx3ROKZR4LdMF4_qPUhFSCIAW8_nlYc2Dv67niTDEEgxHldcVK6Xg900uJ8J1HG2olrAsd_eNkSp4FdueA8dq2xOFlVUJQ_bF0rQNgyVjyw_g",
-     "hot": false,
-     "hot_reason": "",
+     "image": "https://cdn4.telesco.pe/file/m3f5dcYfT0OuK8cZwMOtkAmgRy_xowtsEtxGYkjAip0kePHH4lvQ1rFbIH1WoiWJCq3xpRwBzGHroY-Q_T2azRN6i8valZ5X5hvoWgbhyzrq3akamjwwFRvk6KY97ynm5BiMD7ABT3B3Kx4ua8eNDMmZSOXi4K04C97DWAdyFVStJtDdTfJrLh2LhDFfkdMJrxhb9KTckfMIdFZk6RLbsTbHMzV8F6lo_VT04kIEL5YThTK6efuDvYKtuNlIE5zaj6yp8tqhoEfhmMya6kuZIQTJEOS9zEagIEz8Cw1jwhoh74frdXpPKwDaIrCi2RY-ojduJqsQ3qJuKRWAkRG7iw",
+     "hot": true,
+     "hot_reason": "последний класс перед отъездом ведущего",
      "keys": [
+      "023ed066b2de",
       "506e98decc0f"
      ],
      "found": "2026-11-23T20:45:06+03:00"
@@ -11692,6 +11827,31 @@
       "8dca77cf2f33"
      ],
      "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
+     "key": "c50a6e0208d6",
+     "title": "Мюзикл-фарс «13-й стул»",
+     "date": "2026-12-27",
+     "time": "18:00",
+     "place": "ЦКС «Восток», ул. Вешняковская, 12Д",
+     "price": "бесплатно",
+     "link": "https://artklaster.timepad.ru/event/4324220/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://artklaster.timepad.ru/event/4324220/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "ГБУК г. Москвы «ОКЦ ВАО» ОСП «ЦКС „Восток“",
+     "author_url": "https://artklaster.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a09aefc5-2cb8-4733-941b-413e0906b8f8/-/crop/1300x731/0,163/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c50a6e0208d6"
+     ],
+     "found": "2026-11-24T16:45:00+03:00"
     },
     {
      "key": "2e89e27c9aad",
@@ -12045,21 +12205,21 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T12:45:02+03:00",
-     "events": 198
+     "last_post": "2026-11-24T16:45:00+03:00",
+     "events": 204
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-24T12:03:47+03:00",
+     "last_post": "2026-11-24T16:03:22+03:00",
      "events": 27
     },
     {
      "title": "Срамота 18+",
      "username": "sram_sram18",
      "kind": "folder",
-     "last_post": "2026-11-23T10:03:43+03:00",
+     "last_post": "2026-11-24T12:45:45+03:00",
      "events": 7
     },
     {
@@ -12080,7 +12240,7 @@
      "title": "Obni(me) Москва",
      "username": "cuddle_moscow",
      "kind": "extra",
-     "last_post": "2026-11-22T22:47:42+03:00",
+     "last_post": "2026-11-24T13:26:22+03:00",
      "events": 4
     },
     {
@@ -12143,7 +12303,7 @@
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-23T16:49:21+03:00",
+     "last_post": "2026-11-24T16:20:04+03:00",
      "events": 0
     },
     {
