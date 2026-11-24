@@ -6331,7 +6331,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "7f6ead692e71"
+      "7f6ead692e71",
+      "669a90ad3ea9"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -10799,13 +10800,13 @@
      "found": "2026-11-22T12:45:19+03:00"
     },
     {
-     "key": "d2252b2c8fee",
-     "title": "Премьера спектакля «Цианистый калий… с молоком или без?»",
+     "key": "41b0f5518efe",
+     "title": "Спектакль «Цианистый калий: с молоком или без?» (FoShoo)",
      "date": "2026-12-13",
      "time": null,
-     "place": null,
+     "place": "FoShoo, любительский театр",
      "price": null,
-     "link": "https://t.me/fo_shoo/1394",
+     "link": "https://t.me/fo_shoo/1404",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -10815,10 +10816,11 @@
      "adult": false,
      "author": "FoShoo — любительский театр",
      "author_url": "https://t.me/fo_shoo",
-     "image": "https://cdn4.telesco.pe/file/f8ASUthiQQKNrKMIiHi1UUJuWyB4RI4BmeYFjdDIDU-0LPwxjC1dsP0g5exlB9UHxPFgeN6KBPhqL1kTWzHXMl25yr5HJqx2R-ymVwfuOkpCAdS9mK_VHgPAwU3pIt_i9cwPYrQBmS_FKreFCxtToT8Q5xmbB9OPpuonxCT5iec7GJpxkh4UAtVO9rm3r_UoJQ8RdCBjyPbmNqfRX5SC7hF2UqLBQUV26CuqLjSB2LzVuRIqudYt88OWGM-T4ABetrv1yxLSBgLInmNBgIyi6fsPPx09L5HXMTgcYFyzyNwzHsbvAwLKiCjDWLimvUqrCM33mo52M_9qIsd-Mdsi7w.jpg",
+     "image": "https://cdn4.telesco.pe/file/VHYCoiI-FQkohndi6jmU1A69Zh8lEAQKqG5jws6zXnu8ffIxMnkcSr3VwFDeUEZnyogeS6GgfaCixrqkTQF1lTNbDMQrUA4UCBiIcpheJkxl4LOCG7Ktk9mk41jEuX-E7edzFscvQ2Baa-DBVM3C8zoqNsKk5Kh7VXE8DUOnZ2YlVoGFwCJ-juvb1CzpfVK2eqLDEkju_N8zejRmX3_DJ0cviQkr8ibBURbU_jeHrlbClnp11jgPf0ww-7HwxXX80L5GgAhJhXBKxJfOZgctmSlBUaQOt6-IMBrgGCRh_fL6ttnmvKmOeEVymwBna_ebmP8aQrttiGSrt72fa9AHlg",
      "hot": true,
-     "hot_reason": "премьерные показы",
+     "hot_reason": "премьера, всего два показа",
      "keys": [
+      "41b0f5518efe",
       "d2252b2c8fee"
      ],
      "found": "2026-11-17T20:45:01+03:00"
@@ -11437,13 +11439,13 @@
      "found": "2026-11-17T20:45:01+03:00"
     },
     {
-     "key": "ed957212b4bd",
-     "title": "Премьера спектакля «Цианистый калий… с молоком или без?»",
+     "key": "ec8c30421dcc",
+     "title": "Спектакль «Цианистый калий: с молоком или без?» (FoShoo)",
      "date": "2026-12-19",
      "time": null,
-     "place": null,
+     "place": "FoShoo, любительский театр",
      "price": null,
-     "link": "https://t.me/fo_shoo/1394",
+     "link": "https://t.me/fo_shoo/1404",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -11453,10 +11455,11 @@
      "adult": false,
      "author": "FoShoo — любительский театр",
      "author_url": "https://t.me/fo_shoo",
-     "image": "https://cdn4.telesco.pe/file/f8ASUthiQQKNrKMIiHi1UUJuWyB4RI4BmeYFjdDIDU-0LPwxjC1dsP0g5exlB9UHxPFgeN6KBPhqL1kTWzHXMl25yr5HJqx2R-ymVwfuOkpCAdS9mK_VHgPAwU3pIt_i9cwPYrQBmS_FKreFCxtToT8Q5xmbB9OPpuonxCT5iec7GJpxkh4UAtVO9rm3r_UoJQ8RdCBjyPbmNqfRX5SC7hF2UqLBQUV26CuqLjSB2LzVuRIqudYt88OWGM-T4ABetrv1yxLSBgLInmNBgIyi6fsPPx09L5HXMTgcYFyzyNwzHsbvAwLKiCjDWLimvUqrCM33mo52M_9qIsd-Mdsi7w.jpg",
+     "image": "https://cdn4.telesco.pe/file/VHYCoiI-FQkohndi6jmU1A69Zh8lEAQKqG5jws6zXnu8ffIxMnkcSr3VwFDeUEZnyogeS6GgfaCixrqkTQF1lTNbDMQrUA4UCBiIcpheJkxl4LOCG7Ktk9mk41jEuX-E7edzFscvQ2Baa-DBVM3C8zoqNsKk5Kh7VXE8DUOnZ2YlVoGFwCJ-juvb1CzpfVK2eqLDEkju_N8zejRmX3_DJ0cviQkr8ibBURbU_jeHrlbClnp11jgPf0ww-7HwxXX80L5GgAhJhXBKxJfOZgctmSlBUaQOt6-IMBrgGCRh_fL6ttnmvKmOeEVymwBna_ebmP8aQrttiGSrt72fa9AHlg",
      "hot": true,
-     "hot_reason": "премьерные показы",
+     "hot_reason": "премьера, всего два показа",
      "keys": [
+      "ec8c30421dcc",
       "ed957212b4bd"
      ],
      "found": "2026-11-17T20:45:01+03:00"
@@ -12002,13 +12005,13 @@
      "found": "2026-11-17T20:45:01+03:00"
     },
     {
-     "key": "293b7d2168e3",
-     "title": "Тренинг школы КИ для среднего и продвинутого уровня, день 1",
+     "key": "b3ef767a4691",
+     "title": "Школа КИ Intermediate: тренинг для среднего и продолжающего уровня",
      "date": "2026-12-26",
      "time": null,
      "place": null,
-     "price": "15 000 ₽ (ранняя), 17 900 ₽ (поздняя)",
-     "link": "https://t.me/cimsk/7410",
+     "price": "17900 ₽ (15000 ₽ при ранней оплате)",
+     "link": "https://t.me/cimsk/7433",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -12018,10 +12021,11 @@
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/Glch2VANJi3_XkCNOgY5fWG0sMenkMImeyj-w-kw0nBomrzVQjUK9IGBNoCNLxWM_ywuJq7M0VQ3DewYT_Zd8dKzP6LQt_GLslHafx-wbh0MqiCyydWoHPApbFJOUh1BeUOX5Z2dtaEdkeNj6ZSZabC-MP8AKxw22C-bDnb2d7cr2LjD3MFmFGOgqmUHNOLiDapE2C9DCyvjrk__-INGgv0W2oVbJEzo-jYjW8MorfljjlVQvR1DwjY7k24yOUaP4Wmz0GqKnzxowCDg-5jrpMGynApSek-8Z2Ls3I40HURe7lGBK6sD08aVqI4QqRmEs6K7gJiD95E-KNvGYmHJZw",
+     "image": "https://cdn4.telesco.pe/file/bT70t6JonpVrrbn3Q8S6pPtr_NmWIcTHNoPzBOQvr1bk8KWU0Nt0QJOIBSCDvZKJmNqmPhNqKO_rcKChjqK2aNJ77nXGdHTOM809ujkRsHiQda7QGGCiMLCshmfSfYmTCyshAMc6rDMjdXq5VIqQ-zYgouHnsfcenGkzoNfb3ym61S-14WhQetWcvZ0Elb7um5Yfpzs_YOyVG1vrYkkejJNWKIrmY_PNMSzpTj-fc6gxlxFs2sgMKz0thyuzgViuJWpfJlRnZdhtgteVDsjjSyIGA7qijyTasuagx2TV-lGvwJewSMcATD2Uqfeae0aC0QiMcwl0R1k8K-iMsN7a5A",
      "hot": true,
-     "hot_reason": "двухдневный тренинг раз в сезон",
+     "hot_reason": "интенсив для продолжающих, раз в сезон",
      "keys": [
+      "b3ef767a4691",
       "293b7d2168e3"
      ],
      "found": "2026-11-20T12:45:23+03:00"
@@ -12198,6 +12202,30 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "d9fa36ba62de",
+     "title": "Obni(me): телесный класс с Леной",
+     "date": "2026-12-27",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cuddle_moscow/4950",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) Москва",
+     "author_url": "https://t.me/cuddle_moscow",
+     "image": "https://cdn4.telesco.pe/file/AXacU2VJZcd2DiSt_ONRmuFYwnYHU4H-eh_63zG7PKjE5QK5-Mct20lG5fgbJbnNiXvkG3AkvKsffAZfEWJlWT1IhbbW0X9qvePs1yqPS1QsEqcAhpJsWibiBmC2S0S6UUJGOU1jlgqVaf13I8srJVu2o9Wx7QIpEX5QmM_9cQYdE7bZeWPxtHKClK5msQs_5sdOMcH1YICGa98m3PXHSt3SFoQ499iRj8oNC-kRsXZcUNnDnlCEWeLpaJGILLwm-DC-ZeoJLnw0nxX_qJINLd01hEZZwvqh2hjv1KRyhu17Agrjd6CY0TFveD0kAHNpXV9yeY-ahY9-fhiQJLpHiw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d9fa36ba62de"
+     ],
+     "found": "2026-11-24T20:45:06+03:00"
+    },
+    {
      "key": "d27aac01717c",
      "title": "Завершающий тренинг школы КИ сезона, день 2",
      "date": "2026-12-27",
@@ -12222,13 +12250,13 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
-     "key": "f54081af1a4e",
-     "title": "Тренинг школы КИ для среднего и продвинутого уровня, день 2",
+     "key": "56ea75ec0285",
+     "title": "Школа КИ Intermediate: тренинг для среднего и продолжающего уровня",
      "date": "2026-12-27",
      "time": null,
      "place": null,
-     "price": "15 000 ₽ (ранняя), 17 900 ₽ (поздняя)",
-     "link": "https://t.me/cimsk/7410",
+     "price": "17900 ₽ (15000 ₽ при ранней оплате)",
+     "link": "https://t.me/cimsk/7433",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -12238,10 +12266,11 @@
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/Glch2VANJi3_XkCNOgY5fWG0sMenkMImeyj-w-kw0nBomrzVQjUK9IGBNoCNLxWM_ywuJq7M0VQ3DewYT_Zd8dKzP6LQt_GLslHafx-wbh0MqiCyydWoHPApbFJOUh1BeUOX5Z2dtaEdkeNj6ZSZabC-MP8AKxw22C-bDnb2d7cr2LjD3MFmFGOgqmUHNOLiDapE2C9DCyvjrk__-INGgv0W2oVbJEzo-jYjW8MorfljjlVQvR1DwjY7k24yOUaP4Wmz0GqKnzxowCDg-5jrpMGynApSek-8Z2Ls3I40HURe7lGBK6sD08aVqI4QqRmEs6K7gJiD95E-KNvGYmHJZw",
+     "image": "https://cdn4.telesco.pe/file/bT70t6JonpVrrbn3Q8S6pPtr_NmWIcTHNoPzBOQvr1bk8KWU0Nt0QJOIBSCDvZKJmNqmPhNqKO_rcKChjqK2aNJ77nXGdHTOM809ujkRsHiQda7QGGCiMLCshmfSfYmTCyshAMc6rDMjdXq5VIqQ-zYgouHnsfcenGkzoNfb3ym61S-14WhQetWcvZ0Elb7um5Yfpzs_YOyVG1vrYkkejJNWKIrmY_PNMSzpTj-fc6gxlxFs2sgMKz0thyuzgViuJWpfJlRnZdhtgteVDsjjSyIGA7qijyTasuagx2TV-lGvwJewSMcATD2Uqfeae0aC0QiMcwl0R1k8K-iMsN7a5A",
      "hot": true,
-     "hot_reason": "двухдневный тренинг раз в сезон",
+     "hot_reason": "интенсив для продолжающих, раз в сезон",
      "keys": [
+      "56ea75ec0285",
       "f54081af1a4e"
      ],
      "found": "2026-11-20T12:45:23+03:00"
@@ -12442,6 +12471,30 @@
      "found": "2026-11-23T12:45:07+03:00"
     },
     {
+     "key": "dbb2b4d623e0",
+     "title": "КИ Новый год: встреча 2027 в танце",
+     "date": "2026-12-31",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/cimsk/7434",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "Контактная Импровизация в Москве",
+     "author_url": "https://t.me/cimsk",
+     "image": "https://cdn4.telesco.pe/file/R5k6QwpOasjHgVeI_5FKhiPw0SFaLo0om7Y_Z2WIJKEcwOJj9b1fVh6t7Ws5_X1RpSShy5c0ZeHmrz0TdfvN6RNAAPyUUg7hpsR8tiCEf6mccJf66_z0NUt84b8FQ37JI2fsdvJpYNBfnGIKZ5mXnUEfZT6ZsoGOFk3jF3fR-m4trQ42_4UuSbChFqhvLcG0RT6LbnQF7OlzhLwsCwfohCa4qtzxnjTPQf3-R1mhE9eRczyQi1EIcRpTCAdnzvBKw_K24yo4_JUEnNqjpCKIVWhg0b3LdbifeeVP7bgxs2OmqUKEpH43WlSzpRQ-2SjUbvpv57mqZiAEzDQlyzzY3g.jpg",
+     "hot": true,
+     "hot_reason": "новогодняя ночь, раз в год",
+     "keys": [
+      "dbb2b4d623e0"
+     ],
+     "found": "2026-11-24T20:45:06+03:00"
+    },
+    {
      "key": "890f912b94d9",
      "title": "Зимний фестиваль «Контактные Каникулы»",
      "date": "2027-01-03",
@@ -12524,15 +12577,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T16:45:00+03:00",
+     "last_post": "2026-11-24T20:45:06+03:00",
      "events": 204
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-24T16:03:22+03:00",
-     "events": 27
+     "last_post": "2026-11-24T20:04:01+03:00",
+     "events": 28
     },
     {
      "title": "Срамота 18+",
@@ -12545,7 +12598,14 @@
      "title": "FoShoo — любительский театр",
      "username": "fo_shoo",
      "kind": "extra",
-     "last_post": "2026-11-22T15:16:59+03:00",
+     "last_post": "2026-11-24T20:42:08+03:00",
+     "events": 5
+    },
+    {
+     "title": "Obni(me) Москва",
+     "username": "cuddle_moscow",
+     "kind": "extra",
+     "last_post": "2026-11-24T19:24:16+03:00",
      "events": 5
     },
     {
@@ -12553,13 +12613,6 @@
      "username": "lemoorcloob",
      "kind": "folder",
      "last_post": "2026-11-20T15:59:23+03:00",
-     "events": 4
-    },
-    {
-     "title": "Obni(me) Москва",
-     "username": "cuddle_moscow",
-     "kind": "extra",
-     "last_post": "2026-11-24T13:26:22+03:00",
      "events": 4
     },
     {
@@ -12573,7 +12626,7 @@
      "title": "Пространство Нора",
      "username": "LoftNora",
      "kind": "folder",
-     "last_post": "2026-11-24T01:19:12+03:00",
+     "last_post": "2026-11-24T20:11:02+03:00",
      "events": 4
     },
     {
@@ -12587,7 +12640,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-23T12:27:36+03:00",
+     "last_post": "2026-11-24T16:50:20+03:00",
      "events": 2
     },
     {
@@ -12657,7 +12710,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-23T19:47:45+03:00",
+     "last_post": "2026-11-24T19:13:28+03:00",
      "events": 0
     },
     {
@@ -12685,7 +12738,7 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-24T12:04:52+03:00",
+     "last_post": "2026-11-24T17:10:35+03:00",
      "events": 0
     },
     {
