@@ -475,13 +475,13 @@
      "found": "2026-11-16T20:30:04+03:00"
     },
     {
-     "key": "7c0d96eaefbb",
-     "title": "Лекция про кимоно",
+     "key": "ccd6800c5d91",
+     "title": "Лекция о кимоно в Каледонском Лесу",
      "date": "2026-11-25",
      "time": "19:00",
      "place": "Каледонский Лес, звёздный зал",
-     "price": "вход и donation свободные",
-     "link": "https://t.me/kl_les/5455",
+     "price": "донейшн",
+     "link": "https://t.me/kl_les/5471",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -490,13 +490,39 @@
      "adult": false,
      "author": "Каледонский Лес",
      "author_url": "https://t.me/kl_les",
-     "image": "https://cdn4.telesco.pe/file/XM8GbePkJ52Q6SmFHQDtfb6GYBpMFwgOFo_TSV4jghRcE2HahFRwO3ygi46SWYzaYRVo3M-Uv03wXmH5--07KGsP_QjINFW8ljf-o-mDiK1XGP5IvgwZALPI1XPXZxJ0kna1Fx59IgseXl4vc-ZEZgTM3tDZsgZAcg4kO5i4Ounas-OPlat1_lDIjk_qi-BGPE1i9Yt4bxhqovZc5MDZ1uME-jJwOOIHg3vEkorVGAtXBMT-uDyssfscoCt40BZHcOXtuB8LxMeZFD1ulPnNUcFHbmU5grJwj9fUCpcFjLTiPPomamdI5OGqdSWrPGigvZj2POkDDZrCgFmDrOyrSg.jpg",
+     "image": "https://cdn4.telesco.pe/file/Ux8534tD0FLobtRi4C442OXWXxGCmHubhkceQepY-ZluQdtP-AAJFxMlRM2Y71JDqEXfaleUdfmU_bczmWbBmj24PDwn5KJWWhxmW8QtX6N51gwrODEOsICA12xX2yXfbsFbuL4kXwNmuKxJ8Wp5En_VMr5EXDzBRTiTdB3zKVEDjpIeZwtuAXw7Yx22aVvK1FrWt6b6ele-SoBhKFnmL-Pc3sh4u2fMaaceqHobH8nni-uemldsOsH_70wZatbzOchMq5JUibTU4gRsOBLFWpGAONax0Hnm5n3o7sZOq3AHj_CnDWI6bOs09-PUWjxzSHCw8Jyyx64bnqcj4q55Tg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "ccd6800c5d91",
       "7c0d96eaefbb"
      ],
      "found": "2026-11-23T08:30:26+03:00"
+    },
+    {
+     "key": "e37d3cd0587e",
+     "title": "Среда Гильдии автостопа: лекция о тактике",
+     "date": "2026-11-25",
+     "time": "19:30",
+     "place": "6-я линия В.О., д.39, кв.17",
+     "price": null,
+     "link": "https://t.me/gmautostop/1252",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Гильдия Мастеров Автостопа",
+     "author_url": "https://t.me/gmautostop",
+     "image": "https://cdn4.telesco.pe/file/nHe9QFvqGVWrnA_fgwyt4eTQW1UMTX-hZUtymfbhlETYvz7Qxsb6nuuespeOH90qa0Q06VubSDodPF1icJPbVyhnDpBMEwQ6HS5XpuhAH7kFjQ8YU8REtCYqzCKULtRzyatK3f7294caZaIK06IIKRyY4ADPQvsoEea_XPHVoVEQxDIFQTq2CTYiEArwIM3i595vBwDUx7fOkeb6Lt3IiSlVJQtXZxEP5Q62-KwY3uDrMm94uutIDJ65kmAnQLgD4BoFMVrTdFs6El7m37X7ljquTZnRP9VFCSBE6-v1EAQWhV8scUPkyKwwaZlWiepd_Oortt6ekZR6CV-trVp9Ng.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e37d3cd0587e"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "3a3c7c06e6c2",
@@ -2228,6 +2254,7 @@
       "188cffc9cb96",
       "fde5f38382e3",
       "e86ac38e0964",
+      "7dbfa9105830",
       "5e789780e3e4"
      ],
      "found": "2026-11-15T20:36:43+03:00"
@@ -2586,6 +2613,7 @@
      "hot_reason": "всего 20 мест, нечастый формат",
      "keys": [
       "5fbd4e49c4e3",
+      "5bda9630f6fd",
       "bf80a9fd147f"
      ],
      "found": "2026-11-23T20:30:00+03:00"
@@ -2664,6 +2692,30 @@
       "6d215a84fd04"
      ],
      "found": "2026-11-18T09:00:02+03:00"
+    },
+    {
+     "key": "17beaf3797a1",
+     "title": "Импро для начинающих у Павла Калмыкова: старт группы",
+     "date": "2026-11-30",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/tochkabest/5447",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": "https://cdn4.telesco.pe/file/a8LMu0NJWa6s-W0FyI4agBvkDMUnNZO3XZ9CEI9HnmWk_9O4skYa23na6as7UJvWOZ85qtQqcpGNvMaZwGAsIFowCE_xKHe376mFGSRJiTSuI3uAFN68PRUDl5F-6-CRFYKjspNQsQqSkM0NeWPf1KtlSrcuFrTrDW_YN0LYydJMa3ASM3JPuarNwtyE7tB5kHJ7Puy4aY9kQwMikE4PPSOWzDnIQbQ667o8Of2De7x8pVl6xnBN9xiwQUAt4NanzYNtBdDkWxaOAx3aNyKm5RgspSLsAvgmy2kxssTfg6rVRtoDkmDPsKDUyWuZdyRPLaoiCWhTo82OvjNbSRMbEg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "17beaf3797a1"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "9dba143c1dd3",
@@ -3207,7 +3259,8 @@
      "hot_reason": "юбилейный нечастый формат, билеты волнами",
      "keys": [
       "b00a223f2be6",
-      "5d2f0c1e3f3b"
+      "5d2f0c1e3f3b",
+      "86d8b159b1b3"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
@@ -3308,6 +3361,30 @@
       "3d58e575cc0c"
      ],
      "found": "2026-11-23T16:30:05+03:00"
+    },
+    {
+     "key": "156e1a21a1fc",
+     "title": "Баня с кело, озером и китайским чаем (юг)",
+     "date": "2026-12-05",
+     "time": "14:00",
+     "place": "Юг, кело у озера",
+     "price": "5000 ₽",
+     "link": "https://t.me/jf_festival/1247",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Канал Just Friends коммьюнити",
+     "author_url": "https://t.me/jf_festival",
+     "image": "https://cdn4.telesco.pe/file/M5t7CpBUzMi_K3ksKgJCvvMT_XxiwaoVnwLPgYbdsaRr6BeO9A2kjLehKuC1_hd3y_ltokyhyTpQbnXdhA12o5p6hwNDwAr2avztMq0pSSzplQZntKOMK7jce72R1u8zyzKLV7HCX8uwSZvmAYVtvuNYaFA3pRQWjAeyPOyW86kQb8PDPWTggaPwKvRQrtyvkBCD60PJft5-CD7KMtPQHY_ThCEUC-Oy-uErL480rzAXLuzrzqUHklf0egRX97LQJkqGdHqputyI1VR9dcK0DwzEJM5AOmvEaYd9Hnf2vqQs2e3qeRJXWqxXwOyid-3cvgk_MNhqkgZvmf4NXZltEg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "156e1a21a1fc"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "36a037b2fef9",
@@ -3659,6 +3736,33 @@
      "found": "2026-11-17T20:30:01+03:00"
     },
     {
+     "key": "35ea977f2bcb",
+     "title": "Ecstatic Dance с DJ Ольгой Бородиной",
+     "date": "2026-12-06",
+     "time": "18:30",
+     "place": "Livebody, Кузнечный переулок 6, 3 этаж",
+     "price": "1900–2500 ₽",
+     "link": "https://t.me/ecstaticdancespb/2400",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance",
+      "calm",
+      "music"
+     ],
+     "adult": false,
+     "author": "Ecstatic Dance Spb",
+     "author_url": "https://t.me/ecstaticdancespb",
+     "image": "https://cdn4.telesco.pe/file/maTw1qGwzX8CKNwKF7Jgqw28cjwx4gWeokcgTBVx9apukAGFecv8TZ0prT663h9AXzL0qNipsfWtChVFTBJ9O-IC7DkB4PcJuGRezZs40jn9E3VxYNFS2kcu_QhfnNN73GeeqeQMz7KuDZwGmgAVaFTgQeA5jtf8wD_gBoADjXmwPf42ni5ust-AwyeE09adNpkAEyHmiVkQ9i-359gPpB7v1dF2XK7AwLDZM-PQ23HzhUm6on0REeC6W0LcEcNzF0d1YtJNkpjdaaYTksqd3Hb9L8SV_jXtzPH7sHkq1x-EhN9Bedodn7ic_Hn3n6ZN5GKU6oChsHdD_mFIOWPdcQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "35ea977f2bcb",
+      "6261cb2996e3"
+     ],
+     "found": "2026-11-24T08:30:14+03:00"
+    },
+    {
      "key": "8770683424a8",
      "title": "Ecstatic Lab: вечер свободного движения",
      "date": "2026-12-06",
@@ -3679,7 +3783,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "8770683424a8"
+      "8770683424a8",
+      "3f484e8db253"
      ],
      "found": "2026-11-23T12:00:22+03:00"
     },
@@ -3707,30 +3812,6 @@
       "c2fd11a86929"
      ],
      "found": "2026-11-18T16:30:01+03:00"
-    },
-    {
-     "key": "6261cb2996e3",
-     "title": "Ecstatic Dance в Livebody",
-     "date": "2026-12-06",
-     "time": null,
-     "place": "Livebody",
-     "price": null,
-     "link": "https://t.me/ecstaticdancespb/2397",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "author": "Ecstatic Dance Spb",
-     "author_url": "https://t.me/ecstaticdancespb",
-     "image": "https://cdn4.telesco.pe/file/h_Fi7bIlGnvtUmFbEjSUBEkz-hpSKD2y7ZEuh9GOnWuhdwVBZVDEih07u2FPxkD1UnjQ3n-qmd24Tyu-tskmi6RwuNFM1sPXAJCD8tnSNMQ7T2l7Bvr1pEcZ51VDO6UxkAM07-1ga8BXlKSkRWLyDq6r21ABSslsyBc758mXJ1H-FQcHF7obnrVYP5LOiYxmmnxp7wP8QPdd_9Q84O5_GFBq565mdHUyjWu2ESCEG6mc16CXoZyiTlyU1-kkOH5HqoQysXQ4j3_zgQZgZ5N25H8fjT4o5cJp65QwHUKkLqTloEu8YS8a9U9KHfngr4SqjM0d1VplEYCOqfYDiIk1hg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "6261cb2996e3"
-     ],
-     "found": "2026-11-24T08:30:14+03:00"
     },
     {
      "key": "910d7a65ec86",
@@ -3906,6 +3987,31 @@
       "643d31cf3df8"
      ],
      "found": "2026-11-16T02:48:51+03:00"
+    },
+    {
+     "key": "e8d6c5b57f17",
+     "title": "Спектакль «Ангел-девочка» по Островскому",
+     "date": "2026-12-09",
+     "time": "18:30",
+     "place": "Ул. Фучика, 15, Университет профсоюзов",
+     "price": "бесплатно",
+     "link": "https://masterskaya-ss-pronina.timepad.ru/event/4280783/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://masterskaya-ss-pronina.timepad.ru/event/4280783/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Мастерская С.С. Пронина",
+     "author_url": "https://masterskaya-ss-pronina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2a5e9491-8d91-442f-855b-b9907191cca9/-/crop/3024x1702/0,1166/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e8d6c5b57f17"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "5fc3b62a70bf",
@@ -4256,6 +4362,30 @@
       "35d58cdd3ca7"
      ],
      "found": "2026-11-16T02:48:51+03:00"
+    },
+    {
+     "key": "9725b7c284ef",
+     "title": "Психологический эксперимент «Твоё отражение»",
+     "date": "2026-12-12",
+     "time": "19:30",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/play_events/1627",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Play.Event - общение и саморазвитие",
+     "author_url": "https://t.me/play_events",
+     "image": "https://cdn4.telesco.pe/file/I1S0uad0ISaqYmxzPXJYU005BalqO2WdiI0WSDVghnhy5b-PPNIr6Uh9l21vNrNbCmw53QjzuEynYBHxbW8NK-OSyWfe9Deiq-op4IUFbZvfwaOeMdYN22c6JbPEMdDaF4i7KjJ7xF0WjmbNo53bJXp5JbZ-zjMJluiYBwoPINW579UERBDyE_3ntnHHZB6vY05ySeRoDwqn1bri4-A-RthkwHZfDNbkV3uc-y1L8X8RiqveCrXHOUkLOb32JyZgf_Yph_FKbNucumFZs5P_kBVuYgD8lrhLdav3oG3cIayjP7LYiVgz_PZVhuq-Ko3rnpoUOuj8GtrJb0tMLrpeAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9725b7c284ef"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "3e99eb1ec07b",
@@ -4697,6 +4827,31 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "145e0bc83cf2",
+     "title": "Спектакль «Ёлка у Ивановых» Доллгауза",
+     "date": "2026-12-18",
+     "time": "19:30",
+     "place": "Минеральная ул., 21Д, церковь",
+     "price": "1866 ₽",
+     "link": "https://timepad.ru/event/2318396/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timepad.ru/event/2318396/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Арт-группа \"Доллгауз\"",
+     "author_url": null,
+     "image": "https://ucare.timepad.ru/2f8970cf-bfea-4d74-9c67-fca4b3e93c0e/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "145e0bc83cf2"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
      "key": "279f38c15ff5",
      "title": "Primal Dark Flur (ночь)",
      "date": "2026-12-18",
@@ -4796,6 +4951,30 @@
      "found": "2026-11-24T08:30:14+03:00"
     },
     {
+     "key": "fd9e460e9e64",
+     "title": "Баня с кело в большом доме (север)",
+     "date": "2026-12-20",
+     "time": "12:00",
+     "place": "Север, кело",
+     "price": "6000 ₽",
+     "link": "https://t.me/jf_festival/1247",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Канал Just Friends коммьюнити",
+     "author_url": "https://t.me/jf_festival",
+     "image": "https://cdn4.telesco.pe/file/M5t7CpBUzMi_K3ksKgJCvvMT_XxiwaoVnwLPgYbdsaRr6BeO9A2kjLehKuC1_hd3y_ltokyhyTpQbnXdhA12o5p6hwNDwAr2avztMq0pSSzplQZntKOMK7jce72R1u8zyzKLV7HCX8uwSZvmAYVtvuNYaFA3pRQWjAeyPOyW86kQb8PDPWTggaPwKvRQrtyvkBCD60PJft5-CD7KMtPQHY_ThCEUC-Oy-uErL480rzAXLuzrzqUHklf0egRX97LQJkqGdHqputyI1VR9dcK0DwzEJM5AOmvEaYd9Hnf2vqQs2e3qeRJXWqxXwOyid-3cvgk_MNhqkgZvmf4NXZltEg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fd9e460e9e64"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
      "key": "0ce5f60636ea",
      "title": "Мастер-класс «Каталог новогодних существ»",
      "date": "2026-12-20",
@@ -4893,6 +5072,31 @@
      "found": "2026-11-16T20:30:04+03:00"
     },
     {
+     "key": "9f4f1d4e1176",
+     "title": "Спектакль «Ёлка у Ивановых» Доллгауза",
+     "date": "2026-12-23",
+     "time": "19:30",
+     "place": "Минеральная ул., 21Д, церковь",
+     "price": "1866 ₽",
+     "link": "https://timepad.ru/event/2318396/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timepad.ru/event/2318396/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Арт-группа \"Доллгауз\"",
+     "author_url": null,
+     "image": "https://ucare.timepad.ru/2f8970cf-bfea-4d74-9c67-fca4b3e93c0e/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9f4f1d4e1176"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
      "key": "d7a4c82ce90e",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-23",
@@ -4963,6 +5167,31 @@
       "a3442e3c0d89"
      ],
      "found": "2026-11-24T16:30:26+03:00"
+    },
+    {
+     "key": "1d674762c946",
+     "title": "ОРКиКО: музыкально-поэтический перформанс",
+     "date": "2026-12-25",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2247",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/X_8-oZc7TKmn1eEOYp-yr1XEtb9xKKe8KRG--C2qWuH0GfOucM5o88_URLqilsi-NXnz18clM9zKnaZasRcNVnL2-CieaL9b1CoBRrWPbhXWb5ArEoPTBwTmyRKgbZy8f0HEkGRhqRzuBynWtlWitmvAuAbX20dKnDB2GdB0RUHUCgI1_G0jsRqc9NZzzU0lQF7HMjiaF37Qe8K9uX7BVSCtE9m1eNM8Xh1BRmj6-S8_bPsP-gCXc1hzJGIK1ZSlvESjpoivrdUJiNozVQR76xXcXpM5oBswYfx_Afu6Q-g3SLnmsqiUYhIh0b5xyMniC7N7v9kYlC5MNfaKIEo4Yg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1d674762c946"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "ea7f7b8a194d",
@@ -5061,6 +5290,31 @@
      "found": "2026-11-24T16:30:26+03:00"
     },
     {
+     "key": "841756f12a5e",
+     "title": "Спектакль «Ёлка у Ивановых» Доллгауза",
+     "date": "2026-12-27",
+     "time": "19:30",
+     "place": "Минеральная ул., 21Д, церковь",
+     "price": "1866 ₽",
+     "link": "https://timepad.ru/event/2318396/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://timepad.ru/event/2318396/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Арт-группа \"Доллгауз\"",
+     "author_url": null,
+     "image": "https://ucare.timepad.ru/2f8970cf-bfea-4d74-9c67-fca4b3e93c0e/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "841756f12a5e"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
      "key": "7c5bbd31615a",
      "title": "Вечер заботы о мужчинах",
      "date": "2026-12-28",
@@ -5107,6 +5361,30 @@
       "54b52bf36b88"
      ],
      "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
+     "key": "ec84ae39fc7d",
+     "title": "Новогодняя баня с кело (север)",
+     "date": "2026-12-30",
+     "time": "12:00",
+     "place": "Север, кело",
+     "price": "6000 ₽",
+     "link": "https://t.me/jf_festival/1247",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Канал Just Friends коммьюнити",
+     "author_url": "https://t.me/jf_festival",
+     "image": "https://cdn4.telesco.pe/file/M5t7CpBUzMi_K3ksKgJCvvMT_XxiwaoVnwLPgYbdsaRr6BeO9A2kjLehKuC1_hd3y_ltokyhyTpQbnXdhA12o5p6hwNDwAr2avztMq0pSSzplQZntKOMK7jce72R1u8zyzKLV7HCX8uwSZvmAYVtvuNYaFA3pRQWjAeyPOyW86kQb8PDPWTggaPwKvRQrtyvkBCD60PJft5-CD7KMtPQHY_ThCEUC-Oy-uErL480rzAXLuzrzqUHklf0egRX97LQJkqGdHqputyI1VR9dcK0DwzEJM5AOmvEaYd9Hnf2vqQs2e3qeRJXWqxXwOyid-3cvgk_MNhqkgZvmf4NXZltEg.jpg",
+     "hot": true,
+     "hot_reason": "новогодняя баня раз в год",
+     "keys": [
+      "ec84ae39fc7d"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     },
     {
      "key": "789ef4cdc7e3",
@@ -5206,6 +5484,54 @@
       "363c7d73e198"
      ],
      "found": "2026-11-17T20:30:01+03:00"
+    },
+    {
+     "key": "f523d0abfb0f",
+     "title": "Play.Kiss: поцелуйная игра",
+     "date": "2027-01-06",
+     "time": "16:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/play_events/1627",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Play.Event - общение и саморазвитие",
+     "author_url": "https://t.me/play_events",
+     "image": "https://cdn4.telesco.pe/file/I1S0uad0ISaqYmxzPXJYU005BalqO2WdiI0WSDVghnhy5b-PPNIr6Uh9l21vNrNbCmw53QjzuEynYBHxbW8NK-OSyWfe9Deiq-op4IUFbZvfwaOeMdYN22c6JbPEMdDaF4i7KjJ7xF0WjmbNo53bJXp5JbZ-zjMJluiYBwoPINW579UERBDyE_3ntnHHZB6vY05ySeRoDwqn1bri4-A-RthkwHZfDNbkV3uc-y1L8X8RiqveCrXHOUkLOb32JyZgf_Yph_FKbNucumFZs5P_kBVuYgD8lrhLdav3oG3cIayjP7LYiVgz_PZVhuq-Ko3rnpoUOuj8GtrJb0tMLrpeAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f523d0abfb0f"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
+     "key": "c7aab295906b",
+     "title": "Психологический эксперимент «Отражение»",
+     "date": "2027-01-08",
+     "time": "18:30",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/play_events/1627",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Play.Event - общение и саморазвитие",
+     "author_url": "https://t.me/play_events",
+     "image": "https://cdn4.telesco.pe/file/I1S0uad0ISaqYmxzPXJYU005BalqO2WdiI0WSDVghnhy5b-PPNIr6Uh9l21vNrNbCmw53QjzuEynYBHxbW8NK-OSyWfe9Deiq-op4IUFbZvfwaOeMdYN22c6JbPEMdDaF4i7KjJ7xF0WjmbNo53bJXp5JbZ-zjMJluiYBwoPINW579UERBDyE_3ntnHHZB6vY05ySeRoDwqn1bri4-A-RthkwHZfDNbkV3uc-y1L8X8RiqveCrXHOUkLOb32JyZgf_Yph_FKbNucumFZs5P_kBVuYgD8lrhLdav3oG3cIayjP7LYiVgz_PZVhuq-Ko3rnpoUOuj8GtrJb0tMLrpeAQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c7aab295906b"
+     ],
+     "found": "2026-11-24T20:30:11+03:00"
     }
    ],
    "sources": [
@@ -5213,29 +5539,29 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T16:30:26+03:00",
-     "events": 86
+     "last_post": "2026-11-24T20:30:11+03:00",
+     "events": 90
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-24T14:01:38+03:00",
+     "last_post": "2026-11-24T20:04:04+03:00",
      "events": 24
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-24T12:55:03+03:00",
-     "events": 18
+     "last_post": "2026-11-24T18:55:01+03:00",
+     "events": 19
     },
     {
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-24T11:51:36+03:00",
-     "events": 14
+     "last_post": "2026-11-24T18:03:28+03:00",
+     "events": 15
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -5262,21 +5588,28 @@
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-23T19:03:32+03:00",
+     "last_post": "2026-11-24T19:03:24+03:00",
      "events": 6
     },
     {
      "title": "Ecstatic Dance Spb",
      "username": "ecstaticdancespb",
      "kind": "extra",
-     "last_post": "2026-11-23T20:41:51+03:00",
+     "last_post": "2026-11-24T19:58:38+03:00",
      "events": 5
     },
     {
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-24T13:29:02+03:00",
+     "last_post": "2026-11-24T18:28:41+03:00",
+     "events": 5
+    },
+    {
+     "title": "Канал Just Friends коммьюнити",
+     "username": "jf_festival",
+     "kind": "folder",
+     "last_post": "2026-11-24T18:13:33+03:00",
      "events": 5
     },
     {
@@ -5285,6 +5618,13 @@
      "kind": "extra",
      "last_post": "2026-11-24T15:40:21+03:00",
      "events": 5
+    },
+    {
+     "title": "Play.Event - общение и саморазвитие",
+     "username": "play_events",
+     "kind": "folder",
+     "last_post": "2026-11-24T17:04:02+03:00",
+     "events": 3
     },
     {
      "title": "Путь театра | Андрей Черепанов",
@@ -5315,17 +5655,10 @@
      "events": 2
     },
     {
-     "title": "Канал Just Friends коммьюнити",
-     "username": "jf_festival",
-     "kind": "folder",
-     "last_post": "2026-11-23T14:08:40+03:00",
-     "events": 2
-    },
-    {
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-24T09:36:37+03:00",
+     "last_post": "2026-11-24T17:49:45+03:00",
      "events": 2
     },
     {
@@ -5340,6 +5673,13 @@
      "username": "sensualparty",
      "kind": "folder",
      "last_post": "2026-11-24T12:02:39+03:00",
+     "events": 1
+    },
+    {
+     "title": "Гильдия Мастеров Автостопа",
+     "username": "gmautostop",
+     "kind": "folder",
+     "last_post": "2026-11-24T19:02:07+03:00",
      "events": 1
     },
     {
@@ -5374,7 +5714,7 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-23T20:05:21+03:00",
+     "last_post": "2026-11-24T19:06:25+03:00",
      "events": 1
     },
     {
@@ -5455,17 +5795,10 @@
      "events": 0
     },
     {
-     "title": "Play.Event - общение и саморазвитие",
-     "username": "play_events",
-     "kind": "folder",
-     "last_post": "2026-11-23T08:17:01+03:00",
-     "events": 0
-    },
-    {
      "title": "Play.Primal - праймал в России",
      "username": "primal_events",
      "kind": "folder",
-     "last_post": "2026-11-16T19:33:04+03:00",
+     "last_post": "2026-11-24T17:13:38+03:00",
      "events": 0
     },
     {
@@ -5480,13 +5813,6 @@
      "username": "shadow_ecstatic",
      "kind": "extra",
      "last_post": "2026-11-23T20:33:26+03:00",
-     "events": 0
-    },
-    {
-     "title": "Гильдия Мастеров Автостопа",
-     "username": "gmautostop",
-     "kind": "folder",
-     "last_post": "2026-11-20T20:01:14+03:00",
      "events": 0
     },
     {
@@ -5507,7 +5833,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-23T19:31:57+03:00",
+     "last_post": "2026-11-24T19:29:58+03:00",
      "events": 0
     },
     {
@@ -5543,13 +5869,6 @@
      "username": "tssvoyvariant",
      "kind": "folder",
      "last_post": "2026-11-23T20:00:01+03:00",
-     "events": 0
-    },
-    {
-     "title": "Трогательные Люди 🤲 Тантра",
-     "username": "tantratouchme",
-     "kind": "folder",
-     "last_post": null,
      "events": 0
     },
     {
