@@ -1,5 +1,5 @@
 {
- "today": "2026-11-24",
+ "today": "2026-11-25",
  "city": "spb",
  "cats": [
   {
@@ -56,229 +56,6 @@
    "name": "Петербург",
    "events": [
     {
-     "key": "d41dae437a6a",
-     "title": "Макраме: брелок на сумку",
-     "date": "2026-11-24",
-     "time": "17:30",
-     "place": "ул. Корнея Чуковского, 3к1",
-     "price": "бесплатно",
-     "link": "https://tv-masterskaya-ostrova.timepad.ru/event/4320150/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://tv-masterskaya-ostrova.timepad.ru/event/4320150/",
-     "cats": [
-      "craft"
-     ],
-     "adult": false,
-     "author": "Мастерская макраме «Фактура лета»",
-     "author_url": "https://tv-masterskaya-ostrova.timepad.ru/",
-     "image": "https://ucare.timepad.ru/fb98401f-4bee-4288-956f-98d2b6f87702/-/crop/1824x1026/0,103/-/resize/1920x1080/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "d41dae437a6a"
-     ],
-     "found": "2026-11-23T12:30:21+03:00"
-    },
-    {
-     "key": "64c30098ca29",
-     "title": "Лекция «Теоретические подходы и прикладные направления в психологии»",
-     "date": "2026-11-24",
-     "time": "18:00",
-     "place": "Открытая гостиная",
-     "price": "бесплатно",
-     "link": "https://t.me/open_living/3234",
-     "source": "Пост в канале",
-     "signup_url": "https://otkrytaya-gostinaya.timepad.ru/event/4307612/",
-     "cats": [
-      "watch"
-     ],
-     "adult": false,
-     "author": "Гостиная: открыто",
-     "author_url": "https://t.me/open_living",
-     "image": "https://cdn4.telesco.pe/file/YTLGSp4DsgvqEas9gAQiOfno0WZ9s0OWNlduxWuRjH7IvUT8Z2NtB3TkzJ1h-CNKCe4KmAgjWoxfjT-bjHKSBHG53qszm0_FK-5EO8acq2MQifcCjGj6qKTxTm6JOzNep6FKBbaklP1W2FgZH0ZFIQPbyrxVULn30o3P1V3MBA0600erjSwY_KXeuXvisqiZ0CKksNk6mAdD8vPi4tsEyQKlxjezRFVgiX53P1QEjYndCsHhiaQJqlOTNMrXA5r1rAtBb4SUM0RDoE0ymUoEPR-zxquBZl9KF__oOVvFCQTNjM6VlIup_HyoCZPAGyrRLwDqZtaTAveZEqwlTUbA3A",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "64c30098ca29",
-      "2bafa0321bf5"
-     ],
-     "found": "2026-11-16T20:30:04+03:00"
-    },
-    {
-     "key": "ed222922e74e",
-     "title": "Сказ о Федоте-стрельце",
-     "date": "2026-11-24",
-     "time": "18:30",
-     "place": "Библиотека им. К. А. Тимирязева, ул. Шкапина, 6",
-     "price": "бесплатно",
-     "link": "https://timiryazevka.timepad.ru/event/4314896/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://timiryazevka.timepad.ru/event/4314896/",
-     "cats": [
-      "watch",
-      "theatre"
-     ],
-     "adult": false,
-     "author": "Библиотека им. К.А. Тимирязева",
-     "author_url": "https://timiryazevka.timepad.ru/",
-     "image": "https://ucare.timepad.ru/896120dd-1597-488f-b2d9-de8290983fbe/-/crop/1280x719/0,0/-/resize/1920x1080/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "ed222922e74e"
-     ],
-     "found": "2026-11-20T16:30:08+03:00"
-    },
-    {
-     "key": "99261b90d342",
-     "title": "Вязальный кружок",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Каледонский Лес, малый зал",
-     "price": "вход и donation свободные",
-     "link": "https://t.me/kl_les/5453",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "craft",
-      "circles"
-     ],
-     "adult": false,
-     "author": "Каледонский Лес",
-     "author_url": "https://t.me/kl_les",
-     "image": "https://cdn4.telesco.pe/file/EWAIXb_-zFNO_vydOyuVTAmaSQWrjKKsDlmfe3cms2bcWC2OO5E0yZuV8_Y41gFNuLCtCzZ27Nv6yQ0IviXA2bTVMA8WrKPVBLym9GWaHN4Ah3rjt36EMVzBA0ndnIoELiJVtx3IGl2u3JkIcsBK6ra5N3yRbxk4dtlySgud_jov8UrMRV22sbgMVz3of-it3tAjrVJBmoNqkPoy8fhhgakqIDAu-EL1xOpM67SjphkrB7csn2ZlMoEdAI4RJE3L62Sqc5JMluK_Iv0sgrii7hWr8ERmGdZHN6VQ-wHa5ANbNkvi37V9o88ccWztRF11c7agDoge9N7xPqiNH0u2jg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "99261b90d342",
-      "7f106c3a248b"
-     ],
-     "found": "2026-11-23T08:30:26+03:00"
-    },
-    {
-     "key": "48abb9785e6d",
-     "title": "Сила в движении",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "ТОТ ЙОГА ЦЕНТР, Сенная",
-     "price": null,
-     "link": "https://t.me/totyoga/3056",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": false,
-     "author": "ТОТ ЙОГА ЦЕНТР",
-     "author_url": "https://t.me/totyoga",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "48abb9785e6d"
-     ],
-     "found": "2026-11-24T12:30:00+03:00"
-    },
-    {
-     "key": "73c5fe4c8462",
-     "title": "Сказка с гуслями от Киры Гаран",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Каледонский Лес, средний зал",
-     "price": "вход и donation свободные",
-     "link": "https://t.me/kl_les/5453",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "music"
-     ],
-     "adult": false,
-     "author": "Каледонский Лес",
-     "author_url": "https://t.me/kl_les",
-     "image": "https://cdn4.telesco.pe/file/EWAIXb_-zFNO_vydOyuVTAmaSQWrjKKsDlmfe3cms2bcWC2OO5E0yZuV8_Y41gFNuLCtCzZ27Nv6yQ0IviXA2bTVMA8WrKPVBLym9GWaHN4Ah3rjt36EMVzBA0ndnIoELiJVtx3IGl2u3JkIcsBK6ra5N3yRbxk4dtlySgud_jov8UrMRV22sbgMVz3of-it3tAjrVJBmoNqkPoy8fhhgakqIDAu-EL1xOpM67SjphkrB7csn2ZlMoEdAI4RJE3L62Sqc5JMluK_Iv0sgrii7hWr8ERmGdZHN6VQ-wHa5ANbNkvi37V9o88ccWztRF11c7agDoge9N7xPqiNH0u2jg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "73c5fe4c8462",
-      "46865f03a226"
-     ],
-     "found": "2026-11-23T08:30:26+03:00"
-    },
-    {
-     "key": "383bc59ca9b0",
-     "title": "Импро: пробный урок в «Точке Импро»",
-     "date": "2026-11-24",
-     "time": "19:30",
-     "place": "Большая Посадская, 24/2",
-     "price": null,
-     "link": "https://t.me/tochkabest/5432",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "Точка Импро",
-     "author_url": "https://t.me/tochkabest",
-     "image": "https://cdn4.telesco.pe/file/PNvLsvGod9LyPvXhAgmBpdaae1GCuRc-8kvinXFu-VqgxfxQDPUic9MlrHo1RutxfxUeqQC2swg8c3rqVMQBU58cE_3q3WLxcaMkfskIh7lY9IvuW8gVpWH1AsexPNnrU67UiHeHHeSHkeYqf3BVz8r9XQk1hWTJdvyu_XPbLrvxWYjhAncv1VaX59MjXsdliBFqCuYbaL5y_HcHONs28qAB26mYdy30kDwY6hapYvbLQD5z5GKwG_plmgQljndFbOQOxGOAyaeKtiox2gZtnBo4mysepSZefxG9Kwc1Wn0o7tIO5dX0safadlZh4Er62I_XFi6k4UsxSiBychU9yg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "383bc59ca9b0"
-     ],
-     "found": "2026-11-23T12:00:22+03:00"
-    },
-    {
-     "key": "e1e734f2a55d",
-     "title": "Как поддержать себя в тёмные времена",
-     "date": "2026-11-24",
-     "time": null,
-     "place": "SensCafe",
-     "price": "тайм-кафе + донат",
-     "link": "https://t.me/sensualcafe/8803",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "circles"
-     ],
-     "adult": false,
-     "author": "SensCafe 18+",
-     "author_url": "https://t.me/sensualcafe",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "e1e734f2a55d"
-     ],
-     "found": "2026-11-23T08:30:26+03:00"
-    },
-    {
-     "key": "78de584f4b5c",
-     "title": "Лекция Юлии Векслер «Штраус и Шёнберг»",
-     "date": "2026-11-24",
-     "time": null,
-     "place": "Дом Радио",
-     "price": null,
-     "link": "https://t.me/domradio_online/2236",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "music"
-     ],
-     "adult": false,
-     "author": "Дом Радио",
-     "author_url": "https://t.me/domradio_online",
-     "image": "https://cdn4.telesco.pe/file/B2k0b163k9RgOGQwnJcClEV7SZY6dvJfCbBq8hihOFemowQa8u1Z40-1aipzoFq7fKIpb_9c8LCN6s4I_dG0FcHRGxl-oPfpb6wvBAkIbaTU0Gu6rokq_fmSIPW0DrZx3hPnue3YLG9Bk7aOyPxdL5AJ-bUz1Lv_YxYeOG9aXuZVP1-pD-iSmiJmCrNjz2O-sx0XS1Gx51UM05JNJNvBkIjHq9fiuVIth7UCA3TpL3lSezz_4UZ3g7dbxqqyGQ4E3f4vFAE2xPiuQip2wsgv8Gxhxe7GiX_MsJMg3qXefFwTA-OxH9r-gje-bKoS_tKN-Pbr1oln2ELLyVizRz-Rtg.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "78de584f4b5c"
-     ],
-     "found": "2026-11-23T20:30:00+03:00"
-    },
-    {
      "key": "50a88f535aa9",
      "title": "Коллажи: фактуры и текстуры",
      "date": "2026-11-25",
@@ -325,6 +102,30 @@
       "e111e96b4d23"
      ],
      "found": "2026-11-18T20:30:00+03:00"
+    },
+    {
+     "key": "8fbdf73c8351",
+     "title": "Жабов день в Чаще: жабы из синельной проволоки",
+     "date": "2026-11-25",
+     "time": "18:00",
+     "place": "Чаща Попроще",
+     "price": "500 ₽ за жабу",
+     "link": "https://t.me/chapopro/1088",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Чаща Попроще",
+     "author_url": "https://t.me/chapopro",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8fbdf73c8351"
+     ],
+     "found": "2026-11-25T08:30:00+03:00"
     },
     {
      "key": "16926fb73831",
@@ -526,10 +327,10 @@
     },
     {
      "key": "3a3c7c06e6c2",
-     "title": "«ТОЧНО!» — импро-игра комиков",
+     "title": "«ТОЧНО!» — импро-баттл комиков",
      "date": "2026-11-25",
      "time": "20:00",
-     "place": "Бар «Глагол», м. Петроградская",
+     "place": "Бар «Глагол»",
      "price": null,
      "link": "https://t.me/improschoolspb/7713",
      "source": "Пост в канале",
@@ -645,6 +446,30 @@
       "a95ad3f0c8ec"
      ],
      "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "ae834dbc2cc8",
+     "title": "День живописи в Чаще",
+     "date": "2026-11-26",
+     "time": "15:00",
+     "place": "Чаща Попроще",
+     "price": "1000 ₽ за холст",
+     "link": "https://t.me/chapopro/1088",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Чаща Попроще",
+     "author_url": "https://t.me/chapopro",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ae834dbc2cc8"
+     ],
+     "found": "2026-11-25T08:30:00+03:00"
     },
     {
      "key": "7c39642a034d",
@@ -893,6 +718,30 @@
       "4686fa6f4d8c"
      ],
      "found": "2026-11-20T16:30:08+03:00"
+    },
+    {
+     "key": "6f19c7ac32c4",
+     "title": "Мыловарение в Чаще",
+     "date": "2026-11-27",
+     "time": "18:00",
+     "place": "Чаща Попроще",
+     "price": "500 ₽ за штуку",
+     "link": "https://t.me/chapopro/1088",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Чаща Попроще",
+     "author_url": "https://t.me/chapopro",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6f19c7ac32c4"
+     ],
+     "found": "2026-11-25T08:30:00+03:00"
     },
     {
      "key": "124eac78eb6f",
@@ -1202,10 +1051,10 @@
     },
     {
      "key": "93a064470a25",
-     "title": "Лесной ретрит экстатик в Глубоком",
+     "title": "Лесной ретрит в Глубоком",
      "date": "2026-11-27",
      "time": null,
-     "place": "Глубокое (дом с камином у леса и озера)",
+     "place": "Глубокое, дом у леса и озера",
      "price": null,
      "link": "https://t.me/ecstaticdancespb/2316",
      "source": "Пост в канале",
@@ -1220,7 +1069,7 @@
      "author_url": "https://t.me/ecstaticdancespb",
      "image": "https://cdn4.telesco.pe/file/Jm46G5OijnGr_hHgwcQg0zvqsaxB2BA39nlB15rDStmnNQqXIU8g5HUbJpD8bph3Qz3ZoRUmyDLVzPWqdQT57HTgJTi6YS25J-nbLOQtGy9mXZrorPDK6fDY6pdatDqrvWXtjOiZ2-bNQVqR5GdJTgcghT90-MTDdfRgrCd9T26UILFn9oYEIQiyo-QTOaQoBEV0lJF5jwY74td-aqQLjjW9IwpFZvwnetWgMsrWsEX4I7zuhkngGme7Lf7uoYxQJxMKsZ8-xHNi2O3uQxySReck80ZrseCQM3IvD7c1Ua7Hjqx4qeYTzMPONDR9vxqcX9_py9VqjwkC1EEqoSAnJA.jpg",
      "hot": true,
-     "hot_reason": "ретрит раз в сезон, выезд",
+     "hot_reason": "ретрит раз в сезон, уже на этой неделе",
      "keys": [
       "93a064470a25",
       "548e77010e73",
@@ -1507,10 +1356,10 @@
     },
     {
      "key": "cd33fb6bcf2d",
-     "title": "Мастер-класс по скетчингу",
+     "title": "Скетчинг видов Петербурга",
      "date": "2026-11-28",
      "time": "15:00",
-     "place": "Санкт-Петербург, 16 линия В.О., 65А, 1 этаж (Библиотека № 5)",
+     "place": "16 линия В.О., 65А, библиотека № 5",
      "price": "бесплатно",
      "link": "https://vokzalnye-brodyagi.timepad.ru/event/4318993/",
      "source": "Страница на Таймпаде",
@@ -1747,6 +1596,31 @@
       "5b6931b7ccc3"
      ],
      "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
+     "key": "1dbbe97513d2",
+     "title": "Самайн в Чаще: друиды зажигают огонь года",
+     "date": "2026-11-28",
+     "time": "18:00",
+     "place": "Чаща Попроще",
+     "price": "2000 ₽",
+     "link": "https://t.me/chapopro/1088",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Чаща Попроще",
+     "author_url": "https://t.me/chapopro",
+     "image": null,
+     "hot": true,
+     "hot_reason": "Самайн раз в год, нужна предоплата",
+     "keys": [
+      "1dbbe97513d2"
+     ],
+     "found": "2026-11-25T08:30:00+03:00"
     },
     {
      "key": "04bc3de7ac2c",
@@ -2049,11 +1923,11 @@
     },
     {
      "key": "528b54ac3891",
-     "title": "Практикум по юмору и импровизации (12:00)",
+     "title": "Практикум по юмору и импровизации",
      "date": "2026-11-29",
      "time": "12:00",
-     "place": "Школа «СРАЗУ»",
-     "price": "800 ₽ / 1500 ₽",
+     "place": "школа «СРАЗУ»",
+     "price": "800–1500 ₽",
      "link": "https://t.me/improschoolspb/7713",
      "source": "Пост в канале",
      "signup_url": null,
@@ -2123,8 +1997,32 @@
      "found": "2026-11-19T12:30:02+03:00"
     },
     {
+     "key": "9ca3eaf6205a",
+     "title": "Мастер-класс по керамике в «Чаще»",
+     "date": "2026-11-29",
+     "time": "15:00",
+     "place": "Чаща",
+     "price": "2500 ₽",
+     "link": "https://t.me/chapopro/1088",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Чаща Попроще",
+     "author_url": "https://t.me/chapopro",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9ca3eaf6205a"
+     ],
+     "found": "2026-11-25T08:30:00+03:00"
+    },
+    {
      "key": "64a57cb4d076",
-     "title": "Обни-киноклуб: «Выживут только любовники»",
+     "title": "Обни-кино-клуб: «Выживут только любовники»",
      "date": "2026-11-29",
      "time": "16:00",
      "place": null,
@@ -2228,7 +2126,7 @@
      "title": "Dark Ecstatic Dance",
      "date": "2026-11-29",
      "time": "17:00",
-     "place": "МУТОКУКАЙ, наб. Обводного канала, 134-136-138Б",
+     "place": "Мутокуккай, наб. Обводного канала, 134",
      "price": "от 1700 ₽",
      "link": "https://t.me/lifeisecstatic/5662",
      "source": "Пост в канале",
@@ -2238,11 +2136,11 @@
       "body"
      ],
      "adult": false,
-     "author": "SHADOW ECSTATIC DANCE SPB",
+     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "author_url": "https://t.me/lifeisecstatic",
      "image": "https://cdn4.telesco.pe/file/CeUpAqasFfUEmVoHHJToe5lmd6vFdjWIuEZWEedWmkT2RXQCIJH4xVmS-eHVYkPhWGabipIkB3GYOaM0vuAOZFyqMBKk2yMEkuRVB-oMYLH-WM02StqzHneWf8rXC1gHiJnQOiGt17m-XfD7Id1bpo7xppaHD-4knGPbfKsdz4senlnN6GxqFhqV6-puqUFiZEr0bvCRa8M5LGllCQHilnmDiZofU9mXuYv_SYg17iRdzIPQaQeHZd2A6FMllwn43nLSkaEAiU0MhaayAj1UrCZH_hhRShL9Z2qkqGxH3ckqARBUQx36XzvBl3TheeOPfCYOwnaME4nPDagv1r353Q.jpg",
      "hot": true,
-     "hot_reason": "последний 1 билет первой волны",
+     "hot_reason": "тематический экстатик, мало мест второй волны",
      "keys": [
       "f7b005785a4a",
       "21b13facbfe1",
@@ -2610,7 +2508,7 @@
      "author_url": "https://t.me/lifeisecstatic",
      "image": "https://cdn4.telesco.pe/file/D4xJAmO7t9pNGy1zQDeCJ-NsO_k1WkyD9oIcvUtodonYlWIYCqOH22T0BWoZzIimfyfpl9t720SMH98z2w4K95Gvj7wtJqKYkDejcMKAjEgIYr2Ivp1U8Q2fCcR4kgQ04IM1bZtHiMQKdmEl3MJuWty-2VXlAmVvZ9wlF9cBJxeT9ZUo8iQmFNywdBHb-3Cck6KXZ1XL_v9rBf6RUBTq3GFj6Am4U2pJ-Gg1PSpO2NwafshYv8FPX06v_39zvvqEZp7RWoJ5dvIS_q1cx9yHQtQrS9P21Inoa1EcPeRJxKTyYI9lVe4mPe3wRkUnqOwPFT3q1sDNbFadfnQWmYqP2A.jpg",
      "hot": true,
-     "hot_reason": "всего 20 мест, нечастый формат",
+     "hot_reason": "всего 20 мест, баню переносили",
      "keys": [
       "5fbd4e49c4e3",
       "5bda9630f6fd",
@@ -2716,6 +2614,30 @@
       "17beaf3797a1"
      ],
      "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
+     "key": "494a49445851",
+     "title": "Импро: набор в группу 1 этапа",
+     "date": "2026-11-30",
+     "time": null,
+     "place": "Точка Импро",
+     "price": null,
+     "link": "https://t.me/tochkabest/5447",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "494a49445851"
+     ],
+     "found": "2026-11-25T09:00:00+03:00"
     },
     {
      "key": "9dba143c1dd3",
@@ -2914,6 +2836,32 @@
      "found": "2026-11-15T20:30:01+03:00"
     },
     {
+     "key": "9574e7bc500c",
+     "title": "Вечер галантного массаж��",
+     "date": "2026-12-02",
+     "time": "19:00",
+     "place": "SensCafe",
+     "price": "по тарифу + донат",
+     "link": "https://t.me/sensmassagemasters/1932",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Massage Band",
+     "author_url": "https://t.me/sensmassagemasters",
+     "image": "https://cdn4.telesco.pe/file/BoInP84EhVKh0tZZG5eHVmJKnOYKHpwJYKZT4U3WQyb-BuZeqle-n0RPBTFSNHOetcoAcAVyXiDD9sk2nucZi43UhfNcGMWtne30og1fRfU7zvAZfNbR-4eypNpA9--acG2aX6FRJ5lwpp8D-h6Yo3YtPTH6Rif-Z9fMcqg1WixO7J2-eM_WYNqBCvaNUYq1Vjzv1dngoaFz8FE14PChKKcJiDNqgsNAFa-S5Xg5v6NV0Uw6eojpMir_DVh62yRbCzhMGTQEvYahy4N-gZG1rLkEYKqv-CZjhf48NZZbPJA3Xk4SWBS6B9r7k0EbYfRxWmJAmgZi7HLrLRJhMeIWSQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9574e7bc500c",
+      "1ffb5fb0e976"
+     ],
+     "found": "2026-11-25T08:30:00+03:00"
+    },
+    {
      "key": "736712734892",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-02",
@@ -3110,17 +3058,17 @@
     },
     {
      "key": "f8db91e98bc5",
-     "title": "Эскиз спектакля «Лёха покидает планету» (Черепанов)",
+     "title": "«Лёха покидает планету» — показ эскиза",
      "date": "2026-12-03",
      "time": "20:00",
-     "place": "площадка «Скороход», СПб",
+     "place": "Скороход, Московский пр., 107, корп. 5",
      "price": null,
      "link": "https://t.me/rabbitholelab/674",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre",
       "watch",
+      "theatre",
       "music"
      ],
      "adult": false,
@@ -3128,12 +3076,13 @@
      "author_url": "https://t.me/rabbitholelab",
      "image": "https://cdn4.telesco.pe/file/r8jS4h-qq0oTlb4yS_RlH0yPCU_NkRH0HJiE6MmdqbGCcTX8I4_YAIkfxKoPnw37et9rdp1wzFCW41jcZiQgKCdbv72oZ8mlNDVMAHRqTGlRdADvjxcibH78LWZtEzopIhKkGlEH9H15Uwt2g24WuQ20RUcVV4jkzTkeX0qtoP1DsaANilmWkPbUYw4FUl4LxYBFh7ESNN2m3UoBom-RqdKKYM0_aVlVjXkLtDUhfxiJ3Hewip3ZH9y6sevEysa2WqrSvY2Kl8XRILxf1cS2CwXRFdsQqM5saBEeHhimIFPNrmLE2AGiviOVApwR9rFTMuwnyZLgOuoJWh020g8y_A.jpg",
      "hot": true,
-     "hot_reason": "эскиз, разовый показ",
+     "hot_reason": "разовый показ эскиза",
      "keys": [
       "f8db91e98bc5",
       "c3bf67b10009",
       "c3919b8e6f55",
-      "73123089c635"
+      "73123089c635",
+      "981127717d9d"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -3239,7 +3188,7 @@
     },
     {
      "key": "b00a223f2be6",
-     "title": "Nude Ecstatic Dance: 6 лет",
+     "title": "Nude Ecstatic Dance, 6 лет",
      "date": "2026-12-04",
      "time": null,
      "place": null,
@@ -3256,7 +3205,7 @@
      "author_url": "https://t.me/lifeisecstatic",
      "image": null,
      "hot": true,
-     "hot_reason": "юбилейный нечастый формат, билеты волнами",
+     "hot_reason": "юбилейная nude-практика, разовая",
      "keys": [
       "b00a223f2be6",
       "5d2f0c1e3f3b",
@@ -3364,10 +3313,10 @@
     },
     {
      "key": "156e1a21a1fc",
-     "title": "Баня с кело, озером и китайским чаем (юг)",
+     "title": "Баня с кело, озером и чаем",
      "date": "2026-12-05",
      "time": "14:00",
-     "place": "Юг, кело у озера",
+     "place": "юг от города, кело у озера",
      "price": "5000 ₽",
      "link": "https://t.me/jf_festival/1247",
      "source": "Пост в канале",
@@ -3379,10 +3328,11 @@
      "author": "Канал Just Friends коммьюнити",
      "author_url": "https://t.me/jf_festival",
      "image": "https://cdn4.telesco.pe/file/M5t7CpBUzMi_K3ksKgJCvvMT_XxiwaoVnwLPgYbdsaRr6BeO9A2kjLehKuC1_hd3y_ltokyhyTpQbnXdhA12o5p6hwNDwAr2avztMq0pSSzplQZntKOMK7jce72R1u8zyzKLV7HCX8uwSZvmAYVtvuNYaFA3pRQWjAeyPOyW86kQb8PDPWTggaPwKvRQrtyvkBCD60PJft5-CD7KMtPQHY_ThCEUC-Oy-uErL480rzAXLuzrzqUHklf0egRX97LQJkqGdHqputyI1VR9dcK0DwzEJM5AOmvEaYd9Hnf2vqQs2e3qeRJXWqxXwOyid-3cvgk_MNhqkgZvmf4NXZltEg.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "малая группа, банный день раз в месяц",
      "keys": [
-      "156e1a21a1fc"
+      "156e1a21a1fc",
+      "c857c851dd8f"
      ],
      "found": "2026-11-24T20:30:11+03:00"
     },
@@ -3510,25 +3460,27 @@
     },
     {
      "key": "3deeed0692c0",
-     "title": "Dream World: пижамная ночь Sensual Party",
+     "title": "Sensual Party «Dream World»",
      "date": "2026-12-05",
      "time": "23:00",
-     "place": "Особняк в 30 минутах от севера города",
-     "price": "5000 ₽ одиночный",
+     "place": "особняк в 30 минутах от севера города",
+     "price": "5000 ₽ один / 9000 ₽ пара",
      "link": "https://t.me/sensualparty/2153",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "body"
+      "body",
+      "dance"
      ],
      "adult": true,
      "author": "Sensual Party 5 декабря",
      "author_url": "https://t.me/sensualparty",
      "image": "https://cdn4.telesco.pe/file/gadYY_MKVzrlfOxC81mFNl-8LI5ilC8yAOWUltJUUqxYY1Mhu-ltF7ddYpEp9Xn9k3K3iJX-FBJldCI0819j2Ea_FMceYDd0htgbTbayvxrK_h3G73TsxlcRY-eInBv7UbaneKYApWZeQvHCL_ZQcfMV85r1zzDNhkHE56Brz5-GspS7RESHQYeFRF6tQPyWjWGRTO5PWT9oPGsc42zQjBuQx4eAecrvMm41NApKwOGjJraZJRr7Xv2PSM5V-QgQMWAXKuUDIt2-kP6ToReOEJwmNzVEG_ot8U-Qam2aqwF7Xwnnj691EeefGCol3bG5KhfVQ_dvkOGgcfsOGw1ENA.jpg",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "закрытая ночь с отбором по анкете",
      "keys": [
-      "3deeed0692c0"
+      "3deeed0692c0",
+      "28062ea8a143"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -3712,10 +3664,10 @@
     },
     {
      "key": "77ec48ae430c",
-     "title": "Открытый Диалог (ГОВОРИ)",
+     "title": "Открытый Диалог",
      "date": "2026-12-06",
      "time": "18:00",
-     "place": "Лиговский пр-т, 83Г",
+     "place": "Лиговский пр., 83Г",
      "price": "500 ₽",
      "link": "https://t.me/dialogboma/108",
      "source": "Пост в канале",
@@ -3737,10 +3689,10 @@
     },
     {
      "key": "35ea977f2bcb",
-     "title": "Ecstatic Dance с DJ Ольгой Бородиной",
+     "title": "Ecstatic Dance с Ольгой Бородиной",
      "date": "2026-12-06",
      "time": "18:30",
-     "place": "Livebody, Кузнечный переулок 6, 3 этаж",
+     "place": "Livebody, Кузнечный пер. 6",
      "price": "1900–2500 ₽",
      "link": "https://t.me/ecstaticdancespb/2400",
      "source": "Пост в канале",
@@ -3812,6 +3764,31 @@
       "c2fd11a86929"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "be6d1a28ed27",
+     "title": "Ecstatic.Lab: медленный контактный формат",
+     "date": "2026-12-06",
+     "time": null,
+     "place": "Манеры",
+     "price": null,
+     "link": "https://t.me/lifeisecstatic/5701",
+     "source": "Пост в канале",
+     "signup_url": "https://t.me/ecstaticlaboratory/633",
+     "cats": [
+      "dance",
+      "body"
+     ],
+     "adult": false,
+     "author": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
+     "author_url": "https://t.me/lifeisecstatic",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "be6d1a28ed27"
+     ],
+     "found": "2026-11-25T09:00:00+03:00"
     },
     {
      "key": "910d7a65ec86",
@@ -4438,10 +4415,10 @@
     },
     {
      "key": "48a49ec33e72",
-     "title": "Чокер своими руками и шумовой оркестр",
+     "title": "Чокер и шумовой оркестр",
      "date": "2026-12-13",
      "time": "12:00",
-     "place": "ARTLOFT на Севкабеле, Кожевенная линия, 34А",
+     "place": "ARTLOFT, Севкабель, Кожевенная линия, 34А",
      "price": "3200 ₽",
      "link": "https://pevitsa-masteritsa.timepad.ru/event/4319608/",
      "source": "Страница на Таймпаде",
@@ -4582,6 +4559,31 @@
       "7d3aeaf54e14"
      ],
      "found": "2026-11-24T08:30:14+03:00"
+    },
+    {
+     "key": "637ac92238c3",
+     "title": "Лекция «Любовь как маленькая смерть» о любви в танце",
+     "date": "2026-12-15",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2237",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "dance"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "637ac92238c3"
+     ],
+     "found": "2026-11-25T09:00:00+03:00"
     },
     {
      "key": "bb6ecdef8690",
@@ -5539,15 +5541,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T20:30:11+03:00",
-     "events": 90
+     "last_post": "2026-11-25T08:30:00+03:00",
+     "events": 88
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
      "last_post": "2026-11-24T20:04:04+03:00",
-     "events": 24
+     "events": 23
     },
     {
      "title": "Точка Импро",
@@ -5578,17 +5580,17 @@
      "events": 7
     },
     {
-     "title": "Гостиная: открыто",
-     "username": "open_living",
-     "kind": "folder",
-     "last_post": "2026-11-24T16:04:52+03:00",
+     "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
+     "username": "lifeisecstatic",
+     "kind": "extra",
+     "last_post": "2026-11-24T18:28:41+03:00",
      "events": 6
     },
     {
-     "title": "Каледонский Лес",
-     "username": "kl_les",
+     "title": "Чаща Попроще",
+     "username": "chapopro",
      "kind": "folder",
-     "last_post": "2026-11-24T19:03:24+03:00",
+     "last_post": "2026-11-24T20:39:49+03:00",
      "events": 6
     },
     {
@@ -5599,10 +5601,10 @@
      "events": 5
     },
     {
-     "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
-     "username": "lifeisecstatic",
-     "kind": "extra",
-     "last_post": "2026-11-24T18:28:41+03:00",
+     "title": "Гостиная: открыто",
+     "username": "open_living",
+     "kind": "folder",
+     "last_post": "2026-11-24T16:04:52+03:00",
      "events": 5
     },
     {
@@ -5620,6 +5622,13 @@
      "events": 5
     },
     {
+     "title": "Каледонский Лес",
+     "username": "kl_les",
+     "kind": "folder",
+     "last_post": "2026-11-24T19:03:24+03:00",
+     "events": 4
+    },
+    {
      "title": "Play.Event - общение и саморазвитие",
      "username": "play_events",
      "kind": "folder",
@@ -5630,7 +5639,7 @@
      "title": "Путь театра | Андрей Черепанов",
      "username": "rabbitholelab",
      "kind": "folder",
-     "last_post": "2026-11-20T16:51:20+03:00",
+     "last_post": "2026-11-24T22:24:43+03:00",
      "events": 3
     },
     {
@@ -5655,13 +5664,6 @@
      "events": 2
     },
     {
-     "title": "ТОТ ЙОГА ЦЕНТР",
-     "username": "totyoga",
-     "kind": "extra",
-     "last_post": "2026-11-24T17:49:45+03:00",
-     "events": 2
-    },
-    {
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
@@ -5669,10 +5671,17 @@
      "events": 2
     },
     {
+     "title": "Massage Band",
+     "username": "sensmassagemasters",
+     "kind": "folder",
+     "last_post": "2026-11-24T20:44:47+03:00",
+     "events": 1
+    },
+    {
      "title": "Sensual Party 5 декабря",
      "username": "sensualparty",
      "kind": "folder",
-     "last_post": "2026-11-24T12:02:39+03:00",
+     "last_post": "2026-11-24T21:14:01+03:00",
      "events": 1
     },
     {
@@ -5718,10 +5727,10 @@
      "events": 1
     },
     {
-     "title": "Чаща Попроще",
-     "username": "chapopro",
-     "kind": "folder",
-     "last_post": null,
+     "title": "ТОТ ЙОГА ЦЕНТР",
+     "username": "totyoga",
+     "kind": "extra",
+     "last_post": "2026-11-24T17:49:45+03:00",
      "events": 1
     },
     {
@@ -5778,13 +5787,6 @@
      "username": "AradhanaPrema",
      "kind": "extra",
      "last_post": "2026-11-18T13:42:49+03:00",
-     "events": 0
-    },
-    {
-     "title": "Massage Band",
-     "username": "sensmassagemasters",
-     "kind": "folder",
-     "last_post": "2026-11-24T12:12:02+03:00",
      "events": 0
     },
     {
@@ -5904,243 +5906,6 @@
   "msk": {
    "name": "Москва",
    "events": [
-    {
-     "key": "e2d81491ac1c",
-     "title": "Вязание квадратов для пледов в Уютке",
-     "date": "2026-11-24",
-     "time": "12:00",
-     "place": "Москва, ул. Нижняя Радищевская, д10 стр3, библиотека Дома русского зарубежья",
-     "price": "бесплатно",
-     "link": "https://yutka.timepad.ru/event/4321482/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://yutka.timepad.ru/event/4321482/",
-     "cats": [
-      "craft"
-     ],
-     "adult": false,
-     "author": "Благотворительный фонд «Лавка радостей»",
-     "author_url": "https://yutka.timepad.ru/",
-     "image": "https://ucare.timepad.ru/d1199a1c-2224-44c4-bb39-f80122a7cac9/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "e2d81491ac1c"
-     ],
-     "found": "2026-11-23T16:45:01+03:00"
-    },
-    {
-     "key": "f186319809b1",
-     "title": "Рисование сангиной или углем",
-     "date": "2026-11-24",
-     "time": "13:00",
-     "place": "Москва, Люсиновская 48-50к10",
-     "price": "2890 ₽",
-     "link": "https://obem.timepad.ru/event/4319206/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://obem.timepad.ru/event/4319206/",
-     "cats": [
-      "craft"
-     ],
-     "adult": false,
-     "author": "Объём",
-     "author_url": "https://obem.timepad.ru/",
-     "image": "https://ucare.timepad.ru/51a6dc28-972a-4fd7-abcd-f401040f5251/-/crop/1280x719/0,98/-/resize/1920x1080/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "f186319809b1"
-     ],
-     "found": "2026-11-22T16:45:16+03:00"
-    },
-    {
-     "key": "6ca3d4761f44",
-     "title": "Кундалини-йога в полнолуние",
-     "date": "2026-11-24",
-     "time": "17:00",
-     "place": "Комсомольский проспект 32к2",
-     "price": "4800 ₽",
-     "link": "https://telo-event.timepad.ru/event/4314552/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://telo-event.timepad.ru/event/4314552/",
-     "cats": [
-      "body",
-      "calm"
-     ],
-     "adult": false,
-     "author": "TELO",
-     "author_url": "https://telo-event.timepad.ru/",
-     "image": "https://ucare.timepad.ru/587e3823-aed8-4200-8fdd-88ae22f0262f/-/crop/1716x965/0,188/-/resize/1920x1080/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "6ca3d4761f44"
-     ],
-     "found": "2026-11-20T12:45:23+03:00"
-    },
-    {
-     "key": "4fa4636c7636",
-     "title": "Актёрский тренинг Степана Николишина",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Библиотека №124, ул. Сайкина, 9/1",
-     "price": "1500 ₽",
-     "link": "https://teatrlab.timepad.ru/event/4311316/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://teatrlab.timepad.ru/event/4311316/",
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "Лаборатория современного театра",
-     "author_url": "https://teatrlab.timepad.ru/",
-     "image": "https://ucare.timepad.ru/453458b4-40f4-4d4d-a499-50a96284dc43/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "4fa4636c7636"
-     ],
-     "found": "2026-11-18T12:45:00+03:00"
-    },
-    {
-     "key": "b5aa10b6a1ce",
-     "title": "Вечер сторителлинга «Мотылёк»",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Heaven Bar, Сущёвская улица, 21, строение 10",
-     "price": "бесплатно",
-     "link": "https://storytelling-club.timepad.ru/event/4317235/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://storytelling-club.timepad.ru/event/4317235/",
-     "cats": [
-      "circles"
-     ],
-     "adult": false,
-     "author": "Клуб Сторителлинга",
-     "author_url": "https://storytelling-club.timepad.ru/",
-     "image": "https://ucare.timepad.ru/f6e2d424-c665-4300-acd8-110d9b145d8f/-/crop/3251x693/0,189/-/resize/2240x478/-/quality/lightest/",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "b5aa10b6a1ce"
-     ],
-     "found": "2026-11-21T16:45:18+03:00"
-    },
-    {
-     "key": "cb3ceb389f0a",
-     "title": "КИ + психология: «Границы» (Усов)",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Альфа Зет, м. Достоевская",
-     "price": "1550–2100 ₽",
-     "link": "https://t.me/cimsk/7358",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "circles"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/HNEOMCE_bE79CJypTEGIHZCTGD8m7EplJI47d4tCmIYcmkM-HU5t5xQFSQfuu-CqvVpAFnWxVN7eFGcrbEkI-bBbfa22waEtX0ux1g-xOnr8hpXZVztvpdtOFk41Hfv3goBfxuWE1BdXvkLxf77P5o26c7UBLUBDvRE6sQyIl6ib1b5U0zkH3QqhJ6a_d19utP8rcV2zS_rPmYBSCauhdgQ4Op5eX_JZ4aBM-xI0_8zcBYvQLG-wKgTvOCOwbphrW0P9plqyBmaFZ1RsOCBppnaCGijtAGSGlpNDlJC6hv6SEUb5apKaVQxi9xLSXUYjvOnZg49vDGi7hI-DmQCK2g.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "cb3ceb389f0a",
-      "b58032630602",
-      "cc022a900771",
-      "26439b3c4d42"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "9f67a3caa695",
-     "title": "КИ-класс «Проявленность»",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": null,
-     "price": null,
-     "link": "https://t.me/cimsk/7430",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/vI2PKjOEzP1v2l1yvDVVWsaiXCk_RzzTZnGUVkT-EAoHWwk-m4nLQNMUNITo2XqrVVWJtTmP_51JZWaN54-D8UvkmgXIzjN9h7T8DyyQgAu1I_Qr2YkQC8bzXoFtisFXmF3oa3bDQysw6OgrVbyOay-XfENHtS3G0BqJFZDDpaOOa4cG_zvYv2Uu-ScbMQ6gFDTUH05vumTjimyp2MUgbd-ttDWNyK-3XT8M0f1DKsYwkrqO8zyQ9C8zFYm4toaAQ6ud5WvTmahzVBCzJs2rOCRIDXKua8HWM6Ej_lf-gM-iLcSp15ABgqXXluEbD6zFkoAeqBwXWPH3L1rjGwhOdA.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "9f67a3caa695"
-     ],
-     "found": "2026-11-24T12:45:02+03:00"
-    },
-    {
-     "key": "3c18986166fc",
-     "title": "Открытый мастер-класс актёрского мастерства (ВНЕ…ТЕАТР)",
-     "date": "2026-11-24",
-     "time": "19:00",
-     "place": "Покровка, 38 стр. 1",
-     "price": "бесплатно",
-     "link": "https://vneteatr-event.timepad.ru/event/4162004/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://vneteatr-event.timepad.ru/event/4162004/",
-     "cats": [
-      "theatre"
-     ],
-     "adult": false,
-     "author": "vneteatr-event",
-     "author_url": "https://vneteatr-event.timepad.ru/",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "3c18986166fc"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "01bdfbfdbf97",
-     "title": "7-летие Шибаришной",
-     "date": "2026-11-24",
-     "time": "20:00",
-     "place": "Москва, Шибаришная",
-     "price": "от 2000 ₽",
-     "link": "https://t.me/sram_sram18/3010",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "body"
-     ],
-     "adult": true,
-     "author": "Срамота 18+",
-     "author_url": "https://t.me/sram_sram18",
-     "image": "https://cdn4.telesco.pe/file/P9TF8kKuZgNkDhlrbOyZQlvzwuF-GQiZfMGadtSnHI3vHJ1WNzTSHXVKyZ3jd2TTyqNVZdB9DblmarfAA7jhLBfZWI0dlhUQlRGwN3gtB5p7Sr2k0Gbw9li8BcV-DkEBbqbv0jVqCnNJOo1HyQAWJr3SvtPUpnHrQLQV1ECZLeQOEs61eL8IbFhF41RLKcelSAzxokICCzDtLXOtJXBn1buLO7LkCY1EeA3xIxfuLXkpVMEG-g43qWyS4Q-6lSc-f3kC4FR5GfOetUiaDOpyUOo4IXPS08lddA5fFLobAQgM5XDPrTzLeKictaM3TRtDrXYHr5-VPVyXv0l4T7eXkw.jpg",
-     "hot": true,
-     "hot_reason": "юбилей проекта, раз в год",
-     "keys": [
-      "01bdfbfdbf97",
-      "c28cae3c09a5",
-      "2fe11d4653b0",
-      "2b138c7cda8d",
-      "18103f952fc6",
-      "67750ed8eb75",
-      "77440beeec17",
-      "9e1bc43a76d7",
-      "1da6d579d04f",
-      "fed65c4a4f6b",
-      "1313e3800dd3",
-      "709e4ea67c32",
-      "0ee9598cbaab",
-      "876adb9859cb",
-      "f6e63fe54c22",
-      "0df7eba6765b"
-     ],
-     "found": "2026-11-16T12:45:07+03:00"
-    },
     {
      "key": "2f8df2fc4603",
      "title": "Мастер-класс по интерьерной живописи",
@@ -8043,6 +7808,32 @@
       "3a98ae82a513"
      ],
      "found": "2026-11-23T16:45:01+03:00"
+    },
+    {
+     "key": "e2694b4947cd",
+     "title": "Обнимательная вечеринка Sumerki у Чистых Прудов",
+     "date": "2026-12-01",
+     "time": "18:20",
+     "place": "м. Чистые Пруды, точный адрес в личку зарегистрированным участникам",
+     "price": "1400 ₽",
+     "link": "https://t.me/sumerki_cuddles/107",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "calm",
+      "music"
+     ],
+     "adult": false,
+     "author": "Sumerki: cuddles (Москва)",
+     "author_url": "https://t.me/sumerki_cuddles",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e2694b4947cd"
+     ],
+     "found": "2026-11-25T08:45:00+03:00"
     },
     {
      "key": "30d80d86a946",
@@ -10801,10 +10592,10 @@
     },
     {
      "key": "41b0f5518efe",
-     "title": "Спектакль «Цианистый калий: с молоком или без?» (FoShoo)",
+     "title": "«Цианистый калий: с молоком или без?» — FoShoo",
      "date": "2026-12-13",
      "time": null,
-     "place": "FoShoo, любительский театр",
+     "place": null,
      "price": null,
      "link": "https://t.me/fo_shoo/1404",
      "source": "Пост в канале",
@@ -11366,6 +11157,32 @@
      "found": "2026-11-22T12:45:19+03:00"
     },
     {
+     "key": "ec8c30421dcc",
+     "title": "«Цианистый калий: с молоком или без?» — FoShoo",
+     "date": "2026-12-19",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/fo_shoo/1404",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "FoShoo — любительский театр",
+     "author_url": "https://t.me/fo_shoo",
+     "image": "https://cdn4.telesco.pe/file/VHYCoiI-FQkohndi6jmU1A69Zh8lEAQKqG5jws6zXnu8ffIxMnkcSr3VwFDeUEZnyogeS6GgfaCixrqkTQF1lTNbDMQrUA4UCBiIcpheJkxl4LOCG7Ktk9mk41jEuX-E7edzFscvQ2Baa-DBVM3C8zoqNsKk5Kh7VXE8DUOnZ2YlVoGFwCJ-juvb1CzpfVK2eqLDEkju_N8zejRmX3_DJ0cviQkr8ibBURbU_jeHrlbClnp11jgPf0ww-7HwxXX80L5GgAhJhXBKxJfOZgctmSlBUaQOt6-IMBrgGCRh_fL6ttnmvKmOeEVymwBna_ebmP8aQrttiGSrt72fa9AHlg",
+     "hot": true,
+     "hot_reason": "премьера, всего два показа",
+     "keys": [
+      "ec8c30421dcc",
+      "ed957212b4bd"
+     ],
+     "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
      "key": "050f32adf1bb",
      "title": "Будуар: гедонистический лаунж",
      "date": "2026-12-19",
@@ -11435,32 +11252,6 @@
      "hot_reason": "только при предзаписи 10 человек",
      "keys": [
       "f8914a2dfc0c"
-     ],
-     "found": "2026-11-17T20:45:01+03:00"
-    },
-    {
-     "key": "ec8c30421dcc",
-     "title": "Спектакль «Цианистый калий: с молоком или без?» (FoShoo)",
-     "date": "2026-12-19",
-     "time": null,
-     "place": "FoShoo, любительский театр",
-     "price": null,
-     "link": "https://t.me/fo_shoo/1404",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "theatre"
-     ],
-     "adult": false,
-     "author": "FoShoo — любительский театр",
-     "author_url": "https://t.me/fo_shoo",
-     "image": "https://cdn4.telesco.pe/file/VHYCoiI-FQkohndi6jmU1A69Zh8lEAQKqG5jws6zXnu8ffIxMnkcSr3VwFDeUEZnyogeS6GgfaCixrqkTQF1lTNbDMQrUA4UCBiIcpheJkxl4LOCG7Ktk9mk41jEuX-E7edzFscvQ2Baa-DBVM3C8zoqNsKk5Kh7VXE8DUOnZ2YlVoGFwCJ-juvb1CzpfVK2eqLDEkju_N8zejRmX3_DJ0cviQkr8ibBURbU_jeHrlbClnp11jgPf0ww-7HwxXX80L5GgAhJhXBKxJfOZgctmSlBUaQOt6-IMBrgGCRh_fL6ttnmvKmOeEVymwBna_ebmP8aQrttiGSrt72fa9AHlg",
-     "hot": true,
-     "hot_reason": "премьера, всего два показа",
-     "keys": [
-      "ec8c30421dcc",
-      "ed957212b4bd"
      ],
      "found": "2026-11-17T20:45:01+03:00"
     },
@@ -12577,22 +12368,22 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-24T20:45:06+03:00",
-     "events": 204
+     "last_post": "2026-11-25T08:45:00+03:00",
+     "events": 198
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
      "last_post": "2026-11-24T20:04:01+03:00",
-     "events": 28
+     "events": 26
     },
     {
      "title": "Срамота 18+",
      "username": "sram_sram18",
      "kind": "folder",
      "last_post": "2026-11-24T12:45:45+03:00",
-     "events": 7
+     "events": 6
     },
     {
      "title": "FoShoo — любительский театр",
@@ -12651,6 +12442,13 @@
      "events": 2
     },
     {
+     "title": "Sumerki: cuddles (Москва)",
+     "username": "sumerki_cuddles",
+     "kind": "folder",
+     "last_post": "2026-11-25T08:25:15+03:00",
+     "events": 1
+    },
+    {
      "title": "Каддл пати Марии Зобниной и команды",
      "username": "da_budet_cuddle",
      "kind": "extra",
@@ -12700,13 +12498,6 @@
      "events": 0
     },
     {
-     "title": "Sumerki: cuddles (Москва)",
-     "username": "sumerki_cuddles",
-     "kind": "folder",
-     "last_post": null,
-     "events": 0
-    },
-    {
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
@@ -12745,7 +12536,7 @@
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-24T09:15:14+03:00",
+     "last_post": "2026-11-23T09:30:56+03:00",
      "events": 0
     },
     {
