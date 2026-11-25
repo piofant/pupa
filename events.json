@@ -7442,6 +7442,30 @@
      "found": "2026-11-20T16:45:15+03:00"
     },
     {
+     "key": "60792c71bd14",
+     "title": "Философское кафе «Мысли вслух»",
+     "date": "2026-11-27",
+     "time": "19:00",
+     "place": "Библиотека №128, ул. 8-ая Текстильщиков, 14",
+     "price": "бесплатно",
+     "link": "https://biblioteka-n-128-im-ma-sh.timepad.ru/event/4326823/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-n-128-im-ma-sh.timepad.ru/event/4326823/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Библиотека N 128- культурный центр М.А. Шолохова",
+     "author_url": "https://biblioteka-n-128-im-ma-sh.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a8bf14e5-41a4-4e7d-8a6c-116bbd91174c/-/crop/1536x865/0,105/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "60792c71bd14"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "081bb20d59ac",
      "title": "Испанский вечер «Вива Испания!» с фламенко",
      "date": "2026-11-27",
@@ -7761,6 +7785,30 @@
      "found": "2026-11-21T20:45:00+03:00"
     },
     {
+     "key": "a4b79804eeb5",
+     "title": "Женский круг «Облака»: чего я хочу на самом деле",
+     "date": "2026-11-28",
+     "time": "18:30",
+     "place": "Москва, ул. Тверская 6, к.6",
+     "price": "1500 ₽",
+     "link": "https://klub-psikhologii-oblaka.timepad.ru/event/4325505/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://klub-psikhologii-oblaka.timepad.ru/event/4325505/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Клуб современной психологии \"Облака\" Татьяны Овсянниковой",
+     "author_url": "https://klub-psikhologii-oblaka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/0b5f4a15-fddb-4fce-8414-2fe26cbd8d32/-/crop/1672x940/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a4b79804eeb5"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "cd8d90e355d4",
      "title": "ИмпроКультура: антикринж и импровизация",
      "date": "2026-11-28",
@@ -7835,6 +7883,30 @@
       "4b3b8c19fb62"
      ],
      "found": "2026-11-23T16:45:01+03:00"
+    },
+    {
+     "key": "51a72953b7d0",
+     "title": "Мастер-классы массажа для пар перед «Дубайском»",
+     "date": "2026-11-28",
+     "time": "18:45",
+     "place": "Москва-Сити, закрытая вечеринка Le Jeu и «Министерство любви»",
+     "price": "5 000 ₽ за пару",
+     "link": "https://t.me/sram_sram18/3022",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/SqtoUhl54txeIfIjnZJUUM5687KvIO9a3REM6ZYgipzt7M62KtkowPe7s5ugQ1hNBOz7B2JwRxueDOmK64U5SFC3CSz6DTdCaWZ_oalzP4z9-qJp6l2zs0z7BFZnUhyxehnF40sGZ2Mh0GMImsQq_Wjk0vQdL_pzbpY458Hyq3qbijqhg7zzbMsJUZSfMC6sv7w-BPVRqYWNhJqlkXt-s9WQ-RFm_A6P67zZxwxb-xyYfNtgRxeet8xhsscFmhZ34w-CbeKpT7i2InPYA8TnRaqhp4f80xrqfbzl3c8rN5pv23Nmof2SuD2psEOoZ9CHxW9o0i3YuWcRF_7_iKoIQw",
+     "hot": true,
+     "hot_reason": "всего 15 пар, нечастый формат",
+     "keys": [
+      "51a72953b7d0"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
     },
     {
      "key": "7d03b5606530",
@@ -7960,6 +8032,33 @@
      "found": "2026-11-21T16:45:18+03:00"
     },
     {
+     "key": "2ca54dc22a6d",
+     "title": "Вечеринка «Дубайск» 18+",
+     "date": "2026-11-28",
+     "time": "23:00",
+     "place": "Москва-Сити, Le Jeu и «Министерство любви»",
+     "price": null,
+     "link": "https://t.me/sram_sram18/3022",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "dance"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/SqtoUhl54txeIfIjnZJUUM5687KvIO9a3REM6ZYgipzt7M62KtkowPe7s5ugQ1hNBOz7B2JwRxueDOmK64U5SFC3CSz6DTdCaWZ_oalzP4z9-qJp6l2zs0z7BFZnUhyxehnF40sGZ2Mh0GMImsQq_Wjk0vQdL_pzbpY458Hyq3qbijqhg7zzbMsJUZSfMC6sv7w-BPVRqYWNhJqlkXt-s9WQ-RFm_A6P67zZxwxb-xyYfNtgRxeet8xhsscFmhZ34w-CbeKpT7i2InPYA8TnRaqhp4f80xrqfbzl3c8rN5pv23Nmof2SuD2psEOoZ9CHxW9o0i3YuWcRF_7_iKoIQw",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2ca54dc22a6d",
+      "666833051c0c",
+      "ada82eed11c9"
+     ],
+     "found": "2026-11-16T12:45:07+03:00"
+    },
+    {
      "key": "83b4f03de1cf",
      "title": "Вечеринка в стиле 90х в Bizarre",
      "date": "2026-11-28",
@@ -7983,31 +8082,6 @@
       "83b4f03de1cf"
      ],
      "found": "2026-11-25T16:45:00+03:00"
-    },
-    {
-     "key": "666833051c0c",
-     "title": "«Дубайск» от Le Jeu",
-     "date": "2026-11-28",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/sram_sram18/3016",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "author": "Срамота 18+",
-     "author_url": "https://t.me/sram_sram18",
-     "image": "https://cdn4.telesco.pe/file/Ssh0c3fnNznQ_TD8zNIY8C2E4IdV8GjAwIDLYxSi-FBIAGHYGDYSzGUgRuNWfr-YK5LMNyGW4C9Ua81ZT4oW-6bKm5u8Ni-k-Bj4phf_HCMtO1hAoa21Eite7mMMefVZdVb9M8zLxCsca_u1pyqbUYe4nHYCKKuqt925Q34FJZCDQOcXchCWpHmVjCqE68SCKfkL4tEQJX6yWDBQx_fIozAN_JcGPRkRQDG0siPWrXdnXk0QNqHrlc8SVA4NUo7lhTAty1USLoqIZVoXHlZZWBjfDwi4uUaxuZN80DW_mx-AKgcD0Jc0G-mEQkmFV9F5rTtLrtgwwUvaJdtflB6KgQ.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "666833051c0c",
-      "ada82eed11c9"
-     ],
-     "found": "2026-11-16T12:45:07+03:00"
     },
     {
      "key": "4981a087a28f",
@@ -8275,7 +8349,8 @@
      "hot_reason": "",
      "keys": [
       "9be7845a5674",
-      "9a26edd4b68f"
+      "9a26edd4b68f",
+      "901e19ca9ecd"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -8427,6 +8502,31 @@
       "c9db24484f61"
      ],
      "found": "2026-11-23T16:45:01+03:00"
+    },
+    {
+     "key": "c56767a7b2a9",
+     "title": "Джем Московского Клуба Сторителлинга",
+     "date": "2026-11-30",
+     "time": "19:00",
+     "place": "Спиридоньевский 9с1",
+     "price": "бесплатно",
+     "link": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "cats": [
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Московский Клуб Сторителлинга",
+     "author_url": "https://moscow-club-storytell.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4f7055b2-4272-4c88-b0bd-202585ebcdf7/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c56767a7b2a9"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
     },
     {
      "key": "875432cb3e66",
@@ -9980,6 +10080,30 @@
      "found": "2026-11-23T12:45:07+03:00"
     },
     {
+     "key": "a00a9e7c7a1f",
+     "title": "Мастер-класс по изготовлению лодочки",
+     "date": "2026-12-06",
+     "time": "15:30",
+     "place": "Artplay, Нижняя Сыромятническая 10, стр. 3, 4 этаж",
+     "price": "бесплатно",
+     "link": "https://kvartira-17.timepad.ru/event/4326287/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kvartira-17.timepad.ru/event/4326287/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Квартира №17",
+     "author_url": "https://kvartira-17.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a0c096f9-3efb-4f51-acc0-9fee9143dbe0/-/crop/5504x3097/0,287/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a00a9e7c7a1f"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "9e5d199f071a",
      "title": "«Душа поёт» (LeMoor)",
      "date": "2026-12-06",
@@ -10175,6 +10299,31 @@
      "found": "2026-11-17T16:45:01+03:00"
     },
     {
+     "key": "f4e8d220eb30",
+     "title": "Джем Московского Клуба Сторителлинга",
+     "date": "2026-12-07",
+     "time": "19:00",
+     "place": "Спиридоньевский 9с1",
+     "price": "бесплатно",
+     "link": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "cats": [
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Московский Клуб Сторителлинга",
+     "author_url": "https://moscow-club-storytell.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4f7055b2-4272-4c88-b0bd-202585ebcdf7/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f4e8d220eb30"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "cedc5ac89486",
      "title": "Вечер сторителлинга «Мотылёк»",
      "date": "2026-12-08",
@@ -10359,7 +10508,8 @@
      "signup_url": null,
      "cats": [
       "dance",
-      "music"
+      "music",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
@@ -10369,34 +10519,10 @@
      "hot_reason": "",
      "keys": [
       "5ff88d9620cc",
-      "7b4612583723"
-     ],
-     "found": "2026-11-15T23:19:36+03:00"
-    },
-    {
-     "key": "3b7094a986dd",
-     "title": "КИ день рождённый джем",
-     "date": "2026-12-09",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/cimsk/7432",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "dance",
-      "body"
-     ],
-     "adult": false,
-     "author": "Контактная Импровизация в Москве",
-     "author_url": "https://t.me/cimsk",
-     "image": "https://cdn4.telesco.pe/file/m3f5dcYfT0OuK8cZwMOtkAmgRy_xowtsEtxGYkjAip0kePHH4lvQ1rFbIH1WoiWJCq3xpRwBzGHroY-Q_T2azRN6i8valZ5X5hvoWgbhyzrq3akamjwwFRvk6KY97ynm5BiMD7ABT3B3Kx4ua8eNDMmZSOXi4K04C97DWAdyFVStJtDdTfJrLh2LhDFfkdMJrxhb9KTckfMIdFZk6RLbsTbHMzV8F6lo_VT04kIEL5YThTK6efuDvYKtuNlIE5zaj6yp8tqhoEfhmMya6kuZIQTJEOS9zEagIEz8Cw1jwhoh74frdXpPKwDaIrCi2RY-ojduJqsQ3qJuKRWAkRG7iw",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "7b4612583723",
       "3b7094a986dd"
      ],
-     "found": "2026-11-24T16:45:00+03:00"
+     "found": "2026-11-15T23:19:36+03:00"
     },
     {
      "key": "03c259608192",
@@ -11407,6 +11533,31 @@
      "found": "2026-11-22T16:45:16+03:00"
     },
     {
+     "key": "adacc00735f5",
+     "title": "Джем Московского Клуба Сторителлинга",
+     "date": "2026-12-14",
+     "time": "19:00",
+     "place": "Спиридоньевский 9с1",
+     "price": "бесплатно",
+     "link": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "cats": [
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Московский Клуб Сторителлинга",
+     "author_url": "https://moscow-club-storytell.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4f7055b2-4272-4c88-b0bd-202585ebcdf7/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "adacc00735f5"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "afeb9ffa5af0",
      "title": "КИ + психология: «Границы» (Усов)",
      "date": "2026-12-15",
@@ -12315,6 +12466,31 @@
      "found": "2026-11-17T08:45:00+03:00"
     },
     {
+     "key": "ee1d83025b7d",
+     "title": "Джем Московского Клуба Сторителлинга",
+     "date": "2026-12-21",
+     "time": "19:00",
+     "place": "Спиридоньевский 9с1",
+     "price": "бесплатно",
+     "link": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "cats": [
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Московский Клуб Сторителлинга",
+     "author_url": "https://moscow-club-storytell.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4f7055b2-4272-4c88-b0bd-202585ebcdf7/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ee1d83025b7d"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "415a59a5823b",
      "title": "Аромасвечи в стиле хюгге",
      "date": "2026-12-22",
@@ -12462,6 +12638,30 @@
       "dc1e423e5617"
      ],
      "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
+     "key": "be5c7fa9a14e",
+     "title": "Философское кафе «Мысли вслух»",
+     "date": "2026-12-25",
+     "time": "19:00",
+     "place": "Библиотека №128, ул. 8-ая Текстильщиков, 14",
+     "price": "бесплатно",
+     "link": "https://biblioteka-n-128-im-ma-sh.timepad.ru/event/4326823/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-n-128-im-ma-sh.timepad.ru/event/4326823/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Библиотека N 128- культурный центр М.А. Шолохова",
+     "author_url": "https://biblioteka-n-128-im-ma-sh.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a8bf14e5-41a4-4e7d-8a6c-116bbd91174c/-/crop/1536x865/0,105/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "be5c7fa9a14e"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
     },
     {
      "key": "467c990b4ef0",
@@ -12930,6 +13130,31 @@
      "found": "2026-11-23T12:45:07+03:00"
     },
     {
+     "key": "68a7507112f1",
+     "title": "Джем Московского Клуба Сторителлинга",
+     "date": "2026-12-28",
+     "time": "19:00",
+     "place": "Спиридоньевский 9с1",
+     "price": "бесплатно",
+     "link": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moscow-club-storytell.timepad.ru/event/4325500/",
+     "cats": [
+      "circles",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Московский Клуб Сторителлинга",
+     "author_url": "https://moscow-club-storytell.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4f7055b2-4272-4c88-b0bd-202585ebcdf7/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "68a7507112f1"
+     ],
+     "found": "2026-11-25T20:45:14+03:00"
+    },
+    {
      "key": "978bf7edc26c",
      "title": "Новогодний джем ансамбля «Голоса Возрождения»",
      "date": "2026-12-28",
@@ -13207,22 +13432,22 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-25T16:45:00+03:00",
-     "events": 204
+     "last_post": "2026-11-25T20:45:14+03:00",
+     "events": 213
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-25T12:02:50+03:00",
-     "events": 26
+     "last_post": "2026-11-25T18:59:49+03:00",
+     "events": 25
     },
     {
      "title": "Срамота 18+",
      "username": "sram_sram18",
      "kind": "folder",
-     "last_post": "2026-11-25T14:32:21+03:00",
-     "events": 7
+     "last_post": "2026-11-25T18:02:06+03:00",
+     "events": 8
     },
     {
      "title": "FoShoo — любительский театр",
@@ -13284,7 +13509,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-25T13:23:45+03:00",
+     "last_post": "2026-11-25T20:22:05+03:00",
      "events": 2
     },
     {
@@ -13319,7 +13544,7 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-23T17:35:48+03:00",
+     "last_post": "2026-11-25T17:47:56+03:00",
      "events": 1
     },
     {
