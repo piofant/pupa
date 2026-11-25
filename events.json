@@ -621,6 +621,31 @@
      "found": "2026-11-23T20:30:00+03:00"
     },
     {
+     "key": "b0fd1b8b9c7f",
+     "title": "Спецпоказ «Бяки» — клоунское кабаре",
+     "date": "2026-11-26",
+     "time": "20:00",
+     "place": "Манежный пер., 15-17",
+     "price": "бесплатно",
+     "link": "https://okt-bitum.timepad.ru/event/4294480/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://okt-bitum.timepad.ru/event/4294480/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Команда ОКТ \"БИТУМ\"",
+     "author_url": "https://okt-bitum.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a13e05a2-1590-4637-a974-ea132406e89a/-/crop/2560x1438/0,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "спецпоказ, номера пробуют впервые",
+     "keys": [
+      "b0fd1b8b9c7f"
+     ],
+     "found": "2026-11-25T20:30:01+03:00"
+    },
+    {
      "key": "92b67704dbee",
      "title": "Показ фильма «Малика» с обсуждением",
      "date": "2026-11-26",
@@ -2237,6 +2262,31 @@
      "found": "2026-11-18T12:30:00+03:00"
     },
     {
+     "key": "7c171848af97",
+     "title": "«Только классика. Только Пушкин»",
+     "date": "2026-11-29",
+     "time": "18:00",
+     "place": "пер. Каховского, 9",
+     "price": "бесплатно",
+     "link": "https://tspbgu.timepad.ru/event/4325468/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tspbgu.timepad.ru/event/4325468/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Театр-студия СПбГУ",
+     "author_url": "https://tspbgu.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3e945817-0662-4e1a-9abb-4a13186b009b/-/crop/2204x1240/0,27/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7c171848af97"
+     ],
+     "found": "2026-11-25T20:30:01+03:00"
+    },
+    {
      "key": "b9d2bdc4bd3a",
      "title": "«Одиночество»: перформанс Cielo",
      "date": "2026-11-29",
@@ -2917,7 +2967,7 @@
     },
     {
      "key": "6f9c76bc3197",
-     "title": "Обнимательная встреча Obni(me)",
+     "title": "Обнимательная встреча",
      "date": "2026-12-02",
      "time": "19:00",
      "place": null,
@@ -3165,6 +3215,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "898d58d92dfc",
+     "title": "Мастер-класс «День добрых сердец»",
+     "date": "2026-12-04",
+     "time": "17:00",
+     "place": "Большой пр. П.С., 73/36",
+     "price": "бесплатно",
+     "link": "https://crb-petrogradka.timepad.ru/event/4325738/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crb-petrogradka.timepad.ru/event/4325738/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная библиотека им. А.С. Пушкина",
+     "author_url": "https://crb-petrogradka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/74433596-c0d2-4d7e-ac96-88d143333fd5/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "898d58d92dfc"
+     ],
+     "found": "2026-11-25T20:30:01+03:00"
+    },
+    {
      "key": "a41ee1f64756",
      "title": "Мастер-класс по плейбек-театру",
      "date": "2026-12-04",
@@ -3286,6 +3360,30 @@
       "8aa74bea2690"
      ],
      "found": "2026-11-19T20:30:00+03:00"
+    },
+    {
+     "key": "ce10cfcad5eb",
+     "title": "Трансформационная игра «Точка старта»",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "ул. Губина, 5",
+     "price": "бесплатно",
+     "link": "https://mpsever.timepad.ru/event/4325319/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mpsever.timepad.ru/event/4325319/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Молодежное пространство «Север»",
+     "author_url": "https://mpsever.timepad.ru/",
+     "image": "https://ucare.timepad.ru/6b70454e-48c0-4c2c-b348-1a33a7a5bca4/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ce10cfcad5eb"
+     ],
+     "found": "2026-11-25T20:30:01+03:00"
     },
     {
      "key": "fa3809b6279a",
@@ -3434,7 +3532,8 @@
      "hot_reason": "",
      "keys": [
       "e86b036de1a7",
-      "e6cc0990f972"
+      "e6cc0990f972",
+      "afedb75e52bf"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -3537,7 +3636,7 @@
     },
     {
      "key": "1351cefc67a5",
-     "title": "Обнимательная встреча Obni(me)",
+     "title": "Обнимательная встреча",
      "date": "2026-12-05",
      "time": "17:00",
      "place": null,
@@ -4290,7 +4389,7 @@
     },
     {
      "key": "a00415b365bb",
-     "title": "Обни-встреча для 18–25 лет",
+     "title": "Обнимательная встреча для 18–25 лет",
      "date": "2026-12-10",
      "time": "19:00",
      "place": null,
@@ -4305,8 +4404,8 @@
      "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "author_url": "https://t.me/cuddlepiter",
      "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
-     "hot": false,
-     "hot_reason": "",
+     "hot": true,
+     "hot_reason": "новый формат, проходит впервые",
      "keys": [
       "a00415b365bb"
      ],
@@ -4513,7 +4612,7 @@
     },
     {
      "key": "375cec5cbcad",
-     "title": "Обнимательная встреча Obni(me)",
+     "title": "Обнимательная встреча",
      "date": "2026-12-12",
      "time": "17:00",
      "place": null,
@@ -4811,7 +4910,7 @@
     },
     {
      "key": "1055a64c55e0",
-     "title": "Обнимательная встреча Obni(me)",
+     "title": "Обнимательная встреча",
      "date": "2026-12-16",
      "time": "19:00",
      "place": null,
@@ -5249,6 +5348,31 @@
      "found": "2026-11-24T20:30:11+03:00"
     },
     {
+     "key": "06f058b39659",
+     "title": "«Заячьи истории»",
+     "date": "2026-12-20",
+     "time": "13:00",
+     "place": "Ораниенбаумская ул., 27",
+     "price": "бесплатно",
+     "link": "https://festival-eve-2019.timepad.ru/event/4326821/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://festival-eve-2019.timepad.ru/event/4326821/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Театр студия \"Дом-А\"",
+     "author_url": "https://festival-eve-2019.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a7dd05e9-b3ab-4b84-b39d-db4379486527/-/crop/1280x720/0,167/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "06f058b39659"
+     ],
+     "found": "2026-11-25T20:30:01+03:00"
+    },
+    {
      "key": "0ce5f60636ea",
      "title": "Мастер-класс «Каталог новогодних существ»",
      "date": "2026-12-20",
@@ -5347,7 +5471,7 @@
     },
     {
      "key": "d115c0f6d4a3",
-     "title": "Обнимательная встреча Obni(me)",
+     "title": "Обнимательная встреча",
      "date": "2026-12-23",
      "time": "19:00",
      "place": null,
@@ -5583,7 +5707,7 @@
      "author_url": "https://t.me/cuddlepiter",
      "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
      "hot": true,
-     "hot_reason": "новогодний формат раз в год",
+     "hot_reason": "разовый новогодний формат на 6 часов",
      "keys": [
       "60276e8bc814"
      ],
@@ -5636,6 +5760,31 @@
       "b934bd9a671a"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "c5e408409dcf",
+     "title": "Хоровой концерт «Музыкальные миры Дмитрия Смирнова»",
+     "date": "2026-12-26",
+     "time": null,
+     "place": "Дом Радио",
+     "price": null,
+     "link": "https://t.me/domradio_online/2249",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Дом Радио",
+     "author_url": "https://t.me/domradio_online",
+     "image": "https://cdn4.telesco.pe/file/TODmeFGqcoyQjgsBXS4s5vAr0NGUqlZAXFT510B9WGnMz8-IpdPir_0wtuClH58xvG_C4Xcn98m2yY9l5F87QrkzaVAu2N4H59eHAaCMnoMaYYKVf7Bh-gLQ-9wy86SfG85VQLdyjcOyht9rKbwK4ZePWuL2CN-CrQrVSe-dCoDfvBGvc_XPrnMmZJF4DWxUtuCEIUdD8VfgnW4862LKhM1DPUvJBDqnAxbGQPl6KUOpECQksVeMA5stm94RROWcCgHxZvAAAzciJzYGYjIRJ5A9GOyKhuL76M6ns1O36ImlKd8vCcNtTXIqZmD7OwqIh0Eg37u3iMfgQRpkjwJqOQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c5e408409dcf"
+     ],
+     "found": "2026-11-25T20:30:01+03:00"
     },
     {
      "key": "01b0ffb6858d",
@@ -5784,7 +5933,7 @@
     },
     {
      "key": "1f29f8e5b325",
-     "title": "Обнимательная встреча Obni(me)",
+     "title": "Обнимательная встреча",
      "date": "2026-12-30",
      "time": "19:00",
      "place": null,
@@ -5836,7 +5985,7 @@
      "date": "2026-12-31",
      "time": "21:00",
      "place": "район Сенной",
-     "price": "первые 10 билетов 9900 ₽, далее дороже",
+     "price": null,
      "link": "https://t.me/cuddlepiter/5561",
      "source": "Пост в канале",
      "signup_url": null,
@@ -5961,8 +6110,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-25T16:30:12+03:00",
-     "events": 95
+     "last_post": "2026-11-25T20:30:01+03:00",
+     "events": 100
     },
     {
      "title": "SensCafe 18+",
@@ -5975,7 +6124,7 @@
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-25T10:20:22+03:00",
+     "last_post": "2026-11-25T19:35:43+03:00",
      "events": 18
     },
     {
@@ -5989,8 +6138,8 @@
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
-     "last_post": "2026-11-24T18:03:28+03:00",
-     "events": 14
+     "last_post": "2026-11-25T20:11:06+03:00",
+     "events": 15
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -6031,7 +6180,7 @@
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
-     "last_post": "2026-11-24T18:13:33+03:00",
+     "last_post": "2026-11-25T18:47:45+03:00",
      "events": 5
     },
     {
@@ -6045,7 +6194,7 @@
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-24T19:03:24+03:00",
+     "last_post": "2026-11-25T19:03:57+03:00",
      "events": 4
     },
     {
@@ -6087,7 +6236,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-25T13:23:45+03:00",
+     "last_post": "2026-11-25T20:22:05+03:00",
      "events": 2
     },
     {
@@ -6157,14 +6306,14 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-24T19:06:25+03:00",
+     "last_post": "2026-11-25T20:28:23+03:00",
      "events": 1
     },
     {
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-24T17:49:45+03:00",
+     "last_post": "2026-11-25T17:49:46+03:00",
      "events": 1
     },
     {
@@ -6262,7 +6411,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-24T19:29:58+03:00",
+     "last_post": "2026-11-25T19:34:14+03:00",
      "events": 0
     },
     {
