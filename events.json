@@ -6303,6 +6303,31 @@
      "found": "2026-11-24T12:45:02+03:00"
     },
     {
+     "key": "2da04e291c34",
+     "title": "Игровой вечер и караоке в Bizarre",
+     "date": "2026-11-25",
+     "time": null,
+     "place": "Клуб Bizarre, Ленинская Слобода 19к2",
+     "price": null,
+     "link": "https://t.me/bizarreclubmsk/8707",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "music"
+     ],
+     "adult": true,
+     "author": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
+     "author_url": "https://t.me/bizarreclubmsk",
+     "image": "https://cdn4.telesco.pe/file/kU6aWjWxtgQ0jQVzcpeGYnKDlhpa28lP5RP46YKbpfgf7gx_mjO2P7E6IpT8j-g4W14mPdy9gad2viOzWYQY-kiA9HHE3Bv1jHLtFgjJtz9996qQY3UaHJ_FJuPRXSbludx3ZG3aiFCvz-5Ppmbps1SCCIQmZfi4k1JTB0t2vNX9wNrnLK99akIc-l2J6L7crPWF1Tdp6FcIB0ehEWr2FtpUJVyKGZmjc4p_Qr-3rIIwRcgu5UsCcGZ99GicVIKfWtCFzSq71IfdQNYQtvS5eLl5g-tjizMi5HzUCEekDnbQePidVs3CCIqR3OOK2fLRos6khW_32V2pbwdE8XRXdQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2da04e291c34"
+     ],
+     "found": "2026-11-25T12:45:00+03:00"
+    },
+    {
      "key": "95de974b1700",
      "title": "Каддл Марии Зобниной",
      "date": "2026-11-25",
@@ -6425,7 +6450,8 @@
      "hot_reason": "",
      "keys": [
       "8109bb55e26a",
-      "bf576a8373a4"
+      "bf576a8373a4",
+      "ae36aeecd405"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -6971,6 +6997,30 @@
       "cb9031a3e165"
      ],
      "found": "2026-11-24T16:45:00+03:00"
+    },
+    {
+     "key": "c3833bfb7bd4",
+     "title": "Мастер-класс по папертолю «Туфелька для мамы»",
+     "date": "2026-11-28",
+     "time": "15:30",
+     "place": "Москва, проспект Мира, 119, строение 61 (ВДНХ, павильон № 61)",
+     "price": "бесплатно",
+     "link": "https://lntolstoymuseum.timepad.ru/event/4299652/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://lntolstoymuseum.timepad.ru/event/4299652/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Государственный музей-заповедник Л.Н. Толстого",
+     "author_url": "https://lntolstoymuseum.timepad.ru/",
+     "image": "https://ucare.timepad.ru/0600042e-302e-406c-a45b-46f32b31908b/-/crop/1280x720/0,67/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "c3833bfb7bd4"
+     ],
+     "found": "2026-11-25T12:45:00+03:00"
     },
     {
      "key": "ec28d2b8da6a",
@@ -10819,6 +10869,30 @@
      "found": "2026-11-21T12:45:21+03:00"
     },
     {
+     "key": "9d141c0165d0",
+     "title": "Старт актёрской лаборатории FoShoo",
+     "date": "2026-12-17",
+     "time": "19:00",
+     "place": "Театр-студия FoShoo, Ленинградский проспект, 26к1",
+     "price": "22 800 ₽/месяц",
+     "link": "https://t.me/fo_shoo/1405",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "FoShoo — любительский театр",
+     "author_url": "https://t.me/fo_shoo",
+     "image": "https://cdn4.telesco.pe/file/b2CBhZMHfWJFLy63UeR4tjD5qCxbkAugpQRWLR1pULx5oDXSSjr52DPXt2SMOS_hvyMo3hD4pnIj9oxD1fB9xBCTAVwE6ol-Gop8047tXffFe804et-eSlWd8Oi89LexQaYn66WfZFS8UQcD749GvghZhPmS8q-SlFQURVLj_Fz8RA2Di2DhcIROJnTek2D5Cdk1PIAYyumN92928VGjtRe2goa-khjc5SW5oJ8NBVw8-U1KfJw5Ix6cGQC8fmqn6XIPO59HO3g02F7D9rozG8UtziWSgh0gSUSHPfAvhmCOXgq7uNfVKhOWNHfZJL-It5PbmCZHSv4MILCCV5EXeQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9d141c0165d0"
+     ],
+     "found": "2026-11-25T12:45:00+03:00"
+    },
+    {
      "key": "6c8181a0bf25",
      "title": "Трогательный практикум (LeMoor)",
      "date": "2026-12-17",
@@ -12347,15 +12421,22 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-25T08:45:00+03:00",
-     "events": 198
+     "last_post": "2026-11-25T12:45:00+03:00",
+     "events": 199
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-24T20:04:01+03:00",
+     "last_post": "2026-11-25T12:02:50+03:00",
      "events": 26
+    },
+    {
+     "title": "FoShoo — любительский театр",
+     "username": "fo_shoo",
+     "kind": "extra",
+     "last_post": "2026-11-25T10:33:37+03:00",
+     "events": 6
     },
     {
      "title": "Срамота 18+",
@@ -12363,13 +12444,6 @@
      "kind": "folder",
      "last_post": "2026-11-24T12:45:45+03:00",
      "events": 6
-    },
-    {
-     "title": "FoShoo — любительский театр",
-     "username": "fo_shoo",
-     "kind": "extra",
-     "last_post": "2026-11-24T20:42:08+03:00",
-     "events": 5
     },
     {
      "title": "Obni(me) Москва",
@@ -12417,7 +12491,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-24T09:50:11+03:00",
+     "last_post": "2026-11-25T10:12:20+03:00",
      "events": 2
     },
     {
@@ -12439,6 +12513,13 @@
      "username": "fifth_friday",
      "kind": "folder",
      "last_post": "2026-11-21T13:50:48+03:00",
+     "events": 1
+    },
+    {
+     "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
+     "username": "bizarreclubmsk",
+     "kind": "folder",
+     "last_post": "2026-11-25T09:15:09+03:00",
      "events": 1
     },
     {
@@ -12509,13 +12590,6 @@
      "username": "random_culture",
      "kind": "extra",
      "last_post": "2026-11-24T17:10:35+03:00",
-     "events": 0
-    },
-    {
-     "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
-     "username": "bizarreclubmsk",
-     "kind": "folder",
-     "last_post": "2026-11-23T09:30:56+03:00",
      "events": 0
     },
     {
