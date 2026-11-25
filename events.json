@@ -1748,6 +1748,33 @@
      "found": "2026-11-23T12:30:21+03:00"
     },
     {
+     "key": "e96de280e77d",
+     "title": "Лёд и шёлк: ночь контрастных ощущений",
+     "date": "2026-11-28",
+     "time": "23:00",
+     "place": "SensCafe",
+     "price": "соло 3000 ₽, пара 5000 ₽, трио 6000 ₽",
+     "link": "https://t.me/sensualcafe/8825",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/d3yYATjhhwMM7rix1T-W77cyFT3TfOu-Qkx3ibrRmvtNbMbWpyeLyFinTOcv9OKMIuGkSMn5e7sXLZAV4HFs2hZVFXwjmTyc9j3u90m7Njm1MneWZ5BG6D5vkqJvxstKZfv1kj5FcRLib6xwJGXOAnvXGVwyTnKvgddiEgeOeFitp2j-NvN7Bvr427bZBsJhDLrppVWxAF07rAFZM3UszmXCQZslud3-7hXh5j5upxjogdI7olp6KI2waa6FgMhqf69_WTJmz5SW-CvPborunaZfqhqoHHz2FiUuL_ngajxPggzstiWAOmYGcFpQI8cIuCh3gYk3K2BeHxuqNk31oQ.jpg",
+     "hot": true,
+     "hot_reason": "разовая ночь, запись ограничена",
+     "keys": [
+      "e96de280e77d",
+      "5f0a06a60b30",
+      "f3f3e478ff38",
+      "aa91a45639f7"
+     ],
+     "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
      "key": "b2baeaa123e9",
      "title": "«Распев»: хоровые встречи",
      "date": "2026-11-28",
@@ -1822,32 +1849,6 @@
       "c0f5e7fb5471"
      ],
      "found": "2026-11-24T08:30:14+03:00"
-    },
-    {
-     "key": "5f0a06a60b30",
-     "title": "Лёд и шёлк: ночь контрастных ощущений",
-     "date": "2026-11-28",
-     "time": null,
-     "place": "SensCafe",
-     "price": "соло 3000 ₽, пара 5000 ₽, трио 6000 ₽",
-     "link": "https://t.me/sensualcafe/8778",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "author": "SensCafe 18+",
-     "author_url": "https://t.me/sensualcafe",
-     "image": "https://cdn4.telesco.pe/file/WUucQxUETkBeb5Rq8WXncsrPC1bxbo6ptuskP3bCjELW1Ekk-SevoBVyaOwnBd6wfxwKQLDYDXu3KIF1dNN61xXEvysbEqYmDxOjTQr75orUb_mynnqUMAtjKjmZpWVcNmLQtSYFMLah1EHVVaClAmXjXIzU9yorYh4Bnchr27rYbDeP9roxxNYvzRJOsyeaPQSulzC69WZRTTQ2O-LQZMkRgW1c7tBPOti_a7gmQsPdC78c7j2cT1nbvj4kbN4zZfNU9-3Q8I9mz-bH6MmQUb9BU2r4DPEtqdxzXMktUCiDQhmemWHolAovT_oSpYlS3kjcFDlJxOVlYlnHy711kw.jpg",
-     "hot": true,
-     "hot_reason": "разовая ночь, запись ограничена",
-     "keys": [
-      "5f0a06a60b30",
-      "f3f3e478ff38",
-      "aa91a45639f7"
-     ],
-     "found": "2026-11-18T16:30:01+03:00"
     },
     {
      "key": "c86637363be8",
@@ -2178,6 +2179,7 @@
       "fde5f38382e3",
       "e86ac38e0964",
       "7dbfa9105830",
+      "46f53f223a51",
       "5e789780e3e4"
      ],
      "found": "2026-11-15T20:36:43+03:00"
@@ -2284,6 +2286,31 @@
       "f6e425e02860"
      ],
      "found": "2026-11-23T08:30:26+03:00"
+    },
+    {
+     "key": "b0c5cd2eac15",
+     "title": "Медитация под тибетские чаши",
+     "date": "2026-11-29",
+     "time": "19:00",
+     "place": "Васильевский остров",
+     "price": "1500₽",
+     "link": "https://t.me/feelfeelit/1032",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm",
+      "music"
+     ],
+     "adult": false,
+     "author": "Feel it | Почувствуй",
+     "author_url": "https://t.me/feelfeelit",
+     "image": "https://cdn4.telesco.pe/file/l0sEaByg8z1rlQ4pNM-IE1qsgAjAyZfr86Ds8jFfMPjIJvdBS24yGl7QBbMhj0qBDIXaOyrNXVEfwRIWCDML70GuxphfTYG_wvpTwsI9No7CcSVHMJQr7vSMqLi0JNpPeSJTawO4qGDkIMAABTkfl_5jmTGsBdGrMctfD3eFAPnXQEo0EgPg1yT31NgmYspRl7Sd-7u7CqHFQMhiZ2u48KkVkukv2ypqBhmmwfcXDmpXdXRjNIjlPJsEVPUmRAx4PNMkXHFOgkb50uf1PAPx_opmua4hU8DlfKhXOdaZjTmG-l3G3NTbvBo0xffAlm-u110yye_xJSnLAQDYaZ4kkA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b0c5cd2eac15"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "877560449e72",
@@ -2739,13 +2766,13 @@
      "found": "2026-11-23T09:00:02+03:00"
     },
     {
-     "key": "5421cc76838a",
-     "title": "Лекция Игоря Колышкина «О спорт, ты секс!»",
+     "key": "f87b11bcc00c",
+     "title": "Лекция «Спорт, секс, сплетни»",
      "date": "2026-12-01",
      "time": "19:00",
      "place": "SensCafe",
-     "price": "тариф тайм-кафе + донат",
-     "link": "https://t.me/sensualcafe/8787",
+     "price": "по тарифу тайм-кафе + донат",
+     "link": "https://t.me/sensualcafe/8820",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -2755,10 +2782,11 @@
      "adult": true,
      "author": "SensCafe 18+",
      "author_url": "https://t.me/sensualcafe",
-     "image": "https://cdn4.telesco.pe/file/X-T32BaG2ozz3mqWftkD2qXkLYBbEn02sC4o8PHZLwm0KKHFnItmL8voGMmrEcy1nnbBS4kGU8QxRRNf9A9kYAIcXIweZ_Lxoj9h-innbiJ7Hwc9eEX4foRh_vNh60eSBiFvt8sYSlFzf_vqvX0G9wkPognpm27EXG_bYxQ6tTFLGk_L99i8dyE5Oe8p1pKRHHWWlZMZK4md9CjdCsyN_K305dEU_BNE1Dj_KOqdbDNZ9a4qXG2uWvSsXCnfkYQB8_h1Wxs58v1K2OzriVXNVBYannJCeXEBHYeYKyZ6hDeKbzcJQTFA3lkZFqr_6CDWHI0Z2vPPk8PVKd2vd7EfVA.jpg",
+     "image": "https://cdn4.telesco.pe/file/f7tFH1Fj-d5J7KyebAuu3JZAVYxChDAsZSd471tGjBru6C48vwxEsOX6N7AxVCY5NEcTWivCTXV_jsyWTgfvYzEmMIOyiSITITl8wercKkdKuayGeejttS6Nck5MaTNbhYt5gdvYXqi_crt9vAzF7pY4Y7jE5Mo1vJ-13EV3if_qCpDamV_1_lUZm6FFbpXoAp2rIf46M1clT72hea-eCvrP-GFq9klOd-c92VPypWWN5EHUFE1g-dE1_lNuzsvBghTaG_FDu-MLL0UTPUadtssF8C7OtK1sLFe3AkmpIsZdMFX37lzUywj3dY-Haxxc1XyNVhFcvyH2elohfMEczA.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "f87b11bcc00c",
       "5421cc76838a"
      ],
      "found": "2026-11-19T12:30:02+03:00"
@@ -2886,6 +2914,30 @@
       "1ffb5fb0e976"
      ],
      "found": "2026-11-25T08:30:00+03:00"
+    },
+    {
+     "key": "6f9c76bc3197",
+     "title": "Обнимательная встреча Obni(me)",
+     "date": "2026-12-02",
+     "time": "19:00",
+     "place": null,
+     "price": "2900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6f9c76bc3197"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "736712734892",
@@ -3113,6 +3165,54 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "a41ee1f64756",
+     "title": "Мастер-класс по плейбек-театру",
+     "date": "2026-12-04",
+     "time": "18:00",
+     "place": "ТЕАТРАЛКА, Набережная Адмиралтейского канала 27",
+     "price": "бесплатно",
+     "link": "https://teatralka-tsentr-stsenich.timepad.ru/event/4325357/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatralka-tsentr-stsenich.timepad.ru/event/4325357/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Центр сценического искусства ТЕАТРАЛКА",
+     "author_url": "https://teatralka-tsentr-stsenich.timepad.ru/",
+     "image": "https://ucare.timepad.ru/45da5436-f646-41dc-ab81-c4acc7ec5304/-/crop/2558x1437/2,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a41ee1f64756"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "6ba7a40473a1",
+     "title": "Круг поддержки «Праздники не праздники»",
+     "date": "2026-12-04",
+     "time": "18:30",
+     "place": "Открытая гостиная, Литейный пр., 17-19",
+     "price": "бесплатно",
+     "link": "https://t.me/open_living/3238",
+     "source": "Пост в канале",
+     "signup_url": "https://otkrytaya-gostinaya.timepad.ru/event/4323139/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://ucare.timepad.ru/eaf548b4-c3b1-46d9-9b2b-db622ebd9a9a/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6ba7a40473a1"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "35b74d48113d",
      "title": "«Смешно устроены»: психологический стендап Олеси Клевер",
      "date": "2026-12-04",
@@ -3211,6 +3311,31 @@
       "fa3809b6279a"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "86dd3d7e70e1",
+     "title": "Плейбек-перформанс «Смелость Быть»",
+     "date": "2026-12-04",
+     "time": "20:00",
+     "place": "Арт-центр «Гаркундель», 10-я Советская ул., 17Б",
+     "price": "500 ₽",
+     "link": "https://t.me/playback_812/162",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Плейбек-театр \"ЭХО\"",
+     "author_url": "https://t.me/playback_812",
+     "image": "https://cdn4.telesco.pe/file/f4jbhUA3LRecvO5LyMM-FkVqkq9AzYH5Sq7dyNVbJkU_6HWtyngYC3zmTgDPJb4N9-mIxpGtvUJXl2Uffw3ZJrscHFP94J4NdRdEWB5vcJscO58W-u7yehygoaITP9nhx8OstB1whGMIf90edeN31mRdIrpEdc66GPqaSuTK17fWGFqON6X9G3okwzMD_a6htjFj8ftCSQZIKeOG1N5jVbfRRwgfhzl7gxLQEQF38tGK7RtunpVw6ci9uKJVwLKrXs6fkXVjVoMsjXGmpyE5bmOtT9dyzFINyL1huLVGuIzSp4bXkzKaZnGEi-k0m8PoegFt_QlnIi9aMgQ-i-UV6g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "86dd3d7e70e1"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "b00a223f2be6",
@@ -3409,6 +3534,30 @@
       "154813a780c9"
      ],
      "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
+     "key": "1351cefc67a5",
+     "title": "Обнимательная встреча Obni(me)",
+     "date": "2026-12-05",
+     "time": "17:00",
+     "place": null,
+     "price": "2900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1351cefc67a5"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "e5af6d487a6f",
@@ -3893,6 +4042,30 @@
      "found": "2026-11-18T12:30:00+03:00"
     },
     {
+     "key": "3848b008172e",
+     "title": "Книжный клуб в библиотеке на Петроградке",
+     "date": "2026-12-08",
+     "time": "17:00",
+     "place": "Центральная районная библиотека им. Пушкина, Большой пр. П.С., 73/36",
+     "price": "бесплатно",
+     "link": "https://crb-petrogradka.timepad.ru/event/4324747/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crb-petrogradka.timepad.ru/event/4324747/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Центральная районная библиотека им. А.С. Пушкина",
+     "author_url": "https://crb-petrogradka.timepad.ru/",
+     "image": "https://ucare.timepad.ru/1671688f-e5b9-49d7-95df-b97fd4b43dbc/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3848b008172e"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "61cd83b7307c",
      "title": "Лекция «Заблудившийся трамвай»",
      "date": "2026-12-08",
@@ -4116,6 +4289,30 @@
      "found": "2026-11-19T16:30:00+03:00"
     },
     {
+     "key": "a00415b365bb",
+     "title": "Обни-встреча для 18–25 лет",
+     "date": "2026-12-10",
+     "time": "19:00",
+     "place": null,
+     "price": "1900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a00415b365bb"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "de8728f30077",
      "title": "Тантрический Праймал в SensCafe",
      "date": "2026-12-11",
@@ -4313,6 +4510,30 @@
       "096655598c87"
      ],
      "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
+     "key": "375cec5cbcad",
+     "title": "Обнимательная встреча Obni(me)",
+     "date": "2026-12-12",
+     "time": "17:00",
+     "place": null,
+     "price": "2900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "375cec5cbcad"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "73580f6939e7",
@@ -4589,6 +4810,30 @@
      "found": "2026-11-19T20:30:00+03:00"
     },
     {
+     "key": "1055a64c55e0",
+     "title": "Обнимательная встреча Obni(me)",
+     "date": "2026-12-16",
+     "time": "19:00",
+     "place": null,
+     "price": "2900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1055a64c55e0"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "83e33eb627a5",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-16",
@@ -4635,6 +4880,30 @@
       "b7dfcc79bf51"
      ],
      "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
+     "key": "52a3fef3eef4",
+     "title": "Новогодняя встреча «Почва»",
+     "date": "2026-12-17",
+     "time": "18:00",
+     "place": "ТЕАТРАЛКА, Набережная Адмиралтейского канала 27",
+     "price": "бесплатно",
+     "link": "https://teatralka-tsentr-stsenich.timepad.ru/event/4324244/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatralka-tsentr-stsenich.timepad.ru/event/4324244/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центр сценического искусства ТЕАТРАЛКА",
+     "author_url": "https://teatralka-tsentr-stsenich.timepad.ru/",
+     "image": "https://ucare.timepad.ru/9f640bbd-8e33-475c-b19b-90b8cfd9d3b5/-/crop/1919x1078/1,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "52a3fef3eef4"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "41954d9d9b1c",
@@ -4709,6 +4978,30 @@
       "2a140dd9ba5f"
      ],
      "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
+     "key": "5da9b0296499",
+     "title": "Мастер-класс «Снежный пряник»",
+     "date": "2026-12-18",
+     "time": "17:00",
+     "place": "Библиотека № 9, Дальневосточный пр., 6/1",
+     "price": "бесплатно",
+     "link": "https://biblioteka-granina.timepad.ru/event/4325250/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-granina.timepad.ru/event/4325250/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека № 9 им. Даниила Гранина",
+     "author_url": "https://biblioteka-granina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d8ae7a33-46b0-4d23-aef7-8cd998251fbb/-/crop/2510x1413/108,7/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5da9b0296499"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "0712bcac04ce",
@@ -5053,6 +5346,30 @@
      "found": "2026-11-16T20:30:04+03:00"
     },
     {
+     "key": "d115c0f6d4a3",
+     "title": "Обнимательная встреча Obni(me)",
+     "date": "2026-12-23",
+     "time": "19:00",
+     "place": null,
+     "price": "2900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d115c0f6d4a3"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "9f4f1d4e1176",
      "title": "Спектакль «Ёлка у Ивановых» Доллгауза",
      "date": "2026-12-23",
@@ -5150,6 +5467,55 @@
      "found": "2026-11-24T16:30:26+03:00"
     },
     {
+     "key": "b308372c8645",
+     "title": "Спектакль «Ночь перед Рождеством»",
+     "date": "2026-12-24",
+     "time": "19:00",
+     "place": "ТЕАТРАЛКА, Набережная Адмиралтейского канала 27",
+     "price": "бесплатно",
+     "link": "https://teatralka-tsentr-stsenich.timepad.ru/event/4325887/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatralka-tsentr-stsenich.timepad.ru/event/4325887/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Центр сценического искусства ТЕАТРАЛКА",
+     "author_url": "https://teatralka-tsentr-stsenich.timepad.ru/",
+     "image": "https://ucare.timepad.ru/44ec0bdf-06ab-45ec-94dc-ab0dd0341fc0/-/crop/4093x2300/3,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "b308372c8645"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "65eeb0b9142d",
+     "title": "Мастер-класс «Кристальные снежинки»",
+     "date": "2026-12-25",
+     "time": "17:00",
+     "place": "Библиотека № 9, Дальневосточный пр., 6/1",
+     "price": "бесплатно",
+     "link": "https://biblioteka-granina.timepad.ru/event/4325246/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-granina.timepad.ru/event/4325246/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека № 9 им. Даниила Гранина",
+     "author_url": "https://biblioteka-granina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d0eb0ac9-2251-42b2-94da-d46d8906aeb9/-/crop/2374x1336/206,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "65eeb0b9142d"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "1d674762c946",
      "title": "ОРКиКО: музыкально-поэтический перформанс",
      "date": "2026-12-25",
@@ -5173,6 +5539,55 @@
       "1d674762c946"
      ],
      "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
+     "key": "6d51598c6f64",
+     "title": "Мастер-класс «Ароматы праздника»",
+     "date": "2026-12-26",
+     "time": "16:00",
+     "place": "Библиотека № 9, Дальневосточный пр., 6/1",
+     "price": "бесплатно",
+     "link": "https://biblioteka-granina.timepad.ru/event/4325268/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://biblioteka-granina.timepad.ru/event/4325268/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека № 9 им. Даниила Гранина",
+     "author_url": "https://biblioteka-granina.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c6292ecc-2f89-4bae-9a76-8e0e1c4ecc58/-/crop/2527x1422/80,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6d51598c6f64"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "60276e8bc814",
+     "title": "Новогодний обни-квартирник",
+     "date": "2026-12-26",
+     "time": "16:00",
+     "place": null,
+     "price": "3000₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "music"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": true,
+     "hot_reason": "новогодний формат раз в год",
+     "keys": [
+      "60276e8bc814"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
     },
     {
      "key": "ea7f7b8a194d",
@@ -5368,6 +5783,30 @@
      "found": "2026-11-24T20:30:11+03:00"
     },
     {
+     "key": "1f29f8e5b325",
+     "title": "Обнимательная встреча Obni(me)",
+     "date": "2026-12-30",
+     "time": "19:00",
+     "place": null,
+     "price": "2900₽",
+     "link": "https://t.me/cuddlepiter/5561",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1f29f8e5b325"
+     ],
+     "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
      "key": "789ef4cdc7e3",
      "title": "Джем контактной импровизации по средам",
      "date": "2026-12-30",
@@ -5392,26 +5831,28 @@
      "found": "2026-11-18T08:30:00+03:00"
     },
     {
-     "key": "3fba91347eb7",
-     "title": "Обни-НГ 2027",
+     "key": "ad271a7289b4",
+     "title": "Обни-Новый-Год",
      "date": "2026-12-31",
      "time": "21:00",
-     "place": "центр Петербурга",
+     "place": "район Сенной",
      "price": "первые 10 билетов 9900 ₽, далее дороже",
-     "link": "https://t.me/cuddlepiter/5525",
+     "link": "https://t.me/cuddlepiter/5561",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
       "body",
-      "dance"
+      "dance",
+      "music"
      ],
      "adult": false,
      "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "author_url": "https://t.me/cuddlepiter",
-     "image": "https://cdn4.telesco.pe/file/bOTaZUm7xw5IKnloWHOS1-ubtWJqihZm-hl0Q1rde8U_ui9QXQ3Qd4zEmU4WVK45iG2QI1GdsGbUtCa2HQraW4G_iepzGoSFHylPU1WiNNHdqcLGSTANfPeZMhJt28lHxntjr49R0iBAWRUQEvWBjkKjTLgl7VhHverK97KVborZ6eQQt9ngkHGDuujvRmfN42PfjCt3zqTlt-bckhiDVel1C6xjjwfsbtXmL1ngyijTYvc3oZ8H9bPDNVF5Yt2Qo1wNUEbQir5dmqlUFmmmxIPyc8jc8a0dIfNXR_2ehDzMraKx8Su4Reo50PF1jcgQqe76nMPlb-voOa9tabd-1Q.jpg",
+     "image": "https://cdn4.telesco.pe/file/SzhpnBErNfETlKrmwyv8JPjSTV2hb-y6ZRQXyF608cPG943xfLizETt3y4rBiKlW1QbS1GlRfZgtNeSts8BCckbIKzd9C_xUAATCJz6HtNq-hW3cZdNnDGZNBIQkxtQnLmps96YYTYWXnUH8P9aT2LGVuc4Rp3O9e2zBadu-Eiy55C-vyI9ZCJ3b98vQqG0yZmSHa41ROV7TCOhPenDRze4RUxujYCBLqJhJQEDxdy4lv_4sPZH2zS2OxhffQd2_EXwLETbiCpMdHOAxq10Qih_8viGTBIrE7tVHIgy714bFSWmwxcypSnpe7u_sQCsj-aMv8fxXituQCzIEkUHvNQ",
      "hot": true,
-     "hot_reason": "всего 70 мест, раз в год",
+     "hot_reason": "новогодняя ночь, всего 70 мест",
      "keys": [
+      "ad271a7289b4",
       "3fba91347eb7"
      ],
      "found": "2026-11-18T16:30:01+03:00"
@@ -5520,14 +5961,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-25T12:30:27+03:00",
-     "events": 88
+     "last_post": "2026-11-25T16:30:12+03:00",
+     "events": 95
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-24T20:04:04+03:00",
+     "last_post": "2026-11-25T16:14:57+03:00",
      "events": 23
     },
     {
@@ -5536,6 +5977,13 @@
      "kind": "extra",
      "last_post": "2026-11-25T10:20:22+03:00",
      "events": 18
+    },
+    {
+     "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "username": "cuddlepiter",
+     "kind": "folder",
+     "last_post": "2026-11-25T16:26:25+03:00",
+     "events": 15
     },
     {
      "title": "Дом Радио",
@@ -5552,17 +6000,17 @@
      "events": 8
     },
     {
-     "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
-     "username": "cuddlepiter",
-     "kind": "folder",
-     "last_post": "2026-11-25T12:00:14+03:00",
-     "events": 7
-    },
-    {
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-25T12:18:11+03:00",
+     "last_post": "2026-11-25T15:54:00+03:00",
+     "events": 6
+    },
+    {
+     "title": "Гостиная: открыто",
+     "username": "open_living",
+     "kind": "folder",
+     "last_post": "2026-11-25T16:17:33+03:00",
      "events": 6
     },
     {
@@ -5577,13 +6025,6 @@
      "username": "ecstaticdancespb",
      "kind": "extra",
      "last_post": "2026-11-24T16:45:48+03:00",
-     "events": 5
-    },
-    {
-     "title": "Гостиная: открыто",
-     "username": "open_living",
-     "kind": "folder",
-     "last_post": "2026-11-24T16:04:52+03:00",
      "events": 5
     },
     {
@@ -5646,8 +6087,15 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-25T10:12:20+03:00",
+     "last_post": "2026-11-25T13:23:45+03:00",
      "events": 2
+    },
+    {
+     "title": "Feel it | Почувствуй",
+     "username": "feelfeelit",
+     "kind": "folder",
+     "last_post": "2026-11-25T15:13:59+03:00",
+     "events": 1
     },
     {
      "title": "Massage Band",
@@ -5699,6 +6147,13 @@
      "events": 1
     },
     {
+     "title": "Плейбек-театр \"ЭХО\"",
+     "username": "playback_812",
+     "kind": "extra",
+     "last_post": "2026-11-25T15:59:10+03:00",
+     "events": 1
+    },
+    {
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
@@ -5716,7 +6171,7 @@
      "title": "эМпров Театр",
      "username": "mprovtheatre",
      "kind": "extra",
-     "last_post": "2026-11-22T15:54:14+03:00",
+     "last_post": "2026-11-25T13:51:07+03:00",
      "events": 1
     },
     {
@@ -5744,14 +6199,7 @@
      "title": "Ecstatic Events SPb",
      "username": "ecstaticeventsspb",
      "kind": "extra",
-     "last_post": "2026-11-23T14:09:49+03:00",
-     "events": 0
-    },
-    {
-     "title": "Feel it | Почувствуй",
-     "username": "feelfeelit",
-     "kind": "folder",
-     "last_post": null,
+     "last_post": "2026-11-25T12:36:30+03:00",
      "events": 0
     },
     {
@@ -5793,7 +6241,7 @@
      "title": "SHADOW ECSTATIC DANCE SPB",
      "username": "shadow_ecstatic",
      "kind": "extra",
-     "last_post": "2026-11-23T20:33:26+03:00",
+     "last_post": "2026-11-25T15:14:09+03:00",
      "events": 0
     },
     {
@@ -5836,13 +6284,6 @@
      "username": "mestonormtg",
      "kind": "folder",
      "last_post": null,
-     "events": 0
-    },
-    {
-     "title": "Плейбек-театр \"ЭХО\"",
-     "username": "playback_812",
-     "kind": "extra",
-     "last_post": "2026-11-23T17:47:09+03:00",
      "events": 0
     },
     {
