@@ -7130,6 +7130,31 @@
      "found": "2026-11-25T16:45:00+03:00"
     },
     {
+     "key": "8c2517cd0721",
+     "title": "Мастер-класс «Моё безопасное место»",
+     "date": "2026-11-28",
+     "time": "14:00",
+     "place": "Москва, 2-я Квесисская, 11",
+     "price": "900 ₽",
+     "link": "https://pyataeva99.timepad.ru/event/4325358/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://pyataeva99.timepad.ru/event/4325358/",
+     "cats": [
+      "craft",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Команда психологов",
+     "author_url": "https://pyataeva99.timepad.ru/",
+     "image": "https://ucare.timepad.ru/cd037b77-29c7-4e0d-9b84-2f83d7e472fc/-/crop/1365x768/6,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8c2517cd0721"
+     ],
+     "found": "2026-11-26T16:45:00+03:00"
+    },
+    {
      "key": "248bb5f66ea4",
      "title": "Мастер-класс по голосу, речи и выступлениям",
      "date": "2026-11-28",
@@ -7970,13 +7995,13 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
-     "key": "73b79f6ccbf6",
-     "title": "КИ-класс Юли Бодровой и джем",
+     "key": "434321664c6f",
+     "title": "Класс и джем контактной импровизации",
      "date": "2026-11-29",
      "time": "19:00",
-     "place": "Центр Басманов",
-     "price": null,
-     "link": "https://t.me/cimsk/7421",
+     "place": "Центр Басманов, ул. Доброслободская, 3",
+     "price": "1600 ₽ за класс с джемом; 700 ₽ только джем",
+     "link": "https://t.me/cimsk/7439",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -7985,10 +8010,11 @@
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/LLGrKqwGaUXGDTuYVIura5TdOYzgaH7q-jme9LV-Jv1Qk8I5_s8JQ7SPmeRNjwQfJHu0j6uA08ujUUZr3Rg7_0J3feznmpXtvt1Ph2uFT1fNwypJkTC6Tah5XUB0nkTW3qgl379qS-Vb9efeJB5JNmJBnwxvmMz7rl9_n9k8JXM5nQL21JIFBEn6sMvEprUvJG6p3FTul5pXP2GQQJFelZ6rw7bI1aOiwnzg0pfJOOhlevywK4tDdPR6hIg18IEgC6Btsm0yjR9EhGyw_K7a3AvQ257f7FUAmdNGLOHmR8Fx_pszOlWKBa0p3mGeu4snyt1wAr1RFmebyKyXmq2YKw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "434321664c6f",
       "73b79f6ccbf6"
      ],
      "found": "2026-11-23T08:45:04+03:00"
@@ -8168,13 +8194,13 @@
      "found": "2026-11-23T16:45:01+03:00"
     },
     {
-     "key": "e2694b4947cd",
-     "title": "Обнимательная вечеринка Sumerki у Чистых Прудов",
+     "key": "bfb97dc1006c",
+     "title": "Обнимательная встреча Sumerki",
      "date": "2026-12-01",
      "time": "18:20",
-     "place": "м. Чистые Пруды, точный адрес в личку зарегистрированным участникам",
+     "place": "Residencia Chistych, Москва",
      "price": "1400 ₽",
-     "link": "https://t.me/sumerki_cuddles/107",
+     "link": "https://t.me/sumerki_cuddles/109",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -8185,10 +8211,11 @@
      "adult": false,
      "author": "Sumerki: cuddles (Москва)",
      "author_url": "https://t.me/sumerki_cuddles",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/Z63dm4ilX-YcZ8W2S_hrw4_yc8D5GX2w8-uNO_AxIY0RuHMZ101oscTizHFGieKkeZPkr3qxfCrvKkUKKZGaQMQdJIUNveYA4cs6wZ1SOOhzZspDzotvyUlKlM62eoHo3kXmwi_3pAlb2mXYyUeGJEyZ_VKsM2vhgej8E-lR6P2xbTipBtYqH3tbH9WSXSHYPmZshwNr4LjUhT27VrPtdltnT_CTlsONQVt869v_UciOwjudFCCJ82Sf74FtUTfmGN2ZHTIkYEuozdH5mciJeN8NmOphd7ya_oEzg7uGeU_T7gsPZypkngIITNivt4iIGh64o9gnA_K-1sIlzw7Ucw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "bfb97dc1006c",
       "e2694b4947cd"
      ],
      "found": "2026-11-25T08:45:00+03:00"
@@ -9214,7 +9241,8 @@
      "signup_url": null,
      "cats": [
       "theatre",
-      "circles"
+      "circles",
+      "body"
      ],
      "adult": false,
      "author": "ПБ•Клуб — Знакомства в Москве.",
@@ -9224,7 +9252,8 @@
      "hot_reason": "",
      "keys": [
       "10b7329d56d1",
-      "e05af8dc3102"
+      "e05af8dc3102",
+      "d50a68e110a5"
      ],
      "found": "2026-11-18T16:45:01+03:00"
     },
@@ -10411,6 +10440,31 @@
       "e5d9bff49380"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "14ff4d9429d0",
+     "title": "Создание ватной игрушки «Конфетка»",
+     "date": "2026-12-12",
+     "time": "12:00",
+     "place": "Москва, Гоголевский бульвар, 11",
+     "price": "3000 ₽",
+     "link": "https://nitkatea.timepad.ru/event/4325430/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nitkatea.timepad.ru/event/4325430/",
+     "cats": [
+      "craft",
+      "calm"
+     ],
+     "adult": false,
+     "author": "Нитка",
+     "author_url": "https://nitkatea.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b6e7954d-1e09-47ea-869d-9c3fea0ad9e3/-/crop/1280x721/0,280/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый творческий вечер",
+     "keys": [
+      "14ff4d9429d0"
+     ],
+     "found": "2026-11-26T16:45:00+03:00"
     },
     {
      "key": "4bd280d7991a",
@@ -11665,6 +11719,30 @@
      "found": "2026-11-15T23:19:36+03:00"
     },
     {
+     "key": "37d5f7e966fe",
+     "title": "Практикум «Тактильность: пространство доверия»",
+     "date": "2026-12-19",
+     "time": "15:30",
+     "place": "Москва, Ленинская Слобода, 19к2, клуб Bizarre, VIP-зал",
+     "price": null,
+     "link": "https://t.me/uyutnoeprostranstvoo/759",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Уютное пространство",
+     "author_url": "https://t.me/uyutnoeprostranstvoo",
+     "image": "https://cdn4.telesco.pe/file/Jrp2eBVCr3wL4DnmEKWu07fYPNiBT0H5vpUTWpUqRnvrIs__eGbYdpp_C5Ck_8RLp0sPj6y1_XxeMCJvrmO3ygvZi36-TYx8yU1SZeU4ettz3BbDc6RxOnMV4jJD9_75moAdOFC2sSg9JRlICA8offvocfXHS_VJx8wO6kqil5Df0gVzEVOF7njrwgLaJ6u_WjOfpGc0euLAIraV2XSAXuXpHQEpBuxguaesnJRR21QvetIRW4D_iAFNNXfC0UeEyZGI-mir3fs4PKpvkRjjLergrm-k30OeqHlBK9OWXs-QuOcI09mCYNXBiiljGsf7en33eQEjxRo1E8XD1-z3Jw.jpg",
+     "hot": true,
+     "hot_reason": "разовый практикум на фестивале",
+     "keys": [
+      "37d5f7e966fe"
+     ],
+     "found": "2026-11-26T16:45:00+03:00"
+    },
+    {
      "key": "9d05ba174456",
      "title": "Банный ретрит «Карачун: ночь возрождения»",
      "date": "2026-12-19",
@@ -12327,6 +12405,31 @@
       "467c990b4ef0"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "e55be744f429",
+     "title": "Новогоднее русское чаепитие",
+     "date": "2026-12-26",
+     "time": "12:00",
+     "place": "Москва, Гоголевский бульвар, 11",
+     "price": "5000 ₽",
+     "link": "https://nitkatea.timepad.ru/event/4325456/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nitkatea.timepad.ru/event/4325456/",
+     "cats": [
+      "calm",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Нитка",
+     "author_url": "https://nitkatea.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d83d35c6-8fe4-43e0-a6d1-d3ad15a40fd6/-/crop/1800x1013/0,55/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовая новогодняя встреча",
+     "keys": [
+      "e55be744f429"
+     ],
+     "found": "2026-11-26T16:45:00+03:00"
     },
     {
      "key": "e2419a2c0f75",
@@ -13072,14 +13175,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-26T12:45:00+03:00",
-     "events": 202
+     "last_post": "2026-11-26T16:45:00+03:00",
+     "events": 205
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-26T12:03:58+03:00",
+     "last_post": "2026-11-26T16:01:32+03:00",
      "events": 24
     },
     {
@@ -13100,7 +13203,7 @@
      "title": "LeMoor Cloob инфо",
      "username": "lemoorcloob",
      "kind": "folder",
-     "last_post": "2026-11-20T15:59:23+03:00",
+     "last_post": "2026-11-26T13:11:23+03:00",
      "events": 4
     },
     {
@@ -13142,21 +13245,28 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-24T16:50:20+03:00",
+     "last_post": "2026-11-26T15:03:01+03:00",
+     "events": 2
+    },
+    {
+     "title": "Уютное пространство",
+     "username": "uyutnoeprostranstvoo",
+     "kind": "extra",
+     "last_post": "2026-11-26T12:47:45+03:00",
      "events": 2
     },
     {
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-26T08:45:14+03:00",
+     "last_post": "2026-11-26T15:35:28+03:00",
      "events": 2
     },
     {
      "title": "Sumerki: cuddles (Москва)",
      "username": "sumerki_cuddles",
      "kind": "folder",
-     "last_post": "2026-11-25T08:25:15+03:00",
+     "last_post": "2026-11-26T16:10:32+03:00",
      "events": 1
     },
     {
@@ -13164,13 +13274,6 @@
      "username": "fifth_friday",
      "kind": "folder",
      "last_post": "2026-11-21T13:50:48+03:00",
-     "events": 1
-    },
-    {
-     "title": "Уютное пространство",
-     "username": "uyutnoeprostranstvoo",
-     "kind": "extra",
-     "last_post": "2026-11-25T17:47:56+03:00",
      "events": 1
     },
     {
@@ -13205,7 +13308,7 @@
      "title": "Каддл пати Марии Зобниной и команды",
      "username": "da_budet_cuddle",
      "kind": "extra",
-     "last_post": "2026-11-25T16:04:58+03:00",
+     "last_post": "2026-11-26T12:56:49+03:00",
      "events": 0
     },
     {
@@ -13247,7 +13350,7 @@
      "title": "Тактильный Дом (пространство чувственного опыта)",
      "username": "feel_family_studio",
      "kind": "folder",
-     "last_post": "2026-11-17T19:22:21+03:00",
+     "last_post": "2026-11-26T13:31:52+03:00",
      "events": 0
     },
     {
