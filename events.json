@@ -379,10 +379,10 @@
     },
     {
      "key": "6f19c7ac32c4",
-     "title": "Мыловарение в Чаще",
+     "title": "Мастер-класс по мыловарению",
      "date": "2026-11-27",
      "time": "18:00",
-     "place": "Чаща Попроще",
+     "place": null,
      "price": "500 ₽ за штуку",
      "link": "https://t.me/chapopro/1088",
      "source": "Пост в канале",
@@ -558,11 +558,11 @@
     },
     {
      "key": "9186a007a8fe",
-     "title": "Вечер поэзии в Лесу",
+     "title": "Вечер поэзии в Каледонском Лесу",
      "date": "2026-11-27",
      "time": "19:00",
-     "place": "Каледонский Лес, средний зал",
-     "price": "вход и donation свободные",
+     "place": null,
+     "price": "Вход свободный, донейшн",
      "link": "https://t.me/kl_les/5454",
      "source": "Пост в канале",
      "signup_url": null,
@@ -618,7 +618,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "circles"
      ],
      "adult": false,
      "author": "Точка Импро",
@@ -627,7 +628,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "3a586fb532ff"
+      "3a586fb532ff",
+      "90b02e0e36fe"
      ],
      "found": "2026-11-23T12:30:21+03:00"
     },
@@ -657,6 +659,30 @@
       "992a5a9dca38"
      ],
      "found": "2026-11-16T12:30:00+03:00"
+    },
+    {
+     "key": "46ae0ee5e60a",
+     "title": "Преступление. Наказание?",
+     "date": "2026-11-27",
+     "time": "21:00",
+     "place": "Невский пр., 74–76, 4-й этаж",
+     "price": "1300 ₽",
+     "link": "https://za-narisovannym-ochagom.timepad.ru/event/3422389/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://za-narisovannym-ochagom.timepad.ru/event/3422389/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "За Нарисованным Очагом",
+     "author_url": "https://za-narisovannym-ochagom.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a2488cf4-c1d7-4e50-b110-5dfc59c6dee1/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "46ae0ee5e60a"
+     ],
+     "found": "2026-11-26T19:00:01+03:00"
     },
     {
      "key": "cadd4b3b4138",
@@ -1330,17 +1356,17 @@
     },
     {
      "key": "1dbbe97513d2",
-     "title": "Самайн в Чаще: друиды зажигают огонь года",
+     "title": "Праздник Саммайн",
      "date": "2026-11-28",
      "time": "18:00",
-     "place": "Чаща Попроще",
+     "place": null,
      "price": "2000 ₽",
      "link": "https://t.me/chapopro/1088",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "calm",
-      "circles"
+      "circles",
+      "calm"
      ],
      "adult": false,
      "author": "Чаща Попроще",
@@ -1384,8 +1410,8 @@
      "title": "Мастер-класс по ведьминским свечам",
      "date": "2026-11-28",
      "time": "19:00",
-     "place": "Каледонский Лес, звёздный зал",
-     "price": "100 ₽ за свечу, 800 ₽ за десять (donation)",
+     "place": null,
+     "price": "100 ₽ за свечу, 800 ₽ за десять",
      "link": "https://t.me/kl_les/5454",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1405,10 +1431,10 @@
     },
     {
      "key": "89a11ea8c3c6",
-     "title": "Биг эМпров шоу",
+     "title": "Биг эмпров шоу",
      "date": "2026-11-28",
      "time": "20:00",
-     "place": "эМпров Театр, Малый пр. П.С., 89, 2 этаж",
+     "place": "Малый пр. П.С., 89, 2-й этаж",
      "price": "500 ₽",
      "link": "https://t.me/mprovtheatre/1615",
      "source": "Пост в канале",
@@ -1452,6 +1478,30 @@
       "ce9da71065ed"
      ],
      "found": "2026-11-23T12:30:21+03:00"
+    },
+    {
+     "key": "be59d90efefa",
+     "title": "Преступление. Наказание?",
+     "date": "2026-11-28",
+     "time": "21:00",
+     "place": "Невский пр., 74–76, 4-й этаж",
+     "price": "1300 ₽",
+     "link": "https://za-narisovannym-ochagom.timepad.ru/event/3422389/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://za-narisovannym-ochagom.timepad.ru/event/3422389/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "За Нарисованным Очагом",
+     "author_url": "https://za-narisovannym-ochagom.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a2488cf4-c1d7-4e50-b110-5dfc59c6dee1/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "be59d90efefa"
+     ],
+     "found": "2026-11-26T19:00:01+03:00"
     },
     {
      "key": "e96de280e77d",
@@ -1681,8 +1731,8 @@
      "key": "528b54ac3891",
      "title": "Практикум по юмору и импровизации",
      "date": "2026-11-29",
-     "time": "12:00",
-     "place": "школа «СРАЗУ»",
+     "time": "14:00",
+     "place": "Тамбовская ул., 63, ДК «Железнодорожников»",
      "price": "800–1500 ₽",
      "link": "https://t.me/improschoolspb/7713",
      "source": "Пост в канале",
@@ -1697,7 +1747,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "528b54ac3891"
+      "528b54ac3891",
+      "a5f2060e8dfe"
      ],
      "found": "2026-11-23T20:30:00+03:00"
     },
@@ -1754,10 +1805,10 @@
     },
     {
      "key": "9ca3eaf6205a",
-     "title": "Мастер-класс по керамике в «Чаще»",
+     "title": "Мастер-класс по керамике",
      "date": "2026-11-29",
      "time": "15:00",
-     "place": "Чаща",
+     "place": null,
      "price": "2500 ₽",
      "link": "https://t.me/chapopro/1088",
      "source": "Пост в канале",
@@ -1777,8 +1828,32 @@
      "found": "2026-11-25T08:30:00+03:00"
     },
     {
+     "key": "61eff594218e",
+     "title": "Настолки в Точке Импро",
+     "date": "2026-11-29",
+     "time": "15:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/tochkabest/5462",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Точка Импро",
+     "author_url": "https://t.me/tochkabest",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "61eff594218e"
+     ],
+     "found": "2026-11-26T19:00:01+03:00"
+    },
+    {
      "key": "64a57cb4d076",
-     "title": "Обни-кино-клуб: «Выживут только любовники»",
+     "title": "Киноклуб: «Выживут только любовники»",
      "date": "2026-11-29",
      "time": "16:00",
      "place": null,
@@ -1787,9 +1862,9 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
+      "watch",
       "circles",
-      "body",
-      "watch"
+      "body"
      ],
      "adult": false,
      "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
@@ -1830,11 +1905,11 @@
     },
     {
      "key": "954e891fed24",
-     "title": "Открытый урок по импро и стендапу",
+     "title": "Открытый урок по юмору и импровизации",
      "date": "2026-11-29",
      "time": "16:30",
-     "place": "Школа СРАЗУ",
-     "price": "бесплатно",
+     "place": null,
+     "price": "Бесплатно",
      "link": "https://t.me/improschoolspb/7713",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1846,10 +1921,11 @@
      "author_url": "https://t.me/improschoolspb",
      "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
      "hot": true,
-     "hot_reason": "последний бесплатный урок акции, места ограничены",
+     "hot_reason": "последний бесплатный урок ноября",
      "keys": [
       "954e891fed24",
-      "d59921a3b310"
+      "d59921a3b310",
+      "2ac56cf9d97c"
      ],
      "found": "2026-11-23T20:30:00+03:00"
     },
@@ -1883,7 +1959,7 @@
      "title": "Dark Ecstatic Dance",
      "date": "2026-11-29",
      "time": "17:00",
-     "place": "МУТОКУКАЙ, наб. Обводного канала, 134-136-138Б",
+     "place": "МУТОКУКАЙ, наб. Обводного канала, 134–136–138Б",
      "price": "от 1700 ₽",
      "link": "https://t.me/lifeisecstatic/5662",
      "source": "Пост в канале",
@@ -1893,11 +1969,11 @@
       "body"
      ],
      "adult": false,
-     "author": "Ecstatic Events SPb",
+     "author": "SHADOW ECSTATIC DANCE SPB",
      "author_url": "https://t.me/lifeisecstatic",
      "image": "https://cdn4.telesco.pe/file/CeUpAqasFfUEmVoHHJToe5lmd6vFdjWIuEZWEedWmkT2RXQCIJH4xVmS-eHVYkPhWGabipIkB3GYOaM0vuAOZFyqMBKk2yMEkuRVB-oMYLH-WM02StqzHneWf8rXC1gHiJnQOiGt17m-XfD7Id1bpo7xppaHD-4knGPbfKsdz4senlnN6GxqFhqV6-puqUFiZEr0bvCRa8M5LGllCQHilnmDiZofU9mXuYv_SYg17iRdzIPQaQeHZd2A6FMllwn43nLSkaEAiU0MhaayAj1UrCZH_hhRShL9Z2qkqGxH3ckqARBUQx36XzvBl3TheeOPfCYOwnaME4nPDagv1r353Q.jpg",
      "hot": true,
-     "hot_reason": "тематический вечер, 70+ участников, билеты онлайн",
+     "hot_reason": "разовый тематический танцевальный вечер",
      "keys": [
       "f7b005785a4a",
       "21b13facbfe1",
@@ -1911,16 +1987,17 @@
       "e86ac38e0964",
       "7dbfa9105830",
       "46f53f223a51",
-      "5e789780e3e4"
+      "5e789780e3e4",
+      "dbd8003db6b5"
      ],
      "found": "2026-11-15T20:36:43+03:00"
     },
     {
      "key": "e611026c6631",
-     "title": "Плейбэк-перформанс «Переход»",
+     "title": "Переход",
      "date": "2026-11-29",
      "time": "17:00",
-     "place": "Дом народного творчества, Прилукская, 37А",
+     "place": "Дом народного творчества, Прилукская ул., 37А",
      "price": "1800–3000 ₽",
      "link": "https://pleybek-teatr-gradient.timepad.ru/event/4293833/",
      "source": "Страница на Таймпаде",
@@ -1937,7 +2014,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "e611026c6631"
+      "e611026c6631",
+      "20b7ab543ced"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -2048,7 +2126,7 @@
      "title": "Медитация под тибетские чаши",
      "date": "2026-11-29",
      "time": "19:00",
-     "place": "Васильевский остров, Санкт-Петербург",
+     "place": "Васильевский остров",
      "price": "1500 ₽",
      "link": "https://t.me/tantratime_spb/1838",
      "source": "Пост в канале",
@@ -2058,7 +2136,7 @@
       "music"
      ],
      "adult": false,
-     "author": "TANTRA🤍TIME | Санкт-Петербург",
+     "author": "Feel it | Почувствуй",
      "author_url": "https://t.me/tantratime_spb",
      "image": "https://cdn4.telesco.pe/file/ialMHNTUydhR7xeEGI608j-acUS9iuy4J7r8rRrjtMBgk4j3qR3tfjR8Hp3tEUTc15i6E-VkqBkzz6uF-di1G4gEqQYc7IN9xJuzbuBAdvTcoqn7qfDcOSJaa_TYMm0SCOPoOOBo5e_c209N7uzCcGAr4zqJ-clBDF6nu6jM1z74VPRz3VuUFfm36JO5ObmjC71cHSH-h5G4CSerouQ6TtZYFubajwLUpW0qukHlS-gkkE5UPcTW3GDy8C-tqtFejHhVq63QgMGjMdgV6aXFbwZqjA-4-j8QFFqzGqQRBcuHcOsELGIuucB3zPLQoGEAPAisY4FBYf8AX_BpmrUwnA.jpg",
      "hot": false,
@@ -2068,6 +2146,30 @@
       "b0c5cd2eac15"
      ],
      "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "06cccd2306c7",
+     "title": "Преступление. Наказание?",
+     "date": "2026-11-29",
+     "time": "19:00",
+     "place": "Невский пр., 74–76, 4-й этаж",
+     "price": "1300 ₽",
+     "link": "https://za-narisovannym-ochagom.timepad.ru/event/3422389/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://za-narisovannym-ochagom.timepad.ru/event/3422389/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "За Нарисованным Очагом",
+     "author_url": "https://za-narisovannym-ochagom.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a2488cf4-c1d7-4e50-b110-5dfc59c6dee1/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "06cccd2306c7"
+     ],
+     "found": "2026-11-26T19:00:01+03:00"
     },
     {
      "key": "877560449e72",
@@ -6091,7 +6193,7 @@
      "username": null,
      "kind": "timepad",
      "last_post": "2026-11-26T16:30:08+03:00",
-     "events": 106
+     "events": 109
     },
     {
      "title": "SensCafe 18+",
@@ -6105,7 +6207,7 @@
      "username": "tochkaBest",
      "kind": "extra",
      "last_post": "2026-11-25T19:35:43+03:00",
-     "events": 18
+     "events": 19
     },
     {
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
