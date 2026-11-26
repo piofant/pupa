@@ -557,13 +557,13 @@
      "found": "2026-11-15T20:36:43+03:00"
     },
     {
-     "key": "9186a007a8fe",
-     "title": "Вечер поэзии в Каледонском Лесу",
+     "key": "2cfa5960e9f6",
+     "title": "Вечер поэзии",
      "date": "2026-11-27",
      "time": "19:00",
-     "place": null,
-     "price": "Вход свободный, донейшн",
-     "link": "https://t.me/kl_les/5454",
+     "place": "Каледонский Лес, средний зал",
+     "price": "Вход свободный, donation",
+     "link": "https://t.me/kl_les/5477",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -572,10 +572,11 @@
      "adult": false,
      "author": "Каледонский Лес",
      "author_url": "https://t.me/kl_les",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/P0RTXvK86pIDKTWioGifDkmaadSnM5-1xpqYneIebozhl_H7XvkanhWbPX0c_mkYEh9Ju_NZGwxJqD758IGahGGp1GigwBem8a9b0e9e2baHdy_CxomeBdZ7eLO4xkTN3HzfAA6JWkzKpiSmh3pmgjbHLNBvIGEndec0VN76LxnZAHOSoAFVafYifeDkp_wa2k8vXnKeK4-n0EvC9g9VJ2v2gP3GQCjT2X9VhPuAmP4L8upoiRI0vnFy3sqdxh1OL9gmLip4kWpYR-PagWQo4Iw5vPK8wIRLO23EGBg8so3I30m0Hz7q2q8CuQrUTiycPOSwTdgKTVkcJhAiz-8Glw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "2cfa5960e9f6",
       "9186a007a8fe"
      ],
      "found": "2026-11-23T08:30:26+03:00"
@@ -792,6 +793,30 @@
      "found": "2026-11-15T19:53:57+03:00"
     },
     {
+     "key": "1d5569ea5149",
+     "title": "Групповая медитация Випассаны",
+     "date": "2026-11-28",
+     "time": "10:00",
+     "place": "Пространство «Древо смыслов», ул. Ломоносова, д. 1",
+     "price": "Бесплатно, возможно пожертвование",
+     "link": "https://t.me/spb_vipassana/1352",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Випассана СПб",
+     "author_url": "https://t.me/spb_vipassana",
+     "image": "https://cdn4.telesco.pe/file/owFDOxO7FiJd9NK8HjzlL4pBT63W6d-Pk7GaBro4Ui7Lq67r3DaRN4a1U0wVQhCxBUVWACKbTaGenU2pkW1g5m0JoKlLE1yHanfSKYtyS6f9OhzU24stJhGEbaDVrSEvq87JMH9K0s__FWxpNgzuvC-WdHrm8zHusJpI6VOmvjPVQJalnnq5rXznswbik1__F_DXv8SVs2p4txPPG5AwbzRTv4h9ueRnAxQLZr-O2foZ0ed3uW5rFcchFjfM4M_CQLOaWz_3DNGSRqx3VmrAJl71iGuhF3jtx7mNA4cshjM2kAt0aGP3AXohkzsL5AJv0javeQRnYviuEfUlbDu7_A.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1d5569ea5149"
+     ],
+     "found": "2026-11-26T20:30:01+03:00"
+    },
+    {
      "key": "3ef08a8c20a0",
      "title": "Игра «100 свиданий»",
      "date": "2026-11-28",
@@ -862,7 +887,8 @@
      "hot_reason": "разовый мастер-класс",
      "keys": [
       "5ac8c0d87bd5",
-      "d4fbbef8a73a"
+      "d4fbbef8a73a",
+      "0dde619a4349"
      ],
      "found": "2026-11-20T12:30:10+03:00"
     },
@@ -916,6 +942,30 @@
      "found": "2026-11-18T20:30:00+03:00"
     },
     {
+     "key": "2bd8fb4ff4f5",
+     "title": "Мастер-класс по цианотипии",
+     "date": "2026-11-28",
+     "time": "12:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/vse_yap/4071",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Ясно в Поляне",
+     "author_url": "https://t.me/vse_yap",
+     "image": "https://cdn4.telesco.pe/file/Xr8Zfk16PaeNYCUoTi5XaYU2-kzZVDU9oSKgApgDEK1aiWsSp6-zNZ9Nz0n9Hu5YFpp_90xh1_yqdF1H6mSaVGAL1a6-Qtqf74fVD7FrGCaJ2VclGR4UK30WHMRFVUYWI42uT-VGII1gH3Jbf7gWQRgMsHyx_mG_xXLfysMXSwD04vtlNOWWICQLq9LcYtMM1rCVaYeXmA5x198Q4_oTueeMuoDmI2_UXfdcf6EeuqYc-EgvG1ajx31WUfucldNRZUIAdS0HpAxdlQKAtPx6gCJTR_BhUlzLRQLi8YdehPqfUGoPItndEMaeBgiXJGAEYh0NY0j8DDl4raLSP1SiCw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2bd8fb4ff4f5"
+     ],
+     "found": "2026-11-26T20:30:01+03:00"
+    },
+    {
      "key": "758176a5c6db",
      "title": "Психологическая игра «Мама. Свобода быть собой»",
      "date": "2026-11-28",
@@ -950,7 +1000,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "theatre",
+      "circles"
      ],
      "adult": false,
      "author": "Точка Импро",
@@ -959,7 +1010,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "d1df21eb10a0"
+      "d1df21eb10a0",
+      "18155acdec96"
      ],
      "found": "2026-11-23T12:30:21+03:00"
     },
@@ -1526,6 +1578,7 @@
       "e96de280e77d",
       "5f0a06a60b30",
       "f3f3e478ff38",
+      "e0d9930287bd",
       "aa91a45639f7"
      ],
      "found": "2026-11-18T16:30:01+03:00"
@@ -1843,13 +1896,37 @@
      "adult": false,
      "author": "Точка Импро",
      "author_url": "https://t.me/tochkabest",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/kLbiL-bhb4NLfDyx0GjEAJ-nQN4ekbV_0jTRmPMi5-vj1yZpvY3edSW3jRcRfYVfAHXeMbq3io28W0sSI1_xlzQF6TiGJmMk5eFVCEyw9HuNF0aXkhD2oOHN4ogce67tOy9iYV6CWEI6XjEzP9FCeOdfgJ_R_vVc8mD0xE7gImD0iHAKfzBQBIqh_5eGitfZlojH0M17sp-BWykDgY8PO_fLFE_CcsG36PHJxHe0YrVOLZW1dpEvGMFuaSlYmIIv7yu5FNaXaoynSCvHEJ0QrJRm23i86rY43b1SS_HSVD3uznGM2sxaqLoM0l4clMPfNaU4H9-Q-nV9Cfrs-eMxNw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
       "61eff594218e"
      ],
      "found": "2026-11-26T19:00:01+03:00"
+    },
+    {
+     "key": "3f7333027c7a",
+     "title": "Занятие по народным танцам",
+     "date": "2026-11-29",
+     "time": "15:30",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/momentitmo/1853",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "dance"
+     ],
+     "adult": false,
+     "author": "ИТМОМЕНТ",
+     "author_url": "https://t.me/momentitmo",
+     "image": "https://cdn4.telesco.pe/file/YKLvlpoR8H9OTzuZLPVGjRyEffQL-Lt3J9NjPYb8A332Rcw_iBE3re9BGDywt-iby8YnhwNscKP010z254iNrc6zBdzZjVYBDJipFq3f4fhYp-gLs2z-GNEnJy8wO8V8U_xwZzdIM_j9SPDIDA9OdKeH36YP8jfi3NV39maqZAaX_OAeVjbXoXGkXmjIc_EzVL340JGFsZNQKPEWWj05vYTpbJ3NPNtZyPFN7xEqEvocwYaxMLCFyZSzimUz20l3oYIvePFD8nevZ_gIFxoHeSksW4kh9S0dLU4Yw8Txq93Bkp7RVjyFxJsXKePbk7r3ZXsZcEZuTDo62UAGoZpI2A.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3f7333027c7a"
+     ],
+     "found": "2026-11-26T20:30:01+03:00"
     },
     {
      "key": "64a57cb4d076",
@@ -3691,6 +3768,31 @@
       "28062ea8a143"
      ],
      "found": "2026-11-15T19:53:57+03:00"
+    },
+    {
+     "key": "6724b7afa6d9",
+     "title": "Горячая ночь: нежные эксперименты",
+     "date": "2026-12-05",
+     "time": "23:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/sensualcafe/8829",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "circles"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/Nc7MDZlfD0uKPRP77-QLgwrdf7b2t6U-XQw5FXC_PCGjeFlNfoouoAFsQZ-gHOhWC0uYUjtRpZUQMoqJFFgc2Vy8t1kw-ES1LeVB0fG66NpKAtSCuzdFavNJGDyX1ocEIjgMYisMdvZFOqtznCsdQXO4kjr_exZGwKaSQIR_bVCQFx8lZd86uMDk32dSYeVy_v8dvTcXNeFf5e7MCgJ7yfpMujA7SxNWZpjvHo5yigmYti1DaJ-0AfeH9Z9iF3rYNu2Z4VkglLqvMYZaNdX5xrzDFgCsqnjDSr0kAVyDK8WbW9XX4kLIfJSm6adjWKDgyPowNlkJ2qVHf7vIVDJNKw.jpg",
+     "hot": true,
+     "hot_reason": "ночной формат с практиками",
+     "keys": [
+      "6724b7afa6d9"
+     ],
+     "found": "2026-11-26T20:30:01+03:00"
     },
     {
      "key": "581819d8fcc5",
@@ -6192,21 +6294,21 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-26T16:30:08+03:00",
+     "last_post": "2026-11-26T20:30:01+03:00",
      "events": 109
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-26T12:47:02+03:00",
-     "events": 21
+     "last_post": "2026-11-26T19:52:55+03:00",
+     "events": 22
     },
     {
      "title": "Точка Импро",
      "username": "tochkaBest",
      "kind": "extra",
-     "last_post": "2026-11-25T19:35:43+03:00",
+     "last_post": "2026-11-26T19:13:39+03:00",
      "events": 19
     },
     {
@@ -6241,7 +6343,7 @@
      "title": "Ecstatic Dance Spb",
      "username": "ecstaticdancespb",
      "kind": "extra",
-     "last_post": "2026-11-24T16:45:48+03:00",
+     "last_post": "2026-11-26T17:15:27+03:00",
      "events": 5
     },
     {
@@ -6255,7 +6357,7 @@
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
-     "last_post": "2026-11-25T18:47:45+03:00",
+     "last_post": "2026-11-26T17:53:09+03:00",
      "events": 5
     },
     {
@@ -6290,7 +6392,7 @@
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-25T19:03:57+03:00",
+     "last_post": "2026-11-26T19:04:48+03:00",
      "events": 3
     },
     {
@@ -6305,6 +6407,13 @@
      "username": "ImprovLifeblog",
      "kind": "extra",
      "last_post": null,
+     "events": 2
+    },
+    {
+     "title": "Випассана СПб",
+     "username": "spb_vipassana",
+     "kind": "folder",
+     "last_post": "2026-11-26T19:07:08+03:00",
      "events": 2
     },
     {
@@ -6336,13 +6445,6 @@
      "events": 1
     },
     {
-     "title": "Випассана СПб",
-     "username": "spb_vipassana",
-     "kind": "folder",
-     "last_post": "2026-11-25T21:36:12+03:00",
-     "events": 1
-    },
-    {
      "title": "ГОВОРИ",
      "username": "dialogboma",
      "kind": "extra",
@@ -6354,6 +6456,13 @@
      "username": "manery_heart",
      "kind": "folder",
      "last_post": "2026-11-21T22:45:42+03:00",
+     "events": 1
+    },
+    {
+     "title": "ИТМОМЕНТ",
+     "username": "momentitmo",
+     "kind": "folder",
+     "last_post": "2026-11-26T19:32:01+03:00",
      "events": 1
     },
     {
@@ -6395,7 +6504,7 @@
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-25T17:49:46+03:00",
+     "last_post": "2026-11-26T19:13:19+03:00",
      "events": 1
     },
     {
@@ -6403,6 +6512,13 @@
      "username": "mprovtheatre",
      "kind": "extra",
      "last_post": "2026-11-25T13:51:07+03:00",
+     "events": 1
+    },
+    {
+     "title": "Ясно в Поляне",
+     "username": "vse_yap",
+     "kind": "folder",
+     "last_post": "2026-11-26T19:17:26+03:00",
      "events": 1
     },
     {
@@ -6497,13 +6613,6 @@
      "events": 0
     },
     {
-     "title": "ИТМОМЕНТ",
-     "username": "momentitmo",
-     "kind": "folder",
-     "last_post": "2026-11-25T19:34:14+03:00",
-     "events": 0
-    },
-    {
      "title": "КосОкэмпе (Бундок)",
      "username": "boondockscamp",
      "kind": "extra",
@@ -6543,13 +6652,6 @@
      "username": "totalrestart",
      "kind": "folder",
      "last_post": null,
-     "events": 0
-    },
-    {
-     "title": "Ясно в Поляне",
-     "username": "vse_yap",
-     "kind": "folder",
-     "last_post": "2026-11-25T21:16:03+03:00",
      "events": 0
     }
    ]
