@@ -6392,7 +6392,8 @@
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
@@ -6403,7 +6404,8 @@
      "keys": [
       "8109bb55e26a",
       "bf576a8373a4",
-      "ae36aeecd405"
+      "ae36aeecd405",
+      "f632059677fd"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -7046,6 +7048,30 @@
       "c3833bfb7bd4"
      ],
      "found": "2026-11-25T12:45:00+03:00"
+    },
+    {
+     "key": "5b806f8f49f8",
+     "title": "SENSE: тактильная практика в темноте",
+     "date": "2026-11-28",
+     "time": "17:00",
+     "place": "Palmira Business Club, Новоданиловская набережная, 6, к 2",
+     "price": "Ж 4999 ₽, М 9999 ₽, пара 15000 ₽",
+     "link": "https://t.me/sram_sram18/3023",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Срамота 18+",
+     "author_url": "https://t.me/sram_sram18",
+     "image": "https://cdn4.telesco.pe/file/VIA_6cJqxrb3pAeqRMYROKPEF_1F3iHOCd5C4ijTBES9l56uG4TSaNCBfRByH6y8KOYGafruaCKHf8_EGWL61su-jE0HkV9YskD5SkzjWcJzhTqA0I8dlkFZn9WhaH7dvGHwAmG5mWweehzIdsx4TMTSoH9ekXSZbaCU8aGnPvJqoTCeNrAyd755tl90QVsg1afyHE5y647qfEd65SdvRbbXpgykPq23NIaUjTBhU8YHuH4R-_jndHl7UiFkqUUombLqkznKUWsLHtf4zsbtyu08Lp00xiQHt8O8jYGcO3MFLhkbBZfm-1gsk4VvPKaS80Efa0Y4V06on0yIFW3ZfQ.jpg",
+     "hot": true,
+     "hot_reason": "всего 18 мест, нечастый формат",
+     "keys": [
+      "5b806f8f49f8"
+     ],
+     "found": "2026-11-26T12:45:00+03:00"
     },
     {
      "key": "ec28d2b8da6a",
@@ -8239,6 +8265,31 @@
       "69f79ef64bac"
      ],
      "found": "2026-11-23T20:45:06+03:00"
+    },
+    {
+     "key": "99f5d3893f72",
+     "title": "Чайный кабинет",
+     "date": "2026-12-02",
+     "time": "10:00",
+     "place": "Москва, Карманицкий переулок 3",
+     "price": "3500 ₽",
+     "link": "https://tifreym.timepad.ru/event/4324823/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://tifreym.timepad.ru/event/4324823/",
+     "cats": [
+      "calm",
+      "circles"
+     ],
+     "adult": false,
+     "author": "Тифрейм",
+     "author_url": "https://tifreym.timepad.ru/",
+     "image": "https://ucare.timepad.ru/0e1210f6-5046-4779-af64-a9063e74fbd5/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "99f5d3893f72"
+     ],
+     "found": "2026-11-26T12:45:00+03:00"
     },
     {
      "key": "dd26fbe38924",
@@ -10381,6 +10432,31 @@
      "found": "2026-11-24T12:45:02+03:00"
     },
     {
+     "key": "25c9d85150c3",
+     "title": "Плейбэк-перформанс «Истории с антресолей»",
+     "date": "2026-12-12",
+     "time": "17:30",
+     "place": "Москва, Дубининская ул. 41с1, студия Интер-фото, зал 2",
+     "price": "1200 ₽",
+     "link": "https://playback-brusnika.timepad.ru/event/4323093/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://playback-brusnika.timepad.ru/event/4323093/",
+     "cats": [
+      "theatre",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Плейбэк-театр Брусника",
+     "author_url": "https://playback-brusnika.timepad.ru/",
+     "image": "https://ucare.timepad.ru/e607b814-8f6b-4f6b-bb92-3d21a8d9302f/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "25c9d85150c3"
+     ],
+     "found": "2026-11-26T12:45:00+03:00"
+    },
+    {
      "key": "dd0767c68796",
      "title": "Мастер-класс по созданию брелока",
      "date": "2026-12-12",
@@ -11020,6 +11096,30 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "fe5b68d35cba",
+     "title": "Новогодний мастер-класс по японской каллиграфии",
+     "date": "2026-12-16",
+     "time": "19:00",
+     "place": "Москва, ул. Большая Серпуховская, 23",
+     "price": "1800 ₽",
+     "link": "https://akatombokaikan.timepad.ru/event/4324724/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://akatombokaikan.timepad.ru/event/4324724/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центр японской культуры «Акатомбо кайкан»",
+     "author_url": "https://akatombokaikan.timepad.ru/",
+     "image": "https://ucare.timepad.ru/b6d08d0f-4e19-4842-bb9d-6007d33c2561/-/crop/5333x2996/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fe5b68d35cba"
+     ],
+     "found": "2026-11-26T12:45:00+03:00"
+    },
+    {
      "key": "5aadd46aefda",
      "title": "Спектакль «Право на жизнь» (16 дек)",
      "date": "2026-12-16",
@@ -11190,6 +11290,31 @@
       "6c8181a0bf25"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "bb3e7f473f39",
+     "title": "Концерт «Скрипичная феерия. Танцы Европы»",
+     "date": "2026-12-18",
+     "time": "18:00",
+     "place": "Москва, Садовническая улица, 52/45",
+     "price": "бесплатно",
+     "link": "https://kontsert-71.timepad.ru/event/4324377/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kontsert-71.timepad.ru/event/4324377/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Академия имени Маймонида",
+     "author_url": "https://kontsert-71.timepad.ru/",
+     "image": "https://ucare.timepad.ru/02a338d4-468e-4c70-a122-135826d2754e/-/crop/5458x3072/22,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bb3e7f473f39"
+     ],
+     "found": "2026-11-26T12:45:00+03:00"
     },
     {
      "key": "27523cb00ada",
@@ -12795,22 +12920,22 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-26T08:45:26+03:00",
-     "events": 198
+     "last_post": "2026-11-26T12:45:00+03:00",
+     "events": 202
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-25T18:59:49+03:00",
+     "last_post": "2026-11-26T12:03:58+03:00",
      "events": 24
     },
     {
      "title": "Срамота 18+",
      "username": "sram_sram18",
      "kind": "folder",
-     "last_post": "2026-11-25T18:02:06+03:00",
-     "events": 8
+     "last_post": "2026-11-26T11:00:55+03:00",
+     "events": 9
     },
     {
      "title": "FoShoo — любительский театр",
@@ -12928,7 +13053,7 @@
      "title": "Каддл пати Марии Зобниной и команды",
      "username": "da_budet_cuddle",
      "kind": "extra",
-     "last_post": "2026-11-26T08:12:58+03:00",
+     "last_post": "2026-11-25T16:04:58+03:00",
      "events": 0
     },
     {
@@ -12956,14 +13081,14 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-24T17:10:35+03:00",
+     "last_post": "2026-11-26T10:08:22+03:00",
      "events": 0
     },
     {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-25T09:15:09+03:00",
+     "last_post": "2026-11-26T09:15:10+03:00",
      "events": 0
     },
     {
