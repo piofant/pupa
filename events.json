@@ -7084,7 +7084,8 @@
      "hot_reason": "разовое занятие вместо обычного КИ",
      "keys": [
       "86903c3185d0",
-      "59bed7318b12"
+      "59bed7318b12",
+      "9d5a4f5ac443"
      ],
      "found": "2026-11-23T08:45:04+03:00"
     },
@@ -8770,6 +8771,30 @@
       "d98fc79443da"
      ],
      "found": "2026-11-18T16:45:01+03:00"
+    },
+    {
+     "key": "72bcbb465aa2",
+     "title": "Практикум по шибари",
+     "date": "2026-12-02",
+     "time": "19:00",
+     "place": "м. Бутырская",
+     "price": "2500 ₽ соло, 4000 ₽ пара; после 23:00 — 750 ₽ с человека",
+     "link": "https://t.me/uyutnoeprostranstvoo/760",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Уютное пространство",
+     "author_url": "https://t.me/uyutnoeprostranstvoo",
+     "image": "https://cdn4.telesco.pe/file/TX1bYCuLp-YyAqcLNQrLcGs_8_KTIYheipkt_60TBAQA27ViYIbv1iHp7HPhpMrB_lnMHz6eg7HvmMP7h0oZ1GFO0jWvT5W7nr-TucTHu9xjySSXrwTi5avZEsbpWbT7XWyIpUKLEESrq8MtYve8RCK1zWjKU8CE6jS5UXWvIY2PxOjUMUlEDj7gD7sls2pb5JgLHeyLcCkUm1AW8FUZRU20ZZn_6UDXJVMoHL4P1qqgJv6KQhD-TqzXUQd6VzyCiFkNjVzL5TiqIvSQNstGTlfWJ4BGopjGOAzQu2Wu1fe27rXtEpO8lE2BWxso30WbccrlO3_UI8WYqAO2reLK9g.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "72bcbb465aa2"
+     ],
+     "found": "2026-11-26T20:45:16+03:00"
     },
     {
      "key": "e0d5fe98b24c",
@@ -13379,14 +13404,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-26T16:45:00+03:00",
+     "last_post": "2026-11-26T20:45:16+03:00",
      "events": 205
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-26T16:01:32+03:00",
+     "last_post": "2026-11-26T18:04:38+03:00",
      "events": 24
     },
     {
@@ -13421,7 +13446,7 @@
      "title": "Sense Cuddle Канал",
      "username": "sensecuddle",
      "kind": "folder",
-     "last_post": "2026-11-25T15:12:34+03:00",
+     "last_post": "2026-11-26T17:55:22+03:00",
      "events": 4
     },
     {
@@ -13432,10 +13457,17 @@
      "events": 4
     },
     {
+     "title": "Уютное пространство",
+     "username": "uyutnoeprostranstvoo",
+     "kind": "extra",
+     "last_post": "2026-11-26T19:47:16+03:00",
+     "events": 3
+    },
+    {
      "title": "18+ Канал Шибаришной",
      "username": "shibarish",
      "kind": "folder",
-     "last_post": "2026-11-25T15:03:05+03:00",
+     "last_post": "2026-11-26T17:37:38+03:00",
      "events": 2
     },
     {
@@ -13450,13 +13482,6 @@
      "username": "pb_dating",
      "kind": "folder",
      "last_post": "2026-11-26T15:03:01+03:00",
-     "events": 2
-    },
-    {
-     "title": "Уютное пространство",
-     "username": "uyutnoeprostranstvoo",
-     "kind": "extra",
-     "last_post": "2026-11-26T12:47:45+03:00",
      "events": 2
     },
     {
@@ -13505,7 +13530,7 @@
      "title": "Дорога Единорога",
      "username": "UnicornRoad",
      "kind": "extra",
-     "last_post": "2026-11-25T16:35:35+03:00",
+     "last_post": "2026-11-26T19:32:49+03:00",
      "events": 0
     },
     {
