@@ -707,6 +707,30 @@
      "found": "2026-11-17T20:30:01+03:00"
     },
     {
+     "key": "85b61b2c0903",
+     "title": "Женская тантра-инициация",
+     "date": "2026-11-27",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/AradhanaPrema/908",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "Kris | Тантра | Психотерапия",
+     "author_url": "https://t.me/AradhanaPrema",
+     "image": null,
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "85b61b2c0903"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
+    },
+    {
      "key": "93a064470a25",
      "title": "Лесной ретрит в Глубоком",
      "date": "2026-11-27",
@@ -2794,6 +2818,30 @@
      "found": "2026-11-24T16:30:26+03:00"
     },
     {
+     "key": "e0093d1c9bfe",
+     "title": "Мастер-класс «Игрушка из папье-маше»",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": "Библиотека «Музей книги блокадного города», пр. Юрия Гагарина, 17",
+     "price": "бесплатно",
+     "link": "https://knigigoroda.timepad.ru/event/4324710/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://knigigoroda.timepad.ru/event/4324710/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Музей книги блокадного города\"",
+     "author_url": "https://knigigoroda.timepad.ru/",
+     "image": "https://ucare.timepad.ru/569b8f72-54f7-4306-ae66-4da1af830449/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e0093d1c9bfe"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
+    },
+    {
      "key": "5fca506b7340",
      "title": "Праймал Дейтинг в SensCafe",
      "date": "2026-12-03",
@@ -3872,6 +3920,31 @@
      "found": "2026-11-20T16:30:08+03:00"
     },
     {
+     "key": "07f6265e8be6",
+     "title": "Спектакль о Михаиле Врубеле",
+     "date": "2026-12-08",
+     "time": "19:30",
+     "place": "Галерея современного искусства «Фабрика лимонной кислоты», Лиговский проспект, 52б",
+     "price": "300 ₽",
+     "link": "https://kira-bergman.timepad.ru/event/4323523/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://kira-bergman.timepad.ru/event/4323523/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Kira Bergman",
+     "author_url": "https://kira-bergman.timepad.ru/",
+     "image": "https://ucare.timepad.ru/87581914-22ad-471f-a5c4-d3f214f5e3e9/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "07f6265e8be6"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
+    },
+    {
      "key": "07424511a382",
      "title": "Старт курса импровизации, 1 этап (Виталий Козловский)",
      "date": "2026-12-08",
@@ -4217,6 +4290,30 @@
       "3204fb8e2f89"
      ],
      "found": "2026-11-18T16:30:01+03:00"
+    },
+    {
+     "key": "7d5adef8de33",
+     "title": "Разговорный клуб «Итоги года, как это было»",
+     "date": "2026-12-12",
+     "time": "14:00",
+     "place": "Арт-кафе «Книги и кофе», Гагаринская ул., 20",
+     "price": "1700 ₽",
+     "link": "https://rightpeopleunion.timepad.ru/event/4314252/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://rightpeopleunion.timepad.ru/event/4314252/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "rightpeopleunion",
+     "author_url": "https://rightpeopleunion.timepad.ru/",
+     "image": "https://ucare.timepad.ru/651bf838-336c-4f4c-b8a5-903aad47fa4e/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "7d5adef8de33"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
     },
     {
      "key": "438ccb9b16bd",
@@ -5055,6 +5152,31 @@
      "found": "2026-11-23T12:30:21+03:00"
     },
     {
+     "key": "434c932151d4",
+     "title": "«ДаблДи»: новогодний импров-спектакль",
+     "date": "2026-12-20",
+     "time": "19:30",
+     "place": "АРТЛАБ «МЕДОВАРУС», Мучной переулок, 5",
+     "price": "500 ₽",
+     "link": "https://brutalimprov.timepad.ru/event/4324361/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://brutalimprov.timepad.ru/event/4324361/",
+     "cats": [
+      "watch",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Brutal.improv",
+     "author_url": "https://brutalimprov.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4d36f5c9-84e8-46a2-824f-381709ddd6dc/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "434c932151d4"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
+    },
+    {
      "key": "e667cfbd76d2",
      "title": "Ангел-хранитель своими руками",
      "date": "2026-12-22",
@@ -5199,6 +5321,30 @@
       "d7a4c82ce90e"
      ],
      "found": "2026-11-18T08:30:00+03:00"
+    },
+    {
+     "key": "ddee73c0f127",
+     "title": "Мастер-класс «Новогодняя игрушка блокадного города»",
+     "date": "2026-12-24",
+     "time": "17:00",
+     "place": "Библиотека «Музей книги блокадного города», Бассейная, 59",
+     "price": "бесплатно",
+     "link": "https://knigigoroda.timepad.ru/event/4325700/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://knigigoroda.timepad.ru/event/4325700/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Музей книги блокадного города\"",
+     "author_url": "https://knigigoroda.timepad.ru/",
+     "image": "https://ucare.timepad.ru/09a7536c-3caa-4e83-bc28-934109db3482/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ddee73c0f127"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
     },
     {
      "key": "7a8fa6098d1f",
@@ -5443,6 +5589,30 @@
       "c5e408409dcf"
      ],
      "found": "2026-11-25T20:30:01+03:00"
+    },
+    {
+     "key": "47cdab565386",
+     "title": "Мастер-класс «Новогодний подарок»",
+     "date": "2026-12-27",
+     "time": "13:00",
+     "place": "Библиотека «Музей книги блокадного города», пр. Юрия Гагарина, 17",
+     "price": "бесплатно",
+     "link": "https://knigigoroda.timepad.ru/event/4326564/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://knigigoroda.timepad.ru/event/4326564/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Музей книги блокадного города\"",
+     "author_url": "https://knigigoroda.timepad.ru/",
+     "image": "https://ucare.timepad.ru/bc94efae-5b7d-465b-8344-d850f1c7168e/-/crop/1332x749/0,51/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "47cdab565386"
+     ],
+     "found": "2026-11-26T12:30:00+03:00"
     },
     {
      "key": "01b0ffb6858d",
@@ -5768,8 +5938,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-26T08:30:01+03:00",
-     "events": 96
+     "last_post": "2026-11-26T12:30:00+03:00",
+     "events": 102
     },
     {
      "title": "SensCafe 18+",
@@ -5810,7 +5980,7 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-25T15:54:00+03:00",
+     "last_post": "2026-11-26T12:00:24+03:00",
      "events": 6
     },
     {
@@ -5887,7 +6057,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-25T20:22:05+03:00",
+     "last_post": "2026-11-26T08:45:14+03:00",
      "events": 2
     },
     {
@@ -5895,6 +6065,13 @@
      "username": "feelfeelit",
      "kind": "folder",
      "last_post": "2026-11-25T15:13:59+03:00",
+     "events": 1
+    },
+    {
+     "title": "Kris | Тантра | Психотерапия",
+     "username": "AradhanaPrema",
+     "kind": "extra",
+     "last_post": "2026-11-26T11:45:57+03:00",
      "events": 1
     },
     {
@@ -6014,13 +6191,6 @@
      "username": "freemasportclub",
      "kind": "folder",
      "last_post": null,
-     "events": 0
-    },
-    {
-     "title": "Kris | Тантра | Психотерапия",
-     "username": "AradhanaPrema",
-     "kind": "extra",
-     "last_post": "2026-11-18T13:42:49+03:00",
      "events": 0
     },
     {
