@@ -506,7 +506,8 @@
      "hot_reason": "камерный формат до 30 гостей",
      "keys": [
       "ebc114c7f459",
-      "0ffbd3fb77e4"
+      "0ffbd3fb77e4",
+      "3ac0e7b24ac2"
      ],
      "found": "2026-11-17T20:30:01+03:00"
     },
@@ -1208,6 +1209,30 @@
      "found": "2026-11-18T16:30:01+03:00"
     },
     {
+     "key": "1c77579a8bd1",
+     "title": "Субботний импров-джем",
+     "date": "2026-11-28",
+     "time": "17:00",
+     "place": "Малый проспект, 89, 2 этаж, эМпров театр",
+     "price": "350 ₽ с бронированием, 550 ₽ без брони; зрителям бесплатно",
+     "link": "https://t.me/mprovtheatre/1617",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "эМпров Театр",
+     "author_url": "https://t.me/mprovtheatre",
+     "image": "https://cdn4.telesco.pe/file/NS6WDz5W0nD0S5o6HAysAB7znMkoj-fscGwawtgR_LGXEhwWZge5EZEnlo4pNyOFFt6gIXc-g7CqqX7qu54KEivWaaCbIT08-kBvjRmIwBrF0MEIgBkwLlCKkkSHywMu_tF0pG7fuytxxCaNwX17Tm7Vyxg9nOyChshmAyYrixt84rysPaglZRmL1KH_Ce9j83E9BDfkUmAR-vqfsPzlH30xdZyWZ2jdPpm4d3ENEmfZmzo2hMvHc0bIjiResbEVeCan9WM_v3o3qRqVcqiHcXkZdoKwpx7L2Hd_Ro-RZk3AiPymigEVooOO32F3NTmNGH51eACSAbkgfq-isaMMAA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1c77579a8bd1"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "5b6931b7ccc3",
      "title": "Брелок макраме",
      "date": "2026-11-28",
@@ -1507,6 +1532,30 @@
       "c0f5e7fb5471"
      ],
      "found": "2026-11-24T08:30:14+03:00"
+    },
+    {
+     "key": "e2639581169b",
+     "title": "Лёд и шёлк",
+     "date": "2026-11-28",
+     "time": null,
+     "place": null,
+     "price": "3000 ₽ с человека, 5000 ₽ пара, 6000 ₽ трио",
+     "link": "https://t.me/sensualcafe/8837",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/P_NFIiUjkEpZ8HtOuuXfahCRFreKQEIH7IUnDDD5oGaOOzxOZtga95QVg55q5aoNt7V9KBaM08RejKlGuf3Vf5Q6O1Ic02jCboAaswed5yrHC7YIJkrYiLRdDfqwW4TSGAejtryKPf5FRySVbnjpUwApEubZYIItIvOcv0_h2ZMfzkRGrYXukIVcmEDZuLm9UqSwkEcSPMHMN7aC_jrE8ilaD6iyJFaJ0JW5jcAk1dk8IO6d2lYa7DwRhhIurYOnnqfIdsbFlnojS7VHTnuDF3XqvkrdnH_JQeLJrYffpVxup5opyYpC_uxHh2fyf5FgcEhoxUb06-MJlxlkAmv02w.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e2639581169b"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "c86637363be8",
@@ -2376,6 +2425,7 @@
       "5bda9630f6fd",
       "022e3a248cb4",
       "1378400c56dc",
+      "8c8866fe0a1c",
       "bf80a9fd147f"
      ],
      "found": "2026-11-23T20:30:00+03:00"
@@ -2528,6 +2578,30 @@
       "7431cddf5db9"
      ],
      "found": "2026-11-20T20:30:01+03:00"
+    },
+    {
+     "key": "f004335ca75c",
+     "title": "Форум-театр «Школа: изменить сценарий»",
+     "date": "2026-12-01",
+     "time": "18:00",
+     "place": "Набережная Адмиралтейского канала, 2, Новая Голландия, здание «Бутылка», 4-й этаж, лестница B",
+     "price": "бесплатно",
+     "link": "https://uchitelskaya-event.timepad.ru/event/4327214/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://uchitelskaya-event.timepad.ru/event/4327214/",
+     "cats": [
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Учительская",
+     "author_url": "https://uchitelskaya-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/f5b1ffc7-137b-4ec0-904b-945514dce03c/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "f004335ca75c"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "eb8aea6235b5",
@@ -2852,6 +2926,31 @@
      "found": "2026-11-24T12:30:00+03:00"
     },
     {
+     "key": "9ff552a9f139",
+     "title": "Дейтинг по животному",
+     "date": "2026-12-03",
+     "time": "19:00",
+     "place": null,
+     "price": "билет по тарифу; донат от 500 ₽",
+     "link": "https://t.me/sensualcafe/8836",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "music"
+     ],
+     "adult": true,
+     "author": "SensCafe 18+",
+     "author_url": "https://t.me/sensualcafe",
+     "image": "https://cdn4.telesco.pe/file/tZ_7H_L9GOY07eOFcQApW_7ju533q_obJgNdDRm_WM2ofZ132gX1GQIRxDHOb8CDSX6IIN2I9MMRgN0uf_AtRdbYvs6OIZLmc2nJG2iHpKXMQpJV3LqUtHLdMHwvZoca0O6L1gyS-YQnrGHqX95uONr-GiHzDdHGWbwkqe8EKDCd9L2KlwcUIDNVX47R2K7UDkw7d2q2ucb-o8ApChDDHp33sQMauQ_amv3vFbZPQWh3yB57zdGOhpo0ERkEU-7qt8lIUWbpEG0MZn-Lztry0G8qZxLKC68ya8aYXKVN_6UXC9bBpXFJlIQ2XbJzwhLwSBaWYZSVypPiwb1NodACtw.jpg",
+     "hot": true,
+     "hot_reason": "лимит — 20 мест",
+     "keys": [
+      "9ff552a9f139"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "01544eb2d1b5",
      "title": "Лекция Назаренко «Цена русской цивилизации»",
      "date": "2026-12-03",
@@ -3003,6 +3102,30 @@
      "found": "2026-11-25T20:30:01+03:00"
     },
     {
+     "key": "5d4ee88ee671",
+     "title": "Коллажная мастерская «Момент»",
+     "date": "2026-12-04",
+     "time": "18:00",
+     "place": "6-я линия В.О., 17",
+     "price": "бесплатно",
+     "link": "https://lib-tolstogo.timepad.ru/event/4326891/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://lib-tolstogo.timepad.ru/event/4326891/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Библиотека № 2 им. Л.Н. Толстого",
+     "author_url": "https://lib-tolstogo.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c6bfe8db-8d1f-4ede-ab64-aeb6ef5e3001/-/crop/2160x1214/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "5d4ee88ee671"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "a41ee1f64756",
      "title": "Мастер-класс по плейбек-театру",
      "date": "2026-12-04",
@@ -3150,26 +3273,27 @@
      "found": "2026-11-25T20:30:01+03:00"
     },
     {
-     "key": "fa3809b6279a",
-     "title": "Спектакль «Питер о Петербурге»",
+     "key": "81821211efdc",
+     "title": "Спектакль-исследование «Питер о Петербурге»",
      "date": "2026-12-04",
      "time": "19:30",
      "place": "Отель «Svet», пр. Просвещения, 83",
-     "price": "200–800 ₽",
-     "link": "https://112studio.timepad.ru/event/4313290/",
+     "price": "бесплатно",
+     "link": "https://otel-svet.timepad.ru/event/4327452/",
      "source": "Страница на Таймпаде",
-     "signup_url": "https://112studio.timepad.ru/event/4313290/",
+     "signup_url": "https://otel-svet.timepad.ru/event/4327452/",
      "cats": [
-      "watch",
-      "theatre"
+      "theatre",
+      "watch"
      ],
      "adult": false,
-     "author": "112Studio",
-     "author_url": "https://112studio.timepad.ru/",
-     "image": "https://ucare.timepad.ru/379fb126-a4a9-4576-bd81-631df82f3dee/-/crop/2560x1440/0,355/-/resize/1920x1080/",
+     "author": "отель SVET",
+     "author_url": "https://otel-svet.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7a31032f-011a-447c-85d2-aca6db0c0ca7/-/crop/2560x1440/0,289/-/resize/1920x1080/",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "81821211efdc",
       "fa3809b6279a"
      ],
      "found": "2026-11-19T16:30:00+03:00"
@@ -3251,6 +3375,55 @@
       "21798ca42c82"
      ],
      "found": "2026-11-17T16:30:07+03:00"
+    },
+    {
+     "key": "638bf9739ada",
+     "title": "Ретрит «Путь к себе через любовь»",
+     "date": "2026-12-04",
+     "time": null,
+     "place": null,
+     "price": null,
+     "link": "https://t.me/tantratime_spb/1844",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "dance"
+     ],
+     "adult": true,
+     "author": "TANTRA🤍TIME | Санкт-Петербург",
+     "author_url": "https://t.me/tantratime_spb",
+     "image": "https://cdn4.telesco.pe/file/B9Kaqtvy7BgGR5P5sm6xxuOmJsGsl0BVcQP7OjY_TrsnfUF_eWzmcZfXq36zROmyxLjdQPGPTMKeN0j1R0mMEILFWph86yOkSVAw3OqgNGkzXNj75-STJRke3FTGI9Jd2-zLoqTN7Z7Mg-u6epdKXo5wLELu0WlViHkeLKcw3X8jyi9xwpWlEm_BgWZbl8bt6wOP_hbpjq8Zsf2ZsjBWxm01LIrqvceV6Aerj6tYVfGh-_xZ82AldhwcKjAqjUMtM4nfiH9bCJfivElkuctDsvuR0UHCRJxSaJDu5fx4W-D7sGKIftLsaAPbXYzaTXnCyOblP-8CA0TFvXQY_ZtVuQ.jpg",
+     "hot": true,
+     "hot_reason": "трёхдневный ретрит",
+     "keys": [
+      "638bf9739ada"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
+     "key": "2e8646fdf065",
+     "title": "Мастер-класс «Дыхание Арктики»",
+     "date": "2026-12-05",
+     "time": "11:30",
+     "place": "ул. Губина, 5",
+     "price": "бесплатно",
+     "link": "https://mpsever.timepad.ru/event/4327166/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://mpsever.timepad.ru/event/4327166/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Молодежное пространство «Север»",
+     "author_url": "https://mpsever.timepad.ru/",
+     "image": "https://ucare.timepad.ru/8aa144af-effd-4098-8a74-015bbaaf203e/-/crop/1280x719/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2e8646fdf065"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "958a26e2ceff",
@@ -3595,6 +3768,32 @@
       "24abfebfafcc"
      ],
      "found": "2026-11-26T16:30:08+03:00"
+    },
+    {
+     "key": "4534fdf12f34",
+     "title": "Музыкальный спектакль «Высоцкий. Наследие»",
+     "date": "2026-12-05",
+     "time": "19:00",
+     "place": "Московский проспект, 216А",
+     "price": "бесплатно",
+     "link": "https://molodezhnyy-teatr-respect.timepad.ru/event/4327254/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://molodezhnyy-teatr-respect.timepad.ru/event/4327254/",
+     "cats": [
+      "watch",
+      "theatre",
+      "music"
+     ],
+     "adult": false,
+     "author": "Молодежный театр-студия РеСпект",
+     "author_url": "https://molodezhnyy-teatr-respect.timepad.ru/",
+     "image": "https://ucare.timepad.ru/7e9ac8ce-8c32-4af0-8fda-78680a19997e/-/crop/2560x1440/0,135/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "новый музыкальный спектакль",
+     "keys": [
+      "4534fdf12f34"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "f6798f8e144c",
@@ -4105,6 +4304,30 @@
      "found": "2026-11-16T16:30:02+03:00"
     },
     {
+     "key": "bc79a889b010",
+     "title": "Французский клуб: «Драгоценности» Мопассана",
+     "date": "2026-12-08",
+     "time": "18:30",
+     "place": "Открытая гостиная",
+     "price": null,
+     "link": "https://t.me/open_living/3240",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/vzwYI1aVaX9kfP7kpe8jAYa--UICmxPA981ummfTZ3XapMvNtNIoI0XQ2prN50nyFR9V9tVItRy4vhUWBWzKVA3f2ABTNShC1M4CQfPHRo29YXB7R1DZ7qXqXX0iSvn82NiYlJ3z92bR7ibcn8VJt7fT1Y-IbWU2DBTjdczGvK_R4g5VgIBBF2AbNN39HwiJDZw7oB2guP9DSHDh-_oGlETTdElP3OEvOSX7bXN1fCAQ_j2WUebQbUAXdgQPFxb2DEh5hUq4uiITbbn2f5E_A6NArW1lwOtJ5cisv--wVP8Qc5ejZj6FeGiYTJoTMJCG0g_uJIC-ule8FyCMd3OQUw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bc79a889b010"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "2fc8f4d3c70d",
      "title": "Вечер бумажных писем",
      "date": "2026-12-08",
@@ -4253,6 +4476,30 @@
      "found": "2026-11-18T08:30:00+03:00"
     },
     {
+     "key": "a0aeb13e721e",
+     "title": "«Папа внутри моих отношений»",
+     "date": "2026-12-10",
+     "time": "18:30",
+     "place": "Аптекарская набережная, 18, стр. 1, коворкинг Avenue PAGE, переговорная «Толстой»",
+     "price": "бесплатно",
+     "link": "https://avenue-page-event.timepad.ru/event/4327591/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://avenue-page-event.timepad.ru/event/4327591/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "AVENUE PAGE",
+     "author_url": "https://avenue-page-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/c95a8418-88bb-4319-9ca2-e33062077e82/-/crop/1615x909/58,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a0aeb13e721e"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "cb0600290c70",
      "title": "Лекция «Уверенная самопрезентация» с оперной певицей",
      "date": "2026-12-10",
@@ -4350,6 +4597,30 @@
       "a00415b365bb"
      ],
      "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "1c05d26d4bb6",
+     "title": "Янтры: рисуем мандалы",
+     "date": "2026-12-11",
+     "time": "18:00",
+     "place": "Большой проспект П. С., 65, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4325827/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4325827/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a023ebad-36a6-482c-a88a-bc370c94031b/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "1c05d26d4bb6"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "de8728f30077",
@@ -4523,6 +4794,30 @@
       "7d5adef8de33"
      ],
      "found": "2026-11-26T12:30:00+03:00"
+    },
+    {
+     "key": "ba831182632c",
+     "title": "«Коза-дереза и путеводная звезда»",
+     "date": "2026-12-12",
+     "time": "15:00",
+     "place": "Большой проспект П. С., 65, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4325056/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4325056/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3fb7e88f-0464-4556-b7eb-32481804447b/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ba831182632c"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "510d0399631b",
@@ -4797,6 +5092,32 @@
       "b479476b3da3"
      ],
      "found": "2026-11-20T12:30:10+03:00"
+    },
+    {
+     "key": "977e235e7b4a",
+     "title": "Телесный тренинг: завершение года",
+     "date": "2026-12-13",
+     "time": "17:00",
+     "place": null,
+     "price": "2000 ₽",
+     "link": "https://t.me/cuddlepiter/5564",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "calm",
+      "dance"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/Mpp6EBCwRtRf49KDJB1vMXaZiHSC7HPAJPleqHFMt33KWaqb_HTdoDRKLwE_k7v9GiJOkQkJNifYox6ojdgmtcwcjMAgfNsgm4lPdZYiEer7J1ebMYJ3B0AOa4iTqRaK3gC9sv__GRdAgSDe7ODTjBca0rKfknX7sjoBFTUMXxqkO4YKE43524atXiUAeFtv6A0esXGkeEIja7MrD_HvcaFuGBC40BtK1bHB50Cu18MYh4MybFBAmA-uQ4YVkRpaMVV8R9Va0nIchuJ0N9sk-VyPs1J_TULnx8K1lZCtyusigpNuUxDByQ4grJkHijvD1gQ3x2Aof8V9fjyOo11atg.jpg",
+     "hot": true,
+     "hot_reason": "последний телесный класс года",
+     "keys": [
+      "977e235e7b4a"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "e6d266e8999c",
@@ -5287,6 +5608,54 @@
      "found": "2026-11-24T16:30:26+03:00"
     },
     {
+     "key": "d187053d6cfa",
+     "title": "Картонный городок",
+     "date": "2026-12-19",
+     "time": "15:00",
+     "place": "Большой проспект П. С., 65, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4325059/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4325059/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/3fb7e88f-0464-4556-b7eb-32481804447b/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d187053d6cfa"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
+     "key": "9293cd59c93e",
+     "title": "Практикум «Антикризисная опора»",
+     "date": "2026-12-19",
+     "time": "16:00",
+     "place": "Невский проспект, 65",
+     "price": "1800 ₽",
+     "link": "https://galina-cherkasova.timepad.ru/event/4326059/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galina-cherkasova.timepad.ru/event/4326059/",
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Галина Черкасова",
+     "author_url": "https://galina-cherkasova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/9fdd38b8-059d-4709-9715-9269a6aa680d/-/crop/1670x940/0,1/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "группа до 12 человек",
+     "keys": [
+      "9293cd59c93e"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "73c89b760680",
      "title": "«Демон театральности»: перформативный разговор",
      "date": "2026-12-19",
@@ -5311,6 +5680,30 @@
       "73c89b760680"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "2e9f8f9e8659",
+     "title": "Снежная радость",
+     "date": "2026-12-19",
+     "time": "17:30",
+     "place": "Большой проспект П. С., 65, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4325853/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4325853/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/50444589-0dd8-47fb-a11f-9e4ce3ebbba1/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "2e9f8f9e8659"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "525989766ec8",
@@ -5753,6 +6146,30 @@
      "found": "2026-11-25T16:30:12+03:00"
     },
     {
+     "key": "3e0b170b4a7b",
+     "title": "Снежное кружево",
+     "date": "2026-12-25",
+     "time": "17:30",
+     "place": "Большой проспект П. С., 65, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4325888/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4325888/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/601e85de-5754-45de-9f76-ee8acc44761c/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3e0b170b4a7b"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "1d674762c946",
      "title": "ОРКиКО: музыкально-поэтический перформанс",
      "date": "2026-12-25",
@@ -5825,6 +6242,30 @@
       "60276e8bc814"
      ],
      "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "f6731fc87645",
+     "title": "Практикум «Что я хочу взять в новый год?»",
+     "date": "2026-12-26",
+     "time": "16:00",
+     "place": "Невский проспект, 65",
+     "price": "1800 ₽",
+     "link": "https://galina-cherkasova.timepad.ru/event/4326086/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://galina-cherkasova.timepad.ru/event/4326086/",
+     "cats": [
+      "body"
+     ],
+     "adult": false,
+     "author": "Галина Черкасова",
+     "author_url": "https://galina-cherkasova.timepad.ru/",
+     "image": "https://ucare.timepad.ru/88dea2fa-561d-4237-9269-f14d95e805ed/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "группа до 12 человек",
+     "keys": [
+      "f6731fc87645"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "ea7f7b8a194d",
@@ -6069,6 +6510,30 @@
      "found": "2026-11-24T20:30:11+03:00"
     },
     {
+     "key": "d38cf860426b",
+     "title": "Ёлочный переполох",
+     "date": "2026-12-30",
+     "time": "17:30",
+     "place": "Большой проспект П. С., 65, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://crdbyouth.timepad.ru/event/4326048/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://crdbyouth.timepad.ru/event/4326048/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Центральная районная детская библиотека",
+     "author_url": "https://crdbyouth.timepad.ru/",
+     "image": "https://ucare.timepad.ru/50444589-0dd8-47fb-a11f-9e4ce3ebbba1/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d38cf860426b"
+     ],
+     "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
      "key": "1f29f8e5b325",
      "title": "Обнимательная встреча",
      "date": "2026-12-30",
@@ -6247,15 +6712,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-27T12:30:00+03:00",
-     "events": 104
+     "last_post": "2026-11-27T16:30:03+03:00",
+     "events": 117
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-27T09:00:36+03:00",
-     "events": 24
+     "last_post": "2026-11-27T16:02:11+03:00",
+     "events": 26
     },
     {
      "title": "Точка Импро",
@@ -6265,18 +6730,18 @@
      "events": 20
     },
     {
+     "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "username": "cuddlepiter",
+     "kind": "folder",
+     "last_post": "2026-11-27T13:30:10+03:00",
+     "events": 15
+    },
+    {
      "title": "Дом Радио",
      "username": "domradio_online",
      "kind": "folder",
      "last_post": "2026-11-26T20:33:07+03:00",
      "events": 15
-    },
-    {
-     "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
-     "username": "cuddlepiter",
-     "kind": "folder",
-     "last_post": "2026-11-26T00:10:25+03:00",
-     "events": 14
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -6289,7 +6754,21 @@
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-27T11:51:54+03:00",
+     "last_post": "2026-11-27T14:55:27+03:00",
+     "events": 6
+    },
+    {
+     "title": "TANTRA🤍TIME | Санкт-Петербург",
+     "username": "tantratime_spb",
+     "kind": "extra",
+     "last_post": "2026-11-27T16:04:41+03:00",
+     "events": 6
+    },
+    {
+     "title": "Гостиная: открыто",
+     "username": "open_living",
+     "kind": "folder",
+     "last_post": "2026-11-27T14:22:01+03:00",
      "events": 6
     },
     {
@@ -6300,24 +6779,10 @@
      "events": 5
     },
     {
-     "title": "TANTRA🤍TIME | Санкт-Петербург",
-     "username": "tantratime_spb",
-     "kind": "extra",
-     "last_post": "2026-11-27T12:23:27+03:00",
-     "events": 5
-    },
-    {
-     "title": "Гостиная: открыто",
-     "username": "open_living",
-     "kind": "folder",
-     "last_post": "2026-11-25T16:17:33+03:00",
-     "events": 5
-    },
-    {
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
-     "last_post": "2026-11-26T17:53:09+03:00",
+     "last_post": "2026-11-27T15:48:02+03:00",
      "events": 5
     },
     {
@@ -6373,7 +6838,7 @@
      "title": "ТОТ ЙОГА ЦЕНТР",
      "username": "totyoga",
      "kind": "extra",
-     "last_post": "2026-11-26T19:13:19+03:00",
+     "last_post": "2026-11-27T15:46:45+03:00",
      "events": 2
     },
     {
@@ -6381,6 +6846,13 @@
      "username": "shamina_sharit",
      "kind": "extra",
      "last_post": "2026-11-26T15:35:28+03:00",
+     "events": 2
+    },
+    {
+     "title": "эМпров Театр",
+     "username": "mprovtheatre",
+     "kind": "extra",
+     "last_post": "2026-11-27T14:52:52+03:00",
      "events": 2
     },
     {
@@ -6451,13 +6923,6 @@
      "username": "meerschool",
      "kind": "extra",
      "last_post": "2026-11-26T22:47:58+03:00",
-     "events": 1
-    },
-    {
-     "title": "эМпров Театр",
-     "username": "mprovtheatre",
-     "kind": "extra",
-     "last_post": "2026-11-25T13:51:07+03:00",
      "events": 1
     },
     {
@@ -6597,7 +7062,7 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-27T12:02:14+03:00",
+     "last_post": "2026-11-27T15:34:58+03:00",
      "events": 0
     },
     {
