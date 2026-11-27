@@ -1347,11 +1347,12 @@
      "adult": false,
      "author": "Каледонский Лес",
      "author_url": "https://t.me/kl_les",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/Vw0NbO-fYVCfNMRvOFvdJRBJpTVbkwo_vd2NONTXqoC7S3PqClGniHjfTWSB025zIPXIv-dz2A9V1NbQQMBUPIWN7CwD64f3rkIg64jfOxSd1JLvbZcFQGJ4JH_-JgVuyYkuAGaPDI6lEfEgnI9a042uLkUjG3MiVQIfJMA5MNq2ipncZEEF7xC1EdmJBWYDzZttPUTZ_7bTTc6pRcH0L__PWtpY8o5F6F9z_bjN9h6Zllz-ZiqvfxgdfHlvyxeFYy3tKX2DifPaWutCCJwH9tTBsjpy5RTvpR29cCUEMuca11-kfnGV0Op8sbuuFZaX69KUpif9dKJZx2sraSdmtA.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "821f6342f4e9"
+      "821f6342f4e9",
+      "c6f09c63cafa"
      ],
      "found": "2026-11-23T08:30:26+03:00"
     },
@@ -1453,6 +1454,7 @@
       "5f0a06a60b30",
       "f3f3e478ff38",
       "e0d9930287bd",
+      "e2639581169b",
       "aa91a45639f7"
      ],
      "found": "2026-11-18T16:30:01+03:00"
@@ -1532,30 +1534,6 @@
       "c0f5e7fb5471"
      ],
      "found": "2026-11-24T08:30:14+03:00"
-    },
-    {
-     "key": "e2639581169b",
-     "title": "Лёд и шёлк",
-     "date": "2026-11-28",
-     "time": null,
-     "place": null,
-     "price": "3000 ₽ с человека, 5000 ₽ пара, 6000 ₽ трио",
-     "link": "https://t.me/sensualcafe/8837",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "author": "SensCafe 18+",
-     "author_url": "https://t.me/sensualcafe",
-     "image": "https://cdn4.telesco.pe/file/P_NFIiUjkEpZ8HtOuuXfahCRFreKQEIH7IUnDDD5oGaOOzxOZtga95QVg55q5aoNt7V9KBaM08RejKlGuf3Vf5Q6O1Ic02jCboAaswed5yrHC7YIJkrYiLRdDfqwW4TSGAejtryKPf5FRySVbnjpUwApEubZYIItIvOcv0_h2ZMfzkRGrYXukIVcmEDZuLm9UqSwkEcSPMHMN7aC_jrE8ilaD6iyJFaJ0JW5jcAk1dk8IO6d2lYa7DwRhhIurYOnnqfIdsbFlnojS7VHTnuDF3XqvkrdnH_JQeLJrYffpVxup5opyYpC_uxHh2fyf5FgcEhoxUb06-MJlxlkAmv02w.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "e2639581169b"
-     ],
-     "found": "2026-11-27T16:30:03+03:00"
     },
     {
      "key": "c86637363be8",
@@ -1826,7 +1804,8 @@
      "hot_reason": "",
      "keys": [
       "64a57cb4d076",
-      "5c40924236a3"
+      "5c40924236a3",
+      "b87e933bd874"
      ],
      "found": "2026-11-15T20:30:01+03:00"
     },
@@ -2122,6 +2101,30 @@
       "b0c5cd2eac15"
      ],
      "found": "2026-11-25T16:30:12+03:00"
+    },
+    {
+     "key": "51eca8b6fb44",
+     "title": "Практика «Вижу, слышу, чувствую»",
+     "date": "2026-11-29",
+     "time": "19:00",
+     "place": "Васильевский остров",
+     "price": "1500 ₽",
+     "link": "https://t.me/feelfeelit/1034",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Feel it | Почувствуй",
+     "author_url": "https://t.me/feelfeelit",
+     "image": "https://cdn4.telesco.pe/file/XqvDoFNQPxUi7fV5CrTUl1l_zmZH887c4zMXFLUlZnom7MnIF6Ab1s8ut-1f8I2HmNoqq0a_aoPJ7Am1N3U701CKVre_DH7tonOODLlMP2Db4ns_1mlRTDphnFmVheO1WZy_GiRvC5QIPlXtUsB8XBkdMw3DVrwyUYwtmFiQ0cBcbe0kIDrrkyGiR0w0txykfaCExhdAjABqBk0lAT8yIcZlAbr8NNSZopwkiWC8QQ3hrVpKkX693NxCj4MYjjsDMKggMuusRtz8gqjJTzuTXDAEW3GN09hzSNeFnRFUF7xYeJmP_e4bABBU6KRsodGn8ghqE2mnnslwZoVri0b99w.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "51eca8b6fb44"
+     ],
+     "found": "2026-11-27T20:30:00+03:00"
     },
     {
      "key": "06cccd2306c7",
@@ -3550,6 +3553,30 @@
      "found": "2026-11-24T20:30:11+03:00"
     },
     {
+     "key": "938f35db6f6c",
+     "title": "Лекция о поздних рассказах Роберта Шекли",
+     "date": "2026-12-05",
+     "time": "14:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/open_living/3242",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/BfIZoR07hU3MBE8SVgZ08QagA8JEIZaC4oCg62Q2DCTimlnNoM5jVlRQnPq09qDMAsRwqGakpWpmysrlvepro8c3IGKcPV5KBmcDn11oAobpD0pDci3vFMyjKfsVaFMfP-IFIYsic6Zcln6osmXdkNgFAQI2Bv-T_CUps-WZIvSqJzgCZj0_Zn09JbFWOMc42gbVe5NyORUk6gbYRp2jh7HqZ5JmdnmV9RJazPbUlWidDcPAxrfcP0vgccPRwYRndZc60qdgt9VZnidUSxRgqQ8hWRY4GcWxsl5Nx9wCSLOeksQdxppUgmGCUpHhkpic59IKlaA1GeFKHAvLhYFHxA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "938f35db6f6c"
+     ],
+     "found": "2026-11-27T20:30:00+03:00"
+    },
+    {
      "key": "36a037b2fef9",
      "title": "Сказка как путь к себе",
      "date": "2026-12-05",
@@ -4203,6 +4230,30 @@
       "d34f5fc34ed8"
      ],
      "found": "2026-11-23T08:30:26+03:00"
+    },
+    {
+     "key": "88d0f56d35a0",
+     "title": "Литературный клуб «Востоковедьмы»",
+     "date": "2026-12-07",
+     "time": "18:00",
+     "place": null,
+     "price": null,
+     "link": "https://t.me/open_living/3241",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/im5DBhE3Utj98lOUCWxM9z_JKWj-yTKUxJx-yc4pkf_iQXiNox5NrHmHTMHsqiT7UYtJw0-6AMB0mt2LLDrgdYh2_D0vvE1vmWWDg0rn9i4oFDNl2VfjFM4coKiacbo1liW4En7cU77J1UPOG2ffNrWf2QltqELV04FXZgfyusdm4dxSxmwB3rAudaDzvGLm7As8QbbI0N6xMvc7vWfV_AG0BXSkJa8n3R-9XYNsKYGe2S506Cn5Cxfab_WRkqN78qWXMy_ExYZ7s5FrUJRlRPTR9etSG7uSLFwWnar-cFt1bmRk6QW7J0onuFYsr5DBPRBCXffXEqy07Koa7K3Abw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "88d0f56d35a0"
+     ],
+     "found": "2026-11-27T20:30:00+03:00"
     },
     {
      "key": "5f49fc8f57c2",
@@ -6712,15 +6763,15 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-27T16:30:03+03:00",
+     "last_post": "2026-11-27T20:30:00+03:00",
      "events": 117
     },
     {
      "title": "SensCafe 18+",
      "username": "sensualcafe",
      "kind": "folder",
-     "last_post": "2026-11-27T16:02:11+03:00",
-     "events": 26
+     "last_post": "2026-11-27T20:25:11+03:00",
+     "events": 25
     },
     {
      "title": "Точка Импро",
@@ -6733,7 +6784,7 @@
      "title": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
      "username": "cuddlepiter",
      "kind": "folder",
-     "last_post": "2026-11-27T13:30:10+03:00",
+     "last_post": "2026-11-27T19:21:22+03:00",
      "events": 15
     },
     {
@@ -6742,6 +6793,13 @@
      "kind": "folder",
      "last_post": "2026-11-26T20:33:07+03:00",
      "events": 15
+    },
+    {
+     "title": "Гостиная: открыто",
+     "username": "open_living",
+     "kind": "folder",
+     "last_post": "2026-11-27T20:02:55+03:00",
+     "events": 8
     },
     {
      "title": "Школа КИ и Перфоманса СПБ",
@@ -6765,13 +6823,6 @@
      "events": 6
     },
     {
-     "title": "Гостиная: открыто",
-     "username": "open_living",
-     "kind": "folder",
-     "last_post": "2026-11-27T14:22:01+03:00",
-     "events": 6
-    },
-    {
      "title": "Ecstatic Dance Spb",
      "username": "ecstaticdancespb",
      "kind": "extra",
@@ -6782,7 +6833,7 @@
      "title": "Канал Just Friends коммьюнити",
      "username": "jf_festival",
      "kind": "folder",
-     "last_post": "2026-11-27T15:48:02+03:00",
+     "last_post": "2026-11-27T16:46:50+03:00",
      "events": 5
     },
     {
@@ -6817,7 +6868,7 @@
      "title": "Каледонский Лес",
      "username": "kl_les",
      "kind": "folder",
-     "last_post": "2026-11-26T19:04:48+03:00",
+     "last_post": "2026-11-27T19:04:01+03:00",
      "events": 3
     },
     {
@@ -6845,7 +6896,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-26T15:35:28+03:00",
+     "last_post": "2026-11-27T17:47:34+03:00",
      "events": 2
     },
     {
@@ -6854,6 +6905,13 @@
      "kind": "extra",
      "last_post": "2026-11-27T14:52:52+03:00",
      "events": 2
+    },
+    {
+     "title": "Feel it | Почувствуй",
+     "username": "feelfeelit",
+     "kind": "folder",
+     "last_post": "2026-11-27T17:06:49+03:00",
+     "events": 1
     },
     {
      "title": "Kris | Тантра | Психотерапия",
@@ -6866,7 +6924,7 @@
      "title": "Massage Band",
      "username": "sensmassagemasters",
      "kind": "folder",
-     "last_post": "2026-11-24T20:44:47+03:00",
+     "last_post": "2026-11-27T19:03:02+03:00",
      "events": 1
     },
     {
@@ -6894,7 +6952,7 @@
      "title": "ИТМОМЕНТ",
      "username": "momentitmo",
      "kind": "folder",
-     "last_post": "2026-11-26T19:32:01+03:00",
+     "last_post": "2026-11-27T19:44:01+03:00",
      "events": 1
     },
     {
@@ -6958,13 +7016,6 @@
      "username": "ecstaticeventsspb",
      "kind": "extra",
      "last_post": "2026-11-26T14:37:16+03:00",
-     "events": 0
-    },
-    {
-     "title": "Feel it | Почувствуй",
-     "username": "feelfeelit",
-     "kind": "folder",
-     "last_post": "2026-11-25T15:13:59+03:00",
      "events": 0
     },
     {
