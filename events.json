@@ -8036,33 +8036,10 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "1e74f584be3d"
-     ],
-     "found": "2026-11-16T02:50:09+03:00"
-    },
-    {
-     "key": "87c3acfa2a05",
-     "title": "Я смотрю урода. Эй, урод",
-     "date": "2026-11-28",
-     "time": "19:00",
-     "place": "Москва",
-     "price": null,
-     "link": "https://t.me/fo_shoo/1410",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch"
-     ],
-     "adult": false,
-     "author": "FoShoo — любительский театр",
-     "author_url": "https://t.me/fo_shoo",
-     "image": "https://cdn4.telesco.pe/file/ODEv-5aMM91aHqV_yo_J6R630RwPKJK6o8HUW1emWSuoApnx3sYJLHAgjHeY2nPIOfC2_QxZ7FulyIAkMZHOFr71D6BFpf8IPjmRU11tcEALWF_OP2MkwzfgSS3kQ7Q-hsVLRHEYyIy5kMi-7OjBzcD6zd-CURznXxmWql9oPow-1pKARkZU1thTP5u-Dsjyvp1FsJ_NNExmWZlDXCCblRrhvp6zlwwCDQTOopEwMCZUX6WhoppGwoJhZ6tbqS_qEYMhdFvlhh6HcC0uxoiswCBA4Es7xBlZQlkUV2Ca8jqO2R32pIbMnmlllAS0ahMGnN9vLwTnjEj0SLdB4QiLVw.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
+      "1e74f584be3d",
       "87c3acfa2a05"
      ],
-     "found": "2026-11-27T12:45:00+03:00"
+     "found": "2026-11-16T02:50:09+03:00"
     },
     {
      "key": "00fa3cb66721",
@@ -8505,7 +8482,8 @@
      "keys": [
       "9be7845a5674",
       "9a26edd4b68f",
-      "901e19ca9ecd"
+      "901e19ca9ecd",
+      "1a151ad59263"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -9453,13 +9431,13 @@
      "found": "2026-11-23T16:45:01+03:00"
     },
     {
-     "key": "71d39d371971",
-     "title": "Трогательный практикум (LeMoor)",
+     "key": "10e742010820",
+     "title": "Трогательный Практикум",
      "date": "2026-12-03",
      "time": "19:30",
-     "place": "м. Бауманская",
-     "price": "2500 ₽ (пара 4000 ₽)",
-     "link": "https://t.me/lemoorcloob/985",
+     "place": "Москва, м. Бауманская",
+     "price": "2500 ₽ за одного; 4000 ₽ за двоих",
+     "link": "https://t.me/lemoorcloob/993",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -9472,6 +9450,7 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "10e742010820",
       "71d39d371971"
      ],
      "found": "2026-11-15T23:28:44+03:00"
@@ -11071,6 +11050,30 @@
      "found": "2026-11-18T16:45:01+03:00"
     },
     {
+     "key": "203de57c5e04",
+     "title": "Мастер-класс по созданию зимней картины",
+     "date": "2026-12-11",
+     "time": "19:00",
+     "place": "Москва, ул. Мясницкая, д. 14/2, стр. 1",
+     "price": "2100 ₽",
+     "link": "https://flauvau.timepad.ru/event/4330127/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4330127/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/4be105d1-72f5-41dc-ad3a-17dfeb1df819/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "203de57c5e04"
+     ],
+     "found": "2026-11-27T20:45:00+03:00"
+    },
+    {
      "key": "a72362d39f0a",
      "title": "Презентация телесно-ориентированного подхода",
      "date": "2026-12-11",
@@ -12404,13 +12407,13 @@
      "found": "2026-11-25T16:45:00+03:00"
     },
     {
-     "key": "6c8181a0bf25",
-     "title": "Трогательный практикум (LeMoor)",
+     "key": "78b6cb112804",
+     "title": "Трогательный Практикум",
      "date": "2026-12-17",
      "time": "19:30",
-     "place": "м. Бауманская",
-     "price": "2500 ₽ (пара 4000 ₽)",
-     "link": "https://t.me/lemoorcloob/985",
+     "place": "Москва, м. Бауманская",
+     "price": "2500 ₽ за одного; 4000 ₽ за двоих",
+     "link": "https://t.me/lemoorcloob/993",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -12423,6 +12426,7 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "78b6cb112804",
       "6c8181a0bf25"
      ],
      "found": "2026-11-15T23:28:44+03:00"
@@ -14226,8 +14230,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-27T16:45:00+03:00",
-     "events": 220
+     "last_post": "2026-11-27T20:45:00+03:00",
+     "events": 221
     },
     {
      "title": "Контактная Импровизация в Москве",
@@ -14248,7 +14252,7 @@
      "username": "fo_shoo",
      "kind": "extra",
      "last_post": "2026-11-27T10:10:23+03:00",
-     "events": 7
+     "events": 6
     },
     {
      "title": "Sense Cuddle Канал",
@@ -14261,7 +14265,7 @@
      "title": "LeMoor Cloob инфо",
      "username": "lemoorcloob",
      "kind": "folder",
-     "last_post": "2026-11-26T13:11:23+03:00",
+     "last_post": "2026-11-27T18:47:15+03:00",
      "events": 4
     },
     {
@@ -14282,7 +14286,7 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-27T10:04:27+03:00",
+     "last_post": "2026-11-27T17:50:51+03:00",
      "events": 3
     },
     {
@@ -14303,7 +14307,7 @@
      "title": "Шамина шарит — дайджест импрова",
      "username": "shamina_sharit",
      "kind": "extra",
-     "last_post": "2026-11-26T15:35:28+03:00",
+     "last_post": "2026-11-27T17:47:34+03:00",
      "events": 2
     },
     {
@@ -14415,7 +14419,7 @@
      "title": "ТЕНЬ",
      "username": "tenloca",
      "kind": "folder",
-     "last_post": "2026-11-14T20:11:45+03:00",
+     "last_post": "2026-11-27T20:16:29+03:00",
      "events": 0
     },
     {
