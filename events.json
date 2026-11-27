@@ -6944,18 +6944,44 @@
      "signup_url": null,
      "cats": [
       "body",
-      "watch"
+      "watch",
+      "dance"
      ],
      "adult": true,
      "author": "18+ Канал Шибаришной",
      "author_url": "https://t.me/shibarish",
      "image": "https://cdn4.telesco.pe/file/EAc4YafnhXjKhPojq3tHAUSukqlnp-HPMRIqAaxxacgYXIIjbwncveJpWWAssH2Nd-TCSAXQpWpKHJ0jJ2T43-u7hjKYuRUm2xODaKEBa8qHPWafLjFA9yvZ1eIBD9mjzMHtisxYFUDY47-EcHELsB2_cSvAl-LEhqwZShqnnMEG2jenAOtlDmVBsrF3Dw4ai6BnkFUYYOCyQOCqc_CqJ97ZvfIgIY3Aukpqx89Z0c0aLY2ho0JCOMr4wQ0CNpr54s-IKYU9u1zmEpDFsRKWGGvsoXbRtYsDxqT7xt5xH3xUCY0hueL8H7U1AkrXpKR7ReDqoxDJpC1HYsvmuQRt1Q",
+     "hot": true,
+     "hot_reason": "разовая тематическая вечеринка",
+     "keys": [
+      "4380cc840236",
+      "023da4fc7813"
+     ],
+     "found": "2026-11-25T16:45:00+03:00"
+    },
+    {
+     "key": "589f645d9721",
+     "title": "Библейский завтрак: «Роскошь»",
+     "date": "2026-11-28",
+     "time": "10:30",
+     "place": "Москва, Новорогожская, 5",
+     "price": "бесплатно",
+     "link": "https://losev.timepad.ru/event/4325696/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://losev.timepad.ru/event/4325696/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Библиотека \"Дом А.Ф. Лосева\"",
+     "author_url": "https://losev.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d75872d1-4510-40ff-8f21-8424d7fbd22d/-/crop/1524x857/0,83/-/resize/1920x1080/",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "4380cc840236"
+      "589f645d9721"
      ],
-     "found": "2026-11-25T16:45:00+03:00"
+     "found": "2026-11-27T12:45:00+03:00"
     },
     {
      "key": "5441696d88d9",
@@ -7400,25 +7426,27 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
-     "key": "0578ca28783c",
-     "title": "КИ: «Слепые зоны в танце» и джем",
+     "key": "56cbb40e6608",
+     "title": "Слепые зоны в танце: класс и джем",
      "date": "2026-11-28",
      "time": "19:00",
-     "place": "Йогаплатформа",
-     "price": null,
-     "link": "https://t.me/cimsk/7421",
+     "place": "Yogaplatform, Спартаковский переулок, 2, стр. 1, подъезд 6, этаж 3",
+     "price": "1600 ₽ за класс и джем; 700 ₽ за джем",
+     "link": "https://t.me/cimsk/7447",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "dance"
+      "dance",
+      "body"
      ],
      "adult": false,
      "author": "Контактная Импровизация в Москве",
      "author_url": "https://t.me/cimsk",
-     "image": null,
+     "image": "https://cdn4.telesco.pe/file/lwSsPmBHaR-yNwX8uPgVe78dObWq8QZVXH75i8n1cH517_Y02AwceLG2_4Ual1zTkHLKfy8oLS-rTXuM1SiyrVA5pvOuk4IhDukEQLoUs-fUTJXwT7OzC21fYHl4DfzJDRaTJBDCeeVvAVShDk_F24iA_ZZfJsZ5X25OJnev_yu3ZEoAyk8cNnGzN-ZjbyPsdXwGtJwnlgKCq7LHDXEFOdcipAyRbEiMa7ni4_rBzY2_l03IqGgdYEZ_aabhXZxNkEQSDw6VazatCQ3jaTl6zbgRxKbKo6RkW80fDFqvbM_AtfuTKwhcB9cTOc9XppD56kniM_5u9mnlDV7lQyIiHg.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "56cbb40e6608",
       "0578ca28783c"
      ],
      "found": "2026-11-23T08:45:04+03:00"
@@ -7447,6 +7475,30 @@
       "1e74f584be3d"
      ],
      "found": "2026-11-16T02:50:09+03:00"
+    },
+    {
+     "key": "87c3acfa2a05",
+     "title": "Я смотрю урода. Эй, урод",
+     "date": "2026-11-28",
+     "time": "19:00",
+     "place": "Москва",
+     "price": null,
+     "link": "https://t.me/fo_shoo/1410",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "FoShoo — любительский театр",
+     "author_url": "https://t.me/fo_shoo",
+     "image": "https://cdn4.telesco.pe/file/ODEv-5aMM91aHqV_yo_J6R630RwPKJK6o8HUW1emWSuoApnx3sYJLHAgjHeY2nPIOfC2_QxZ7FulyIAkMZHOFr71D6BFpf8IPjmRU11tcEALWF_OP2MkwzfgSS3kQ7Q-hsVLRHEYyIy5kMi-7OjBzcD6zd-CURznXxmWql9oPow-1pKARkZU1thTP5u-Dsjyvp1FsJ_NNExmWZlDXCCblRrhvp6zlwwCDQTOopEwMCZUX6WhoppGwoJhZ6tbqS_qEYMhdFvlhh6HcC0uxoiswCBA4Es7xBlZQlkUV2Ca8jqO2R32pIbMnmlllAS0ahMGnN9vLwTnjEj0SLdB4QiLVw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "87c3acfa2a05"
+     ],
+     "found": "2026-11-27T12:45:00+03:00"
     },
     {
      "key": "00fa3cb66721",
@@ -9551,6 +9603,30 @@
      "found": "2026-11-18T12:45:00+03:00"
     },
     {
+     "key": "bcb70c260f7f",
+     "title": "Мастер-класс: хвойное украшение с гирляндой",
+     "date": "2026-12-06",
+     "time": "13:00",
+     "place": "Москва, Мясницкая, 14/2, стр. 1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4327131/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4327131/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a34efff8-82db-46ba-86f4-39851a79d17b/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "bcb70c260f7f"
+     ],
+     "found": "2026-11-27T12:45:00+03:00"
+    },
+    {
      "key": "587def690120",
      "title": "Спектакль «Айседора» про Дункан",
      "date": "2026-12-06",
@@ -10189,6 +10265,30 @@
      "found": "2026-11-16T08:45:01+03:00"
     },
     {
+     "key": "9c77163d1ccf",
+     "title": "Мастер-класс: хвойное украшение с гирляндой",
+     "date": "2026-12-10",
+     "time": "19:00",
+     "place": "Москва, Мясницкая, 14/2, стр. 1",
+     "price": "3900 ₽",
+     "link": "https://flauvau.timepad.ru/event/4327131/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://flauvau.timepad.ru/event/4327131/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Флаувау",
+     "author_url": "https://flauvau.timepad.ru/",
+     "image": "https://ucare.timepad.ru/a34efff8-82db-46ba-86f4-39851a79d17b/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9c77163d1ccf"
+     ],
+     "found": "2026-11-27T12:45:00+03:00"
+    },
+    {
      "key": "bdd5c75d6e94",
      "title": "Искусство загадывать желания",
      "date": "2026-12-11",
@@ -10511,6 +10611,30 @@
       "c568d938f138"
      ],
      "found": "2026-11-16T08:45:01+03:00"
+    },
+    {
+     "key": "c3463da0b80d",
+     "title": "Разговорный клуб: мужское и женское",
+     "date": "2026-12-12",
+     "time": "14:00",
+     "place": "Москва, Сретенка, 32, ресторан We Cidreria",
+     "price": "1900–2100 ₽",
+     "link": "https://rightpeopleunion.timepad.ru/event/4324460/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://rightpeopleunion.timepad.ru/event/4324460/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "rightpeopleunion",
+     "author_url": "https://rightpeopleunion.timepad.ru/",
+     "image": "https://ucare.timepad.ru/651bf838-336c-4f4c-b8a5-903aad47fa4e/",
+     "hot": true,
+     "hot_reason": "встреча второго сезона",
+     "keys": [
+      "c3463da0b80d"
+     ],
+     "found": "2026-11-27T12:45:00+03:00"
     },
     {
      "key": "7111ad2ab49f",
@@ -10904,6 +11028,30 @@
       "17a61a637fd3"
      ],
      "found": "2026-11-22T16:45:16+03:00"
+    },
+    {
+     "key": "93e7e4042fb7",
+     "title": "Разговорный клуб: итоги года",
+     "date": "2026-12-13",
+     "time": "14:00",
+     "place": "Москва, Сретенка, 32, ресторан We Cidreria",
+     "price": "1990 ₽",
+     "link": "https://rightpeopleunion.timepad.ru/event/4324255/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://rightpeopleunion.timepad.ru/event/4324255/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "rightpeopleunion",
+     "author_url": "https://rightpeopleunion.timepad.ru/",
+     "image": "https://ucare.timepad.ru/651bf838-336c-4f4c-b8a5-903aad47fa4e/",
+     "hot": true,
+     "hot_reason": "разовая встреча по итогам года",
+     "keys": [
+      "93e7e4042fb7"
+     ],
+     "found": "2026-11-27T12:45:00+03:00"
     },
     {
      "key": "22e6a249df51",
@@ -12007,6 +12155,30 @@
       "04c6f246640b"
      ],
      "found": "2026-11-23T12:45:07+03:00"
+    },
+    {
+     "key": "9d060b5ad1a9",
+     "title": "Игра мнений",
+     "date": "2026-12-20",
+     "time": "14:00",
+     "place": "Москва, Сретенка, 32, ресторан We Cidreria",
+     "price": "1990 ₽",
+     "link": "https://rightpeopleunion.timepad.ru/event/4324707/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://rightpeopleunion.timepad.ru/event/4324707/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "rightpeopleunion",
+     "author_url": "https://rightpeopleunion.timepad.ru/",
+     "image": "https://ucare.timepad.ru/651bf838-336c-4f4c-b8a5-903aad47fa4e/",
+     "hot": true,
+     "hot_reason": "разовая тематическая встреча",
+     "keys": [
+      "9d060b5ad1a9"
+     ],
+     "found": "2026-11-27T12:45:00+03:00"
     },
     {
      "key": "d62ce94366fa",
@@ -13197,14 +13369,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-27T08:45:00+03:00",
-     "events": 203
+     "last_post": "2026-11-27T12:45:00+03:00",
+     "events": 209
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-26T18:04:38+03:00",
+     "last_post": "2026-11-27T12:32:34+03:00",
      "events": 22
     },
     {
@@ -13218,8 +13390,8 @@
      "title": "FoShoo — любительский театр",
      "username": "fo_shoo",
      "kind": "extra",
-     "last_post": "2026-11-25T10:33:37+03:00",
-     "events": 6
+     "last_post": "2026-11-27T10:10:23+03:00",
+     "events": 7
     },
     {
      "title": "LeMoor Cloob инфо",
@@ -13253,7 +13425,7 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-26T19:47:16+03:00",
+     "last_post": "2026-11-27T10:04:27+03:00",
      "events": 3
     },
     {
@@ -13358,14 +13530,14 @@
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-26T10:08:22+03:00",
+     "last_post": "2026-11-27T12:36:02+03:00",
      "events": 0
     },
     {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-26T09:15:10+03:00",
+     "last_post": "2026-11-27T09:15:14+03:00",
      "events": 0
     },
     {
