@@ -428,30 +428,6 @@
      "found": "2026-11-20T12:30:10+03:00"
     },
     {
-     "key": "c7f7efbf852b",
-     "title": "Групповая медитация, м. Владимирская",
-     "date": "2026-11-28",
-     "time": "15:00",
-     "place": "м. Владимирская",
-     "price": null,
-     "link": "https://t.me/meditatespb/738",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "calm"
-     ],
-     "adult": false,
-     "author": "Медитация в Санкт-Петербурге [ meditate.spb ]",
-     "author_url": "https://t.me/meditatespb",
-     "image": "https://cdn4.telesco.pe/file/E-1-Wn_LNtE951uOxqwr1pZZOA3DDiLxVPFoOgho9ucJRM57wYcKXLfDGwQIGak1sqjq6tv0liOKt2wPKmchjG22b9aHVIDEDs6YbjP6rPoZ3rsZ3m4yHrpAz6mZu3aqRQwiEkiWZVnzdK7PnIzF4FIRpvhWUL0xMtbVCQgu19gqWNXs4eWS3AMdE9jDLurO9pD_vYiA6fZqy1fQZ2KVtKh3MPsaE9on-zW8Uoh-auwXobl2WTg58VVp8ZpL78d5MzSuHw5nwa6NmyFr8TGJK3ErqT-B3dZpIyywPDqJhxAl3oiuUYYqPxjmZ_CG1Wwh2Fjs-FMBjSp4ZwP66vY8tA.jpg",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "c7f7efbf852b"
-     ],
-     "found": "2026-11-26T08:30:01+03:00"
-    },
-    {
      "key": "47f04ee22925",
      "title": "Женский рисовальный клуб",
      "date": "2026-11-28",
@@ -501,6 +477,31 @@
      "found": "2026-11-22T20:30:28+03:00"
     },
     {
+     "key": "163569edbcc3",
+     "title": "Групповая медитация на Владимирской",
+     "date": "2026-11-28",
+     "time": "15:05",
+     "place": "зал на м. Владимирская",
+     "price": null,
+     "link": "https://t.me/meditatespb/739",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm"
+     ],
+     "adult": false,
+     "author": "Медитация в Санкт-Петербурге [ meditate.spb ]",
+     "author_url": "https://t.me/meditatespb",
+     "image": "https://cdn4.telesco.pe/file/E-1-Wn_LNtE951uOxqwr1pZZOA3DDiLxVPFoOgho9ucJRM57wYcKXLfDGwQIGak1sqjq6tv0liOKt2wPKmchjG22b9aHVIDEDs6YbjP6rPoZ3rsZ3m4yHrpAz6mZu3aqRQwiEkiWZVnzdK7PnIzF4FIRpvhWUL0xMtbVCQgu19gqWNXs4eWS3AMdE9jDLurO9pD_vYiA6fZqy1fQZ2KVtKh3MPsaE9on-zW8Uoh-auwXobl2WTg58VVp8ZpL78d5MzSuHw5nwa6NmyFr8TGJK3ErqT-B3dZpIyywPDqJhxAl3oiuUYYqPxjmZ_CG1Wwh2Fjs-FMBjSp4ZwP66vY8tA.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "163569edbcc3",
+      "c7f7efbf852b"
+     ],
+     "found": "2026-11-26T08:30:01+03:00"
+    },
+    {
      "key": "01807054765a",
      "title": "Клуб аудиокниг и вязания",
      "date": "2026-11-28",
@@ -523,6 +524,30 @@
       "01807054765a"
      ],
      "found": "2026-11-21T20:30:00+03:00"
+    },
+    {
+     "key": "d060dd8e3635",
+     "title": "Мастер-класс: обережная кукла-ворона",
+     "date": "2026-11-28",
+     "time": "16:00",
+     "place": "Московский Рынок, Решетникова 12, 2 этаж",
+     "price": "бесплатно",
+     "link": "https://moskovskiy-rynok.timepad.ru/event/4324605/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://moskovskiy-rynok.timepad.ru/event/4324605/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Московский Рынок",
+     "author_url": "https://moskovskiy-rynok.timepad.ru/",
+     "image": "https://ucare.timepad.ru/753fb673-379e-48c3-a109-3548de8570fc/-/crop/1280x720/32,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "d060dd8e3635"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "804b70d94cab",
@@ -1074,28 +1099,28 @@
      "found": "2026-11-20T20:30:01+03:00"
     },
     {
-     "key": "3b7bebe111ae",
-     "title": "Воскресный практикум по импровизации",
+     "key": "1541a61b609e",
+     "title": "Чайная встреча в студии «Точка»",
      "date": "2026-11-29",
-     "time": "12:00",
-     "place": "ДК «Железнодорожников», Тамбовская ул., 63",
-     "price": "1500 ₽ для остальных; ученикам — от бесплатно",
-     "link": "https://t.me/improschoolspb/7724",
+     "time": "11:00",
+     "place": "ул. Зеленогорская 4, студия «Точка»",
+     "price": "донейшн",
+     "link": "https://t.me/aleksun_days/494",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
-      "theatre"
+      "calm"
      ],
      "adult": false,
-     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "author_url": "https://t.me/improschoolspb",
-     "image": "https://cdn4.telesco.pe/file/hyv1bduADEDVXcHDb3b5mHtGcSlJkRNswQHiHp1VI6OLI04qT6CFXSlUcaaOiSkMqM6GPviTd1ZPHV9E6P-nDJZuyB2GMsMaerdYUzafIQU61Z9v4BZZTQv7nMz_6jv0Xaekm1EwZlUcbNsYBLPRuJ_4NmWwVMouMZf0uRx_mIMVghLR5SMhFy5SEoedwpzQP377GYv3fFqpMPV1ZTOoYi-kuhU_mkgxGruvZk7w3UN5xZJmtv-3sMrznjI8UQewgU-rdrIwqxLKR-uGyPYfpcdJWWV6qmF5lUndvmX8NZB7YVcPW-QMsi5vhsghV5_RKIMi1BvLY4OCxY3umjqlHA.jpg",
+     "author": "aleksun_days (Тропа)",
+     "author_url": "https://t.me/aleksun_days",
+     "image": "https://cdn4.telesco.pe/file/NwSlU-eI9e9IB1lXz453yEhRMlXeEPDNsdUOzckLmP_wxrrbJQxG3x2CqlmwYwAjSn_3XiXyJBasqQLn8gaC-FLR-SzfcDUDcDilqvpPGr2DGZvJ1sSEp30qRpnjrcO8nYh4C2rSib0Eu7WgPq5gQy5D_zPqXYXoo72uJokK035SgeNYGB3ToL7SShnV4RsYvH-qHycMWiDNi0Riu--AE2gMvDB0wEhAV21vn0dBFAli2U2o2Toqax-QxdOb-KCDyI0fW9P62rkyQydHF1QwOzIE3jPDj2P7GAwgf2WPSdCQEBfD4Zon7dQ9DZCzVqNL2W9CECj31-PywFx4nzrHCw.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "3b7bebe111ae"
+      "1541a61b609e"
      ],
-     "found": "2026-11-26T16:30:08+03:00"
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "93da2645177d",
@@ -1167,6 +1192,7 @@
      "keys": [
       "528b54ac3891",
       "c91c87879cf8",
+      "3b7bebe111ae",
       "a5f2060e8dfe"
      ],
      "found": "2026-11-23T20:30:00+03:00"
@@ -1322,6 +1348,31 @@
       "370897a3e7cc"
      ],
      "found": "2026-11-23T12:30:21+03:00"
+    },
+    {
+     "key": "61494d8e85fa",
+     "title": "Пульсация жизни: расслабление и звуковая ванна",
+     "date": "2026-11-29",
+     "time": "16:15",
+     "place": "Центр йоги «Сфера», Александровский парк 4/3, ТК Великан Парк",
+     "price": "2000 ₽ по предоплате, 2500 ₽ в день",
+     "link": "https://t.me/tantratime_spb/1845",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "calm",
+      "body"
+     ],
+     "adult": false,
+     "author": "TANTRA🤍TIME | Санкт-Петербург",
+     "author_url": "https://t.me/tantratime_spb",
+     "image": "https://cdn4.telesco.pe/file/n1FIHFU8hPFYBWnBEdc4Vv5QhqIpKPL5UEZsAUgJ_JyPH-oQS26JdPP2TMC8rbo-zcQMFsuhHx45AwiGTKnWOAxA9Jdptvi0cSjcvPoWmu6basi7GANwImlOJbz_UOTdGKYOf7gOQC2mB4dfemV2KoqGyI27dJTsRpZ8nj8RGl5-3ijpVPINhVhMH-1sec0fGNzqxNiaRQ0Z7eC1I58SRyNcXspGT5or6kOnjBA-_pQ745O7UM94GbbxijU3gSNJVFjQ6AqCiGaEFE6939JOM9-OWWy7_lzzi1Nf5Q4AXONvAP1D1xBaUm_oNyPFPnZHL8y5SpeuIDUfGKrXlmQIyQ.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "61494d8e85fa"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "954e891fed24",
@@ -1717,7 +1768,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "ac2d5f4d9310"
+      "ac2d5f4d9310",
+      "757966224877"
      ],
      "found": "2026-11-16T02:48:51+03:00"
     },
@@ -1842,7 +1894,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "425de53a7006"
+      "425de53a7006",
+      "b6af9e42aafd"
      ],
      "found": "2026-11-25T12:30:27+03:00"
     },
@@ -2026,6 +2079,30 @@
       "9dba143c1dd3"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "ca8d0e909654",
+     "title": "Живопись «Живой холст»",
+     "date": "2026-12-01",
+     "time": "18:00",
+     "place": "Второй Двор, Каменноостровский 44Б, подъезд 4",
+     "price": "2500 ₽",
+     "link": "https://2dvor.timepad.ru/event/4325281/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://2dvor.timepad.ru/event/4325281/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Второй Двор",
+     "author_url": "https://2dvor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2b920461-c81c-4cd5-91fb-1f0740b5d028/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "ca8d0e909654"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "7431cddf5db9",
@@ -3441,7 +3518,8 @@
      "keys": [
       "87b941d3c1be",
       "e429523ab160",
-      "fec9153ba1cb"
+      "fec9153ba1cb",
+      "3706b1441bd8"
      ],
      "found": "2026-11-15T19:53:57+03:00"
     },
@@ -3800,6 +3878,30 @@
      "found": "2026-11-25T16:30:12+03:00"
     },
     {
+     "key": "e4d3be599fb2",
+     "title": "Живопись «Живой холст»",
+     "date": "2026-12-08",
+     "time": "18:00",
+     "place": "Второй Двор, Каменноостровский 44Б, подъезд 4",
+     "price": "2500 ₽",
+     "link": "https://2dvor.timepad.ru/event/4325281/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://2dvor.timepad.ru/event/4325281/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Второй Двор",
+     "author_url": "https://2dvor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2b920461-c81c-4cd5-91fb-1f0740b5d028/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "e4d3be599fb2"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
+    },
+    {
      "key": "61cd83b7307c",
      "title": "Лекция «Заблудившийся трамвай»",
      "date": "2026-12-08",
@@ -3924,6 +4026,31 @@
      "found": "2026-11-16T02:48:51+03:00"
     },
     {
+     "key": "4411042bc885",
+     "title": "«Дыхание Индии»: концерт индийской музыки и танца",
+     "date": "2026-12-09",
+     "time": "18:30",
+     "place": "Открытая гостиная",
+     "price": null,
+     "link": "https://t.me/open_living/3243",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Гостиная: открыто",
+     "author_url": "https://t.me/open_living",
+     "image": "https://cdn4.telesco.pe/file/sApVW_8gaUYqHhXCnTG2z4fPnlssjhd8gvwLRrlr_HOszfZpiJDAWxsUMsSIqRF1RBaJ3E0r1_PVTiLUw8urzDaVTC_63fSs31iY6i8RG_lNHkYSK_sJW3TDS-ZI6J0t39m0oh9LfgoPMxO2jZkGaCBp9riazi8hF_3_13m0KYY78_TG3p-i7zNIuWsJnRrJuEMieKbJ0dsfTg1EZH3l3gZ1u_p1c5IW1uaFRqxZWqeSFa_Yz-q3yrfYFDQ2aX2Wf1v9l-YiPhkljE2O1OGArC9wbc8OjCXoijXzTGS8HiQQjPQTNc50duDIKJgcFrsOxzwmYbaYj7LHLJWEP3LUxw.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "4411042bc885"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
+    },
+    {
      "key": "e8d6c5b57f17",
      "title": "Спектакль «Ангел-девочка» по Островскому",
      "date": "2026-12-09",
@@ -3947,6 +4074,30 @@
       "e8d6c5b57f17"
      ],
      "found": "2026-11-24T20:30:11+03:00"
+    },
+    {
+     "key": "702d8090a30f",
+     "title": "Дискуссия «Кто такой Я?»",
+     "date": "2026-12-09",
+     "time": "19:00",
+     "place": "чайный клуб SpecialTea, Караванная 14",
+     "price": "700 ₽",
+     "link": "https://subektnost.timepad.ru/event/4327357/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://subektnost.timepad.ru/event/4327357/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Дискуссионный клуб \"Субъектность\"",
+     "author_url": "https://subektnost.timepad.ru/",
+     "image": "https://ucare.timepad.ru/278cba23-3d70-408b-a96b-be05025bb914/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "702d8090a30f"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "5fc3b62a70bf",
@@ -4142,6 +4293,31 @@
       "1c05d26d4bb6"
      ],
      "found": "2026-11-27T16:30:03+03:00"
+    },
+    {
+     "key": "a3ab0d4e9d6f",
+     "title": "Новогодняя чайная церемония",
+     "date": "2026-12-11",
+     "time": "19:00",
+     "place": "чайная «Процесс», 7-я Советская 18/21",
+     "price": "2150 ₽",
+     "link": "https://rightpeopleunion.timepad.ru/event/4327597/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://rightpeopleunion.timepad.ru/event/4327597/",
+     "cats": [
+      "calm",
+      "circles"
+     ],
+     "adult": false,
+     "author": "rightpeopleunion",
+     "author_url": "https://rightpeopleunion.timepad.ru/",
+     "image": "https://ucare.timepad.ru/22e9f2c1-4c2f-4557-99fd-80b8383f56a9/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a3ab0d4e9d6f"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "de8728f30077",
@@ -4493,13 +4669,13 @@
      "found": "2026-11-16T02:48:51+03:00"
     },
     {
-     "key": "9725b7c284ef",
+     "key": "0c6372514c93",
      "title": "Психологический эксперимент «Твоё отражение»",
      "date": "2026-12-12",
      "time": "19:30",
-     "place": null,
-     "price": null,
-     "link": "https://t.me/play_events/1627",
+     "place": "Play.Sound House",
+     "price": "2500 ₽",
+     "link": "https://t.me/play_events/1630",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
@@ -4508,10 +4684,11 @@
      "adult": false,
      "author": "Play.Event - общение и саморазвитие",
      "author_url": "https://t.me/play_events",
-     "image": "https://cdn4.telesco.pe/file/I1S0uad0ISaqYmxzPXJYU005BalqO2WdiI0WSDVghnhy5b-PPNIr6Uh9l21vNrNbCmw53QjzuEynYBHxbW8NK-OSyWfe9Deiq-op4IUFbZvfwaOeMdYN22c6JbPEMdDaF4i7KjJ7xF0WjmbNo53bJXp5JbZ-zjMJluiYBwoPINW579UERBDyE_3ntnHHZB6vY05ySeRoDwqn1bri4-A-RthkwHZfDNbkV3uc-y1L8X8RiqveCrXHOUkLOb32JyZgf_Yph_FKbNucumFZs5P_kBVuYgD8lrhLdav3oG3cIayjP7LYiVgz_PZVhuq-Ko3rnpoUOuj8GtrJb0tMLrpeAQ.jpg",
+     "image": "https://cdn4.telesco.pe/file/LQq7GEK7gzOBPpByaIeh49jmYfqsTfPfH4n-eTNQyF4oM3jsQA7lJBn0W4TRuoyaWe3aq73PGfoT0cx3oyRED8zYaRWmDvNsXNZqLTYEiEoXMUOSAQIDT7B6hqHf4u2XWYAUzx7OrJi0f90N6zVZXLPfm8U4agjligcncV3mPzFICA_-xkA05ae2o6INyuRyBo2uxiMUFxKGmEgs0PsiCS_P--MjVkd033xTxRvFYO3iCEVGPLPazXPRfFyopPZ9qBGTeI5ifTqle3peIzk0u_MtEAktx-8KqyuJENBR_y-2sOB4u8sTRbcNlpC3_UjfkberqWYwYLPPFxXAjLN25Q.jpg",
      "hot": false,
      "hot_reason": "",
      "keys": [
+      "0c6372514c93",
       "9725b7c284ef"
      ],
      "found": "2026-11-24T20:30:11+03:00"
@@ -4689,6 +4866,30 @@
       "e9c88ae0dd11"
      ],
      "found": "2026-11-19T16:30:00+03:00"
+    },
+    {
+     "key": "dfea496870ec",
+     "title": "Живопись «Живой холст»",
+     "date": "2026-12-15",
+     "time": "18:00",
+     "place": "Второй Двор, Каменноостровский 44Б, подъезд 4",
+     "price": "2500 ₽",
+     "link": "https://2dvor.timepad.ru/event/4325281/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://2dvor.timepad.ru/event/4325281/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Второй Двор",
+     "author_url": "https://2dvor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2b920461-c81c-4cd5-91fb-1f0740b5d028/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "dfea496870ec"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "1a82d1ee0d1d",
@@ -5375,6 +5576,30 @@
      "found": "2026-11-21T20:30:00+03:00"
     },
     {
+     "key": "848d47d8f027",
+     "title": "Живопись «Живой холст»",
+     "date": "2026-12-22",
+     "time": "18:00",
+     "place": "Второй Двор, Каменноостровский 44Б, подъезд 4",
+     "price": "2500 ₽",
+     "link": "https://2dvor.timepad.ru/event/4325281/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://2dvor.timepad.ru/event/4325281/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Второй Двор",
+     "author_url": "https://2dvor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2b920461-c81c-4cd5-91fb-1f0740b5d028/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "848d47d8f027"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
+    },
+    {
      "key": "668306882c1d",
      "title": "Тренинг «Мой 2026 год»",
      "date": "2026-12-22",
@@ -5814,6 +6039,30 @@
      "found": "2026-11-23T12:30:21+03:00"
     },
     {
+     "key": "9c97833d81cf",
+     "title": "Френдинг Play.Hard: разговор об отношениях и близости",
+     "date": "2026-12-26",
+     "time": "17:00",
+     "place": "Play.Sound House",
+     "price": null,
+     "link": "https://t.me/play_events/1630",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Play.Event - общение и саморазвитие",
+     "author_url": "https://t.me/play_events",
+     "image": "https://cdn4.telesco.pe/file/LQq7GEK7gzOBPpByaIeh49jmYfqsTfPfH4n-eTNQyF4oM3jsQA7lJBn0W4TRuoyaWe3aq73PGfoT0cx3oyRED8zYaRWmDvNsXNZqLTYEiEoXMUOSAQIDT7B6hqHf4u2XWYAUzx7OrJi0f90N6zVZXLPfm8U4agjligcncV3mPzFICA_-xkA05ae2o6INyuRyBo2uxiMUFxKGmEgs0PsiCS_P--MjVkd033xTxRvFYO3iCEVGPLPazXPRfFyopPZ9qBGTeI5ifTqle3peIzk0u_MtEAktx-8KqyuJENBR_y-2sOB4u8sTRbcNlpC3_UjfkberqWYwYLPPFxXAjLN25Q.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "9c97833d81cf"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
+    },
+    {
      "key": "b934bd9a671a",
      "title": "Групповая расстановка с личным запросом",
      "date": "2026-12-26",
@@ -6006,6 +6255,30 @@
       "54b52bf36b88"
      ],
      "found": "2026-11-24T12:30:00+03:00"
+    },
+    {
+     "key": "6d88ae870cee",
+     "title": "Живопись «Живой холст»",
+     "date": "2026-12-29",
+     "time": "18:00",
+     "place": "Второй Двор, Каменноостровский 44Б, подъезд 4",
+     "price": "2500 ₽",
+     "link": "https://2dvor.timepad.ru/event/4325281/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://2dvor.timepad.ru/event/4325281/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Второй Двор",
+     "author_url": "https://2dvor.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2b920461-c81c-4cd5-91fb-1f0740b5d028/-/crop/1920x1079/0,0/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "6d88ae870cee"
+     ],
+     "found": "2026-11-28T12:30:01+03:00"
     },
     {
      "key": "ec84ae39fc7d",
@@ -6234,8 +6507,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-28T08:30:00+03:00",
-     "events": 111
+     "last_post": "2026-11-28T12:30:01+03:00",
+     "events": 119
     },
     {
      "title": "SensCafe 18+",
@@ -6269,7 +6542,14 @@
      "title": "Гостиная: открыто",
      "username": "open_living",
      "kind": "folder",
-     "last_post": "2026-11-27T20:02:55+03:00",
+     "last_post": "2026-11-28T10:01:19+03:00",
+     "events": 8
+    },
+    {
+     "title": "TANTRA🤍TIME | Санкт-Петербург",
+     "username": "tantratime_spb",
+     "kind": "extra",
+     "last_post": "2026-11-28T11:59:58+03:00",
      "events": 7
     },
     {
@@ -6280,17 +6560,10 @@
      "events": 7
     },
     {
-     "title": "TANTRA🤍TIME | Санкт-Петербург",
-     "username": "tantratime_spb",
-     "kind": "extra",
-     "last_post": "2026-11-27T16:04:41+03:00",
-     "events": 6
-    },
-    {
      "title": "LIFE IS ECSTATIC by Vankavanka (Ecstatic dance в Санкт-Петербурге)",
      "username": "lifeisecstatic",
      "kind": "extra",
-     "last_post": "2026-11-27T14:55:27+03:00",
+     "last_post": "2026-11-28T10:08:45+03:00",
      "events": 5
     },
     {
@@ -6308,25 +6581,18 @@
      "events": 4
     },
     {
+     "title": "Play.Event - общение и саморазвитие",
+     "username": "play_events",
+     "kind": "folder",
+     "last_post": "2026-11-28T10:04:00+03:00",
+     "events": 4
+    },
+    {
      "title": "Путь театра | Андрей Черепанов",
      "username": "rabbitholelab",
      "kind": "folder",
      "last_post": "2026-11-26T21:59:29+03:00",
      "events": 4
-    },
-    {
-     "title": "Play.Event - общение и саморазвитие",
-     "username": "play_events",
-     "kind": "folder",
-     "last_post": "2026-11-24T17:04:02+03:00",
-     "events": 3
-    },
-    {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-26T16:04:27+03:00",
-     "events": 3
     },
     {
      "title": "Improv Life",
@@ -6347,6 +6613,13 @@
      "username": "kl_les",
      "kind": "folder",
      "last_post": "2026-11-27T19:04:01+03:00",
+     "events": 2
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-26T16:04:27+03:00",
      "events": 2
     },
     {
@@ -6376,6 +6649,13 @@
      "kind": "extra",
      "last_post": "2026-11-27T14:52:52+03:00",
      "events": 2
+    },
+    {
+     "title": "aleksun_days (Тропа)",
+     "username": "aleksun_days",
+     "kind": "folder",
+     "last_post": "2026-11-28T12:00:17+03:00",
+     "events": 1
     },
     {
      "title": "Feel it | Почувствуй",
@@ -6423,7 +6703,7 @@
      "title": "Медитация в Санкт-Петербурге [ meditate.spb ]",
      "username": "meditatespb",
      "kind": "extra",
-     "last_post": "2026-11-25T20:36:19+03:00",
+     "last_post": "2026-11-28T12:05:10+03:00",
      "events": 1
     },
     {
@@ -6444,7 +6724,7 @@
      "title": "Стендап и импро школа Меерсона",
      "username": "meerschool",
      "kind": "extra",
-     "last_post": "2026-11-26T22:47:58+03:00",
+     "last_post": "2026-11-28T10:07:01+03:00",
      "events": 1
     },
     {
@@ -6455,17 +6735,10 @@
      "events": 1
     },
     {
-     "title": "aleksun_days (Тропа)",
-     "username": "aleksun_days",
-     "kind": "folder",
-     "last_post": "2026-11-21T11:57:44+03:00",
-     "events": 0
-    },
-    {
      "title": "bastión",
      "username": "bastion_f22",
      "kind": "folder",
-     "last_post": "2026-11-21T00:43:35+03:00",
+     "last_post": "2026-11-28T11:40:09+03:00",
      "events": 0
     },
     {
@@ -6584,7 +6857,7 @@
      "title": "Церковь Большого Города («Слово Жизни») СПб",
      "username": "wolspb",
      "kind": "folder",
-     "last_post": "2026-11-27T15:34:58+03:00",
+     "last_post": "2026-11-28T12:02:49+03:00",
      "events": 0
     },
     {
