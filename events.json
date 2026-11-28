@@ -81,16 +81,17 @@
     },
     {
      "key": "40911b172e83",
-     "title": "Ананда Мандала",
+     "title": "Дыхательная практика «Ананда Мандала»",
      "date": "2026-11-28",
      "time": "11:00",
-     "place": "Спасский переулок, 14/35, Санкт-Петербург",
+     "place": "Спасский переулок, 14/35",
      "price": "300 ₽",
      "link": "https://t.me/tantratime_spb/1842",
      "source": "Пост в канале",
      "signup_url": null,
      "cats": [
       "calm",
+      "body",
       "circles"
      ],
      "adult": false,
@@ -98,7 +99,7 @@
      "author_url": "https://t.me/tantratime_spb",
      "image": "https://cdn4.telesco.pe/file/sXJR5rOpIyxzoONz7w5tPsVHCmyfx_FqiQnH1CN5AQNAjRH8lHmfSdf9sHZnBeFDaVgFdfHYnH55XoD6uUSj5D4XjdGSExeLzVfMmIl9ox2B3HstZLUWJHsZZ86_5k6mgqrUg5kHcVv2ij7rTvZij6BASgwqa2zdBt5Lm5WAB36Duzmo3TmaZCpPzWwZCoLqm6fGAeqg5iRwwoL0k3nUKws50RJwsvBFmHgqnld8hxy1QXSAgFcwjCUFpIKPrnFboRoDYEPnsvT-rb6cPsD1-IIcjJIHJWlzUeptVbXFoa1aP0-ikTKciihxmCKEoL4HR6Hhx6QIE03gWEgpOFf4wA.jpg",
      "hot": true,
-     "hot_reason": "всего 8 мест",
+     "hot_reason": "Всего восемь мест, практика впервые",
      "keys": [
       "40911b172e83"
      ],
@@ -154,10 +155,10 @@
     },
     {
      "key": "5ac8c0d87bd5",
-     "title": "Клоунада и жонглирование с Олегом Духовниковым",
+     "title": "Клоунада и жонглирование",
      "date": "2026-11-28",
      "time": "12:00",
-     "place": "Большая Посадская, 24/2",
+     "place": null,
      "price": null,
      "link": "https://t.me/tochkabest/5432",
      "source": "Пост в канале",
@@ -258,7 +259,7 @@
      "title": "Мастер-класс по энерговолне",
      "date": "2026-11-28",
      "time": "12:00",
-     "place": "Центр Санкт-Петербурга, м. Петроградская",
+     "place": "Центр Петербурга, метро «Петроградская»",
      "price": null,
      "link": "https://t.me/tantratime_spb/1836",
      "source": "Пост в канале",
@@ -272,7 +273,7 @@
      "author_url": "https://t.me/tantratime_spb",
      "image": "https://cdn4.telesco.pe/file/pNpoBTw2mLxkHScCpCHpF73xj7Hhko9h8fsbTT3dPpyglOpobKCByFVrw8WH7pFYLVFAgB3SF7XjxVpXyzz9tZfIiR4BfiSkXB3ZJjb5Rftxs7nGh21YokB-Y2DncO2bdwxwQhD0_l9B-M9SY5HKbIoxpuAMAvCZwzMH3Gw9zocITAbQBN2Oz_7ihkXcguMQVrXt5rsAlyRpQOI23Uj6-K1mDtQLVGKA5YGi0d_-oMjdm-YPCeS3AFnz7Yn2emKqSsqKZ2ZplrWf-6_l_GN6WO-3vJeNKCejSV8cEXDe1mcHVUAoyvB_JDcUetLN1XuC1LUPBu626oUaHyaSX5Lu6A",
      "hot": true,
-     "hot_reason": "всего шесть мест",
+     "hot_reason": "Всего шесть мест на мастер-класс",
      "keys": [
       "2978d4a2e40a"
      ],
@@ -620,12 +621,38 @@
      "found": "2026-11-22T16:30:16+03:00"
     },
     {
+     "key": "4f1b1c619f3a",
+     "title": "Актёрский мастер-класс по балийской методике",
+     "date": "2026-11-28",
+     "time": "17:00",
+     "place": "Кирочная улица, 1",
+     "price": "Бесплатно",
+     "link": "https://teatralnaya-studiya-c4.timepad.ru/event/4320205/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://teatralnaya-studiya-c4.timepad.ru/event/4320205/",
+     "cats": [
+      "theatre",
+      "body"
+     ],
+     "adult": false,
+     "author": "Театральная студия \"Театр для жизни\"",
+     "author_url": "https://teatralnaya-studiya-c4.timepad.ru/",
+     "image": "https://ucare.timepad.ru/38abc90e-272d-40f7-b4bf-133355ee98ab/-/crop/1451x816/199,0/-/resize/1920x1080/",
+     "hot": true,
+     "hot_reason": "разовый открытый мастер-класс",
+     "keys": [
+      "4f1b1c619f3a",
+      "60a7d71c2280"
+     ],
+     "found": "2026-11-23T12:30:21+03:00"
+    },
+    {
      "key": "1c77579a8bd1",
      "title": "Импров-джем",
      "date": "2026-11-28",
      "time": "17:00",
      "place": "Малый проспект, 89, 2 этаж, эМпров театр",
-     "price": "350 ₽ по брони; 550 ₽ без брони",
+     "price": "350 ₽ по брони, 550 ₽ без брони; зрителям бесплатно",
      "link": "https://t.me/mprovtheatre/1617",
      "source": "Пост в канале",
      "signup_url": null,
@@ -667,32 +694,6 @@
       "4b0905e594ae"
      ],
      "found": "2026-11-15T20:30:01+03:00"
-    },
-    {
-     "key": "4f1b1c619f3a",
-     "title": "Мастер-класс по балийской методике",
-     "date": "2026-11-28",
-     "time": "17:00",
-     "place": "Кирочная улица, 1, Санкт-Петербург",
-     "price": "бесплатно",
-     "link": "https://teatralnaya-studiya-c4.timepad.ru/event/4320205/",
-     "source": "Страница на Таймпаде",
-     "signup_url": "https://teatralnaya-studiya-c4.timepad.ru/event/4320205/",
-     "cats": [
-      "theatre",
-      "body"
-     ],
-     "adult": false,
-     "author": "Театральная студия \"Театр для жизни\"",
-     "author_url": "https://teatralnaya-studiya-c4.timepad.ru/",
-     "image": "https://ucare.timepad.ru/38abc90e-272d-40f7-b4bf-133355ee98ab/-/crop/1451x816/199,0/-/resize/1920x1080/",
-     "hot": true,
-     "hot_reason": "разовый открытый мастер-класс",
-     "keys": [
-      "4f1b1c619f3a",
-      "60a7d71c2280"
-     ],
-     "found": "2026-11-23T12:30:21+03:00"
     },
     {
      "key": "918190631b65",
@@ -848,7 +849,7 @@
      "title": "Биг эмпров шоу",
      "date": "2026-11-28",
      "time": "20:00",
-     "place": "Малый пр. П.С., 89, 2-й этаж",
+     "place": "Малый проспект П.С., 89, 2 этаж",
      "price": "500 ₽",
      "link": "https://t.me/mprovtheatre/1615",
      "source": "Пост в канале",
@@ -919,11 +920,11 @@
     },
     {
      "key": "e96de280e77d",
-     "title": "Лёд и шёлк: ночь контрастных ощущений",
+     "title": "«Лёд и шёлк» — ночь ощущений",
      "date": "2026-11-28",
      "time": "23:00",
-     "place": "SensCafe",
-     "price": "соло 3000 ₽, пара 5000 ₽, трио 6000 ₽",
+     "place": null,
+     "price": "3000 ₽ соло, 5000 ₽ пара, 6000 ₽ трио",
      "link": "https://t.me/sensualcafe/8825",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1148,9 +1149,9 @@
      "key": "528b54ac3891",
      "title": "Практикум по юмору и импровизации",
      "date": "2026-11-29",
-     "time": "14:00",
-     "place": "Тамбовская ул., 63, ДК «Железнодорожников»",
-     "price": "800–1500 ₽",
+     "time": "12:00",
+     "place": "Тамбовская улица, 63, ДК «Железнодорожников»",
+     "price": "800 ₽ для учеников школы, 1500 ₽ для остальных",
      "link": "https://t.me/improschoolspb/7713",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1270,6 +1271,34 @@
      "found": "2026-11-26T20:30:01+03:00"
     },
     {
+     "key": "64a57cb4d076",
+     "title": "Киноклуб: «Выживут только любовники»",
+     "date": "2026-11-29",
+     "time": "16:00",
+     "place": null,
+     "price": "1500 ₽",
+     "link": "https://t.me/cuddlepiter/5471",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "watch",
+      "circles",
+      "body"
+     ],
+     "adult": false,
+     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
+     "author_url": "https://t.me/cuddlepiter",
+     "image": "https://cdn4.telesco.pe/file/jOtDRDW2q2QtGP7X1nHkIq6N5gJWoZWJR7aUX1TVrdNcwaVdNoibNvcf2nvWT5l0kAidEg62EwEs6zPq8jtiziuR_8yz1UntdyiTVs-AsMgJB6wVQ1M8T6p5FW36LxAVsCIbI23lAnZMJhI9Bwr63F2VVwdYqzv4CljTqkNYXw36H7Qjd_SJxIp_JqIEHg30VjskZgDxaA6SJn44Id3QPs4zWFSjI_VcyFUTDPttiYQqUnC_EfMjrpiGAPFVHD_bT-Ue2KOUyJACD4bMEPtk8pukbL2wbgi18n-Pbscn9XsIkJHhGSnn_0uhjbcamyYS6hELdB1INp9U-I0wBxRRWA",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "64a57cb4d076",
+      "5c40924236a3",
+      "b87e933bd874"
+     ],
+     "found": "2026-11-15T20:30:01+03:00"
+    },
+    {
      "key": "370897a3e7cc",
      "title": "Порядки Любви",
      "date": "2026-11-29",
@@ -1295,34 +1324,12 @@
      "found": "2026-11-23T12:30:21+03:00"
     },
     {
-     "key": "2ac56cf9d97c",
+     "key": "954e891fed24",
      "title": "Открытый урок по юмору и импровизации",
      "date": "2026-11-29",
      "time": "16:30",
      "place": null,
      "price": "Бесплатно",
-     "link": "https://t.me/improschoolspb/7723",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [],
-     "adult": false,
-     "author": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "author_url": "https://t.me/improschoolspb",
-     "image": null,
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "2ac56cf9d97c"
-     ],
-     "found": null
-    },
-    {
-     "key": "954e891fed24",
-     "title": "Открытый урок стендапа и импровизации",
-     "date": "2026-11-29",
-     "time": "16:30",
-     "place": null,
-     "price": "бесплатно",
      "link": "https://t.me/improschoolspb/7713",
      "source": "Пост в канале",
      "signup_url": null,
@@ -1334,10 +1341,11 @@
      "author_url": "https://t.me/improschoolspb",
      "image": "https://cdn4.telesco.pe/file/FW7gNhx6onJ_PCRxyd02M4S7CsuVoEWDE5iwg2wreOHjeg_GRCfEuhlhOqAxBDJjOQrxTBr2RgROTxHnDWFhP4FGwA_Flu28Iqve5Q_Bf_oUBA2nu819pdYirwsJCKO7FMDOSNVFjH69uy3UpCiDft0jOWpPUowwmLqFcKfKgy_vJlQ0ZdXr7MWbgXClQmX8m1ajlhs5CX7hWJBmJKShUbAQJ8xLAirAVHC3zavCEc27hQh7D-q4FkY61IpB8iQggIzPCM_kDmESmjHefzQ0XTGH_A3X475Rh6MfHoqEoAQeehYPf2CNP9p10ThnL75aQFJDxYhsx16EnzhwmlJDHQ.jpg",
      "hot": true,
-     "hot_reason": "последний бесплатный урок ноября",
+     "hot_reason": "Последний бесплатный урок в ноябре",
      "keys": [
       "954e891fed24",
-      "d59921a3b310"
+      "d59921a3b310",
+      "2ac56cf9d97c"
      ],
      "found": "2026-11-23T20:30:00+03:00"
     },
@@ -1372,7 +1380,7 @@
      "date": "2026-11-29",
      "time": "17:00",
      "place": "МУТОКУКАЙ, наб. Обводного канала, 134–136–138Б",
-     "price": "от 1700 ₽",
+     "price": "От 1700 ₽",
      "link": "https://t.me/lifeisecstatic/5662",
      "source": "Пост в канале",
      "signup_url": "https://cbiletom.ru/event.php?event=15741&utm_source=tg",
@@ -1386,7 +1394,7 @@
      "author_url": "https://t.me/lifeisecstatic",
      "image": "https://cdn4.telesco.pe/file/CeUpAqasFfUEmVoHHJToe5lmd6vFdjWIuEZWEedWmkT2RXQCIJH4xVmS-eHVYkPhWGabipIkB3GYOaM0vuAOZFyqMBKk2yMEkuRVB-oMYLH-WM02StqzHneWf8rXC1gHiJnQOiGt17m-XfD7Id1bpo7xppaHD-4knGPbfKsdz4senlnN6GxqFhqV6-puqUFiZEr0bvCRa8M5LGllCQHilnmDiZofU9mXuYv_SYg17iRdzIPQaQeHZd2A6FMllwn43nLSkaEAiU0MhaayAj1UrCZH_hhRShL9Z2qkqGxH3ckqARBUQx36XzvBl3TheeOPfCYOwnaME4nPDagv1r353Q.jpg",
      "hot": true,
-     "hot_reason": "разовый тематический танцевальный вечер",
+     "hot_reason": "Разовый танцевальный вечер с двумя DJ",
      "keys": [
       "f7b005785a4a",
       "21b13facbfe1",
@@ -1409,18 +1417,18 @@
     },
     {
      "key": "e611026c6631",
-     "title": "Переход",
+     "title": "Плейбэк-перформанс «Переход»",
      "date": "2026-11-29",
      "time": "17:00",
-     "place": "Дом народного творчества, Прилукская ул., 37А",
+     "place": "Дом народного творчества, Прилукская улица, 37А",
      "price": "1800–3000 ₽",
      "link": "https://pleybek-teatr-gradient.timepad.ru/event/4293833/",
      "source": "Страница на Таймпаде",
      "signup_url": "https://pleybek-teatr-gradient.timepad.ru/event/4293833/",
      "cats": [
       "theatre",
-      "watch",
-      "circles"
+      "circles",
+      "watch"
      ],
      "adult": false,
      "author": "Плейбэк-театр «Градиент»",
@@ -1686,34 +1694,6 @@
       "ea475a9d9eff"
      ],
      "found": "2026-11-23T08:30:26+03:00"
-    },
-    {
-     "key": "64a57cb4d076",
-     "title": "Киноклуб: «Выживут только любовники»",
-     "date": "2026-11-29",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/cuddlepiter/5471",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "watch",
-      "circles",
-      "body"
-     ],
-     "adult": false,
-     "author": "Obni(me) СПБ | Обнимательные встречи| Cuddle piter",
-     "author_url": "https://t.me/cuddlepiter",
-     "image": "https://cdn4.telesco.pe/file/jOtDRDW2q2QtGP7X1nHkIq6N5gJWoZWJR7aUX1TVrdNcwaVdNoibNvcf2nvWT5l0kAidEg62EwEs6zPq8jtiziuR_8yz1UntdyiTVs-AsMgJB6wVQ1M8T6p5FW36LxAVsCIbI23lAnZMJhI9Bwr63F2VVwdYqzv4CljTqkNYXw36H7Qjd_SJxIp_JqIEHg30VjskZgDxaA6SJn44Id3QPs4zWFSjI_VcyFUTDPttiYQqUnC_EfMjrpiGAPFVHD_bT-Ue2KOUyJACD4bMEPtk8pukbL2wbgi18n-Pbscn9XsIkJHhGSnn_0uhjbcamyYS6hELdB1INp9U-I0wBxRRWA",
-     "hot": false,
-     "hot_reason": "",
-     "keys": [
-      "64a57cb4d076",
-      "5c40924236a3",
-      "b87e933bd874"
-     ],
-     "found": "2026-11-15T20:30:01+03:00"
     },
     {
      "key": "ac2d5f4d9310",
@@ -6335,17 +6315,17 @@
      "events": 4
     },
     {
-     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
-     "username": "improschoolspb",
-     "kind": "extra",
-     "last_post": "2026-11-26T16:04:27+03:00",
-     "events": 4
-    },
-    {
      "title": "Play.Event - общение и саморазвитие",
      "username": "play_events",
      "kind": "folder",
      "last_post": "2026-11-24T17:04:02+03:00",
+     "events": 3
+    },
+    {
+     "title": "СРАЗУ | ШКОЛА ИМПРОВИЗАЦИИ И СТЕНДАПА | СПБ",
+     "username": "improschoolspb",
+     "kind": "extra",
+     "last_post": "2026-11-26T16:04:27+03:00",
      "events": 3
     },
     {
