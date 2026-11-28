@@ -7359,30 +7359,6 @@
      "found": "2026-11-25T12:45:00+03:00"
     },
     {
-     "key": "5b806f8f49f8",
-     "title": "SENSE: тактильная практика в темноте",
-     "date": "2026-11-28",
-     "time": "17:00",
-     "place": "Palmira Business Club, Новоданиловская набережная, 6, к 2",
-     "price": "Ж 4999 ₽, М 9999 ₽, пара 15000 ₽",
-     "link": "https://t.me/sram_sram18/3023",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": true,
-     "author": "Срамота 18+",
-     "author_url": "https://t.me/sram_sram18",
-     "image": "https://cdn4.telesco.pe/file/VIA_6cJqxrb3pAeqRMYROKPEF_1F3iHOCd5C4ijTBES9l56uG4TSaNCBfRByH6y8KOYGafruaCKHf8_EGWL61su-jE0HkV9YskD5SkzjWcJzhTqA0I8dlkFZn9WhaH7dvGHwAmG5mWweehzIdsx4TMTSoH9ekXSZbaCU8aGnPvJqoTCeNrAyd755tl90QVsg1afyHE5y647qfEd65SdvRbbXpgykPq23NIaUjTBhU8YHuH4R-_jndHl7UiFkqUUombLqkznKUWsLHtf4zsbtyu08Lp00xiQHt8O8jYGcO3MFLhkbBZfm-1gsk4VvPKaS80Efa0Y4V06on0yIFW3ZfQ.jpg",
-     "hot": true,
-     "hot_reason": "всего 18 мест, нечастый формат",
-     "keys": [
-      "5b806f8f49f8"
-     ],
-     "found": "2026-11-26T12:45:00+03:00"
-    },
-    {
      "key": "ec28d2b8da6a",
      "title": "SENSE: тантра в темноте",
      "date": "2026-11-28",
@@ -7403,7 +7379,8 @@
      "hot_reason": "разовый формат, до 18 гостей",
      "keys": [
       "ec28d2b8da6a",
-      "7d6b29b41f8b"
+      "7d6b29b41f8b",
+      "5b806f8f49f8"
      ],
      "found": "2026-11-15T23:28:44+03:00"
     },
@@ -7431,6 +7408,30 @@
       "5bafa081233d"
      ],
      "found": "2026-11-15T23:28:44+03:00"
+    },
+    {
+     "key": "38e8e4ff8068",
+     "title": "Группа эмоциональной поддержки «Другие»",
+     "date": "2026-11-28",
+     "time": "18:00",
+     "place": "Москва, Винокурова 2",
+     "price": "бесплатно",
+     "link": "https://gruppa-podderzhki-drugie.timepad.ru/event/3922916/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://gruppa-podderzhki-drugie.timepad.ru/event/3922916/",
+     "cats": [
+      "circles"
+     ],
+     "adult": false,
+     "author": "Группа поддержки ДРУГИЕ",
+     "author_url": "https://gruppa-podderzhki-drugie.timepad.ru/",
+     "image": "https://ucare.timepad.ru/dbdc84bf-1c9a-4ebe-89ae-6bcf556d19cb/-/crop/2560x1440/0,240/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "38e8e4ff8068"
+     ],
+     "found": "2026-11-28T16:45:01+03:00"
     },
     {
      "key": "fa8c703f2d92",
@@ -7677,7 +7678,8 @@
      "hot_reason": "",
      "keys": [
       "56cbb40e6608",
-      "0578ca28783c"
+      "0578ca28783c",
+      "b3e516389968"
      ],
      "found": "2026-11-23T08:45:04+03:00"
     },
@@ -8851,6 +8853,30 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "50f8d5d977d3",
+     "title": "Мастер-класс по уфтюжской росписи",
+     "date": "2026-12-02",
+     "time": "19:30",
+     "place": "Москва, Покровский бульвар, 16-18, стр. 4-4А",
+     "price": "1500 ₽",
+     "link": "https://conservation.timepad.ru/event/4328348/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://conservation.timepad.ru/event/4328348/",
+     "cats": [
+      "craft"
+     ],
+     "adult": false,
+     "author": "Проект \"Консервация\"",
+     "author_url": "https://conservation.timepad.ru/",
+     "image": "https://ucare.timepad.ru/8ffda8d8-c27c-425a-8b73-0ce0c1185c2a/-/crop/1920x1081/0,386/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "50f8d5d977d3"
+     ],
+     "found": "2026-11-28T16:45:01+03:00"
+    },
+    {
      "key": "c7ff8126b76e",
      "title": "Открытые чайные церемонии T.FRAME",
      "date": "2026-12-02",
@@ -9196,6 +9222,31 @@
       "b762b3c9f161"
      ],
      "found": "2026-11-21T12:45:21+03:00"
+    },
+    {
+     "key": "be23f6a3b500",
+     "title": "«Виват, Оперетта!» концерт",
+     "date": "2026-12-04",
+     "time": "19:00",
+     "place": "Москва, Сибирский проезд, 2, стр. 5",
+     "price": "бесплатно",
+     "link": "https://muzykalnyy-teatr-op-event.timepad.ru/event/4330921/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://muzykalnyy-teatr-op-event.timepad.ru/event/4330921/",
+     "cats": [
+      "watch",
+      "music"
+     ],
+     "adult": false,
+     "author": "Музыкальный театр \"Оперетта на Таганке\"",
+     "author_url": "https://muzykalnyy-teatr-op-event.timepad.ru/",
+     "image": "https://ucare.timepad.ru/2ca859b7-c511-4506-9ece-8ff291b2937d/-/crop/2158x1214/66,82/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "be23f6a3b500"
+     ],
+     "found": "2026-11-28T16:45:01+03:00"
     },
     {
      "key": "d95f10d093e4",
@@ -12199,6 +12250,31 @@
      "found": "2026-11-22T16:45:16+03:00"
     },
     {
+     "key": "a59ddb54bb8b",
+     "title": "Киноклуб «Лучше прежнего»: «Дьявол носит Prada»",
+     "date": "2026-12-18",
+     "time": "19:00",
+     "place": "Москва, Романов пер., 2, стр. 1",
+     "price": "6500 ₽",
+     "link": "https://luchshe-prezhnego.timepad.ru/event/4328322/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://luchshe-prezhnego.timepad.ru/event/4328322/",
+     "cats": [
+      "circles",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Лучше прежнего",
+     "author_url": "https://luchshe-prezhnego.timepad.ru/",
+     "image": "https://ucare.timepad.ru/33dcf4d4-8ed1-45dc-8fed-04901e16026b/-/crop/1296x729/0,2/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "a59ddb54bb8b"
+     ],
+     "found": "2026-11-28T16:45:01+03:00"
+    },
+    {
      "key": "ce645b903eec",
      "title": "Книжный бранч в гончарной мастерской",
      "date": "2026-12-18",
@@ -12637,6 +12713,32 @@
       "f8914a2dfc0c"
      ],
      "found": "2026-11-17T20:45:01+03:00"
+    },
+    {
+     "key": "87f753bf69c0",
+     "title": "Пятый фестиваль чувственного просвещения Bizarre",
+     "date": "2026-12-19",
+     "time": null,
+     "place": "клуб Bizarre, Москва",
+     "price": "бесплатно",
+     "link": "https://t.me/uyutnoeprostranstvoo/764",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "body",
+      "watch",
+      "circles"
+     ],
+     "adult": true,
+     "author": "Уютное пространство",
+     "author_url": "https://t.me/uyutnoeprostranstvoo",
+     "image": "https://cdn4.telesco.pe/file/Uiq1Bee60bPG1K0mNxjuVK1_ubmegdPsdJumTH-F0-VVH6YFqUudwbzUNFHDQqiIpoVgPrFls3M2GNUv9SOZQkAqWU08RE_VJbweNp_EUqPhSWTR-LvFG8lA75hIWOLo4k57rbMxhemxR5ghiEAZShNPb6yc0N-NXnYsp7OoEGc5vozKu-lgrbhjx2jlCjupRi5bB2j9lwwdkuuC8YhMYg6nncKC-nRl1FWVuSK2Fl9yXKndBBhUxBmI5c7j3JB0MAXgCCHJdq-_x5BfjHEKjf-_tJ9i-JBL3LfDKvUoUMJ29WwER2YENWs-gvX7hJNur7fOZW94_zkNnZ4JC0wrdQ.jpg",
+     "hot": true,
+     "hot_reason": "фестиваль раз в год",
+     "keys": [
+      "87f753bf69c0"
+     ],
+     "found": "2026-11-28T16:45:01+03:00"
     },
     {
      "key": "46b478f53732",
@@ -13972,14 +14074,14 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-28T12:45:03+03:00",
-     "events": 212
+     "last_post": "2026-11-28T16:45:01+03:00",
+     "events": 216
     },
     {
      "title": "Контактная Импровизация в Москве",
      "username": "cimsk",
      "kind": "folder",
-     "last_post": "2026-11-27T22:57:32+03:00",
+     "last_post": "2026-11-28T14:53:25+03:00",
      "events": 23
     },
     {
@@ -13987,7 +14089,7 @@
      "username": "sram_sram18",
      "kind": "folder",
      "last_post": "2026-11-27T16:36:10+03:00",
-     "events": 8
+     "events": 7
     },
     {
      "title": "FoShoo — любительский театр",
@@ -14028,8 +14130,8 @@
      "title": "Уютное пространство",
      "username": "uyutnoeprostranstvoo",
      "kind": "extra",
-     "last_post": "2026-11-27T17:50:51+03:00",
-     "events": 3
+     "last_post": "2026-11-28T15:02:59+03:00",
+     "events": 4
     },
     {
      "title": "Postдрама — театр-школа",
@@ -14070,7 +14172,7 @@
      "title": "ПБ•Клуб — Знакомства в Москве.",
      "username": "pb_dating",
      "kind": "folder",
-     "last_post": "2026-11-27T14:55:23+03:00",
+     "last_post": "2026-11-28T16:00:29+03:00",
      "events": 1
     },
     {
