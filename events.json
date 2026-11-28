@@ -7308,7 +7308,8 @@
       "54f0357fa796",
       "824edaacda67",
       "a2dafa00f820",
-      "3cd33a659197"
+      "3cd33a659197",
+      "0e745f59d02f"
      ],
      "found": "2026-11-15T23:19:36+03:00"
     },
@@ -7536,7 +7537,8 @@
      "hot": false,
      "hot_reason": "",
      "keys": [
-      "83b4f03de1cf"
+      "83b4f03de1cf",
+      "8237c0005310"
      ],
      "found": "2026-11-25T16:45:00+03:00"
     },
@@ -7588,30 +7590,6 @@
       "9c455f1694e7"
      ],
      "found": "2026-11-20T16:45:15+03:00"
-    },
-    {
-     "key": "0e745f59d02f",
-     "title": "Последний каддл осени",
-     "date": "2026-11-28",
-     "time": null,
-     "place": null,
-     "price": null,
-     "link": "https://t.me/sensecuddle/1744",
-     "source": "Пост в канале",
-     "signup_url": null,
-     "cats": [
-      "body"
-     ],
-     "adult": false,
-     "author": "Sense Cuddle Канал",
-     "author_url": "https://t.me/sensecuddle",
-     "image": "https://cdn4.telesco.pe/file/XQtnKbKH5Ny8PuTKjLOJ0EVwOPAPeB3bBdtc9Z5BjreT3lBB-8_FAriwyasmj0EG_gnDRTYcVrrHTg__i5LHUtYZJl6iz9wy3Df_aI0zPAVHMQyA5ue3XAiqP8iZjihUdapaN86Jlq6h58suSgrv1YB-yUsx-JY3L0i5FIECotWaUgZWhf3DIAsSshrCXnPgS8doxf9pQyfoWMHXtCslaUvaPdTHtK58uqkn-sGNNfhaX-KmYpcSHZmyM-9U7k-F26P3ilZpgmAjeppuugpySCojPUYr95rZOkHRapp1JsaHR3tmwQ65bN6Rjgpzl14qkqnRHACbYFO9DgHiw7GToQ.jpg",
-     "hot": true,
-     "hot_reason": "последний каддл осени",
-     "keys": [
-      "0e745f59d02f"
-     ],
-     "found": "2026-11-27T16:45:00+03:00"
     },
     {
      "key": "c416fbe19975",
@@ -10078,6 +10056,32 @@
      "found": "2026-11-15T23:28:44+03:00"
     },
     {
+     "key": "3b88d9407d9b",
+     "title": "Предновогодний поэтический вечер в Норе",
+     "date": "2026-12-08",
+     "time": "19:00",
+     "place": "Пространство Нора",
+     "price": null,
+     "link": "https://t.me/LoftNora/1595",
+     "source": "Пост в канале",
+     "signup_url": null,
+     "cats": [
+      "circles",
+      "music",
+      "theatre"
+     ],
+     "adult": false,
+     "author": "Пространство Нора",
+     "author_url": "https://t.me/LoftNora",
+     "image": "https://cdn4.telesco.pe/file/JZsZ77a2XLGJ3VgajqMis4FfFmk4kAUyj6KRHNOIOfMAJpK09V2TrfexCjXUTvCRKYcYWG4uWyZ1Wa91AxZWt0PNk6f-sd6x10F3daNGlfCzQGBrvNq-jzYlUCAH-YfD3YL2BZ7EXcsEjHxImnnj_kll_1KVktiFcoqyP69L8kB5XEY-r_na9rWrtwBOwhzFaKmnqubd1qkHiGL6_gx2hYu_AAFf9p_zpmJnZUJZE8huga4jcY1YzPAdJLyYtc2brOlv7HnO-hvCkPkc7KNY3Dzr3ysFlakH-Pvxm6NzJcv0y7tX9jOVB52YO7Y0dV2DUaDYqPlXTKIjSTHxJ6UmEg.jpg",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "3b88d9407d9b"
+     ],
+     "found": "2026-11-28T12:45:03+03:00"
+    },
+    {
      "key": "e9fe76aa29fb",
      "title": "Спектакль «Московские каникулы»",
      "date": "2026-12-08",
@@ -10396,6 +10400,30 @@
       "9c77163d1ccf"
      ],
      "found": "2026-11-27T12:45:00+03:00"
+    },
+    {
+     "key": "8a8e650a37d5",
+     "title": "Лекция «Новый год в моде и искусстве»",
+     "date": "2026-12-11",
+     "time": "12:00",
+     "place": "Москва, Вернадского проспект 25",
+     "price": "бесплатно",
+     "link": "https://barcelonadesign.timepad.ru/event/4327585/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://barcelonadesign.timepad.ru/event/4327585/",
+     "cats": [
+      "watch"
+     ],
+     "adult": false,
+     "author": "Barcelona Design",
+     "author_url": "https://barcelonadesign.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d299c875-69e8-4a28-a2e5-af8e6143a1f8/-/crop/1920x1079/0,46/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "8a8e650a37d5"
+     ],
+     "found": "2026-11-28T12:45:03+03:00"
     },
     {
      "key": "bdd5c75d6e94",
@@ -13350,6 +13378,31 @@
      "found": "2026-11-25T20:45:14+03:00"
     },
     {
+     "key": "fa765944a05a",
+     "title": "Новогоднее русское чаепитие в Нитке",
+     "date": "2026-12-28",
+     "time": "19:00",
+     "place": "Нитка, БЦ Гоголевский, Гоголевский бульвар, 11",
+     "price": "5000 ₽",
+     "link": "https://nitkatea.timepad.ru/event/4327780/",
+     "source": "Страница на Таймпаде",
+     "signup_url": "https://nitkatea.timepad.ru/event/4327780/",
+     "cats": [
+      "calm",
+      "watch"
+     ],
+     "adult": false,
+     "author": "Нитка",
+     "author_url": "https://nitkatea.timepad.ru/",
+     "image": "https://ucare.timepad.ru/d83d35c6-8fe4-43e0-a6d1-d3ad15a40fd6/-/crop/1800x1013/0,55/-/resize/1920x1080/",
+     "hot": false,
+     "hot_reason": "",
+     "keys": [
+      "fa765944a05a"
+     ],
+     "found": "2026-11-28T12:45:03+03:00"
+    },
+    {
      "key": "978bf7edc26c",
      "title": "Новогодний джем ансамбля «Голоса Возрождения»",
      "date": "2026-12-28",
@@ -13651,8 +13704,8 @@
      "title": "Таймпад",
      "username": null,
      "kind": "timepad",
-     "last_post": "2026-11-28T08:45:16+03:00",
-     "events": 210
+     "last_post": "2026-11-28T12:45:03+03:00",
+     "events": 212
     },
     {
      "title": "Контактная Импровизация в Москве",
@@ -13676,13 +13729,6 @@
      "events": 6
     },
     {
-     "title": "Sense Cuddle Канал",
-     "username": "sensecuddle",
-     "kind": "folder",
-     "last_post": "2026-11-27T15:15:42+03:00",
-     "events": 5
-    },
-    {
      "title": "LeMoor Cloob инфо",
      "username": "lemoorcloob",
      "kind": "folder",
@@ -13697,11 +13743,18 @@
      "events": 4
     },
     {
+     "title": "Sense Cuddle Канал",
+     "username": "sensecuddle",
+     "kind": "folder",
+     "last_post": "2026-11-27T15:15:42+03:00",
+     "events": 4
+    },
+    {
      "title": "Пространство Нора",
      "username": "LoftNora",
      "kind": "folder",
-     "last_post": "2026-11-27T13:09:03+03:00",
-     "events": 3
+     "last_post": "2026-11-28T10:46:57+03:00",
+     "events": 4
     },
     {
      "title": "Уютное пространство",
@@ -13805,21 +13858,21 @@
      "title": "Потанцуем полежим ⚪️",
      "username": "mariamtanec",
      "kind": "folder",
-     "last_post": "2026-11-26T22:19:35+03:00",
+     "last_post": "2026-11-28T11:26:30+03:00",
      "events": 0
     },
     {
      "title": "РанДом Культуры — коммуны Москвы",
      "username": "random_culture",
      "kind": "extra",
-     "last_post": "2026-11-27T21:04:47+03:00",
+     "last_post": "2026-11-28T11:03:29+03:00",
      "events": 0
     },
     {
      "title": "Свингер клуб Bizarre, Ленинская Слобода 19к2",
      "username": "bizarreclubmsk",
      "kind": "folder",
-     "last_post": "2026-11-27T09:15:14+03:00",
+     "last_post": "2026-11-28T09:15:13+03:00",
      "events": 0
     },
     {
